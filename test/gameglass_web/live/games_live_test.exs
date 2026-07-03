@@ -102,4 +102,51 @@ defmodule GameglassWeb.GamesLiveTest do
     assert html =~ "streamable games"
     assert html =~ "2"
   end
+
+  test "baseline games show 'since launch' instead of a fake add date", %{conn: conn} do
+    {:ok, _view, html} = live(conn, ~p"/")
+    assert html =~ "since launch"
+  end
+
+  test "recently-added games show a New badge", %{conn: conn} do
+    seed_game(%{
+      xcloud_title_id: "ABYSSUS",
+      base_product_id: "ABYSSUSID",
+      title: "Abyssus",
+      publisher: "The Arcade Crew",
+      added_at: DateTime.utc_now() |> DateTime.truncate(:second),
+      tiers: %{"ultimate" => "included"}
+    })
+
+    {:ok, _view, html} = live(conn, ~p"/?recently_added=true")
+
+    assert html =~ "The Arcade Crew"
+    assert html =~ "New"
+    refute html =~ "Finji"
+  end
+
+  test "'Show removed' toggle lists removed games with a removal date", %{conn: conn} do
+    seed_game(%{
+      xcloud_title_id: "SOJOURNER",
+      base_product_id: "SOJOURNERID",
+      title: "Signs of the Sojourner",
+      publisher: "Echodog Games",
+      streamable: false,
+      removed_at: DateTime.utc_now() |> DateTime.truncate(:second),
+      tiers: %{"ultimate" => "included"}
+    })
+
+    # Default view hides removed games.
+    {:ok, view, html} = live(conn, ~p"/")
+    refute html =~ "Echodog Games"
+
+    # Removed view shows them.
+    {:ok, _view, removed_html} = live(conn, ~p"/?removed=true")
+    assert removed_html =~ "Echodog Games"
+    assert removed_html =~ "Removed"
+    refute removed_html =~ "Finji"
+
+    # The toggle button advertises the removed count.
+    assert render(view) =~ "Show removed (1)"
+  end
 end

@@ -7,10 +7,14 @@ defmodule Gameglass.Catalog do
   import Ecto.Query
 
   alias Gameglass.Repo
-  alias Gameglass.Catalog.{Game, TierStatus, Product, Entitlement, ChangeEvent, Tiers}
+  alias Gameglass.Catalog.{Game, TierStatus, Product, Entitlement, ChangeEvent, Run, Tiers}
 
   @default_per_page 50
   @stream_statuses ~w(free included purchase)
+  @recent_days 7
+
+  @doc "Number of days a game is considered newly added / recently changed."
+  def recent_days, do: @recent_days
 
   @doc "Tier configuration (for column headers etc.)."
   def tiers, do: Tiers.all()
@@ -25,28 +29,31 @@ defmodule Gameglass.Catalog do
     * `:streamable_on`     - tier key; keep games streamable (included/purchase/free) on it
     * `:purchase_on`       - tier key; keep games that require purchase on it
     * `:f2p_only`          - boolean; only free-to-play titles
-    * `:recently_changed`  - boolean; only games changed in the last 14 days, newest first
-    * `:include_unstreamable` - boolean; include games no longer in the cloud catalog
-    * `:sort`              - `:recent` (default) | `:title` | `:price`
+    * `:recently_changed`  - boolean; only games changed in the last #{@recent_days} days
+    * `:recently_added`    - boolean; only games added in the last #{@recent_days} days
+    * `:removed_only`      - boolean; only games that have left the cloud catalog
+    * `:sort`              - `:recent` (default) | `:title` | `:price` | `:added` | `:removed`
   """
   def list_games(opts \\ []) do
     page = max(opts[:page] || 1, 1)
     per_page = opts[:per_page] || @default_per_page
+    removed_only = opts[:removed_only] || false
 
     query =
       from(g in Game, as: :game)
-      |> filter_streamable(opts)
+      |> filter_presence(removed_only)
       |> filter_search(opts[:search])
       |> filter_f2p(opts[:f2p_only])
       |> filter_tier(:streamable_on, opts[:streamable_on], @stream_statuses)
       |> filter_tier(:purchase_on, opts[:purchase_on], ["purchase"])
       |> filter_recently_changed(opts[:recently_changed])
+      |> filter_recently_added(opts[:recently_added])
 
     total = Repo.aggregate(query, :count, :id)
 
     games =
       query
-      |> order_games(opts[:sort], opts[:recently_changed])
+      |> order_games(sort_for(opts, removed_only))
       |> limit(^per_page)
       |> offset(^((page - 1) * per_page))
       |> preload(:tier_statuses)
@@ -61,13 +68,8 @@ defmodule Gameglass.Catalog do
     }
   end
 
-  defp filter_streamable(query, opts) do
-    if opts[:include_unstreamable] do
-      query
-    else
-      where(query, [g], g.streamable == true)
-    end
-  end
+  defp filter_presence(query, true), do: where(query, [g], g.streamable == false)
+  defp filter_presence(query, _), do: where(query, [g], g.streamable == true)
 
   defp filter_search(query, nil), do: query
   defp filter_search(query, ""), do: query
@@ -94,26 +96,66 @@ defmodule Gameglass.Catalog do
   end
 
   defp filter_recently_changed(query, true) do
-    since = DateTime.utc_now() |> DateTime.add(-14, :day)
+    since = DateTime.utc_now() |> DateTime.add(-@recent_days, :day)
     where(query, [g], g.last_changed_at >= ^since)
   end
 
   defp filter_recently_changed(query, _), do: query
 
-  defp order_games(query, _sort, true), do: order_by(query, [g], desc: g.last_changed_at)
-  defp order_games(query, :title, _), do: order_by(query, [g], asc: g.title)
+  defp filter_recently_added(query, true) do
+    since = DateTime.utc_now() |> DateTime.add(-@recent_days, :day)
+    where(query, [g], not is_nil(g.added_at) and g.added_at >= ^since)
+  end
 
-  defp order_games(query, :price, _),
+  defp filter_recently_added(query, _), do: query
+
+  # Default sort depends on the view: removed games by removal date, others by
+  # most-recently added (genuine adds first), then alphabetical.
+  defp sort_for(opts, removed_only) do
+    cond do
+      opts[:sort] -> opts[:sort]
+      removed_only -> :removed
+      opts[:recently_changed] -> :changed
+      opts[:recently_added] -> :added
+      true -> :recent
+    end
+  end
+
+  defp order_games(query, :title), do: order_by(query, [g], asc: g.title)
+
+  defp order_games(query, :price),
     do: order_by(query, [g], asc_nulls_last: g.price_value, asc: g.title)
 
-  defp order_games(query, _default, _),
-    do: order_by(query, [g], desc: g.first_seen_at, asc: g.title)
+  defp order_games(query, :changed), do: order_by(query, [g], desc: g.last_changed_at)
+  defp order_games(query, :removed), do: order_by(query, [g], desc: g.removed_at, asc: g.title)
 
-  @spec recent_changes() :: any()
+  defp order_games(query, :added),
+    do: order_by(query, [g], desc_nulls_last: g.added_at, asc: g.title)
+
+  defp order_games(query, _recent),
+    do: order_by(query, [g], desc_nulls_last: g.added_at, desc: g.first_seen_at, asc: g.title)
+
   @doc "Most recent change events, newest first."
   def recent_changes(limit \\ 50) do
     ChangeEvent
     |> order_by([e], desc: e.occurred_at, desc: e.id)
+    |> limit(^limit)
+    |> Repo.all()
+  end
+
+  @doc "The most recent finished ingestion run, or nil."
+  def last_run do
+    Run
+    |> where([r], r.status in ["success", "failed"])
+    |> order_by([r], desc: r.finished_at, desc: r.id)
+    |> limit(1)
+    |> Repo.one()
+  end
+
+  @doc "Recent ingestion runs, newest first."
+  def recent_runs(limit \\ 20) do
+    Run
+    |> order_by([r], desc: r.id)
     |> limit(^limit)
     |> Repo.all()
   end
@@ -123,7 +165,9 @@ defmodule Gameglass.Catalog do
     %{
       games: Repo.aggregate(from(g in Game, where: g.streamable), :count, :id),
       free: Repo.aggregate(from(g in Game, where: g.is_free and g.streamable), :count, :id),
-      last_verified: Repo.one(from(g in Game, select: max(g.last_verified_at)))
+      removed: Repo.aggregate(from(g in Game, where: not is_nil(g.removed_at)), :count, :id),
+      last_verified: Repo.one(from(g in Game, select: max(g.last_verified_at))),
+      last_run: last_run()
     }
   end
 

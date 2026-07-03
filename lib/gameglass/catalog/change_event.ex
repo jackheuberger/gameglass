@@ -26,6 +26,7 @@ defmodule Gameglass.Catalog.ChangeEvent do
     field :occurred_at, :utc_datetime
 
     belongs_to :game, Gameglass.Catalog.Game
+    belongs_to :run, Gameglass.Catalog.Run
 
     timestamps(type: :utc_datetime)
   end
@@ -38,6 +39,7 @@ defmodule Gameglass.Catalog.ChangeEvent do
       :kind,
       :xcloud_title_id,
       :game_id,
+      :run_id,
       :tier_key,
       :old_value,
       :new_value,

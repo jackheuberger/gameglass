@@ -40,7 +40,8 @@ defmodule GameglassWeb.GamesLive do
         purchase_on: blank_nil(filters.purchase_on),
         f2p_only: filters.f2p_only,
         recently_changed: filters.recently_changed,
-        sort: sort_for(filters)
+        recently_added: filters.recently_added,
+        removed_only: filters.removed
       )
 
     {:noreply,
@@ -67,6 +68,15 @@ defmodule GameglassWeb.GamesLive do
   def handle_event("paginate", %{"page" => page}, socket) do
     params = filters_to_params(socket.assigns.filters)
     {:noreply, push_patch(socket, to: ~p"/?#{query_params(params, page)}")}
+  end
+
+  def handle_event("toggle_removed", _params, socket) do
+    params =
+      socket.assigns.filters
+      |> filters_to_params()
+      |> Map.put("removed", to_string(not socket.assigns.filters.removed))
+
+    {:noreply, push_patch(socket, to: ~p"/?#{query_params(params, 1)}")}
   end
 
   def handle_event("refresh", _params, socket) do
@@ -116,7 +126,9 @@ defmodule GameglassWeb.GamesLive do
       streamable_on: Map.get(params, "streamable_on", ""),
       purchase_on: Map.get(params, "purchase_on", ""),
       f2p_only: truthy?(Map.get(params, "f2p_only")),
-      recently_changed: truthy?(Map.get(params, "recently_changed"))
+      recently_changed: truthy?(Map.get(params, "recently_changed")),
+      recently_added: truthy?(Map.get(params, "recently_added")),
+      removed: truthy?(Map.get(params, "removed"))
     }
   end
 
@@ -126,9 +138,6 @@ defmodule GameglassWeb.GamesLive do
       _ -> 1
     end
   end
-
-  defp sort_for(%{recently_changed: true}), do: :recent
-  defp sort_for(_), do: :recent
 
   defp truthy?(v), do: v in ["true", "on", "1", true]
   defp blank_nil(""), do: nil
@@ -140,14 +149,18 @@ defmodule GameglassWeb.GamesLive do
       "streamable_on" => filters.streamable_on,
       "purchase_on" => filters.purchase_on,
       "f2p_only" => to_string(filters.f2p_only),
-      "recently_changed" => to_string(filters.recently_changed)
+      "recently_changed" => to_string(filters.recently_changed),
+      "recently_added" => to_string(filters.recently_added),
+      "removed" => to_string(filters.removed)
     }
   end
 
   # Build a compact query param map (drop empties) for shareable URLs.
   defp query_params(params, page) do
     params
-    |> Map.take(~w(search streamable_on purchase_on f2p_only recently_changed))
+    |> Map.take(
+      ~w(search streamable_on purchase_on f2p_only recently_changed recently_added removed)
+    )
     |> Map.put("page", to_string(page))
     |> Enum.reject(fn {_k, v} -> v in ["", "false", nil] end)
     |> Map.new()
@@ -233,6 +246,71 @@ defmodule GameglassWeb.GamesLive do
 
   defp active_filters?(filters) do
     filters.search != "" or filters.streamable_on != "" or filters.purchase_on != "" or
-      filters.f2p_only or filters.recently_changed
+      filters.f2p_only or filters.recently_changed or filters.recently_added
+  end
+
+  # --- date / transparency helpers -------------------------------------------
+
+  @doc false
+  def added_cell(assigns) do
+    ~H"""
+    <%= cond do %>
+      <% @game.added_at -> %>
+        <span class="inline-flex items-center gap-1.5">
+          <span :if={recent?(@game.added_at)} class="badge badge-success badge-sm gap-1 font-semibold">
+            <.icon name="hero-sparkles" class="size-3" /> New
+          </span>
+          <span class="text-xs text-base-content/60" title={iso(@game.added_at)}>
+            {humanize_dt(@game.added_at)}
+          </span>
+        </span>
+      <% true -> %>
+        <span
+          class="text-xs text-base-content/30"
+          title="Present since Gameglass began tracking; true add date unknown"
+        >
+          since launch
+        </span>
+    <% end %>
+    """
+  end
+
+  defp recent?(nil), do: false
+
+  defp recent?(dt) do
+    DateTime.diff(DateTime.utc_now(), dt, :day) <= Catalog.recent_days()
+  end
+
+  defp humanize_dt(nil), do: "—"
+
+  defp humanize_dt(dt) do
+    days = DateTime.diff(DateTime.utc_now(), dt, :day)
+
+    cond do
+      days <= 0 -> "today"
+      days == 1 -> "yesterday"
+      days < 30 -> "#{days}d ago"
+      true -> Calendar.strftime(dt, "%b %d, %Y")
+    end
+  end
+
+  defp iso(nil), do: nil
+  defp iso(dt), do: Calendar.strftime(dt, "%Y-%m-%d %H:%M UTC")
+
+  @doc false
+  def last_updated(assigns) do
+    ~H"""
+    <%= if @run do %>
+      Updated {humanize_dt(@run.finished_at)}
+      <span :if={(@run.added || 0) > 0} class="text-emerald-600 dark:text-emerald-400">
+        · +{@run.added} added
+      </span>
+      <span :if={(@run.removed || 0) > 0} class="text-rose-500">
+        · −{@run.removed} removed
+      </span>
+    <% else %>
+      Not yet refreshed
+    <% end %>
+    """
   end
 end

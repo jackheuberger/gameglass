@@ -27,6 +27,7 @@ defmodule Gameglass.Ingest do
     Mapper,
     Product,
     Entitlement,
+    Run,
     TierStatus,
     ChangeEvent
   }
@@ -36,13 +37,15 @@ defmodule Gameglass.Ingest do
   @doc """
   Runs a full refresh. Returns `{:ok, summary}` or `{:error, reason}`.
 
+  Each call is recorded as an `ingestion_runs` row (running → success/failed) for
+  transparency, and the first successful run acts as the baseline: games present
+  then keep `added_at = nil` ("tracked since launch"), while games first seen in
+  later runs get a genuine `added_at`.
+
   `summary` reports counts: `:enumerated`, `:from_sigl`, `:from_subscriptions`,
   `:enriched`, `:cloud_titles`, `:added`, `:removed`, `:changed`.
   """
   def refresh(opts \\ []) do
-    market = Keyword.get(opts, :market, "US")
-    started = System.monotonic_time(:millisecond)
-
     with {:ok, enumeration} <- Client.fetch_catalog_ids(opts),
          {:ok, raw} <- Client.fetch_products(enumeration.ids, opts) do
       records =
@@ -55,34 +58,81 @@ defmodule Gameglass.Ingest do
         end)
         |> dedupe_by_key()
 
-      present_ids = MapSet.new(enumeration.ids)
+      meta = %{
+        enumerated: length(enumeration.ids),
+        from_sigl: enumeration.sigl,
+        from_subscriptions: enumeration.subscriptions,
+        enriched: map_size(raw)
+      }
 
-      result =
+      ingest_records(records, MapSet.new(enumeration.ids), Keyword.put(opts, :meta, meta))
+    end
+  end
+
+  @doc """
+  Reconciles already-normalized records into the database within a recorded
+  ingestion run. This is the network-free core of `refresh/1`: it creates the
+  run row, applies the snapshot, and finalizes the run (success/failed).
+
+  `present_ids` is the set of product ids seen this crawl (used to detect
+  removals). `opts` may carry `:market` and a `:meta` map of enumeration counts.
+  """
+  def ingest_records(records, present_ids, opts \\ []) do
+    market = Keyword.get(opts, :market, "US")
+    meta = Keyword.get(opts, :meta, %{})
+    started = System.monotonic_time(:millisecond)
+    started_at = DateTime.utc_now() |> DateTime.truncate(:second)
+
+    baseline? = not Repo.exists?(from(r in Run, where: r.status == "success"))
+    run = Repo.insert!(Run.changeset(%Run{}, %{started_at: started_at, status: "running"}))
+
+    try do
+      {:ok, counts} =
         Repo.transaction(
-          fn -> reconcile(records, present_ids, market) end,
+          fn -> reconcile(records, present_ids, market, run.id, baseline?) end,
           timeout: :infinity
         )
 
-      case result do
-        {:ok, counts} ->
-          summary =
-            counts
-            |> Map.merge(%{
-              enumerated: length(enumeration.ids),
-              from_sigl: enumeration.sigl,
-              from_subscriptions: enumeration.subscriptions,
-              enriched: map_size(raw),
-              cloud_titles: length(records),
-              duration_ms: System.monotonic_time(:millisecond) - started
-            })
+      summary =
+        counts
+        |> Map.merge(meta)
+        |> Map.merge(%{
+          cloud_titles: length(records),
+          duration_ms: System.monotonic_time(:millisecond) - started
+        })
 
-          Logger.info("Gameglass ingest complete: #{inspect(summary)}")
-          {:ok, summary}
-
-        {:error, reason} ->
-          {:error, reason}
-      end
+      finalize_run(run, "success", summary, started, nil)
+      Logger.info("Gameglass ingest complete: #{inspect(summary)}")
+      {:ok, summary}
+    rescue
+      e ->
+        finalize_run(run, "failed", %{}, started, Exception.message(e))
+        reraise e, __STACKTRACE__
     end
+  end
+
+  defp finalize_run(run, status, summary, started_mono, error) do
+    attrs =
+      %{
+        status: status,
+        finished_at: DateTime.utc_now() |> DateTime.truncate(:second),
+        duration_ms: System.monotonic_time(:millisecond) - started_mono,
+        error: error && inspect(error) |> String.slice(0, 500)
+      }
+      |> Map.merge(
+        Map.take(summary, [
+          :enumerated,
+          :from_sigl,
+          :from_subscriptions,
+          :enriched,
+          :cloud_titles,
+          :added,
+          :removed,
+          :changed
+        ])
+      )
+
+    run |> Run.changeset(attrs) |> Repo.update!()
   end
 
   @doc """
@@ -127,19 +177,19 @@ defmodule Gameglass.Ingest do
     {-length(record.pass_ids), record.game.price_value || 1.0e12, record.game.base_product_id}
   end
 
-  defp reconcile(records, present_ids, market) do
+  defp reconcile(records, present_ids, market, run_id, baseline?) do
     now = DateTime.utc_now() |> DateTime.truncate(:second)
     existing = load_existing(market)
 
     events =
       Enum.flat_map(records, fn record ->
-        upsert_record(record, existing[record.game.dedup_key], now)
+        upsert_record(record, existing[record.game.dedup_key], now, baseline?)
       end)
 
     removal_events = mark_removed(existing, records, present_ids, now)
 
     all_events = events ++ removal_events
-    insert_events(all_events, now)
+    insert_events(all_events, now, run_id)
 
     %{
       added: count_kind(all_events, "game_added"),
@@ -147,7 +197,7 @@ defmodule Gameglass.Ingest do
       changed:
         Enum.count(
           all_events,
-          &(&1.kind in ~w(tier_status_changed price_changed streamable_changed))
+          &(&1.kind in ~w(tier_status_changed price_changed))
         )
     }
   end
@@ -162,10 +212,20 @@ defmodule Gameglass.Ingest do
 
   # --- insert path -----------------------------------------------------------
 
-  defp upsert_record(record, nil, now) do
+  defp upsert_record(record, nil, now, baseline?) do
+    # On the baseline run we don't know the true add date, so leave added_at nil
+    # ("tracked since launch"); genuine later additions get dated.
+    added_at = if baseline?, do: nil, else: now
+
     attrs =
       record.game
-      |> Map.merge(%{first_seen_at: now, last_verified_at: now, last_changed_at: now})
+      |> Map.merge(%{
+        first_seen_at: now,
+        last_verified_at: now,
+        last_changed_at: now,
+        added_at: added_at,
+        removed_at: nil
+      })
 
     game = Repo.insert!(Game.changeset(%Game{}, attrs))
 
@@ -187,39 +247,37 @@ defmodule Gameglass.Ingest do
 
   # --- update path -----------------------------------------------------------
 
-  defp upsert_record(record, %Game{} = existing, now) do
+  defp upsert_record(record, %Game{} = existing, now, _baseline?) do
     new = record.game
 
-    status_events =
-      tier_status_events(existing, record.tier_statuses, now)
+    status_events = tier_status_events(existing, record.tier_statuses, now)
 
     price_events =
       if existing.price_formatted != new.price_formatted do
-        [event("price_changed", existing, existing.price_formatted, new.price_formatted, now)]
+        [event("price_changed", existing, existing.price_formatted, new.price_formatted)]
       else
         []
       end
 
-    stream_events =
-      if existing.streamable != new.streamable do
-        [
-          event(
-            "streamable_changed",
-            existing,
-            to_string(existing.streamable),
-            to_string(new.streamable),
-            now
-          )
-        ]
-      else
-        []
+    # Streamability transitions drive added_at / removed_at and their own events.
+    {transition_events, date_attrs} =
+      cond do
+        not existing.streamable and new.streamable ->
+          {[event("game_added", existing, nil, nil)], %{added_at: now, removed_at: nil}}
+
+        existing.streamable and not new.streamable ->
+          {[event("game_removed", existing, nil, nil)], %{removed_at: now}}
+
+        true ->
+          {[], %{}}
       end
 
-    changed? = status_events != [] or price_events != [] or stream_events != []
+    changed? = status_events != [] or price_events != [] or transition_events != []
 
     attrs =
       new
       |> Map.put(:last_verified_at, now)
+      |> Map.merge(date_attrs)
       |> maybe_put_changed(changed?, now)
 
     existing
@@ -228,7 +286,7 @@ defmodule Gameglass.Ingest do
 
     upsert_product_link(record, existing, now)
 
-    status_events ++ price_events ++ stream_events
+    status_events ++ price_events ++ transition_events
   end
 
   defp maybe_put_changed(attrs, true, now), do: Map.put(attrs, :last_changed_at, now)
@@ -282,7 +340,9 @@ defmodule Gameglass.Ingest do
     end)
     |> Enum.map(fn g ->
       from(game in Game, where: game.id == ^g.id)
-      |> Repo.update_all(set: [streamable: false, last_changed_at: now, last_verified_at: now])
+      |> Repo.update_all(
+        set: [streamable: false, last_changed_at: now, last_verified_at: now, removed_at: now]
+      )
 
       %{
         kind: "game_removed",
@@ -325,7 +385,7 @@ defmodule Gameglass.Ingest do
 
   # --- change events ---------------------------------------------------------
 
-  defp event(kind, game, old, new, _now) do
+  defp event(kind, game, old, new) do
     %{
       kind: kind,
       game_id: game.id,
@@ -336,15 +396,16 @@ defmodule Gameglass.Ingest do
     }
   end
 
-  defp insert_events([], _now), do: :ok
+  defp insert_events([], _now, _run_id), do: :ok
 
-  defp insert_events(events, now) do
+  defp insert_events(events, now, run_id) do
     rows =
       Enum.map(events, fn e ->
         %{
           kind: e.kind,
           xcloud_title_id: Map.get(e, :xcloud_title_id),
           game_id: Map.get(e, :game_id),
+          run_id: run_id,
           tier_key: Map.get(e, :tier_key),
           old_value: Map.get(e, :old_value),
           new_value: Map.get(e, :new_value),

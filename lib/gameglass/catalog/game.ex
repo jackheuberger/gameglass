@@ -29,6 +29,8 @@ defmodule Gameglass.Catalog.Game do
     field :first_seen_at, :utc_datetime
     field :last_verified_at, :utc_datetime
     field :last_changed_at, :utc_datetime
+    field :added_at, :utc_datetime
+    field :removed_at, :utc_datetime
 
     has_many :tier_statuses, Gameglass.Catalog.TierStatus
     has_many :entitlements, Gameglass.Catalog.Entitlement
@@ -54,7 +56,9 @@ defmodule Gameglass.Catalog.Game do
     :programs,
     :first_seen_at,
     :last_verified_at,
-    :last_changed_at
+    :last_changed_at,
+    :added_at,
+    :removed_at
   ]
 
   def changeset(game, attrs) do

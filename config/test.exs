@@ -8,7 +8,10 @@ import Config
 config :gameglass, Gameglass.Repo,
   database: Path.expand("../gameglass_test#{System.get_env("MIX_TEST_PARTITION")}.db", __DIR__),
   pool: Ecto.Adapters.SQL.Sandbox,
-  pool_size: System.schedulers_online() * 2
+  pool_size: System.schedulers_online() * 2,
+  # SQLite allows a single writer; wait for the lock instead of erroring with
+  # "Database busy" when async tests contend.
+  busy_timeout: 5_000
 
 # We don't run a server during test. If one is required,
 # you can enable the server option below.
