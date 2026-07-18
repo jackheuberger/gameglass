@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gameglass · Xbox Cloud Gaming streamability</title>
+  <meta
+    name="description"
+    content="Every cloud-streamable Xbox title and which Game Pass tier can stream it — included, purchase-required, or unavailable. Built entirely from public catalog data."
+  />
+  <link rel="stylesheet" href="app.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <div>
+        <h1>Xbox Cloud Gaming streamability</h1>
+        <p class="sub">
+          Every cloud-streamable title and which Game Pass tier can stream it —
+          included with a subscription, or purchase-required. An external source of
+          truth, built entirely from public catalog data.
+        </p>
+        <p class="updated" id="updated">Loading…</p>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <div class="stat-value" id="stat-games">–</div>
+          <div class="stat-label">streamable games</div>
+        </div>
+      </div>
+    </header>
+
+    <form class="filters" id="filters">
+      <label class="field grow">
+        <span>Search</span>
+        <input type="search" id="f-search" placeholder="Search by title…" autocomplete="off" />
+      </label>
+      <label class="field">
+        <span>Streamable on</span>
+        <select id="f-streamable"><option value="">Any tier</option></select>
+      </label>
+      <label class="field">
+        <span>Purchase-required on</span>
+        <select id="f-purchase"><option value="">Any tier</option></select>
+      </label>
+      <div class="checks">
+        <label><input type="checkbox" id="f-f2p" /> Free-to-play only</label>
+        <label><input type="checkbox" id="f-added" /> Recently added</label>
+        <label><input type="checkbox" id="f-changed" /> Recently changed</label>
+      </div>
+    </form>
+
+    <div class="toolbar">
+      <div class="legend" id="legend"></div>
+      <div class="toolbar-right">
+        <span id="result-count"></span>
+        <button type="button" class="chip" id="toggle-removed"></button>
+        <button type="button" class="link-btn hidden" id="clear-filters">Clear filters</button>
+      </div>
+    </div>
+
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr id="head-row"></tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+
+    <nav class="pager hidden" id="pager">
+      <span id="page-label"></span>
+      <div>
+        <button type="button" id="prev">‹ Prev</button>
+        <button type="button" id="next">Next ›</button>
+      </div>
+    </nav>
+
+    <footer class="foot">
+      Data sourced anonymously from public Xbox catalog endpoints. US market.
+      Snapshots, change log and scan history are committed to
+      <a href="https://github.com/jackheuberger/gameglass">git</a> —
+      the full audit trail is <code>git log -p data/games.json</code>.
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

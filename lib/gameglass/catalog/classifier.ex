@@ -3,70 +3,72 @@ defmodule Gameglass.Catalog.Classifier do
   Pure logic that derives the per-tier streamability matrix for a game from the
   two signals exposed by the anonymous catalog API:
 
-    * `programs`        - `XCloudOfferings.CLOUDGAMING.Programs`, the xCloud
-                          programs that allow a tier to stream *with an
-                          entitlement* (EUROPA→Essential, DIA→Premium,
-                          CALLISTO→Ultimate).
-    * `pass_product_ids`- the keys of `PassMetadataByPassProductId`, the Game
-                          Pass SKUs that *include* the game for free.
+    * `program_codes` - `XCloudOfferings.CLOUDGAMING.Programs`, the xCloud
+      programs that allow a tier to stream *with an entitlement*
+      (TRITON→Starter, EUROPA→Essential, DIA→Premium, CALLISTO→Ultimate).
+    * `subscription_product_ids` - the keys of `PassMetadataByPassProductId`,
+      the Game Pass SKUs that *include* the game for free.
 
   Neither signal alone is sufficient: Tunic (Essential-included) and Cyberpunk
-  (Essential-purchase) carry identical `programs`; the difference is whether the
-  Essential SKU appears in pass metadata.
+  (Essential-purchase) carry identical program codes; the difference is
+  whether the Essential SKU appears in pass metadata.
   """
 
   alias Gameglass.Catalog.Tiers
+  alias Gameglass.Catalog.Types.Tier
 
   @free_program "F2P"
 
   @doc """
-  Returns a list of `%{tier_key, status}` maps, one per configured tier.
+  Returns a map from each configured tier key to its status.
 
   Options:
 
     * `:free?` - force the free-to-play result for every tier (e.g. when the
       product is flagged `isFreeInStore`). Defaults to `false`.
   """
-  def classify(programs, pass_product_ids, opts \\ []) do
-    programs = MapSet.new(programs || [])
-    pass = MapSet.new(pass_product_ids || [])
-    free? = Keyword.get(opts, :free?, false) or MapSet.member?(programs, @free_program)
+  @spec classify(
+          [Tier.program_code()],
+          [Tier.subscription_product_id()],
+          free?: boolean()
+        ) :: Tier.statuses()
+  def classify(program_codes, subscription_product_ids, opts \\ []) do
+    program_codes = MapSet.new(program_codes)
+    subscription_product_ids = MapSet.new(subscription_product_ids)
 
-    Enum.map(Tiers.all(), fn tier ->
-      %{tier_key: tier.key, status: status_for(tier, programs, pass, free?)}
+    free? =
+      Keyword.get(opts, :free?, false) or MapSet.member?(program_codes, @free_program)
+
+    Map.new(Tiers.all(), fn tier ->
+      {tier.key, status_for(tier, program_codes, subscription_product_ids, free?)}
     end)
   end
 
   @doc "Returns true if any tier can stream the game (free, included, or purchasable)."
-  def streamable?(tier_statuses) do
-    Enum.any?(tier_statuses, fn %{status: s} -> s in ~w(free included purchase) end)
+  @spec streamable?(Tier.statuses()) :: boolean()
+  def streamable?(statuses) do
+    Enum.any?(statuses, fn {_tier, status} -> status in ~w(free included purchase)a end)
   end
 
-  defp status_for(tier, programs, pass, free?) do
+  @spec status_for(
+          Tier.t(),
+          MapSet.t(Tier.program_code()),
+          MapSet.t(Tier.subscription_product_id()),
+          boolean()
+        ) ::
+          Tier.status()
+  defp status_for(tier, program_codes, subscription_product_ids, free?) do
     cond do
-      free? ->
-        "free"
-
-      included?(tier, pass) ->
-        "included"
-
-      # Without a known program code (Starter) we cannot tell whether a
-      # non-included game is purchasable, so report it as unknown.
-      is_nil(tier.program_code) ->
-        "unknown"
-
-      MapSet.member?(programs, tier.program_code) ->
-        "purchase"
-
-      true ->
-        "unavailable"
+      free? -> :free
+      included?(tier, subscription_product_ids) -> :included
+      MapSet.member?(program_codes, tier.program_code) -> :purchase
+      true -> :unavailable
     end
   end
 
-  defp included?(tier, pass) do
-    tier.included_pass_ids
-    |> MapSet.new()
-    |> MapSet.intersection(pass)
-    |> MapSet.size() > 0
+  @spec included?(Tier.t(), MapSet.t(Tier.subscription_product_id())) :: boolean()
+  defp included?(tier, subscription_product_ids) do
+    included_ids = MapSet.new(tier.included_subscription_product_ids)
+    not MapSet.disjoint?(included_ids, subscription_product_ids)
   end
 end

@@ -6,19 +6,29 @@ defmodule Gameglass.Catalog.Links do
   The product id (BigId) is what resolves each page; the title slug is cosmetic.
   """
 
+  @type product_id :: String.t()
+
   @doc "Xbox Store product page."
+  @spec store(product_id(), String.t() | nil) :: String.t()
   def store(product_id, title \\ nil),
     do: "https://www.xbox.com/games/store/#{slug(title)}/#{product_id}"
 
   @doc "Legacy cloud gaming client product page (www.xbox.com/play)."
+  @spec play_legacy(product_id(), String.t() | nil) :: String.t()
   def play_legacy(product_id, title \\ nil),
     do: "https://www.xbox.com/play/games/#{slug(title)}/#{product_id}"
 
   @doc "New cloud gaming client product page (play.xbox.com)."
+  @spec play_new(product_id(), String.t() | nil) :: String.t()
   def play_new(product_id, title \\ nil),
     do: "https://play.xbox.com/products/#{product_id}/#{slug(title)}"
 
   @doc "All three links as a map."
+  @spec all(product_id(), String.t() | nil) :: %{
+          store: String.t(),
+          play_legacy: String.t(),
+          play_new: String.t()
+        }
   def all(product_id, title \\ nil) do
     %{
       store: store(product_id, title),
@@ -28,6 +38,7 @@ defmodule Gameglass.Catalog.Links do
   end
 
   @doc "URL-safe slug from a title, e.g. \"EA SPORTS FC™ 25\" -> \"ea-sports-fc-25\"."
+  @spec slug(String.t() | nil) :: String.t()
   def slug(nil), do: "_"
   def slug(""), do: "_"
 

@@ -1,0 +1,444 @@
+:root {
+  --bg: #fafafa;
+  --panel: #ffffff;
+  --border: #e5e5e5;
+  --text: #1c1c1e;
+  --muted: #71717a;
+  --faint: #a1a1aa;
+  --accent: #16a34a;
+  --included-bg: rgba(16, 185, 129, 0.14);
+  --included-fg: #059669;
+  --purchase-bg: rgba(245, 158, 11, 0.16);
+  --purchase-fg: #b45309;
+  --free-bg: rgba(14, 165, 233, 0.15);
+  --free-fg: #0284c7;
+  --unavailable-bg: rgba(244, 63, 94, 0.1);
+  --unavailable-fg: rgba(225, 29, 72, 0.75);
+  --new-bg: #16a34a;
+  --removed-fg: #e11d48;
+  --hover: rgba(0, 0, 0, 0.03);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111113;
+    --panel: #1a1a1d;
+    --border: #2a2a2e;
+    --text: #ededf0;
+    --muted: #9d9da6;
+    --faint: #6b6b74;
+    --included-fg: #34d399;
+    --purchase-fg: #fbbf24;
+    --free-fg: #38bdf8;
+    --unavailable-fg: rgba(251, 113, 133, 0.8);
+    --hover: rgba(255, 255, 255, 0.04);
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.wrap {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+a {
+  color: inherit;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* --- header ---------------------------------------------------------- */
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: 1.7rem;
+  letter-spacing: -0.02em;
+}
+
+.sub {
+  margin: 0.35rem 0 0;
+  max-width: 42rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.updated {
+  margin: 0.6rem 0 0;
+  font-size: 0.75rem;
+  color: var(--faint);
+}
+
+.updated .added-count {
+  color: var(--included-fg);
+}
+
+.updated .removed-count {
+  color: var(--removed-fg);
+}
+
+.updated .scan-failed {
+  color: var(--removed-fg);
+  font-weight: 600;
+}
+
+.stat {
+  text-align: right;
+}
+
+.stat-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.stat-label {
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
+/* --- filters ---------------------------------------------------------- */
+
+.filters {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr auto;
+  gap: 0.75rem;
+  padding: 1rem;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+}
+
+@media (max-width: 44rem) {
+  .filters {
+    grid-template-columns: 1fr;
+  }
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.field input,
+.field select {
+  font: inherit;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  padding: 0.45rem 0.6rem;
+  font-size: 0.85rem;
+}
+
+.checks {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 0.35rem;
+  font-size: 0.82rem;
+  white-space: nowrap;
+}
+
+.checks label {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  cursor: pointer;
+}
+
+/* --- toolbar / legend -------------------------------------------------- */
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.75rem;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.toolbar-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--muted);
+}
+
+.chip {
+  font: inherit;
+  border: 0;
+  cursor: pointer;
+  border-radius: 0.4rem;
+  padding: 0.3rem 0.55rem;
+  font-weight: 500;
+  color: var(--muted);
+  background: transparent;
+}
+
+.chip:hover {
+  background: var(--hover);
+}
+
+.chip.active {
+  background: var(--unavailable-bg);
+  color: var(--removed-fg);
+}
+
+.link-btn {
+  font: inherit;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  color: var(--muted);
+  text-decoration: underline;
+}
+
+/* --- badges ------------------------------------------------------------ */
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  border-radius: 0.4rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.badge.included {
+  background: var(--included-bg);
+  color: var(--included-fg);
+}
+
+.badge.purchase {
+  background: var(--purchase-bg);
+  color: var(--purchase-fg);
+}
+
+.badge.free {
+  background: var(--free-bg);
+  color: var(--free-fg);
+}
+
+.badge.unavailable {
+  background: var(--unavailable-bg);
+  color: var(--unavailable-fg);
+}
+
+@media (max-width: 44rem) {
+  td .badge .badge-label {
+    display: none;
+  }
+}
+
+.badge-new {
+  background: var(--new-bg);
+  color: #fff;
+  border-radius: 0.4rem;
+  padding: 0.1rem 0.4rem;
+  font-size: 0.68rem;
+  font-weight: 600;
+  margin-right: 0.4rem;
+}
+
+/* --- table -------------------------------------------------------------- */
+
+.table-scroll {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  background: var(--panel);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+thead th {
+  text-align: center;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+  background: var(--hover);
+}
+
+thead th:first-child {
+  text-align: left;
+}
+
+thead th.num {
+  text-align: right;
+}
+
+tbody td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+}
+
+tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+tbody tr:hover {
+  background: var(--hover);
+}
+
+tbody tr.removed-row {
+  opacity: 0.65;
+}
+
+tbody tr.removed-row img {
+  filter: grayscale(1);
+}
+
+td.game-cell {
+  text-align: left;
+}
+
+.game-info {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  min-width: 14rem;
+}
+
+.game-info img {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 0.4rem;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.game-title {
+  font-weight: 500;
+  max-width: 18rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.game-pub {
+  font-size: 0.72rem;
+  color: var(--muted);
+  max-width: 18rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+td.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.date-cell {
+  font-size: 0.72rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.date-cell.baseline {
+  color: var(--faint);
+}
+
+.date-cell.removed {
+  color: var(--removed-fg);
+}
+
+.links-cell a {
+  display: inline-block;
+  padding: 0.25rem 0.35rem;
+  border-radius: 0.35rem;
+  text-decoration: none;
+  color: var(--faint);
+  font-size: 0.8rem;
+}
+
+.links-cell a:hover {
+  background: var(--hover);
+  color: var(--text);
+}
+
+.empty {
+  padding: 3rem 1rem;
+  text-align: center;
+  color: var(--muted);
+}
+
+/* --- pager / footer ------------------------------------------------------ */
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.pager button {
+  font: inherit;
+  background: none;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  padding: 0.35rem 0.8rem;
+  cursor: pointer;
+}
+
+.pager button:hover:not(:disabled) {
+  background: var(--hover);
+}
+
+.pager button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.foot {
+  text-align: center;
+  font-size: 0.72rem;
+  color: var(--faint);
+}

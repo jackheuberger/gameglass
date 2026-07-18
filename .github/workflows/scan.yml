@@ -1,0 +1,82 @@
+# Scheduled scan of the public Xbox catalog + static site deploy.
+#
+# - schedule / workflow_dispatch: scan, commit data/ if changed, build, deploy
+# - push to main: rebuild + deploy from the committed data (no scan)
+#
+# The bot commit of data/*.json(l) is the audit trail: every catalog change
+# Gameglass ever observed is a diff in this repository's history.
+name: Scan and deploy
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: scan-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: erlef/setup-beam@v1
+        with:
+          otp-version: "27"
+          elixir-version: "1.17"
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            deps
+            _build
+          key: mix-${{ runner.os }}-${{ hashFiles('mix.lock') }}
+          restore-keys: mix-${{ runner.os }}-
+
+      - run: mix deps.get
+      - run: mix precommit
+
+      - name: Scan the catalog
+        if: github.event_name != 'push'
+        run: mix gameglass.scan
+
+      - name: Commit updated data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "gameglass-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "scan: $(date -u +%FT%TZ)"
+          git push
+
+      - name: Build the site
+        run: mix gameglass.build_site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: scan
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

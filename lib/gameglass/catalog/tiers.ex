@@ -7,23 +7,22 @@ defmodule Gameglass.Catalog.Tiers do
 
   Each tier carries:
 
-    * `key`            - stable identifier used in the DB and API
-    * `name`           - human-readable label
-    * `rank`           - display/order and hierarchy (low to high)
-    * `program_code`   - the xCloud program that lets this tier stream a game
-                         *with an entitlement* (`nil` when not publicly known)
-    * `pass_product_id`- this tier's own Game Pass SKU (BigId), if any
-    * `included_pass_ids` - the set of Game Pass SKUs whose presence in a game's
-                         `PassMetadataByPassProductId` means this tier includes
-                         the game for free. This encodes the tier hierarchy
-                         (e.g. Premium ⊃ Essential) and bundled subscriptions
-                         (Ultimate bundles EA Play).
+    * `key` - stable identifier used in snapshots and the API
+    * `name` - human-readable label
+    * `program_code` - the xCloud program that lets this tier stream a game
+      *with an entitlement*
+    * `included_subscription_product_ids` - the Game Pass SKUs whose presence
+      in a game's `PassMetadataByPassProductId` means this tier includes the
+      game. This encodes the tier hierarchy (e.g. Premium ⊃ Essential) and
+      bundled subscriptions (Ultimate bundles EA Play).
 
   Pass SKU reference (verified via displaycatalog):
     Essential CFQ7TTC0K5DJ, Premium CFQ7TTC0P85B, Ultimate CFQ7TTC0KHS0,
     Starter CFQ7TTC10QFD, EA Play CFQ7TTC0K5DH,
     Console GP CFQ7TTC0K6L8, PC GP CFQ7TTC0KGQ8 (Console/PC do not stream).
   """
+
+  alias Gameglass.Catalog.Types.Tier
 
   @starter "CFQ7TTC10QFD"
   @essential "CFQ7TTC0K5DJ"
@@ -32,46 +31,33 @@ defmodule Gameglass.Catalog.Tiers do
   @ea_play "CFQ7TTC0K5DH"
 
   @tiers [
-    %{
+    %Tier{
       key: "starter",
       name: "Game Pass Starter",
-      rank: 1,
-      program_code: nil,
-      pass_product_id: @starter,
-      included_pass_ids: [@starter]
+      program_code: "TRITON",
+      included_subscription_product_ids: [@starter]
     },
-    %{
+    %Tier{
       key: "essential",
       name: "Game Pass Essential",
-      rank: 2,
       program_code: "EUROPA",
-      pass_product_id: @essential,
-      included_pass_ids: [@essential, @starter]
+      included_subscription_product_ids: [@essential, @starter]
     },
-    %{
+    %Tier{
       key: "premium",
       name: "Game Pass Premium",
-      rank: 3,
       program_code: "DIA",
-      pass_product_id: @premium,
-      included_pass_ids: [@premium, @essential, @starter]
+      included_subscription_product_ids: [@premium, @essential, @starter]
     },
-    %{
+    %Tier{
       key: "ultimate",
       name: "Game Pass Ultimate",
-      rank: 4,
       program_code: "CALLISTO",
-      pass_product_id: @ultimate,
-      included_pass_ids: [@ultimate, @premium, @essential, @starter, @ea_play]
+      included_subscription_product_ids: [@ultimate, @premium, @essential, @starter, @ea_play]
     }
   ]
 
-  @doc "All tiers, ordered low to high rank."
+  @doc "All tiers, ordered from the lowest to highest access level."
+  @spec all() :: [Tier.t()]
   def all, do: @tiers
-
-  @doc "Tier keys, ordered low to high rank."
-  def keys, do: Enum.map(@tiers, & &1.key)
-
-  @doc "Fetch a tier config by key."
-  def get(key), do: Enum.find(@tiers, &(&1.key == key))
 end

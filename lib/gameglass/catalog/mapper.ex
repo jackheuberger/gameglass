@@ -1,62 +1,51 @@
 defmodule Gameglass.Catalog.Mapper do
   @moduledoc """
-  Translates a raw `v3/products` (Sapphire hydration) product map into the
-  normalized attributes Gameglass persists, plus the classification inputs.
+  Translates a `RawProduct` from the Xbox catalog into the normalized
+  attributes Gameglass persists, plus the classification inputs.
   """
 
   alias Gameglass.Catalog.Classifier
+  alias Gameglass.Catalog.Types.{RawProduct, ScannedGame}
 
   @doc """
-  Builds a normalized record from a raw product map.
+  Builds a normalized scanned game from a typed raw product.
 
-  Returns `%{game: attrs, tier_statuses: [...], programs: [...], pass_ids: [...]}`
-  or `nil` when the product is not a streamable cloud title (no `CLOUDGAMING`
-  offering, e.g. an edition or bundle wrapper).
+  Returns a `ScannedGame.t()`, or `nil` when the product is not a streamable cloud
+  title (no `CLOUDGAMING` offering, e.g. an edition or bundle wrapper).
   """
-  def normalize(product_id, raw) when is_map(raw) do
-    cloud = get_in(raw, ["XCloudOfferings", "CLOUDGAMING"])
+  @spec normalize(RawProduct.t(), keyword()) :: ScannedGame.t() | nil
+  def normalize(raw, opts \\ [])
 
-    if is_nil(cloud) do
-      nil
-    else
-      programs = cloud["Programs"] || []
-      pass_ids = Map.keys(raw["PassMetadataByPassProductId"] || %{})
-      xcloud_title_id = blank_to_nil(raw["XCloudTitleId"])
-      is_free = "F2P" in programs
-      tier_statuses = Classifier.classify(programs, pass_ids, free?: is_free)
+  def normalize(%RawProduct{cloud_gaming?: false}, _opts), do: nil
 
-      price = raw["AnonymousPrice"]["MSRP"] || %{}
+  def normalize(%RawProduct{} = raw, opts) do
+    xcloud_title_id = blank_to_nil(raw.xcloud_title_id)
+    free? = "F2P" in raw.programs
+    tiers = Classifier.classify(raw.programs, raw.subscription_product_ids, free?: free?)
 
-      game = %{
-        dedup_key: xcloud_title_id || product_id,
-        xcloud_title_id: xcloud_title_id,
-        market: "US",
-        title: raw["ProductTitle"],
-        publisher: raw["PublisherName"],
-        developer: raw["DeveloperName"],
-        base_product_id: product_id,
-        xbox_title_id: parse_int(raw["XboxTitleId"]),
-        image_url: normalize_image(raw),
-        streamable: Classifier.streamable?(tier_statuses),
-        is_free: is_free,
-        price_value: price["value"],
-        price_formatted: price["formattedValue"],
-        price_currency: price["currencyCode"],
-        programs: programs
-      }
-
-      %{game: game, tier_statuses: tier_statuses, programs: programs, pass_ids: pass_ids}
-    end
+    %ScannedGame{
+      id: xcloud_title_id || raw.product_id,
+      xcloud_title_id: xcloud_title_id,
+      market: Keyword.get(opts, :market, "US"),
+      title: raw.title,
+      publisher: raw.publisher,
+      developer: raw.developer,
+      base_product_id: raw.product_id,
+      xbox_title_id: parse_int(raw.xbox_title_id),
+      image_url: normalize_image(raw.image_url),
+      streamable: Classifier.streamable?(tiers),
+      is_free: free?,
+      price_value: raw.price_value,
+      price_formatted: raw.price_formatted,
+      price_currency: raw.price_currency,
+      programs: raw.programs,
+      tiers: tiers,
+      subscription_product_ids: raw.subscription_product_ids
+    }
   end
 
-  def normalize(_product_id, _), do: nil
-
-  defp normalize_image(raw) do
-    case get_in(raw, ["Image_Tile", "URL"]) || get_in(raw, ["Image_Poster", "URL"]) do
-      "//" <> _ = url -> "https:" <> url
-      url -> url
-    end
-  end
+  defp normalize_image("//" <> _ = url), do: "https:" <> url
+  defp normalize_image(url), do: url
 
   defp parse_int(nil), do: nil
   defp parse_int(n) when is_integer(n), do: n
