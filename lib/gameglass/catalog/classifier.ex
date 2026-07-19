@@ -1,7 +1,7 @@
 defmodule Gameglass.Catalog.Classifier do
   @moduledoc """
-  Pure logic that derives the per-tier streamability matrix for a game from the
-  two signals exposed by the anonymous catalog API:
+  Derives the streamability matrix for a game from the signals exposed by the
+  catalog API:
 
     * `program_codes` - `XCloudOfferings.CLOUDGAMING.Programs`, the xCloud
       programs that allow a tier to stream *with an entitlement*
@@ -11,7 +11,7 @@ defmodule Gameglass.Catalog.Classifier do
 
   Neither signal alone is sufficient: Tunic (Essential-included) and Cyberpunk
   (Essential-purchase) carry identical program codes; the difference is
-  whether the Essential SKU appears in pass metadata.
+  whether the Essential SKU appears in subscription metadata to grant the user an entitlement.
   """
 
   alias Gameglass.Catalog.Tiers

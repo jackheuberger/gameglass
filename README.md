@@ -7,6 +7,11 @@ stream it — **included** with a subscription, **purchase-required**, or
 **unavailable** — and publishes a static verify API for any title. All data is
 derived from **anonymous, public** Xbox catalog endpoints (no Xbox login / xuid).
 
+Gameglass is an independent, unofficial project and is not affiliated with,
+endorsed by, or sponsored by Microsoft. Xbox, Xbox Cloud Gaming, and Xbox Game
+Pass are trademarks of Microsoft. This project uses publicly available catalog
+information and does not provide access to Xbox services or game content.
+
 There is no server and no database: a scanner commits JSON snapshots to this
 repository, and a static site is rendered from them. The git history of
 `data/` **is** the audit trail — `git log -p data/games.json` shows every
@@ -26,9 +31,6 @@ catalog change Gameglass ever observed.
 4. **Commit** the snapshot (`data/games.json`), the change log
    (`data/changes.jsonl`), and the scan audit log (`data/runs.jsonl`), then
    render the static site.
-
-See [`PLAN.md`](PLAN.md) for the full design and the data-source reverse
-engineering.
 
 ## Running
 

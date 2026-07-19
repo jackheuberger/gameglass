@@ -148,7 +148,7 @@ defmodule Gameglass.Catalog.Client do
         )
 
     headers = [
-      {"ms-cv", correlation_vector()},
+      {"ms-cv", "cv"},
       {"calling-app-name", cfg[:calling_app_name]},
       {"calling-app-version", cfg[:calling_app_version]}
     ]
@@ -189,18 +189,6 @@ defmodule Gameglass.Catalog.Client do
   @spec market(keyword()) :: String.t()
   def market(opts \\ []), do: config(opts)[:market]
 
-  @doc "Generates a fresh MS correlation vector (base CV)."
-  @spec correlation_vector() :: String.t()
-  def correlation_vector do
-    base =
-      11
-      |> :crypto.strong_rand_bytes()
-      |> Base.encode64()
-      |> String.replace("=", "")
-
-    base <> ".0"
-  end
-
   defp request(method, url, kwopts) do
     {req_opts, _} = Keyword.split(kwopts, [:params, :json, :headers])
     user_opts = Keyword.get(kwopts, :opts, [])
@@ -212,7 +200,7 @@ defmodule Gameglass.Catalog.Client do
         retry: :transient,
         max_retries: 3,
         receive_timeout: 30_000,
-        user_agent: "Gameglass/0.1 (+https://github.com/jackheuberger/gameglass)"
+        user_agent: "Gameglass/0.2 (+https://github.com/jackheuberger/gameglass)"
       ]
       |> Keyword.merge(req_opts)
       |> Keyword.merge(Keyword.get(user_opts, :req_options, []))
