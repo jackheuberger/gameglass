@@ -4,7 +4,7 @@
 
 I am _formerly_ an XBOX employee, and one of my responsibilities was making sure that new cloud title launches went according to plan. This was a manual process and occasionally things would get dropped.
 
-This project (which I started in my free time before I was laid off) was meant to be a way to easily get an "external view" of what users saw on the clients, so that we could data into our alerting systems if something went wrong. For example, we'd want to fire an alert if something like Halo 5 wasn't streamable for ultimate users.
+This project (which I started *after* I was laid off) was originally meant to be a way to easily get an "external view" of what users saw on the clients, so that we could data into our alerting systems if something went wrong. For example, we'd want to fire an alert if something like Halo 5 wasn't streamable for ultimate users.
 
 ## How it works
 
