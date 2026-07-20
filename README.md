@@ -4,17 +4,17 @@
 
 I am _formerly_ an XBOX employee, and one of my responsibilities was making sure that new cloud title launches went according to plan. This was a manual process and occasionally things would get dropped.
 
-This project (which I started in my free time before I was laid off) was meant to be a way for us internally to get an "external view" of what end users saw that we could integrate into our alerting systems to detect if something was wrong.
+This project (which I started in my free time before I was laid off) was meant to be a way to easily get an "external view" of what users saw on the clients, so that we could data into our alerting systems if something went wrong. For example, we'd want to fire an alert if something like Halo 5 wasn't streamable for ultimate users.
 
 ## How it works
 
-1. **Enumerate** the full cloud catalog via the "All games" SIGL collection that
+1. **Enumerate** the full cloud catalog via the "All games" SIGL that
    backs `play.xbox.com/gallery/all-games` (`catalog.gamepass.com/sigls/v2`),
    unioned with every subscription plan.
 2. **Enrich** each title via `catalog.gamepass.com/v3/products` for its xCloud programs, Game Pass metadata, price, and
    `XCloudTitleId`.
 3. **Classify** each (game, tier) pair by joining the streaming *programs*
-   (which tiers *can* stream with an entitlement) with *pass metadata* (which
+   (which tiers can stream with an entitlement) with *pass metadata* (which
    tiers *include* it for free). Neither signal alone is sufficient.
 4. **Commit** the snapshot (`data/games.json`), the change log
    (`data/changes.jsonl`), and the scan audit log (`data/runs.jsonl`), then
