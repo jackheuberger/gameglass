@@ -14,7 +14,6 @@
   --free-fg: #0284c7;
   --unavailable-bg: rgba(244, 63, 94, 0.1);
   --unavailable-fg: rgba(225, 29, 72, 0.75);
-  --new-bg: #16a34a;
   --removed-fg: #e11d48;
   --hover: rgba(0, 0, 0, 0.03);
 }
@@ -263,16 +262,6 @@ a {
   td .badge .badge-label {
     display: none;
   }
-}
-
-.badge-new {
-  background: var(--new-bg);
-  color: #fff;
-  border-radius: 0.4rem;
-  padding: 0.1rem 0.4rem;
-  font-size: 0.68rem;
-  font-weight: 600;
-  margin-right: 0.4rem;
 }
 
 /* --- table -------------------------------------------------------------- */

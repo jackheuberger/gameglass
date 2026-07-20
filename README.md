@@ -1,29 +1,17 @@
 # Gameglass
 
-**An external source of truth for Xbox Cloud Gaming streamability.**
+## Why?
 
-Gameglass shows, for every cloud-streamable title, which Xbox Game Pass tier can
-stream it — **included** with a subscription, **purchase-required**, or
-**unavailable** — and publishes a static verify API for any title. All data is
-derived from **anonymous, public** Xbox catalog endpoints (no Xbox login / xuid).
+I am _formerly_ an XBOX employee, and one of my responsibilities was making sure that new cloud title launches went according to plan. This was a manual process and occasionally things would get dropped.
 
-Gameglass is an independent, unofficial project and is not affiliated with,
-endorsed by, or sponsored by Microsoft. Xbox, Xbox Cloud Gaming, and Xbox Game
-Pass are trademarks of Microsoft. This project uses publicly available catalog
-information and does not provide access to Xbox services or game content.
-
-There is no server and no database: a scanner commits JSON snapshots to this
-repository, and a static site is rendered from them. The git history of
-`data/` **is** the audit trail — `git log -p data/games.json` shows every
-catalog change Gameglass ever observed.
+This project (which I started in my free time before I was laid off) was meant to be a way for us internally to get an "external view" of what end users saw that we could integrate into our alerting systems to detect if something was wrong.
 
 ## How it works
 
 1. **Enumerate** the full cloud catalog via the "All games" SIGL collection that
    backs `play.xbox.com/gallery/all-games` (`catalog.gamepass.com/sigls/v2`),
    unioned with every subscription plan.
-2. **Enrich** each title via `catalog.gamepass.com/v3/products` (Sapphire
-   hydration) for its xCloud programs, Game Pass metadata, price, and
+2. **Enrich** each title via `catalog.gamepass.com/v3/products` for its xCloud programs, Game Pass metadata, price, and
    `XCloudTitleId`.
 3. **Classify** each (game, tier) pair by joining the streaming *programs*
    (which tiers *can* stream with an entitlement) with *pass metadata* (which

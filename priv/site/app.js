@@ -124,8 +124,7 @@
     if (!g.added_at) {
       return `<span class="date-cell baseline" title="Present since Gameglass began tracking; true add date unknown">since launch</span>`;
     }
-    const isNew = recent(g.added_at) ? `<span class="badge-new">New</span>` : "";
-    return `${isNew}<span class="date-cell" title="${esc(g.added_at)}">${humanize(g.added_at)}</span>`;
+    return `<span class="date-cell" title="${esc(g.added_at)}">${humanize(g.added_at)}</span>`;
   }
 
   function row(g) {
