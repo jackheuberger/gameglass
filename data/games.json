@@ -32184,9 +32184,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Nacon",
       "developer": "Rogue Factor",
@@ -32198,7 +32198,7 @@
       "price_formatted": "$59.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-07-21T14:27:39Z",
       "added_at": null,
       "removed_at": null
     },
@@ -32474,9 +32474,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Bethesda Softworks",
       "developer": "id Software, Nightdive Studios",
@@ -32488,7 +32488,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-07-21T14:27:39Z",
       "added_at": null,
       "removed_at": null
     },
@@ -83797,5 +83797,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-21T08:49:34Z"
+  "generated_at": "2026-07-21T14:27:39Z"
 }
