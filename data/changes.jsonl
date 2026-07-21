@@ -4526,3 +4526,4 @@
 {"kind":"tier_status_changed","new_value":"included","detail":"The Bard's Tale Trilogy","xcloud_title_id":"BARDSTALETRILOGY","run_id":5,"old_value":"purchase","tier_key":"starter","game_id":"BARDSTALETRILOGY","occurred_at":"2026-07-20T02:57:00Z"}
 {"kind":"game_removed","new_value":null,"detail":"EA SPORTS FC™ 24 Xbox One","xcloud_title_id":"EASPORTSFC24XBOXONE","run_id":5,"old_value":null,"tier_key":null,"game_id":"EASPORTSFC24XBOXONE","occurred_at":"2026-07-20T02:57:00Z"}
 {"kind":"game_removed","new_value":null,"detail":"EA SPORTS FC™ 24 Xbox Series X|S","xcloud_title_id":"EASPORTSFC24XBOXSERIESXS","run_id":5,"old_value":null,"tier_key":null,"game_id":"EASPORTSFC24XBOXSERIESXS","occurred_at":"2026-07-20T02:57:00Z"}
+{"kind":"game_added","new_value":null,"detail":"The Planet Crafter","xcloud_title_id":"THEPLANETCRAFTER","run_id":11,"old_value":null,"tier_key":null,"game_id":"THEPLANETCRAFTER","occurred_at":"2026-07-21T03:53:43Z"}

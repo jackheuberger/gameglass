@@ -1,5 +1,5 @@
 {
-  "count": 2329,
+  "count": 2330,
   "market": "US",
   "games": [
     {
@@ -73899,6 +73899,42 @@
       "removed_at": null
     },
     {
+      "id": "THEPLANETCRAFTER",
+      "title": "The Planet Crafter",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N072VV7MFK7"
+      ],
+      "xcloud_title_id": "THEPLANETCRAFTER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Miju Games",
+      "developer": "Miju Games",
+      "base_product_id": "9N072VV7MFK7",
+      "xbox_title_id": 1984127659,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.39831.13926241205782582.d41e8478-bfd5-4760-8d82-8f74d1584c38.868efb9d-a669-41e7-ae39-e0da50a2d858",
+      "is_free": false,
+      "price_value": 23.99,
+      "price_formatted": "$23.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-21T03:53:43Z",
+      "last_changed_at": "2026-07-21T03:53:43Z",
+      "added_at": "2026-07-21T03:53:43Z",
+      "removed_at": null
+    },
+    {
       "id": "THEPLUCKYSQUIRE",
       "title": "The Plucky Squire",
       "streamable": true,
@@ -83761,5 +83797,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-20T20:00:21Z"
+  "generated_at": "2026-07-21T03:53:43Z"
 }
