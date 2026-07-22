@@ -4531,3 +4531,4 @@
 {"kind":"tier_status_changed","new_value":"included","detail":"Hell is Us","xcloud_title_id":"HELLISUS","run_id":13,"old_value":"purchase","tier_key":"ultimate","game_id":"HELLISUS","occurred_at":"2026-07-21T14:27:39Z"}
 {"kind":"tier_status_changed","new_value":"included","detail":"Heretic + Hexen","xcloud_title_id":"HERETICHEXEN","run_id":13,"old_value":"purchase","tier_key":"premium","game_id":"HERETICHEXEN","occurred_at":"2026-07-21T14:27:39Z"}
 {"kind":"tier_status_changed","new_value":"included","detail":"Heretic + Hexen","xcloud_title_id":"HERETICHEXEN","run_id":13,"old_value":"purchase","tier_key":"ultimate","game_id":"HERETICHEXEN","occurred_at":"2026-07-21T14:27:39Z"}
+{"kind":"game_added","new_value":null,"detail":"The Talos Principle","xcloud_title_id":"THETALOSPRINCIPLE","run_id":15,"old_value":null,"tier_key":null,"game_id":"THETALOSPRINCIPLE","occurred_at":"2026-07-22T03:50:40Z"}
