@@ -1,5 +1,5 @@
 {
-  "count": 2331,
+  "count": 2332,
   "market": "US",
   "games": [
     {
@@ -13796,6 +13796,42 @@
       "removed_at": null
     },
     {
+      "id": "CONKERLIVEANDRELOADED",
+      "title": "Conker: Live and Reloaded",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BVFB8CBS75R6"
+      ],
+      "xcloud_title_id": "CONKERLIVEANDRELOADED",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON"
+      ],
+      "tiers": {
+        "essential": "included",
+        "premium": "included",
+        "starter": "included",
+        "ultimate": "included"
+      },
+      "publisher": "Microsoft Studios",
+      "developer": "Rare Limited",
+      "base_product_id": "BVFB8CBS75R6",
+      "xbox_title_id": 654479291,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.50097.71434766889258227.1aee1ea7-c878-4f73-8cb5-6c5dc48abfc3.a5fa8f45-acfd-4893-87b5-59f5a7714298",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-22T19:48:20Z",
+      "last_changed_at": "2026-07-22T19:48:20Z",
+      "added_at": "2026-07-22T19:48:20Z",
+      "removed_at": null
+    },
+    {
       "id": "CONSCRIPT",
       "title": "CONSCRIPT",
       "streamable": true,
@@ -15073,9 +15109,9 @@
         "TRITON"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "included",
         "ultimate": "included"
       },
       "publisher": "Microsoft",
@@ -15088,7 +15124,7 @@
       "price_formatted": "$9.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-07-22T19:48:20Z",
       "added_at": null,
       "removed_at": null
     },
@@ -27466,9 +27502,9 @@
         "TRITON"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "included",
         "ultimate": "included"
       },
       "publisher": "Microsoft",
@@ -27481,7 +27517,7 @@
       "price_formatted": "$9.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-07-22T19:48:20Z",
       "added_at": null,
       "removed_at": null
     },
@@ -83833,5 +83869,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-22T14:26:16Z"
+  "generated_at": "2026-07-22T19:48:20Z"
 }
