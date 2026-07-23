@@ -1,5 +1,5 @@
 {
-  "count": 2332,
+  "count": 2333,
   "market": "US",
   "games": [
     {
@@ -61557,6 +61557,42 @@
       "removed_at": null
     },
     {
+      "id": "SHIFTATMIDNIGHT",
+      "title": "Shift At Midnight",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N0WDPMXNHWN"
+      ],
+      "xcloud_title_id": "SHIFTATMIDNIGHT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Kwalee",
+      "developer": "Bun Muen",
+      "base_product_id": "9N0WDPMXNHWN",
+      "xbox_title_id": 2050201640,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.35957.13913179094391197.48e0c780-4669-4067-951d-a9b01b9fc923.44e89064-4e30-4ae9-a594-15a7750542a6",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-23T03:48:47Z",
+      "last_changed_at": "2026-07-23T03:48:47Z",
+      "added_at": "2026-07-23T03:48:47Z",
+      "removed_at": null
+    },
+    {
       "id": "SHINOBINONGRATA",
       "title": "SHINOBI NON GRATA",
       "streamable": true,
@@ -83869,5 +83905,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-22T19:48:20Z"
+  "generated_at": "2026-07-23T03:48:47Z"
 }
