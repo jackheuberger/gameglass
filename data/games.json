@@ -1,5 +1,5 @@
 {
-  "count": 2333,
+  "count": 2334,
   "market": "US",
   "games": [
     {
@@ -588,7 +588,8 @@
       ],
       "xcloud_title_id": null,
       "programs": [
-        "F2P"
+        "F2P",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "free",
@@ -620,7 +621,8 @@
       ],
       "xcloud_title_id": null,
       "programs": [
-        "F2P"
+        "F2P",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "free",
@@ -652,7 +654,8 @@
       ],
       "xcloud_title_id": null,
       "programs": [
-        "F2P"
+        "F2P",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "free",
@@ -684,7 +687,8 @@
       ],
       "xcloud_title_id": null,
       "programs": [
-        "F2P"
+        "F2P",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "free",
@@ -716,7 +720,8 @@
       ],
       "xcloud_title_id": null,
       "programs": [
-        "F2P"
+        "F2P",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "free",
@@ -748,7 +753,8 @@
       ],
       "xcloud_title_id": null,
       "programs": [
-        "F2P"
+        "F2P",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "free",
@@ -780,7 +786,8 @@
       ],
       "xcloud_title_id": null,
       "programs": [
-        "F2P"
+        "F2P",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "free",
@@ -9162,7 +9169,6 @@
       ],
       "xcloud_title_id": "BORDERLANDS3",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -9198,7 +9204,6 @@
       ],
       "xcloud_title_id": "BORDERLANDS4",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -10172,7 +10177,8 @@
       ],
       "xcloud_title_id": null,
       "programs": [
-        "F2P"
+        "F2P",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "free",
@@ -10940,7 +10946,7 @@
       "developer": "",
       "base_product_id": "9N201KQXS5BM",
       "xbox_title_id": 2001700854,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.34858.13966330883349940.7e801daf-cb6c-41f0-a3e0-1e936806d387.50e7ee78-9ca9-4257-b19c-e0557a937a2f",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23929.13966330883349940.f1113d72-8f40-4997-86b8-20e5ec06976a.d78abb14-11eb-4547-8ca2-d11f24749f19",
       "is_free": false,
       "price_value": null,
       "price_formatted": null,
@@ -18216,6 +18222,42 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DIGITALSTORYARTCOLLECTIONHALOCAMPAIGNEVOLVED",
+      "title": "Halo: Campaign Evolved - Premium Edition Upgrade",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MT7PRG7NSLD"
+      ],
+      "xcloud_title_id": "DIGITALSTORYARTCOLLECTIONHALOCAMPAIGNEVOLVED",
+      "programs": [
+        "EARLYACCESS",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Xbox Game Studios",
+      "developer": "Halo Studios",
+      "base_product_id": "9MT7PRG7NSLD",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.62123.13817774304252863.97399fb5-eb92-4b64-8f4a-47bd9c991e72.4283ce79-ebcc-4919-acc0-919e3a303678",
+      "is_free": false,
+      "price_value": 20.0,
+      "price_formatted": "$20.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-23T19:50:38Z",
+      "last_changed_at": "2026-07-23T19:50:38Z",
+      "added_at": "2026-07-23T19:50:38Z",
       "removed_at": null
     },
     {
@@ -41965,7 +42007,6 @@
       ],
       "xcloud_title_id": "MAFIADEFINITIVEEDITION",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -42001,7 +42042,6 @@
       ],
       "xcloud_title_id": "MAFIATHEOLDCOUNTRY",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -42506,7 +42546,6 @@
       ],
       "xcloud_title_id": "MARVELSMIDNIGHTSUNSFORXBOXONE",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -42535,7 +42574,7 @@
     {
       "id": "MARVELSMIDNIGHTSUNSFORXBOXSERIESXS",
       "title": "Marvel's Midnight Suns Enhanced Edition",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NZV28P1ZMQ0"
@@ -42564,9 +42603,9 @@
       "price_formatted": "$69.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-07-23T19:50:38Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-07-23T19:50:38Z"
     },
     {
       "id": "MASSEFFECTANDROMEDA",
@@ -47688,7 +47727,6 @@
       ],
       "xcloud_title_id": "NBA2K26FORXBOXONE",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -47724,7 +47762,6 @@
       ],
       "xcloud_title_id": "NBA2K26FORXBOXSERIESXS",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -52746,7 +52783,6 @@
       ],
       "xcloud_title_id": "PGATOUR2K25",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -75815,7 +75851,6 @@
       ],
       "xcloud_title_id": "TINYTINASWONDERLANDSXBOXONE",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -82978,7 +83013,6 @@
       ],
       "xcloud_title_id": "WWE2K26STANDARDEDITION",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -83050,7 +83084,6 @@
       ],
       "xcloud_title_id": "XCOM2",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -83905,5 +83938,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-23T14:37:54Z"
+  "generated_at": "2026-07-23T19:50:38Z"
 }
