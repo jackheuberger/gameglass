@@ -23970,7 +23970,7 @@
     {
       "id": "F1MANAGER2023",
       "title": "F1® Manager 2023",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9P80FVDCXJKB"
@@ -23999,9 +23999,9 @@
       "price_formatted": "$54.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-07-27T15:18:55Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-07-27T15:18:55Z"
     },
     {
       "id": "F1MANAGER2024",
@@ -33174,7 +33174,7 @@
       "developer": "IO Interactive A/S",
       "base_product_id": "9NN82NH949D5",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.10956.13747708785346246.68a9a84e-575c-45a8-ba7e-0081974fca52.e30dc5e8-3ef7-4f53-88e1-f7bd7cc88393",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.38855.13747708785346246.3d8011b8-57f6-400c-ab5a-52e050468db8.1f370553-551e-4570-891c-01f9896a835d",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -83938,5 +83938,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-27T10:13:53Z"
+  "generated_at": "2026-07-27T15:18:55Z"
 }
