@@ -1,5 +1,5 @@
 {
-  "count": 2334,
+  "count": 2336,
   "market": "US",
   "games": [
     {
@@ -18716,7 +18716,6 @@
       ],
       "xcloud_title_id": "DIGITALSTORYARTCOLLECTIONHALOCAMPAIGNEVOLVED",
       "programs": [
-        "EARLYACCESS",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -18734,11 +18733,11 @@
       "xbox_title_id": null,
       "image_url": "https://store-images.s-microsoft.com/image/apps.62123.13817774304252863.97399fb5-eb92-4b64-8f4a-47bd9c991e72.4283ce79-ebcc-4919-acc0-919e3a303678",
       "is_free": false,
-      "price_value": 20.0,
-      "price_formatted": "$20.00",
-      "price_currency": "USD",
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
       "first_seen_at": "2026-07-23T19:50:38Z",
-      "last_changed_at": "2026-07-23T19:50:38Z",
+      "last_changed_at": "2026-07-28T19:57:07Z",
       "added_at": "2026-07-23T19:50:38Z",
       "removed_at": null
     },
@@ -30502,6 +30501,43 @@
       "removed_at": null
     },
     {
+      "id": "GOTHICCLASSIC",
+      "title": "Gothic Classic",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P9ZLGT70BQ5"
+      ],
+      "xcloud_title_id": "GOTHICCLASSIC",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "THQ Nordic",
+      "developer": "THQ Nordic",
+      "base_product_id": "9P9ZLGT70BQ5",
+      "xbox_title_id": 1977804752,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.11561.14133456835848182.23645ee6-19c8-4a3a-bc44-bf065b3bb1b1.2f65e28c-494d-4970-9bd2-a3882b482236",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-28T19:57:07Z",
+      "last_changed_at": "2026-07-28T19:57:07Z",
+      "added_at": "2026-07-28T19:57:07Z",
+      "removed_at": null
+    },
+    {
       "id": "GRACEOFLETOILE",
       "title": "Grace of Letoile",
       "streamable": true,
@@ -31792,6 +31828,41 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T16:11:29Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "HALOCAMPAIGNEVOLVED",
+      "title": "Halo: Campaign Evolved - Standard Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N6J4RNFPKKL"
+      ],
+      "xcloud_title_id": "HALOCAMPAIGNEVOLVED",
+      "programs": [
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Xbox Game Studios",
+      "developer": "Halo Studios",
+      "base_product_id": "9N6J4RNFPKKL",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60927.14013303168404443.9aeddd2c-3066-401b-a64b-fbe89019f14a.73bd7844-734e-4e22-8d96-03b942b3566d",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-28T19:57:07Z",
+      "last_changed_at": "2026-07-28T19:57:07Z",
+      "added_at": "2026-07-28T19:57:07Z",
       "removed_at": null
     },
     {
@@ -86154,5 +86225,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-28T14:42:33Z"
+  "generated_at": "2026-07-28T19:57:07Z"
 }
