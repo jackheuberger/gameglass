@@ -1,5 +1,5 @@
 {
-  "count": 2337,
+  "count": 2338,
   "market": "US",
   "games": [
     {
@@ -9869,7 +9869,7 @@
       "developer": "Blue Mammoth Games",
       "base_product_id": "C3B1V55CDL0C",
       "xbox_title_id": 687339341,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.53929.13891464908023063.5ffa2c27-8163-4a8e-8e35-56a1e5ec8980.6b87e686-4c07-4ac6-a82f-c0fe2315b8e4",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.4660.13891464908023063.822e2f99-8660-42d9-a91a-df117c02c955.f294796d-b404-4031-9f97-3325f36c5ad8",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -74954,6 +74954,43 @@
       "removed_at": null
     },
     {
+      "id": "THEKINGISWATCHING",
+      "title": "The King is Watching",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N24FWHR3V72"
+      ],
+      "xcloud_title_id": "THEKINGISWATCHING",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "tinyBuild",
+      "developer": "Hypnohead",
+      "base_product_id": "9N24FWHR3V72",
+      "xbox_title_id": 1852093214,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.46419.13963712715923219.b6f30ced-87ad-4a90-974d-2f05f4bb5a32.37ec9f78-3d43-43ae-a438-382e50cb0198",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-29T19:47:44Z",
+      "last_changed_at": "2026-07-29T19:47:44Z",
+      "added_at": "2026-07-29T19:47:44Z",
+      "removed_at": null
+    },
+    {
       "id": "THEKNIGHTWITCH",
       "title": "The Knight Witch",
       "streamable": true,
@@ -86262,5 +86299,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-29T14:36:51Z"
+  "generated_at": "2026-07-29T19:47:44Z"
 }
