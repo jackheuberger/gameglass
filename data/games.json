@@ -18708,11 +18708,12 @@
     },
     {
       "id": "DIGITALSTORYARTCOLLECTIONHALOCAMPAIGNEVOLVED",
-      "title": "Halo: Campaign Evolved - Premium Edition Upgrade",
+      "title": "Halo: Campaign Evolved Premium Upgrade",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9MT7PRG7NSLD"
+        "9MT7PRG7NSLD",
+        "9MV2TRWWLSX4"
       ],
       "xcloud_title_id": "DIGITALSTORYARTCOLLECTIONHALOCAMPAIGNEVOLVED",
       "programs": [
@@ -18729,15 +18730,15 @@
       },
       "publisher": "Xbox Game Studios",
       "developer": "Halo Studios",
-      "base_product_id": "9MT7PRG7NSLD",
+      "base_product_id": "9MV2TRWWLSX4",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.62123.13817774304252863.97399fb5-eb92-4b64-8f4a-47bd9c991e72.4283ce79-ebcc-4919-acc0-919e3a303678",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.62123.13796886050556107.f4708f70-f9c0-4096-9cd3-c095d4206042.80a777d6-9fa3-4541-a949-63d7b38f23ee",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 20.0,
+      "price_formatted": "$20.00",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-23T19:50:38Z",
-      "last_changed_at": "2026-07-28T19:57:07Z",
+      "last_changed_at": "2026-07-29T03:45:21Z",
       "added_at": "2026-07-23T19:50:38Z",
       "removed_at": null
     },
@@ -43758,14 +43759,13 @@
     {
       "id": "MARVELSMIDNIGHTSUNSFORXBOXSERIESXS",
       "title": "Marvel's Midnight Suns Enhanced Edition",
-      "streamable": false,
+      "streamable": true,
       "market": "US",
       "product_ids": [
         "9NZV28P1ZMQ0"
       ],
       "xcloud_title_id": "MARVELSMIDNIGHTSUNSFORXBOXSERIESXS",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -43787,9 +43787,9 @@
       "price_formatted": "$69.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-23T19:50:38Z",
-      "added_at": null,
-      "removed_at": "2026-07-23T19:50:38Z"
+      "last_changed_at": "2026-07-29T03:45:21Z",
+      "added_at": "2026-07-29T03:45:21Z",
+      "removed_at": null
     },
     {
       "id": "MASSEFFECTANDROMEDA",
@@ -85881,7 +85881,7 @@
       "developer": "Shanghai JiaoZhai Technology Co.,Ltd.",
       "base_product_id": "9N4X0WFZ2STM",
       "xbox_title_id": 1696147865,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.22135.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.2c93a444-64ff-46ae-aeb5-5cad61c4310c",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58752.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.91e6633b-1ba4-4bda-9a09-fdc53c5e6a7e",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -86225,5 +86225,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-28T19:57:07Z"
+  "generated_at": "2026-07-29T03:45:21Z"
 }
