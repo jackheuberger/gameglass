@@ -1,5 +1,5 @@
 {
-  "count": 2336,
+  "count": 2337,
   "market": "US",
   "games": [
     {
@@ -34011,6 +34011,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "HIGHTIMES",
+      "title": "High Times",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P5RTC9G5JVG"
+      ],
+      "xcloud_title_id": "HIGHTIMES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Yangyang Mobile",
+      "developer": "Yangyang Mobile",
+      "base_product_id": "9P5RTC9G5JVG",
+      "xbox_title_id": 1728685760,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.49040.14633686297206485.b7035ba7-cf87-4558-a0ea-5fd5cc0b8d19.02ddd374-7382-4726-bbe3-5210bc88e538",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-29T09:13:02Z",
+      "last_changed_at": "2026-07-29T09:13:02Z",
+      "added_at": "2026-07-29T09:13:02Z",
       "removed_at": null
     },
     {
@@ -86225,5 +86262,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-29T03:45:21Z"
+  "generated_at": "2026-07-29T09:13:02Z"
 }
