@@ -1,5 +1,5 @@
 {
-  "count": 2362,
+  "count": 2363,
   "market": "US",
   "games": [
     {
@@ -35373,7 +35373,7 @@
       "developer": "No Brakes Games",
       "base_product_id": "BSMZH25V6V46",
       "xbox_title_id": 312881568,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.60364.69811231537758929.2c9d4e54-bad3-430f-aef8-714e2cc8969d.f0fa710a-8364-428d-a3b9-5935fcae9960",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30824.69811231537758929.fc90ef4a-ab04-4596-8db8-fa6120f06b6b.d6da34fe-7499-4231-bd77-83df6499cc75",
       "is_free": false,
       "price_value": 24.99,
       "price_formatted": "$24.99",
@@ -46336,6 +46336,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "MISTFALLHUNTER",
+      "title": "Mistfall Hunter",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P8X6TVW9ZW8"
+      ],
+      "xcloud_title_id": "MISTFALLHUNTER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Skystone Games",
+      "developer": "Bellring Games",
+      "base_product_id": "9P8X6TVW9ZW8",
+      "xbox_title_id": 1890326099,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.39397.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.ebc9df1e-40f7-48ac-bc52-e91dfb954e0c",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-30T19:58:32Z",
+      "last_changed_at": "2026-07-30T19:58:32Z",
+      "added_at": "2026-07-30T19:58:32Z",
       "removed_at": null
     },
     {
@@ -78728,7 +78765,7 @@
     {
       "id": "TINYTINASWONDERLANDSXBOXONE",
       "title": "Tiny Tina's Wonderlands",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NFRN3NDXR2D"
@@ -78756,9 +78793,9 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-30T14:37:27Z",
+      "last_changed_at": "2026-07-30T19:58:32Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-07-30T19:58:32Z"
     },
     {
       "id": "TITANSPINBALL",
@@ -81009,11 +81046,11 @@
       "xbox_title_id": 1929543936,
       "image_url": "https://store-images.s-microsoft.com/image/apps.32560.13687953154048080.4e7b8e14-04cd-42f7-811d-9825983fc7bb.9ed3e86c-5846-4ff7-8ecd-533012401456",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-30T08:55:10Z",
-      "last_changed_at": "2026-07-30T08:55:10Z",
+      "last_changed_at": "2026-07-30T19:58:32Z",
       "added_at": "2026-07-30T08:55:10Z",
       "removed_at": null
     },
@@ -87187,5 +87224,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-30T14:37:27Z"
+  "generated_at": "2026-07-30T19:58:32Z"
 }
