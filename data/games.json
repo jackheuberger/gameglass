@@ -716,7 +716,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "9P6LNN3KZ75R",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.20605.14622094146520822.2c398488-f34e-45f8-a8d6-97e2db41f37b.1da14785-6228-44ff-9634-a09028ed169f",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28777.14622094146520822.dd10b45d-d4ba-4d81-97ac-16df982cba9f.89de5ace-83de-4ab7-85e9-6529102c54d6",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -78752,11 +78752,11 @@
       "xbox_title_id": 1750701033,
       "image_url": "https://store-images.s-microsoft.com/image/apps.22620.13593756492296483.1387e73f-a2f8-405c-8b63-a0a8649a58d7.d8b54cb2-ccd7-4bb0-9403-49814e017136",
       "is_free": false,
-      "price_value": 59.99,
-      "price_formatted": "$59.99",
-      "price_currency": "USD",
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-07-30T14:37:27Z",
       "added_at": null,
       "removed_at": null
     },
@@ -87187,5 +87187,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-30T08:55:10Z"
+  "generated_at": "2026-07-30T14:37:27Z"
 }
