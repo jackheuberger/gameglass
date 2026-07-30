@@ -26392,11 +26392,11 @@
       "xbox_title_id": 1867652631,
       "image_url": "https://store-images.s-microsoft.com/image/apps.47851.14039390486448903.600abc2c-9f2a-489a-8d46-0eefc0946576.98b8a19d-8674-4c7c-838e-9106898f5482",
       "is_free": false,
-      "price_value": 39.99,
-      "price_formatted": "$39.99",
+      "price_value": 34.99,
+      "price_formatted": "$34.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-07-30T03:33:35Z",
       "added_at": null,
       "removed_at": null
     },
@@ -37480,11 +37480,11 @@
       "xbox_title_id": 2127254728,
       "image_url": "https://store-images.s-microsoft.com/image/apps.39225.14048612133823066.a12a8abf-6baf-4fd0-a15e-a62b48321ba7.b4e1b11b-03ec-4ca5-8fb4-c3344892a859",
       "is_free": false,
-      "price_value": 39.99,
-      "price_formatted": "$39.99",
-      "price_currency": "USD",
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-07-30T03:33:35Z",
       "added_at": null,
       "removed_at": null
     },
@@ -86299,5 +86299,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-29T19:47:44Z"
+  "generated_at": "2026-07-30T03:33:35Z"
 }
