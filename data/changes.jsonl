@@ -4580,3 +4580,4 @@
 {"kind":"price_changed","new_value":"$24.99","detail":"Truxton Extreme","xcloud_title_id":"TRUXTONEXTREME","run_id":50,"old_value":null,"tier_key":null,"game_id":"TRUXTONEXTREME","occurred_at":"2026-07-30T19:58:32Z"}
 {"kind":"game_added","new_value":null,"detail":"Mistfall Hunter","xcloud_title_id":"MISTFALLHUNTER","run_id":50,"old_value":null,"tier_key":null,"game_id":"MISTFALLHUNTER","occurred_at":"2026-07-30T19:58:32Z"}
 {"kind":"game_removed","new_value":null,"detail":"Tiny Tina's Wonderlands","xcloud_title_id":"TINYTINASWONDERLANDSXBOXONE","run_id":50,"old_value":null,"tier_key":null,"game_id":"TINYTINASWONDERLANDSXBOXONE","occurred_at":"2026-07-30T19:58:32Z"}
+{"kind":"game_added","new_value":null,"detail":"Dispatch","xcloud_title_id":"DISPATCH","run_id":51,"old_value":null,"tier_key":null,"game_id":"DISPATCH","occurred_at":"2026-07-31T03:55:07Z"}

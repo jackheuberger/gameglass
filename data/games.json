@@ -1,5 +1,5 @@
 {
-  "count": 2363,
+  "count": 2364,
   "market": "US",
   "games": [
     {
@@ -19518,6 +19518,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DISPATCH",
+      "title": "Dispatch",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NDJSV855T3P"
+      ],
+      "xcloud_title_id": "DISPATCH",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "AdHoc Studio",
+      "developer": "AdHoc Studio",
+      "base_product_id": "9NDJSV855T3P",
+      "xbox_title_id": 2145964960,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.22247.13613564669646876.7aa324c7-9740-4cd1-9231-9f7560aa017a.7b23c6ae-7d8c-4ac7-9a0a-5bc4d1784ab5",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-07-31T03:55:07Z",
+      "last_changed_at": "2026-07-31T03:55:07Z",
+      "added_at": "2026-07-31T03:55:07Z",
       "removed_at": null
     },
     {
@@ -87224,5 +87261,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-07-30T19:58:32Z"
+  "generated_at": "2026-07-31T03:55:07Z"
 }
