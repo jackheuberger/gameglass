@@ -36390,12 +36390,10 @@
       ],
       "xcloud_title_id": "INDIANAJONESANDTHEGREATCIRCLE",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON",
-        "FERDINAND"
+        "TRITON"
       ],
       "tiers": {
         "essential": "purchase",
@@ -36427,12 +36425,10 @@
       ],
       "xcloud_title_id": "INDIANAJONESANDTHEGREATCIRCLEDIGITALARTBOOK",
       "programs": [
-        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON",
-        "FERDINAND"
+        "TRITON"
       ],
       "tiers": {
         "essential": "purchase",
@@ -87261,5 +87257,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-01T03:55:29Z"
+  "generated_at": "2026-08-01T14:00:47Z"
 }
