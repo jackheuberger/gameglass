@@ -22555,7 +22555,7 @@
       "developer": "EA CANADA",
       "base_product_id": "9NK13T4QFPQW",
       "xbox_title_id": 1852068331,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.37689.13665948255535452.6d8553bd-d6c9-4090-869c-05032efb323d.46a85de8-1e53-4579-a8d7-62fc04d422ac",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61743.13665948255535452.c62f2600-0a85-4be2-b5a3-4453b231bb70.fa1c3e4a-555a-4362-9636-e5319715eafb",
       "is_free": false,
       "price_value": null,
       "price_formatted": null,
@@ -22590,7 +22590,7 @@
       "developer": "EA CANADA",
       "base_product_id": "9P9FTXPKQ35P",
       "xbox_title_id": 1909324253,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.37689.14143997528953872.47f85861-9d63-490a-8d39-2fda8228a3ec.808e0994-b5f5-401d-9393-a8a356945694",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61743.14143997528953872.6dedfcb1-25c9-4700-a587-b5e8d2190c68.88681c0c-1bb4-4ea7-9c95-56273826d126",
       "is_free": false,
       "price_value": null,
       "price_formatted": null,
@@ -46694,7 +46694,7 @@
       "developer": "San Diego Studio",
       "base_product_id": "9NRLSFM01XTP",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.48765.14385377751056556.8ade2762-9e24-4afd-b1ad-455034c91f58.35578ce9-53f8-4203-bc53-54519a652337",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.4733.14385377751056556.b3131e46-efd4-40bc-894a-67e4577d555f.241b3cec-ee22-4efa-8f85-1035f8d6a4e0",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -78259,9 +78259,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "CD PROJEKT S.A.",
       "developer": "CD PROJEKT RED",
@@ -78273,7 +78273,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-03T20:04:23Z",
       "added_at": null,
       "removed_at": null
     },
@@ -87257,5 +87257,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-03T15:23:02Z"
+  "generated_at": "2026-08-03T20:04:23Z"
 }

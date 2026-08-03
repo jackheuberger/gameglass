@@ -4581,3 +4581,5 @@
 {"kind":"game_added","new_value":null,"detail":"Mistfall Hunter","xcloud_title_id":"MISTFALLHUNTER","run_id":50,"old_value":null,"tier_key":null,"game_id":"MISTFALLHUNTER","occurred_at":"2026-07-30T19:58:32Z"}
 {"kind":"game_removed","new_value":null,"detail":"Tiny Tina's Wonderlands","xcloud_title_id":"TINYTINASWONDERLANDSXBOXONE","run_id":50,"old_value":null,"tier_key":null,"game_id":"TINYTINASWONDERLANDSXBOXONE","occurred_at":"2026-07-30T19:58:32Z"}
 {"kind":"game_added","new_value":null,"detail":"Dispatch","xcloud_title_id":"DISPATCH","run_id":51,"old_value":null,"tier_key":null,"game_id":"DISPATCH","occurred_at":"2026-07-31T03:55:07Z"}
+{"kind":"tier_status_changed","new_value":"included","detail":"The Witcher 3: Wild Hunt","xcloud_title_id":"THEWITCHER3WILDHUNT","run_id":65,"old_value":"purchase","tier_key":"premium","game_id":"THEWITCHER3WILDHUNT","occurred_at":"2026-08-03T20:04:23Z"}
+{"kind":"tier_status_changed","new_value":"included","detail":"The Witcher 3: Wild Hunt","xcloud_title_id":"THEWITCHER3WILDHUNT","run_id":65,"old_value":"purchase","tier_key":"ultimate","game_id":"THEWITCHER3WILDHUNT","occurred_at":"2026-08-03T20:04:23Z"}
