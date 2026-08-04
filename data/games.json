@@ -6654,9 +6654,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Devolver Digital",
       "developer": "Kenny Sun",
@@ -6668,7 +6668,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-04T14:44:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -9676,9 +9676,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Annapurna Interactive",
       "developer": "DINOGOD",
@@ -9690,7 +9690,7 @@
       "price_formatted": "$24.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-04T14:44:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -15555,9 +15555,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Nacon",
       "developer": "Big Ant Studios",
@@ -15569,7 +15569,7 @@
       "price_formatted": "$59.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-04T14:44:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -16998,9 +16998,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Team17",
       "developer": "Sassy Chap Games and Team17",
@@ -17012,7 +17012,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-04T14:44:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -23242,9 +23242,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Alibi Games",
       "developer": "Egobounds",
@@ -23256,7 +23256,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-04T14:44:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -31517,9 +31517,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Xbox Game Studios",
       "developer": "Obsidian Entertainment / Eidos Montréal",
@@ -31531,7 +31531,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-04T14:44:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -46281,9 +46281,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Focus Entertainment",
       "developer": "Douze Dixièmes",
@@ -46295,7 +46295,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-04T14:44:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -56749,9 +56749,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "FuturLab Limited",
       "developer": "FuturLab Limited",
@@ -56763,7 +56763,7 @@
       "price_formatted": "$24.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-04T14:44:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -87294,5 +87294,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-04T09:13:33Z"
+  "generated_at": "2026-08-04T14:44:42Z"
 }
