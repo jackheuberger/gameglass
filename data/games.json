@@ -8019,7 +8019,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "GameMill Entertainment",
+      "publisher": "Trailmark Games",
       "developer": "Cradle Games / Play Mechanix, Inc",
       "base_product_id": "9P7WTQ01JGZ0",
       "xbox_title_id": 1657892923,
@@ -65187,7 +65187,7 @@
       "developer": "The Sledding Corporation",
       "base_product_id": "9N9C1TB18R3B",
       "xbox_title_id": 1792405589,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.25997.13540127136823287.905cafb8-0ff7-4de4-b8e8-42147b2d207c.48ccc1d6-3543-4b8c-9fc9-6ef0aa11716e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61818.13540127136823287.f9891775-8883-4915-a560-03e5eddd9940.e09a907a-891d-4531-9c4e-c82182966a19",
       "is_free": false,
       "price_value": 7.99,
       "price_formatted": "$7.99",
@@ -72160,7 +72160,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "GameMill Entertainment",
+      "publisher": "Trailmark Games",
       "developer": "Cradle Games / Raw Thrills",
       "base_product_id": "9NC36LVTFNJW",
       "xbox_title_id": 1873939850,
@@ -87294,5 +87294,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-05T09:11:09Z"
+  "generated_at": "2026-08-06T03:42:36Z"
 }
