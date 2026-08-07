@@ -1,5 +1,5 @@
 {
-  "count": 2366,
+  "count": 2368,
   "market": "US",
   "games": [
     {
@@ -76097,6 +76097,80 @@
       "removed_at": null
     },
     {
+      "id": "THELEGOMOVIE2VIDEOGAME",
+      "title": "The LEGO Movie 2 Videogame",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BRGVJJB8S6FV"
+      ],
+      "xcloud_title_id": "THELEGOMOVIE2VIDEOGAME",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Warner Bros. Games",
+      "developer": "TT Games",
+      "base_product_id": "BRGVJJB8S6FV",
+      "xbox_title_id": 605741753,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.10727.69727741749630559.d20aa8cc-5d01-4c3c-a824-9b244c6486bd.1892ac20-d8fc-4c65-9cf0-763a63d89d78",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-07T03:22:49Z",
+      "last_changed_at": "2026-08-07T03:22:49Z",
+      "added_at": "2026-08-07T03:22:49Z",
+      "removed_at": null
+    },
+    {
+      "id": "THELEGOMOVIEVIDEOGAME",
+      "title": "The LEGO Movie Videogame",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C42GGWF64WH8"
+      ],
+      "xcloud_title_id": "THELEGOMOVIEVIDEOGAME",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Warner Bros. Games",
+      "developer": "Traveller's Tales",
+      "base_product_id": "C42GGWF64WH8",
+      "xbox_title_id": 1755825192,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.10145.66928923068968049.ecc88210-5e53-4f2b-b6b2-831522e31cb1.07d79b1d-645c-4013-988e-6c4a21e62af7",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-07T03:22:49Z",
+      "last_changed_at": "2026-08-07T03:22:49Z",
+      "added_at": "2026-08-07T03:22:49Z",
+      "removed_at": null
+    },
+    {
       "id": "THELONGDARK",
       "title": "The Long Dark",
       "streamable": true,
@@ -87331,5 +87405,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-07T00:20:11Z"
+  "generated_at": "2026-08-07T03:22:49Z"
 }
