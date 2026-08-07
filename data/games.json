@@ -1,5 +1,5 @@
 {
-  "count": 2365,
+  "count": 2366,
   "market": "US",
   "games": [
     {
@@ -6662,7 +6662,7 @@
       "developer": "Kenny Sun",
       "base_product_id": "9MWXF3SRD7QN",
       "xbox_title_id": 1848927238,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.12118.13835016463632115.ff511f8a-9163-4f5c-ad59-a2477b07361c.2a07b249-9ce6-4cd3-b969-c54874eb5489",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.49009.13835016463632115.666396b5-f6e8-4a0a-ae87-81ee6b77084a.d422168a-035e-42c7-819e-d93987acea85",
       "is_free": false,
       "price_value": 14.99,
       "price_formatted": "$14.99",
@@ -47334,6 +47334,43 @@
       "removed_at": null
     },
     {
+      "id": "MONSTERSARECOMING",
+      "title": "Monsters are Coming!",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PJBKF27C16M"
+      ],
+      "xcloud_title_id": "MONSTERSARECOMING",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Ludogram",
+      "base_product_id": "9PJBKF27C16M",
+      "xbox_title_id": 1806088999,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27775.14214770193219588.d7b03b82-15f1-412f-bb45-0e565e91a1bc.d088b3b7-14fa-4c4f-8f72-e5af300bee0c",
+      "is_free": false,
+      "price_value": 8.99,
+      "price_formatted": "$8.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-07T00:20:11Z",
+      "last_changed_at": "2026-08-07T00:20:11Z",
+      "added_at": "2026-08-07T00:20:11Z",
+      "removed_at": null
+    },
+    {
       "id": "MONSTERSURVIVORS",
       "title": "Monster Survivors",
       "streamable": true,
@@ -57569,7 +57606,7 @@
       "developer": "id Software, Nightdive Studios, MachineGames",
       "base_product_id": "9P1Z43KRNQD4",
       "xbox_title_id": 1843641391,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.31797.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.d1944e73-cd9b-4fd2-914c-4a4c3db63b39",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28466.14497943460299347.698189cd-abde-4390-8de0-c7c0eba77ee7.5ba95be5-47a5-4c64-81a9-a272ef8d1ab4",
       "is_free": false,
       "price_value": 9.99,
       "price_formatted": "$9.99",
@@ -87294,5 +87331,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-06T14:46:49Z"
+  "generated_at": "2026-08-07T00:20:11Z"
 }

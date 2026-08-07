@@ -4600,3 +4600,4 @@
 {"kind":"tier_status_changed","new_value":"included","detail":"Date Everything!","xcloud_title_id":"DATEEVERYTHING","run_id":68,"old_value":"purchase","tier_key":"ultimate","game_id":"DATEEVERYTHING","occurred_at":"2026-08-04T14:44:42Z"}
 {"kind":"tier_status_changed","new_value":"included","detail":"MIO: Memories in Orbit","xcloud_title_id":"MIOMEMORIESINORBIT","run_id":68,"old_value":"purchase","tier_key":"premium","game_id":"MIOMEMORIESINORBIT","occurred_at":"2026-08-04T14:44:42Z"}
 {"kind":"tier_status_changed","new_value":"included","detail":"MIO: Memories in Orbit","xcloud_title_id":"MIOMEMORIESINORBIT","run_id":68,"old_value":"purchase","tier_key":"ultimate","game_id":"MIOMEMORIESINORBIT","occurred_at":"2026-08-04T14:44:42Z"}
+{"kind":"game_added","new_value":null,"detail":"Monsters are Coming!","xcloud_title_id":"MONSTERSARECOMING","run_id":75,"old_value":null,"tier_key":null,"game_id":"MONSTERSARECOMING","occurred_at":"2026-08-07T00:20:11Z"}
