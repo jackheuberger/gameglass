@@ -51145,7 +51145,7 @@
       "developer": "Hello Games",
       "base_product_id": "BQVQTL3PCH05",
       "xbox_title_id": 964706972,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.6972.68818099466568894.391e0700-449d-4430-a634-7339176aa70e.6f6fe001-0d83-4624-923c-e5b5d00836c2",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.7092.68818099466568894.c45f3219-f40b-416f-b0ee-34cb9652410f.ca4d1687-ccff-4a3c-82c7-967fe95ba8f5",
       "is_free": false,
       "price_value": 59.99,
       "price_formatted": "$59.99",
@@ -87405,5 +87405,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-10T13:50:44Z"
+  "generated_at": "2026-08-11T02:31:16Z"
 }
