@@ -1,5 +1,5 @@
 {
-  "count": 2368,
+  "count": 2369,
   "market": "US",
   "games": [
     {
@@ -85707,6 +85707,43 @@
       "removed_at": null
     },
     {
+      "id": "WOLFENSTEIN3D",
+      "title": "Wolfenstein 3D",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BSXDD75Q561F"
+      ],
+      "xcloud_title_id": "WOLFENSTEIN3D",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Bethesda Softworks",
+      "developer": "id Software",
+      "base_product_id": "BSXDD75Q561F",
+      "xbox_title_id": 947714459,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37624.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.fc19b891-8dc4-4c4a-897e-5b920463c8fe",
+      "is_free": false,
+      "price_value": 4.99,
+      "price_formatted": "$4.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-12T02:49:56Z",
+      "last_changed_at": "2026-08-12T02:49:56Z",
+      "added_at": "2026-08-12T02:49:56Z",
+      "removed_at": null
+    },
+    {
       "id": "WOLFENSTEINIITHENEWCOLOSSUS",
       "title": "Wolfenstein® II: The New Colossus™",
       "streamable": true,
@@ -87405,5 +87442,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-11T19:25:56Z"
+  "generated_at": "2026-08-12T02:49:56Z"
 }

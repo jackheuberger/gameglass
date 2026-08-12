@@ -4603,3 +4603,4 @@
 {"kind":"game_added","new_value":null,"detail":"Monsters are Coming!","xcloud_title_id":"MONSTERSARECOMING","run_id":75,"old_value":null,"tier_key":null,"game_id":"MONSTERSARECOMING","occurred_at":"2026-08-07T00:20:11Z"}
 {"kind":"game_added","new_value":null,"detail":"The LEGO Movie 2 Videogame","xcloud_title_id":"THELEGOMOVIE2VIDEOGAME","run_id":76,"old_value":null,"tier_key":null,"game_id":"THELEGOMOVIE2VIDEOGAME","occurred_at":"2026-08-07T03:22:49Z"}
 {"kind":"game_added","new_value":null,"detail":"The LEGO Movie Videogame","xcloud_title_id":"THELEGOMOVIEVIDEOGAME","run_id":76,"old_value":null,"tier_key":null,"game_id":"THELEGOMOVIEVIDEOGAME","occurred_at":"2026-08-07T03:22:49Z"}
+{"kind":"game_added","new_value":null,"detail":"Wolfenstein 3D","xcloud_title_id":"WOLFENSTEIN3D","run_id":95,"old_value":null,"tier_key":null,"game_id":"WOLFENSTEIN3D","occurred_at":"2026-08-12T02:49:56Z"}
