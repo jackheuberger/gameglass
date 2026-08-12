@@ -1,5 +1,5 @@
 {
-  "count": 2369,
+  "count": 2370,
   "market": "US",
   "games": [
     {
@@ -76319,6 +76319,43 @@
       "removed_at": null
     },
     {
+      "id": "THELORDOFTHERINGSWARINTHENORTHLEGACYEDITION",
+      "title": "The Lord of the Rings: War in the North™ - Legacy Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NW5319WVF3H"
+      ],
+      "xcloud_title_id": "THELORDOFTHERINGSWARINTHENORTHLEGACYEDITION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Aspyr Media, Inc.",
+      "developer": "Aspyr Media, Inc.",
+      "base_product_id": "9NW5319WVF3H",
+      "xbox_title_id": 2079193177,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.16267.14456347487415802.98351e07-f50e-4449-85ea-f85c85995df8.763b54e1-3365-4f87-9689-383e5d8c9666",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-12T19:30:16Z",
+      "last_changed_at": "2026-08-12T19:30:16Z",
+      "added_at": "2026-08-12T19:30:16Z",
+      "removed_at": null
+    },
+    {
       "id": "THEMANGAWORKS",
       "title": "The Manga Works",
       "streamable": true,
@@ -87442,5 +87479,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-12T13:53:08Z"
+  "generated_at": "2026-08-12T19:30:16Z"
 }
