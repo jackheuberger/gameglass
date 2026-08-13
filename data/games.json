@@ -1,5 +1,5 @@
 {
-  "count": 2370,
+  "count": 2371,
   "market": "US",
   "games": [
     {
@@ -22170,6 +22170,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DUSKFADE",
+      "title": "Duskfade",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PJ6LFFJZD2M"
+      ],
+      "xcloud_title_id": "DUSKFADE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Fireshine Games",
+      "developer": "Weird Beluga",
+      "base_product_id": "9PJ6LFFJZD2M",
+      "xbox_title_id": 1692013692,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.21047.14222046295070672.36de82ad-cc0a-49b0-96e4-a465e7b4033f.4bb53f01-dbc3-4d5a-80d9-8e216b6a78c6",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-13T08:00:38Z",
+      "last_changed_at": "2026-08-13T08:00:38Z",
+      "added_at": "2026-08-13T08:00:38Z",
       "removed_at": null
     },
     {
@@ -87479,5 +87516,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-13T02:51:48Z"
+  "generated_at": "2026-08-13T08:00:38Z"
 }
