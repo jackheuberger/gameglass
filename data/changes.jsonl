@@ -4609,3 +4609,4 @@
 {"kind":"game_added","new_value":null,"detail":"Wild Blue Skies","xcloud_title_id":"WILDBLUESKIES","run_id":103,"old_value":null,"tier_key":null,"game_id":"WILDBLUESKIES","occurred_at":"2026-08-14T02:52:11Z"}
 {"kind":"game_added","new_value":null,"detail":"Hell Let Loose: Vietnam","xcloud_title_id":"HELLLETLOOSEVIETNAM","run_id":103,"old_value":null,"tier_key":null,"game_id":"HELLLETLOOSEVIETNAM","occurred_at":"2026-08-14T02:52:11Z"}
 {"kind":"price_changed","new_value":"$24.99","detail":"Mutant Football League 2","xcloud_title_id":"MUTANTFOOTBALLLEAGUE2","run_id":105,"old_value":"$29.99","tier_key":null,"game_id":"MUTANTFOOTBALLLEAGUE2","occurred_at":"2026-08-14T13:49:35Z"}
+{"kind":"price_changed","new_value":null,"detail":"Mafia: Definitive Edition","xcloud_title_id":"MAFIADEFINITIVEEDITION","run_id":106,"old_value":"$39.99","tier_key":null,"game_id":"MAFIADEFINITIVEEDITION","occurred_at":"2026-08-14T19:21:10Z"}
