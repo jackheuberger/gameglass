@@ -4606,3 +4606,5 @@
 {"kind":"game_added","new_value":null,"detail":"Wolfenstein 3D","xcloud_title_id":"WOLFENSTEIN3D","run_id":95,"old_value":null,"tier_key":null,"game_id":"WOLFENSTEIN3D","occurred_at":"2026-08-12T02:49:56Z"}
 {"kind":"game_added","new_value":null,"detail":"The Lord of the Rings: War in the North™ - Legacy Edition","xcloud_title_id":"THELORDOFTHERINGSWARINTHENORTHLEGACYEDITION","run_id":98,"old_value":null,"tier_key":null,"game_id":"THELORDOFTHERINGSWARINTHENORTHLEGACYEDITION","occurred_at":"2026-08-12T19:30:16Z"}
 {"kind":"game_added","new_value":null,"detail":"Duskfade","xcloud_title_id":"DUSKFADE","run_id":100,"old_value":null,"tier_key":null,"game_id":"DUSKFADE","occurred_at":"2026-08-13T08:00:38Z"}
+{"kind":"game_added","new_value":null,"detail":"Wild Blue Skies","xcloud_title_id":"WILDBLUESKIES","run_id":103,"old_value":null,"tier_key":null,"game_id":"WILDBLUESKIES","occurred_at":"2026-08-14T02:52:11Z"}
+{"kind":"game_added","new_value":null,"detail":"Hell Let Loose: Vietnam","xcloud_title_id":"HELLLETLOOSEVIETNAM","run_id":103,"old_value":null,"tier_key":null,"game_id":"HELLLETLOOSEVIETNAM","occurred_at":"2026-08-14T02:52:11Z"}

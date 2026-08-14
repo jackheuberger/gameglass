@@ -1,5 +1,5 @@
 {
-  "count": 2371,
+  "count": 2373,
   "market": "US",
   "games": [
     {
@@ -33529,6 +33529,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "HELLLETLOOSEVIETNAM",
+      "title": "Hell Let Loose: Vietnam",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PKS8XZC74X5"
+      ],
+      "xcloud_title_id": "HELLLETLOOSEVIETNAM",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Team17",
+      "developer": "Expression Games",
+      "base_product_id": "9PKS8XZC74X5",
+      "xbox_title_id": 2062957237,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55322.14261197412048594.b848ae61-916b-46db-b2d3-0f078b779235.cba46df0-6cfd-4e35-9b58-b6d97fcec6f6",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-14T02:52:11Z",
+      "last_changed_at": "2026-08-14T02:52:11Z",
+      "added_at": "2026-08-14T02:52:11Z",
       "removed_at": null
     },
     {
@@ -85154,6 +85191,43 @@
       "removed_at": null
     },
     {
+      "id": "WILDBLUESKIES",
+      "title": "Wild Blue Skies",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PLVS5P1ZSRX"
+      ],
+      "xcloud_title_id": "WILDBLUESKIES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Balor Games",
+      "developer": "Chuhai Labs",
+      "base_product_id": "9PLVS5P1ZSRX",
+      "xbox_title_id": 1998334767,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23638.14309998389616913.c4a5d442-eff8-455e-b50c-249dc744a8af.eb474e5f-bb5b-4fd9-aee4-2cd0b520fe50",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-14T02:52:11Z",
+      "last_changed_at": "2026-08-14T02:52:11Z",
+      "added_at": "2026-08-14T02:52:11Z",
+      "removed_at": null
+    },
+    {
       "id": "WILDFIRE",
       "title": "Wildfire",
       "streamable": true,
@@ -87516,5 +87590,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-13T19:29:53Z"
+  "generated_at": "2026-08-14T02:52:11Z"
 }
