@@ -1,5 +1,5 @@
 {
-  "count": 2373,
+  "count": 2374,
   "market": "US",
   "games": [
     {
@@ -18038,6 +18038,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DEFENDEROFTHECROWNTHELEGENDRETURNS",
+      "title": "Defender of the Crown: The Legend Returns",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N4W35GX7MP6"
+      ],
+      "xcloud_title_id": "DEFENDEROFTHECROWNTHELEGENDRETURNS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Nordcurrent Labs",
+      "developer": "Black Tower Basement",
+      "base_product_id": "9N4W35GX7MP6",
+      "xbox_title_id": 1835728091,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.50988.13979480945810231.ca8338b9-5858-4c73-93cf-860c562aefef.c28cdfd8-6416-4e3d-988f-57f8947c2c4a",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-15T01:55:05Z",
+      "last_changed_at": "2026-08-15T01:55:05Z",
+      "added_at": "2026-08-15T01:55:05Z",
       "removed_at": null
     },
     {
@@ -43650,7 +43687,7 @@
     {
       "id": "MAFIADEFINITIVEEDITION",
       "title": "Mafia: Definitive Edition",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NZC09NNR93L"
@@ -43678,9 +43715,9 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-08-14T19:21:10Z",
+      "last_changed_at": "2026-08-15T01:55:05Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-08-15T01:55:05Z"
     },
     {
       "id": "MAFIATHEOLDCOUNTRY",
@@ -70233,13 +70270,15 @@
       "programs": [
         "GPULTIMATE",
         "CALLISTO",
-        "IO",
-        "GANYMEDE"
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
-        "essential": "unavailable",
-        "premium": "unavailable",
-        "starter": "unavailable",
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
         "ultimate": "purchase"
       },
       "publisher": "Unknown Worlds Entertainment, Inc.",
@@ -70252,7 +70291,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-15T01:55:05Z",
       "added_at": null,
       "removed_at": null
     },
@@ -87590,5 +87629,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-14T19:21:10Z"
+  "generated_at": "2026-08-15T01:55:05Z"
 }
