@@ -1,5 +1,5 @@
 {
-  "count": 2452,
+  "count": 2454,
   "market": "US",
   "games": [
     {
@@ -71044,6 +71044,43 @@
       "removed_at": null
     },
     {
+      "id": "STARFIELDDIGITALARTBOOKORIGINALSOUNDTRACK",
+      "title": "Starfield Premium Edition Upgrade",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NNS5CDB6CVM"
+      ],
+      "xcloud_title_id": "STARFIELDDIGITALARTBOOKORIGINALSOUNDTRACK",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Bethesda Softworks",
+      "developer": "Bethesda Game Studios",
+      "base_product_id": "9NNS5CDB6CVM",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.65405.13732821976181916.6d8808d5-1395-4e34-a65a-2f665740ff4d.a70fab93-c2bf-43e6-b438-8caa28e4ffd7",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-17T19:02:55Z",
+      "last_changed_at": "2026-08-17T19:02:55Z",
+      "added_at": "2026-08-17T19:02:55Z",
+      "removed_at": null
+    },
+    {
       "id": "STARLIGHTLEGACY",
       "title": "Starlight Legacy",
       "streamable": true,
@@ -75541,6 +75578,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "TESIVOBLIVIONREMASTEREDDIGITALARTBOOKORIGINALSOUNDTRACK",
+      "title": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PG0T8LFL7LH"
+      ],
+      "xcloud_title_id": "TESIVOBLIVIONREMASTEREDDIGITALARTBOOKORIGINALSOUNDTRACK",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Bethesda Softworks",
+      "developer": "Bethesda Game Studios, Virtuos",
+      "base_product_id": "9PG0T8LFL7LH",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.14485.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.2b1587b5-d667-4487-ad34-6bf969b4f12a",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-17T19:02:55Z",
+      "last_changed_at": "2026-08-17T19:02:55Z",
+      "added_at": "2026-08-17T19:02:55Z",
       "removed_at": null
     },
     {
@@ -90515,5 +90589,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-17T13:14:24Z"
+  "generated_at": "2026-08-17T19:02:55Z"
 }
