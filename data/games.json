@@ -80280,7 +80280,7 @@
     {
       "id": "THESINKINGCITY2",
       "title": "The Sinking City 2 – Pre-Order",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9MTJNBHVGFR2"
@@ -80310,9 +80310,9 @@
       "price_formatted": "$49.99",
       "price_currency": "USD",
       "first_seen_at": "2026-08-18T01:55:49Z",
-      "last_changed_at": "2026-08-18T01:55:49Z",
+      "last_changed_at": "2026-08-18T07:08:48Z",
       "added_at": "2026-08-18T01:55:49Z",
-      "removed_at": null
+      "removed_at": "2026-08-18T07:08:48Z"
     },
     {
       "id": "THESISTERS2ROADTOFAME",
@@ -90626,5 +90626,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-18T01:55:49Z"
+  "generated_at": "2026-08-18T07:08:48Z"
 }
