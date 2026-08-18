@@ -1584,9 +1584,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Aerial_Knight Games",
       "developer": "Aerial_Knight",
@@ -1598,7 +1598,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-18T19:03:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -9236,9 +9236,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "91Act",
       "developer": "91Act",
@@ -9250,7 +9250,7 @@
       "price_formatted": "$34.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-18T19:03:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -61557,9 +61557,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Nyamakop",
       "developer": "Nyamakop",
@@ -61571,7 +61571,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-18T19:03:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -62897,7 +62897,7 @@
       "developer": "Cybernetic Walrus",
       "base_product_id": "9PFNXM9G4N83",
       "xbox_title_id": 1813567768,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.8871.14201145446258372.b8459f1d-d6a0-4384-9663-78eb371ff437.3f684369-65a4-4823-a61c-b3e8ac9cce40",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.38679.14201145446258372.6505701a-9e34-4340-9a72-11d5e60dd04f.de53a635-c0e5-43f2-b835-c5bcadcb35c0",
       "is_free": false,
       "price_value": 12.99,
       "price_formatted": "$12.99",
@@ -71210,9 +71210,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Seed Sparkle Lab",
       "developer": "Seed Sparkle Lab",
@@ -71224,7 +71224,7 @@
       "price_formatted": "$39.49",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-18T19:03:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -80279,11 +80279,12 @@
     },
     {
       "id": "THESINKINGCITY2",
-      "title": "The Sinking City 2 – Pre-Order",
+      "title": "The Sinking City 2",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9MTJNBHVGFR2"
+        "9MTJNBHVGFR2",
+        "9NFPC1Z6HSN4"
       ],
       "xcloud_title_id": "THESINKINGCITY2",
       "programs": [
@@ -80302,15 +80303,15 @@
       },
       "publisher": "Frogwares",
       "developer": "Frogwares",
-      "base_product_id": "9MTJNBHVGFR2",
-      "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.63439.13807572437112927.36ea39f2-455f-4612-a4e5-320029301373.1054fb2f-e54e-49f5-943f-d3fa16155dd6",
+      "base_product_id": "9NFPC1Z6HSN4",
+      "xbox_title_id": 1753283788,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.63439.13590595071290403.b20d9e2c-1a91-4170-940e-b3c1cbdec1a2.0dc2ec2c-f7f4-4611-ad5d-2f3f4491fb91",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-08-18T01:55:49Z",
-      "last_changed_at": "2026-08-18T13:14:00Z",
+      "last_changed_at": "2026-08-18T19:03:42Z",
       "added_at": "2026-08-18T13:14:00Z",
       "removed_at": null
     },
@@ -90126,9 +90127,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "KO_OP",
       "developer": "KO_OP",
@@ -90140,7 +90141,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-18T19:03:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -90626,5 +90627,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-18T13:14:00Z"
+  "generated_at": "2026-08-18T19:03:42Z"
 }
