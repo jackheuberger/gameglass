@@ -71218,7 +71218,7 @@
       "developer": "Seed Sparkle Lab",
       "base_product_id": "9P86LLDCL5CC",
       "xbox_title_id": 1792306481,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.20858.14098133702783854.dd1b5339-b2e2-4a7c-879f-2ab24930aa8a.413b4021-4133-4f23-8e5b-a95b27c7f998",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.1205.14098133702783854.46a1fda2-36c3-4396-94aa-a5ad05b760ae.d3d08ee2-76ec-46d4-8f96-b36b7d2586f4",
       "is_free": false,
       "price_value": 39.49,
       "price_formatted": "$39.49",
@@ -80280,7 +80280,7 @@
     {
       "id": "THESINKINGCITY2",
       "title": "The Sinking City 2 – Pre-Order",
-      "streamable": false,
+      "streamable": true,
       "market": "US",
       "product_ids": [
         "9MTJNBHVGFR2"
@@ -80306,13 +80306,13 @@
       "xbox_title_id": null,
       "image_url": "https://store-images.s-microsoft.com/image/apps.63439.13807572437112927.36ea39f2-455f-4612-a4e5-320029301373.1054fb2f-e54e-49f5-943f-d3fa16155dd6",
       "is_free": false,
-      "price_value": 49.99,
-      "price_formatted": "$49.99",
-      "price_currency": "USD",
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
       "first_seen_at": "2026-08-18T01:55:49Z",
-      "last_changed_at": "2026-08-18T07:08:48Z",
-      "added_at": "2026-08-18T01:55:49Z",
-      "removed_at": "2026-08-18T07:08:48Z"
+      "last_changed_at": "2026-08-18T13:14:00Z",
+      "added_at": "2026-08-18T13:14:00Z",
+      "removed_at": null
     },
     {
       "id": "THESISTERS2ROADTOFAME",
@@ -90626,5 +90626,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-18T07:08:48Z"
+  "generated_at": "2026-08-18T13:14:00Z"
 }
