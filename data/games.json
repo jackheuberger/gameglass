@@ -10498,7 +10498,7 @@
       "developer": "Blue Mammoth Games",
       "base_product_id": "C3B1V55CDL0C",
       "xbox_title_id": 687339341,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.4660.13891464908023063.822e2f99-8660-42d9-a91a-df117c02c955.f294796d-b404-4031-9f97-3325f36c5ad8",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.54575.13891464908023063.a2b61e88-13f6-441b-9e30-86dbd5d67e01.9a535c78-96cc-466f-b15e-b4c99c64c13c",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -12788,7 +12788,7 @@
       "developer": "Mind Control Games",
       "base_product_id": "9NQNLN91CKM9",
       "xbox_title_id": 1885205020,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.8639.13766159356224120.0013c2c5-18f5-4aeb-a575-a7a3aba7cc9c.df60010d-ed61-4f2a-b36c-fadb8a574726",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30947.13766159356224120.5cadba47-357c-48bd-9360-4e11e80cd9ff.79ebbe7f-ca29-4565-8b8f-d5935903042b",
       "is_free": false,
       "price_value": 19.99,
       "price_formatted": "$19.99",
@@ -90664,5 +90664,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-19T13:14:40Z"
+  "generated_at": "2026-08-19T19:01:05Z"
 }
