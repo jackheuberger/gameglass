@@ -1,5 +1,5 @@
 {
-  "count": 2455,
+  "count": 2456,
   "market": "US",
   "games": [
     {
@@ -56950,11 +56950,11 @@
       "xbox_title_id": 2055797787,
       "image_url": "https://store-images.s-microsoft.com/image/apps.23361.13913340857306952.aab7aa50-6878-471e-b42e-417da9cbf43b.e275ae5e-fc85-4a08-a2da-361600998203",
       "is_free": false,
-      "price_value": 14.99,
-      "price_formatted": "$14.99",
+      "price_value": 3.99,
+      "price_formatted": "$3.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-19T07:12:03Z",
       "added_at": null,
       "removed_at": null
     },
@@ -85897,6 +85897,43 @@
       "removed_at": null
     },
     {
+      "id": "VAPORWORLDOVERTHEMIND",
+      "title": "Vapor World: Over The Mind (Game Preview)",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N5VHX8KMVNV"
+      ],
+      "xcloud_title_id": "VAPORWORLDOVERTHEMIND",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "SKT",
+      "developer": "ALIVE Inc.",
+      "base_product_id": "9N5VHX8KMVNV",
+      "xbox_title_id": 2084680545,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.65.14026248854300725.24c1a503-6f14-4fc7-a295-1bcfe3194519.65635d68-5e3f-4ad0-b9be-7c2e7171c4aa",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-19T07:12:03Z",
+      "last_changed_at": "2026-08-19T07:12:03Z",
+      "added_at": "2026-08-19T07:12:03Z",
+      "removed_at": null
+    },
+    {
       "id": "VED",
       "title": "VED",
       "streamable": true,
@@ -90627,5 +90664,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-19T01:57:44Z"
+  "generated_at": "2026-08-19T07:12:03Z"
 }
