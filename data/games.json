@@ -753,7 +753,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "9P6LNN3KZ75R",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28777.14622094146520822.dd10b45d-d4ba-4d81-97ac-16df982cba9f.89de5ace-83de-4ab7-85e9-6529102c54d6",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.33698.14622094146520822.81fe033b-6e3b-41e2-8d48-bfc1464ec5c2.191a7514-3395-4911-80a9-c2b8f34f8406",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -11086,7 +11086,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "BT5P2X999VH2",
       "xbox_title_id": 267695549,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.30243.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.9d63924a-301c-4076-b409-123a02fa2cdb",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.62039.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.0b24b3ad-34d5-48da-9063-07b84ca7a0fa",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -89695,7 +89695,7 @@
       "developer": "KURO GAMES",
       "base_product_id": "9P41GS5W1C6L",
       "xbox_title_id": 2025121273,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28391.14597666972638877.4c0fa7d8-85b9-41ec-92d4-4c095a3f069c.3758f43c-723c-440a-97c8-63ce4681cdb2",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.11686.14597666972638877.55b60d16-e509-4234-9639-bf718c9d3da9.917c2cf2-fda8-4665-9159-77f66ac65991",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -90664,5 +90664,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-20T01:57:10Z"
+  "generated_at": "2026-08-20T07:11:56Z"
 }
