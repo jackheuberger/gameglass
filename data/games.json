@@ -1,5 +1,5 @@
 {
-  "count": 2457,
+  "count": 2459,
   "market": "US",
   "games": [
     {
@@ -33164,6 +33164,43 @@
       "removed_at": null
     },
     {
+      "id": "GROUNDZEROHERO",
+      "title": "Ground Zero Hero",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NQCB8MGT9QD"
+      ],
+      "xcloud_title_id": "GROUNDZEROHERO",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Acclaim, Inc.",
+      "developer": "Rowan Edmondson",
+      "base_product_id": "9NQCB8MGT9QD",
+      "xbox_title_id": 2039794466,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.42439.13772143548994075.3e90cce6-5f59-49ea-894e-1f75bce52ade.7f270290-5d85-43cc-937e-3740a0bbc6f6",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-20T19:05:40Z",
+      "last_changed_at": "2026-08-20T19:05:40Z",
+      "added_at": "2026-08-20T19:05:40Z",
+      "removed_at": null
+    },
+    {
       "id": "GUACAMELEE2",
       "title": "Guacamelee! 2",
       "streamable": true,
@@ -59762,6 +59799,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "PUPPERGEIST",
+      "title": "Puppergeist",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MWBP434XL2V"
+      ],
+      "xcloud_title_id": "PUPPERGEIST",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Serenity Forge",
+      "developer": "Serenity Forge",
+      "base_product_id": "9MWBP434XL2V",
+      "xbox_title_id": 1635087490,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.42554.13842460410800249.53b6aba0-711d-411f-b928-08401f4157d6.2ddf9961-3b9d-42c2-a40d-d0f3b1ae5049",
+      "is_free": false,
+      "price_value": 4.99,
+      "price_formatted": "$4.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-20T19:05:40Z",
+      "last_changed_at": "2026-08-20T19:05:40Z",
+      "added_at": "2026-08-20T19:05:40Z",
       "removed_at": null
     },
     {
@@ -90701,5 +90775,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-20T13:19:44Z"
+  "generated_at": "2026-08-20T19:05:40Z"
 }
