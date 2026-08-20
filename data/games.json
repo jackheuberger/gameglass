@@ -1,5 +1,5 @@
 {
-  "count": 2456,
+  "count": 2457,
   "market": "US",
   "games": [
     {
@@ -23132,6 +23132,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DUNGEONANTIQUA2",
+      "title": "Dungeon Antiqua 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NRX1XJB3NRN"
+      ],
+      "xcloud_title_id": "DUNGEONANTIQUA2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "AMATA K.K.",
+      "developer": "Shiromofu Factory ",
+      "base_product_id": "9NRX1XJB3NRN",
+      "xbox_title_id": 1819428072,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.42594.14374567388653049.46a3293a-6cf2-4c77-968b-7b4011280cdc.71f5cca9-221c-4f53-95de-47c8474454a2",
+      "is_free": false,
+      "price_value": 10.99,
+      "price_formatted": "$10.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-20T13:19:44Z",
+      "last_changed_at": "2026-08-20T13:19:44Z",
+      "added_at": "2026-08-20T13:19:44Z",
       "removed_at": null
     },
     {
@@ -77383,7 +77420,7 @@
       "developer": "NEXON Games Co., Ltd.",
       "base_product_id": "9P8FBXKMCLWC",
       "xbox_title_id": 2069980568,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17645.14088967971354578.01b53e80-2620-4e99-be92-539f5ab411e4.3dab91c3-b697-4358-ace2-025880028c6b",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.69.14088967971354578.6905da5e-eaf6-4f51-aabc-e221a5476323.b846aec6-4e7d-4847-b836-27fcdb7e97a6",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -81711,7 +81748,7 @@
       "developer": "Big Ant Studios",
       "base_product_id": "9N9BVHQCC13T",
       "xbox_title_id": 2108611710,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.20077.13540174811688360.ec13c590-efcd-463b-8705-9a3f6466045d.05ac85c1-c44a-4b9e-8a55-1e3cc01d8257",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.16675.13540174811688360.44c2840b-0636-45c1-a7b6-cde5fd033416.c1b3f2b4-6e20-48e1-add7-a70111b90688",
       "is_free": false,
       "price_value": 49.99,
       "price_formatted": "$49.99",
@@ -90664,5 +90701,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-20T07:11:56Z"
+  "generated_at": "2026-08-20T13:19:44Z"
 }
