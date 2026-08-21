@@ -82630,7 +82630,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "Arc Games",
+      "publisher": "XD",
       "developer": "Echtra Inc.",
       "base_product_id": "9N944BP7SMCG",
       "xbox_title_id": 1610985256,
@@ -90775,5 +90775,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-21T07:15:03Z"
+  "generated_at": "2026-08-21T13:17:06Z"
 }
