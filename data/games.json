@@ -1,5 +1,5 @@
 {
-  "count": 2459,
+  "count": 2460,
   "market": "US",
   "games": [
     {
@@ -3969,6 +3969,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "APIDYASPECIAL",
+      "title": "Apidya' Special",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PGN4HZST80V"
+      ],
+      "xcloud_title_id": "APIDYASPECIAL",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "ININ",
+      "developer": "Team Apidya",
+      "base_product_id": "9PGN4HZST80V",
+      "xbox_title_id": 1753762836,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57632.14182230085170165.0b234d17-6257-4b55-b3bb-aee9d4ef1c0b.25d4a670-49bd-4437-8179-2a7fb685887c",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-25T01:58:51Z",
+      "last_changed_at": "2026-08-25T01:58:51Z",
+      "added_at": "2026-08-25T01:58:51Z",
       "removed_at": null
     },
     {
@@ -90775,5 +90812,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-24T19:04:09Z"
+  "generated_at": "2026-08-25T01:58:51Z"
 }
