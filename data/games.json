@@ -4512,7 +4512,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "HandyGames",
+      "publisher": "THQ Nordic Mobile",
       "developer": "Massive Miniteam",
       "base_product_id": "9PLKNFNPRXFG",
       "xbox_title_id": 1708780346,
@@ -18079,7 +18079,7 @@
       "developer": "Behaviour Interactive Inc.",
       "base_product_id": "C0N22P73QZ60",
       "xbox_title_id": 102425831,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.51458.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.33981a4c-a34b-4492-b81f-8695c017496b",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.11160.64366672042187759.89bd4c1b-4d8f-40ca-8c54-de07041e776c.e09186b4-26e9-4b26-8a56-ccf9bf41e0c7",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -25281,7 +25281,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "HandyGames",
+      "publisher": "THQ Nordic Mobile",
       "developer": "Herobeat Studios",
       "base_product_id": "9P42DSXNCCDG",
       "xbox_title_id": 1997527592,
@@ -90812,5 +90812,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-25T07:15:51Z"
+  "generated_at": "2026-08-25T13:18:34Z"
 }
