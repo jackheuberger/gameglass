@@ -27751,9 +27751,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "included",
+        "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "included"
+        "ultimate": "purchase"
       },
       "publisher": "SQUARE ENIX",
       "developer": "",
@@ -27765,7 +27765,7 @@
       "price_formatted": "$11.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-26T20:08:45Z",
       "added_at": null,
       "removed_at": null
     },
@@ -90886,5 +90886,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-26T13:25:47Z"
+  "generated_at": "2026-08-26T20:08:45Z"
 }

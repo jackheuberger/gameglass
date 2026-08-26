@@ -4719,3 +4719,5 @@
 {"kind":"game_added","new_value":null,"detail":"Blood Dungeon","xcloud_title_id":"BLOODDUNGEON","run_id":149,"old_value":null,"tier_key":null,"game_id":"BLOODDUNGEON","occurred_at":"2026-08-25T19:05:50Z"}
 {"kind":"game_added","new_value":null,"detail":"Once Human","xcloud_title_id":"ONCEHUMAN","run_id":150,"old_value":null,"tier_key":null,"game_id":"ONCEHUMAN","occurred_at":"2026-08-26T02:04:32Z"}
 {"kind":"price_changed","new_value":null,"detail":"The Witcher 3: Wild Hunt","xcloud_title_id":"THEWITCHER3WILDHUNT","run_id":150,"old_value":"$39.99","tier_key":null,"game_id":"THEWITCHER3WILDHUNT","occurred_at":"2026-08-26T02:04:32Z"}
+{"kind":"tier_status_changed","new_value":"purchase","detail":"FINAL FANTASY","xcloud_title_id":"FINALFANTASY","run_id":153,"old_value":"included","tier_key":"premium","game_id":"FINALFANTASY","occurred_at":"2026-08-26T20:08:45Z"}
+{"kind":"tier_status_changed","new_value":"purchase","detail":"FINAL FANTASY","xcloud_title_id":"FINALFANTASY","run_id":153,"old_value":"included","tier_key":"ultimate","game_id":"FINALFANTASY","occurred_at":"2026-08-26T20:08:45Z"}
