@@ -1,5 +1,5 @@
 {
-  "count": 2461,
+  "count": 2462,
   "market": "US",
   "games": [
     {
@@ -16537,7 +16537,7 @@
     },
     {
       "id": "CRIMSONDESERT",
-      "title": "Crimson Desert",
+      "title": "Crimson Desert Enhanced",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -16562,7 +16562,7 @@
       "developer": "Pearl Abyss",
       "base_product_id": "9P6HVHDP2PGK",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.7399.13616283370123336.55bc585b-1fc2-4652-8965-61111d6975e0.ae965239-2363-444e-b678-28c7f2bcb121",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37439.14619536583353710.9e307ff1-14c4-4d1a-813e-cef9bbad5dc5.0b920a87-5641-48d8-8077-56565c34dd2a",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -54560,6 +54560,43 @@
       "removed_at": null
     },
     {
+      "id": "ONCEHUMAN",
+      "title": "Once Human",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N0QWXC09MPT"
+      ],
+      "xcloud_title_id": "ONCEHUMAN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "included",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
+      "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
+      "base_product_id": "9N0QWXC09MPT",
+      "xbox_title_id": 1989157631,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.18684.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.9c47915e-3e98-4ad5-8df7-1bdf2bbf4f9d",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-26T02:04:32Z",
+      "last_changed_at": "2026-08-26T02:04:32Z",
+      "added_at": "2026-08-26T02:04:32Z",
+      "removed_at": null
+    },
+    {
       "id": "ONELONELYOUTPOST",
       "title": "One Lonely Outpost",
       "streamable": true,
@@ -81528,11 +81565,11 @@
       "xbox_title_id": 1799887933,
       "image_url": "https://store-images.s-microsoft.com/image/apps.20648.69531514236615003.534d4f71-03cb-4592-929a-b00a7de28b58.54adf0c7-6e6f-4d36-b639-503087c6fab2",
       "is_free": false,
-      "price_value": 39.99,
-      "price_formatted": "$39.99",
-      "price_currency": "USD",
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-08-03T20:04:23Z",
+      "last_changed_at": "2026-08-26T02:04:32Z",
       "added_at": null,
       "removed_at": null
     },
@@ -90849,5 +90886,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-25T19:05:50Z"
+  "generated_at": "2026-08-26T02:04:32Z"
 }

@@ -4717,3 +4717,5 @@
 {"kind":"game_added","new_value":null,"detail":"Puppergeist","xcloud_title_id":"PUPPERGEIST","run_id":129,"old_value":null,"tier_key":null,"game_id":"PUPPERGEIST","occurred_at":"2026-08-20T19:05:40Z"}
 {"kind":"game_added","new_value":null,"detail":"Apidya' Special","xcloud_title_id":"APIDYASPECIAL","run_id":146,"old_value":null,"tier_key":null,"game_id":"APIDYASPECIAL","occurred_at":"2026-08-25T01:58:51Z"}
 {"kind":"game_added","new_value":null,"detail":"Blood Dungeon","xcloud_title_id":"BLOODDUNGEON","run_id":149,"old_value":null,"tier_key":null,"game_id":"BLOODDUNGEON","occurred_at":"2026-08-25T19:05:50Z"}
+{"kind":"game_added","new_value":null,"detail":"Once Human","xcloud_title_id":"ONCEHUMAN","run_id":150,"old_value":null,"tier_key":null,"game_id":"ONCEHUMAN","occurred_at":"2026-08-26T02:04:32Z"}
+{"kind":"price_changed","new_value":null,"detail":"The Witcher 3: Wild Hunt","xcloud_title_id":"THEWITCHER3WILDHUNT","run_id":150,"old_value":"$39.99","tier_key":null,"game_id":"THEWITCHER3WILDHUNT","occurred_at":"2026-08-26T02:04:32Z"}
