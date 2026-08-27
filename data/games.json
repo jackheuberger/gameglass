@@ -1,5 +1,5 @@
 {
-  "count": 2464,
+  "count": 2465,
   "market": "US",
   "games": [
     {
@@ -36261,7 +36261,7 @@
       "developer": "IO Interactive A/S",
       "base_product_id": "9NN82NH949D5",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.40462.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.f9c8a755-68ee-4e26-a6fb-6ee2420656c0",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.32819.13747708785346246.d429cba3-dfbc-40be-a26f-985cc70239e7.59251ec9-7b0f-4848-9b49-739c05ad3fbf",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -62279,6 +62279,43 @@
       "removed_at": null
     },
     {
+      "id": "RESONANCEAPLAGUETALELEGACY",
+      "title": "Resonance: A Plague Tale Legacy",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PPBNCXP0096"
+      ],
+      "xcloud_title_id": "RESONANCEAPLAGUETALELEGACY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Focus Entertainment",
+      "developer": "Asobo Studio",
+      "base_product_id": "9PPBNCXP0096",
+      "xbox_title_id": 1790707834,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5592.14332070469741251.b219f2ed-9161-4e36-815d-0a90a76aae89.a0a67d9d-a853-4710-a5d5-2abec52630ce",
+      "is_free": false,
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-27T22:20:09Z",
+      "last_changed_at": "2026-08-27T22:20:09Z",
+      "added_at": "2026-08-27T22:20:09Z",
+      "removed_at": null
+    },
+    {
       "id": "RETROCLASSICS",
       "title": "Retro Classics",
       "streamable": true,
@@ -63158,11 +63195,11 @@
       "xbox_title_id": 1813567768,
       "image_url": "https://store-images.s-microsoft.com/image/apps.38679.14201145446258372.6505701a-9e34-4340-9a72-11d5e60dd04f.de53a635-c0e5-43f2-b835-c5bcadcb35c0",
       "is_free": false,
-      "price_value": 12.99,
-      "price_formatted": "$12.99",
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-08-27T22:20:09Z",
       "added_at": null,
       "removed_at": null
     },
@@ -90960,5 +90997,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-27T09:57:52Z"
+  "generated_at": "2026-08-27T22:20:09Z"
 }
