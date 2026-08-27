@@ -1,5 +1,5 @@
 {
-  "count": 2462,
+  "count": 2464,
   "market": "US",
   "games": [
     {
@@ -10691,6 +10691,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "BRIGANDINEABYSS",
+      "title": "BRIGANDINE ABYSS",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PC77K8TKXMN"
+      ],
+      "xcloud_title_id": "BRIGANDINEABYSS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "HAPPINET CORPORATION",
+      "developer": "HAPPINET CORPORATION",
+      "base_product_id": "9PC77K8TKXMN",
+      "xbox_title_id": 1750660486,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23508.14179029502907745.a46f43a1-6fe5-415a-9bf5-1fa1e87c10e3.e10fef88-f5c5-472c-9c25-44901885cdc6",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-27T09:57:52Z",
+      "last_changed_at": "2026-08-27T09:57:52Z",
+      "added_at": "2026-08-27T09:57:52Z",
       "removed_at": null
     },
     {
@@ -27751,9 +27788,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "SQUARE ENIX",
       "developer": "",
@@ -27765,7 +27802,7 @@
       "price_formatted": "$11.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-08-26T20:08:45Z",
+      "last_changed_at": "2026-08-27T09:57:52Z",
       "added_at": null,
       "removed_at": null
     },
@@ -29529,7 +29566,7 @@
       "developer": "Bad Guitar Studio",
       "base_product_id": "9MW715J1P29D",
       "xbox_title_id": 1616563209,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.21506.13848987134544813.7b30c9e3-5909-4f77-afb6-d69bee0cdff7.425dec97-1c1e-4b5e-a30f-eb076bf68f51",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8618.13848987134544813.d162bf9e-36cf-4556-97b2-4e3906f60e29.2271406f-be26-4c52-a48b-fa13c3bf0de7",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -88376,6 +88413,43 @@
       "removed_at": null
     },
     {
+      "id": "WHISPEROFTHEHOUSE",
+      "title": "Whisper Of The House",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NQ6XPGTPX86"
+      ],
+      "xcloud_title_id": "WHISPEROFTHEHOUSE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "E-Home Entertainment Development Company Ltd",
+      "developer": "GD Studio",
+      "base_product_id": "9NQ6XPGTPX86",
+      "xbox_title_id": 1643960804,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40064.13774780544976425.7b2a0a8c-cfb7-4456-ab6f-913678a9a0ae.a7526c43-8619-4cb3-acf6-33e98dd0b969",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-27T09:57:52Z",
+      "last_changed_at": "2026-08-27T09:57:52Z",
+      "added_at": "2026-08-27T09:57:52Z",
+      "removed_at": null
+    },
+    {
       "id": "WHOPRESSEDMUTEONUNCLEMARCUS",
       "title": "Who Pressed Mute on Uncle Marcus?",
       "streamable": true,
@@ -90886,5 +90960,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-26T20:08:45Z"
+  "generated_at": "2026-08-27T09:57:52Z"
 }
