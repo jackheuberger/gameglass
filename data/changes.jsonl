@@ -4727,3 +4727,4 @@
 {"kind":"tier_status_changed","new_value":"included","detail":"FINAL FANTASY","xcloud_title_id":"FINALFANTASY","run_id":154,"old_value":"purchase","tier_key":"ultimate","game_id":"FINALFANTASY","occurred_at":"2026-08-27T09:57:52Z"}
 {"kind":"game_added","new_value":null,"detail":"Resonance: A Plague Tale Legacy","xcloud_title_id":"RESONANCEAPLAGUETALELEGACY","run_id":155,"old_value":null,"tier_key":null,"game_id":"RESONANCEAPLAGUETALELEGACY","occurred_at":"2026-08-27T22:20:09Z"}
 {"kind":"price_changed","new_value":"$14.99","detail":"Roadside Research (Game Preview)","xcloud_title_id":"ROADSIDERESEARCHGAMEPREVIEW","run_id":155,"old_value":"$12.99","tier_key":null,"game_id":"ROADSIDERESEARCHGAMEPREVIEW","occurred_at":"2026-08-27T22:20:09Z"}
+{"kind":"price_changed","new_value":"$39.99","detail":"High On Life 2","xcloud_title_id":"HIGHONLIFE2","run_id":157,"old_value":"$59.99","tier_key":null,"game_id":"HIGHONLIFE2","occurred_at":"2026-08-28T22:25:40Z"}
