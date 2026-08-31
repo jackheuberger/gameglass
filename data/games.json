@@ -1,5 +1,5 @@
 {
-  "count": 2465,
+  "count": 2564,
   "market": "US",
   "games": [
     {
@@ -2451,6 +2451,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "AKXOLOTLTOGETHER",
+      "title": "AK-xolotl: Together",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N0423W2ZVNQ"
+      ],
+      "xcloud_title_id": "AKXOLOTLTOGETHER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Playstack",
+      "developer": "2Awesome Studio",
+      "base_product_id": "9N0423W2ZVNQ",
+      "xbox_title_id": 1958267791,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.3096.13932897969197961.f7fadfdb-bbe2-4e18-ae5b-df85cbcac4e9.ce36770e-a11c-4e42-8a04-bbf6631640cb",
+      "is_free": false,
+      "price_value": 18.99,
+      "price_formatted": "$18.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -11726,6 +11763,43 @@
       "removed_at": null
     },
     {
+      "id": "BUSSIMULATOR",
+      "title": "Bus Simulator",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BRHB1G8F8ZCB"
+      ],
+      "xcloud_title_id": "BUSSIMULATOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment GmbH",
+      "developer": "stillalive studios GmbH",
+      "base_product_id": "BRHB1G8F8ZCB",
+      "xbox_title_id": 189838548,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.14886.69718987761116351.7499bad4-77e3-40ba-85f6-18af92c5637c.7c2c1c91-bb87-47de-a2c6-98422800c99c",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "BUSSIMULATOR21NEXTSTOP",
       "title": "Bus Simulator 21 Next Stop",
       "streamable": true,
@@ -15389,6 +15463,80 @@
       "removed_at": null
     },
     {
+      "id": "CONSTRUCTIONSIMULATOR2USCONSOLEEDITION",
+      "title": "Construction Simulator 2 US - Console Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BRVQ1WG51NVG"
+      ],
+      "xcloud_title_id": "CONSTRUCTIONSIMULATOR2USCONSOLEEDITION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment GmbH",
+      "developer": "weltenbauer. SE GmbH",
+      "base_product_id": "BRVQ1WG51NVG",
+      "xbox_title_id": 54541475,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.11134.69354060577290453.36036bd0-cf6d-4d3f-a707-000097521d74.70d902b0-dfbb-4248-afc3-17f6e1836aac",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "CONSTRUCTIONSIMULATOR3CONSOLEEDITION",
+      "title": "Construction Simulator 3 - Console Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PFWHZ390TG6"
+      ],
+      "xcloud_title_id": "CONSTRUCTIONSIMULATOR3CONSOLEEDITION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment GmbH",
+      "developer": "weltenbauer. SE",
+      "base_product_id": "9PFWHZ390TG6",
+      "xbox_title_id": 1954997644,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.62259.14192672241411353.a2ecf069-8a1e-4180-9571-b178eab9929d.7ee4e614-00db-4296-bbaf-657b96caf0c4",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "CONTENTWARNING",
       "title": "Content Warning",
       "streamable": true,
@@ -17276,6 +17424,117 @@
       "removed_at": null
     },
     {
+      "id": "CURIOUSEXPEDITION",
+      "title": "Curious Expedition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PBN5HM4GZ21"
+      ],
+      "xcloud_title_id": "CURIOUSEXPEDITION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful Publishing AB",
+      "developer": "Maschinen-Mensch",
+      "base_product_id": "9PBN5HM4GZ21",
+      "xbox_title_id": 1886223481,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.50395.14120135512770182.0569865b-c1bc-4c9f-a97c-c3121fcef7c5.006c21db-b4c4-4468-8a2d-ca7ebba14b81",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "CURIOUSEXPEDITION2",
+      "title": "Curious Expedition 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N4W5BSCWMNW"
+      ],
+      "xcloud_title_id": "CURIOUSEXPEDITION2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful Publishing AB",
+      "developer": "Maschinen-Mensch",
+      "base_product_id": "9N4W5BSCWMNW",
+      "xbox_title_id": 1730512265,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.46476.13979503061310704.e1db7982-22cf-4969-a5a1-34388d4aae55.9b429e40-2232-40c9-a6bb-31304d1e46cc",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "CURSEDTOGOLF",
+      "title": "Cursed to Golf",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NRPWX7GB616"
+      ],
+      "xcloud_title_id": "CURSEDTOGOLF",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful Publishing AB",
+      "developer": "Chuhai Labs",
+      "base_product_id": "9NRPWX7GB616",
+      "xbox_title_id": 2143418799,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27570.14378626962245387.c7455caa-59ee-4faf-aa13-dc2124017808.04e3b0f4-360f-4b26-832d-b18dff39fc9c",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "CURSEOFTHEDEADGODS",
       "title": "Curse of the Dead Gods",
       "streamable": true,
@@ -17569,6 +17828,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DANDARATRIALSOFFEAREDITION",
+      "title": "Dandara: Trials of Fear Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BQQD1KHRWWL8"
+      ],
+      "xcloud_title_id": "DANDARATRIALSOFFEAREDITION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Long Hat House",
+      "base_product_id": "BQQD1KHRWWL8",
+      "xbox_title_id": 215134312,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.24183.68696967995274095.2ec90168-5c17-4a4b-b0a2-8711a5cf12bc.68f26291-0d14-4292-b0c8-7737ffb0e678",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -18124,6 +18420,80 @@
       "first_seen_at": "2026-08-15T13:04:09Z",
       "last_changed_at": "2026-08-15T13:04:09Z",
       "added_at": "2026-08-15T13:04:09Z",
+      "removed_at": null
+    },
+    {
+      "id": "DCUNIVERSEONLINEFORXBOXONE",
+      "title": "DC Universe Online for Xbox One",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C59QBPB8P1XJ"
+      ],
+      "xcloud_title_id": "DCUNIVERSEONLINEFORXBOXONE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Daybreak Game Company, LLC",
+      "developer": "Daybreak Games",
+      "base_product_id": "C59QBPB8P1XJ",
+      "xbox_title_id": 821136798,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.9697.67106165561056339.6549359b-879c-4468-9125-2ec4f108b18d.ee6ecf03-cb44-481b-8148-2eeb8c476500",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "DCUNIVERSEONLINEFORXBOXSERIESXS",
+      "title": "DC Universe Online for Xbox Series X|S",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PPBQVV15N4P"
+      ],
+      "xcloud_title_id": "DCUNIVERSEONLINEFORXBOXSERIESXS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Daybreak Game Company, LLC",
+      "developer": "Daybreak Games",
+      "base_product_id": "9PPBQVV15N4P",
+      "xbox_title_id": 1632796682,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.9697.14332118905032674.ecb9b184-4706-4d0a-a89d-fcb521754d24.4efa76df-eaa1-481d-8097-006593b58a16",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -19148,6 +19518,43 @@
       "first_seen_at": "2026-08-15T01:55:05Z",
       "last_changed_at": "2026-08-15T01:55:05Z",
       "added_at": "2026-08-15T01:55:05Z",
+      "removed_at": null
+    },
+    {
+      "id": "DEFENSEGRID2",
+      "title": "Defense Grid 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BRK1B5GSB6W4"
+      ],
+      "xcloud_title_id": "DEFENSEGRID2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "505 Games",
+      "developer": "Hidden Path Entertainment",
+      "base_product_id": "BRK1B5GSB6W4",
+      "xbox_title_id": 1669682262,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8803.69760344721355921.0ff3fed6-84df-419e-bd2f-565be1f20fdf.d55e8dcc-c121-406a-8776-e8accee92de7",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -26808,6 +27215,43 @@
       "removed_at": null
     },
     {
+      "id": "FAMILYMAN",
+      "title": "Family Man",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PBLWHXZ8HSH"
+      ],
+      "xcloud_title_id": "FAMILYMAN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "No More Robots",
+      "developer": "Broken Bear Games",
+      "base_product_id": "9PBLWHXZ8HSH",
+      "xbox_title_id": 2106598447,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.21574.14120966309122188.aca0ad5f-be5f-4fa8-9b85-018caec22c49.fba29d38-3f90-49a9-9c02-7c656c28be71",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "FARAWAYTRAIN",
       "title": "FARAWAY TRAIN",
       "streamable": true,
@@ -27286,6 +27730,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "FASHIONPOLICESQUAD",
+      "title": "Fashion Police Squad",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PNBCCNNKBQV"
+      ],
+      "xcloud_title_id": "FASHIONPOLICESQUAD",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "No More Robots",
+      "developer": "Mopeful Games",
+      "base_product_id": "9PNBCCNNKBQV",
+      "xbox_title_id": 1912037728,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.2017.14347380787690921.b6f88ebd-72dc-4c85-8bf8-f2f1aacc4b87.cd0503b3-23c2-40e9-aff3-23298b2832f8",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -28251,6 +28732,43 @@
       "removed_at": null
     },
     {
+      "id": "FIREGIRLHACKNSPLASHRESCUEDX",
+      "title": "Firegirl: Hack 'n Splash Rescue DX",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MZLRXF2XRBH"
+      ],
+      "xcloud_title_id": "FIREGIRLHACKNSPLASHRESCUEDX",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful Publishing AB",
+      "developer": "",
+      "base_product_id": "9MZLRXF2XRBH",
+      "xbox_title_id": 1962339231,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13384.13867912346543696.c12b522a-7315-41fa-97d2-d54958f52eb3.9cfbff5a-ddef-4c7a-8fc4-d4e472fdc5f9",
+      "is_free": false,
+      "price_value": 17.99,
+      "price_formatted": "$17.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "FIREWATCH",
       "title": "Firewatch",
       "streamable": true,
@@ -28322,6 +28840,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "FISHINGBARENTSSEA",
+      "title": "Fishing: Barents Sea Complete Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P0CN8J4XG1W"
+      ],
+      "xcloud_title_id": "FISHINGBARENTSSEA",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment GmbH",
+      "developer": "Misc Games AS",
+      "base_product_id": "9P0CN8J4XG1W",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55288.14463113198428854.562cf0b9-efac-407e-9cff-a59ec348c45d.ba886ec0-7336-4653-a91c-07abe6c1f44d",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -29648,6 +30203,43 @@
       "first_seen_at": "2026-08-15T13:04:09Z",
       "last_changed_at": "2026-08-15T13:04:09Z",
       "added_at": "2026-08-15T13:04:09Z",
+      "removed_at": null
+    },
+    {
+      "id": "FRIENDSVSFRIENDS",
+      "title": "Friends vs Friends",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MWCJ0LCR9G6"
+      ],
+      "xcloud_title_id": "FRIENDSVSFRIENDS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Brainwash Gang",
+      "base_product_id": "9MWCJ0LCR9G6",
+      "xbox_title_id": 2043510457,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.45656.13841916038801377.8606d448-5cea-4d25-85b1-d890d5d8889a.64055ad6-753e-4d1c-945d-46a8d39bac2f",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -30983,6 +31575,43 @@
       "removed_at": null
     },
     {
+      "id": "GEMSOFWAR",
+      "title": "Gems of War",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BQZKFWSZX483"
+      ],
+      "xcloud_title_id": "GEMSOFWAR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "505 Games Srl",
+      "developer": "Infinity Plus Two",
+      "base_product_id": "BQZKFWSZX483",
+      "xbox_title_id": 597771444,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23783.68837181350156116.046b1042-4c72-4005-82e2-34731570237d.5d69a0e7-2d1c-451d-ac51-2c9ab4ee9d14",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "GENERATIONZERO",
       "title": "Generation Zero®",
       "streamable": true,
@@ -32275,6 +32904,80 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "GONNER2",
+      "title": "GONNER2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NRZHK9QN558"
+      ],
+      "xcloud_title_id": "GONNER2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Art in Heart",
+      "base_product_id": "9NRZHK9QN558",
+      "xbox_title_id": 1699062321,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.62618.14373853701406965.3950f607-624d-4a2c-a2ce-e4875c8a18a1.4aaba3a9-9907-48e5-a521-74bc83b2c42f",
+      "is_free": false,
+      "price_value": 12.99,
+      "price_formatted": "$12.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "GONNERBLUEBERRYEDITION",
+      "title": "GoNNER - BLüEBERRY EDiTION",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BRJ4KRC08BTQ"
+      ],
+      "xcloud_title_id": "GONNERBLUEBERRYEDITION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Art in Heart",
+      "base_product_id": "BRJ4KRC08BTQ",
+      "xbox_title_id": 394654741,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.14513.69707214148980395.37703713-2fab-43c6-9071-5d6a886a210b.a5f85f4f-c614-4e5b-ad0b-d2a56ab7cd45",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -34235,6 +34938,43 @@
       "removed_at": null
     },
     {
+      "id": "HANDOFFATE",
+      "title": "Hand of Fate",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BV0LH18Q1VHW"
+      ],
+      "xcloud_title_id": "HANDOFFATE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Defiant Development",
+      "developer": "Defiant Development",
+      "base_product_id": "BV0LH18Q1VHW",
+      "xbox_title_id": 1822336858,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57846.70629721364006074.1786a51b-2dcb-4276-b71d-b33298602eb1.dbf8fd1e-bebe-4599-a89b-115b5a01a2cf",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "HANNAH",
       "title": "Hannah",
       "streamable": true,
@@ -35194,6 +35934,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "HELLFRONTHONEYMOON",
+      "title": "HELLFRONT: HONEYMOON",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MSTTVV5NK1B"
+      ],
+      "xcloud_title_id": "HELLFRONTHONEYMOON",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful Games",
+      "developer": "Skygoblin",
+      "base_product_id": "9MSTTVV5NK1B",
+      "xbox_title_id": 2115400039,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.32075.13825386973241403.aac42a36-638e-40c6-b958-2a0394cfccb8.670a0127-78aa-4f81-9bac-40dcca79320d",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -37271,6 +38048,43 @@
       "removed_at": null
     },
     {
+      "id": "HOWL",
+      "title": "Howl",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NXK1JN52PRM"
+      ],
+      "xcloud_title_id": "HOWL",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment GmbH",
+      "developer": "Mi'pu'mi Games",
+      "base_product_id": "9NXK1JN52PRM",
+      "xbox_title_id": 2093249265,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29744.14428754083338430.ff63b768-8591-4833-8b73-44c9e2aa6793.eb8a5b30-3a28-49ff-996a-7fbcccd2da4f",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "HOWTOSINGTOOPENYOURHEARTREMASTERED",
       "title": "How to Sing to Open Your Heart Remastered",
       "streamable": true,
@@ -37305,6 +38119,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "HOWTOSURVIVESTORMWARNINGEDITION",
+      "title": "How to Survive: Storm Warning Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C3K1HT81Z3QC"
+      ],
+      "xcloud_title_id": "HOWTOSURVIVESTORMWARNINGEDITION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "505 Games",
+      "developer": "Eko Software",
+      "base_product_id": "C3K1HT81Z3QC",
+      "xbox_title_id": 1026512979,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.6400.66106777037314548.d8e715df-06b0-4389-93a5-c2bbec5828e1.1528b0c4-fb9e-4c9b-a9db-c9325832801e",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -37934,6 +38785,80 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "IDARB",
+      "title": "#IDARB",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BZJH18QJVDVW"
+      ],
+      "xcloud_title_id": "IDARB",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Atari, Digital Eclipse",
+      "developer": "Other Ocean",
+      "base_product_id": "BZJH18QJVDVW",
+      "xbox_title_id": 1019936697,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.56788.63690149064810272.009c04ea-35c0-4c47-b403-067aac4a313e.b5f8784c-2b3b-4a93-9ee6-890e7dc11537",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "IDLECHAMPIONSOFTHEFORGOTTENREALMS",
+      "title": "Idle Champions of the Forgotten Realms",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BNZ2TD4Q2PVD"
+      ],
+      "xcloud_title_id": "IDLECHAMPIONSOFTHEFORGOTTENREALMS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Codename Entertainment Incorporated",
+      "developer": "Codename Entertainment Incorporated",
+      "base_product_id": "BNZ2TD4Q2PVD",
+      "xbox_title_id": 273290529,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.25905.67630815381189211.a04bba8d-45d6-471c-a70a-64cb741eab28.6247d0cb-19f7-471b-8ca2-fe207675c598",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -41555,6 +42480,43 @@
       "removed_at": null
     },
     {
+      "id": "KINGDOMEIGHTIES",
+      "title": "Kingdom Eighties",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PJRKNNFDN08"
+      ],
+      "xcloud_title_id": "KINGDOMEIGHTIES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Fury Studios",
+      "base_product_id": "9PJRKNNFDN08",
+      "xbox_title_id": 1815601187,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.17428.14276639340532911.ae2f7dcb-c2a2-4e3b-9bb7-39741b6e4481.05e46704-0edb-4a86-91be-d9aed39657fb",
+      "is_free": false,
+      "price_value": 11.99,
+      "price_formatted": "$11.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "KINGDOMHEARTSHD1525REMIX",
       "title": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
       "streamable": true,
@@ -41663,6 +42625,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "KINGDOMNEWLANDS",
+      "title": "Kingdom: New Lands",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C3L6F8GL5LJK"
+      ],
+      "xcloud_title_id": "KINGDOMNEWLANDS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Noio",
+      "base_product_id": "C3L6F8GL5LJK",
+      "xbox_title_id": 1055556936,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.25142.66084178781808662.5cbdeec6-594f-44e2-ab1a-acbdbbe8e331.ba16bcfa-7f17-4da1-a1db-faa54823c4e3",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -42628,6 +43627,43 @@
       "removed_at": null
     },
     {
+      "id": "LAYERSOFFEAR2016",
+      "title": "Layers of Fear (2016)",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BNKXZ9WFM6H3"
+      ],
+      "xcloud_title_id": "LAYERSOFFEAR2016",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Bloober Team",
+      "developer": "Bloober Team",
+      "base_product_id": "BNKXZ9WFM6H3",
+      "xbox_title_id": 240478325,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.38343.67990502280903314.b4999edb-5d46-4857-8978-e5d87884c301.d02d088f-86ec-41e3-9a0e-48ec87ac6cec",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "LAYERSOFFEAR2023",
       "title": "Layers of Fear (2023)",
       "streamable": true,
@@ -42995,6 +44031,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "LEGOBRICKTALES",
+      "title": "LEGO® Bricktales",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MSZQDN56D3G"
+      ],
+      "xcloud_title_id": "LEGOBRICKTALES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful Publishing AB",
+      "developer": "ClockStone Studio",
+      "base_product_id": "9MSZQDN56D3G",
+      "xbox_title_id": 2005013689,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29845.13599221130594431.8b8e655f-e7ea-48a9-b502-6b65fafe824e.3009f5bb-eb75-4464-8dad-42573062e962",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -43513,6 +44586,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "LEGOTHEHOBBIT",
+      "title": "LEGO® The Hobbit™",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BXZSX21X0S7X"
+      ],
+      "xcloud_title_id": "LEGOTHEHOBBIT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Warner Bros. Games",
+      "developer": "Traveller's Tales",
+      "base_product_id": "BXZSX21X0S7X",
+      "xbox_title_id": 1764536463,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64655.63947935064990729.be828575-a0bc-4049-8e23-be90dbff2496.35fb0ca3-15c9-4632-ae78-665ac00f1ef0",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -44184,6 +45294,43 @@
       "removed_at": null
     },
     {
+      "id": "LIFTOFFDRONERACING",
+      "title": "Liftoff: Drone Racing",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NT7N192GP85"
+      ],
+      "xcloud_title_id": "LIFTOFFDRONERACING",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment GmbH",
+      "developer": "LuGus Studios",
+      "base_product_id": "9NT7N192GP85",
+      "xbox_title_id": 2096549844,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.6992.14423626409365246.1828011f-b62a-435f-ac82-31fe395626e5.e13f6a2f-4fae-421e-ab62-8168ea7256be",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "LIGHTITUP",
       "title": "Light-It Up",
       "streamable": true,
@@ -44473,6 +45620,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "LITTLELEAGUEWORLDSERIESBASEBALL2022",
+      "title": "Little League World Series Baseball 2022",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NSFMFR04KVJ"
+      ],
+      "xcloud_title_id": "LITTLELEAGUEWORLDSERIESBASEBALL2022",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "IguanaBee",
+      "base_product_id": "9NSFMFR04KVJ",
+      "xbox_title_id": 2095219699,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.38696.14364309548630983.ef760765-0514-4d21-8568-6a3bec49124d.6079a40a-30a9-40b7-a162-ca7341d87f55",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -44798,6 +45982,80 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "LIVELOCK",
+      "title": "Livelock",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BNJTSCTSMXGM"
+      ],
+      "xcloud_title_id": "LIVELOCK",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Gearbox Publishing",
+      "developer": "Tuque Games",
+      "base_product_id": "BNJTSCTSMXGM",
+      "xbox_title_id": 779348826,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30914.67941961513266504.4adff1e2-abb1-4d80-b8f3-5cafc3a62001.ce46cd35-1741-4071-a433-b1f800639023",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "LOCALNEWSWITHCLIFFROCKSLIDE",
+      "title": "Local News with Cliff Rockslide",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PB5V2288T11"
+      ],
+      "xcloud_title_id": "LOCALNEWSWITHCLIFFROCKSLIDE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "Dolores Entertainment",
+      "base_product_id": "9PB5V2288T11",
+      "xbox_title_id": 2075258271,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48187.14129321345867236.1440d70c-1b3b-4c74-8454-be17a0b11000.40f889a9-43a7-4ada-b3a0-51263cdf9670",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -45502,6 +46760,43 @@
       "removed_at": null
     },
     {
+      "id": "LOVERSINADANGEROUSSPACETIME",
+      "title": "Lovers in a Dangerous Spacetime",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BQN4N3CGBV1N"
+      ],
+      "xcloud_title_id": "LOVERSINADANGEROUSSPACETIME",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Asteroid Base Inc.",
+      "developer": "Asteroid Base Inc.",
+      "base_product_id": "BQN4N3CGBV1N",
+      "xbox_title_id": 28152906,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.38741.69233827492460525.13e00bd8-554e-4cd8-8342-afd8045886c2.bc39ab80-abc8-45e5-aa16-63effee8c676",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "LOVISH",
       "title": "Lovish",
       "streamable": true,
@@ -45539,6 +46834,43 @@
       "removed_at": null
     },
     {
+      "id": "LOWSTORY",
+      "title": "Low Story",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MV1792N0QTN"
+      ],
+      "xcloud_title_id": "LOWSTORY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "",
+      "base_product_id": "9MV1792N0QTN",
+      "xbox_title_id": 2064180733,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.41398.13798015366430845.889d8521-efa5-4460-879c-4d91ea8cf7a7.f012c403-948e-43cf-b333-222c3121feaa",
+      "is_free": false,
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "LUMINESREMASTERED",
       "title": "LUMINES REMASTERED",
       "streamable": true,
@@ -45573,6 +46905,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "LUMOTETHEMASTERMOTECHRONICLES",
+      "title": "Lumote: The Mastermote Chronicles",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MZV9H5HPCQ1"
+      ],
+      "xcloud_title_id": "LUMOTETHEMASTERMOTECHRONICLES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Wired Productions",
+      "developer": "Luminawesome Games Ltd",
+      "base_product_id": "9MZV9H5HPCQ1",
+      "xbox_title_id": 1884845280,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27612.13862944868854990.f70f7f7c-aabb-4eb0-8ada-a877a595e3a0.b2f284f1-5939-4419-b2de-3d3c37ceb76a",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -47447,6 +48816,43 @@
       "removed_at": null
     },
     {
+      "id": "METABALL",
+      "title": "Metaball",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NHXKP9579JX"
+      ],
+      "xcloud_title_id": "METABALL",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Bucketplay Inc.",
+      "developer": "Bucketplay Inc.",
+      "base_product_id": "9NHXKP9579JX",
+      "xbox_title_id": 2045704503,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58889.13616962751651519.4b8ce6c1-770b-479f-ae6c-0bb45094d082.39de8fa6-da85-4d9e-9200-d95c685741e8",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "METALEDEN",
       "title": "Metal Eden",
       "streamable": true,
@@ -48628,6 +50034,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "MIRACULOUSRISEOFTHESPHINX",
+      "title": "Miraculous: Rise of the Sphinx",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NFN299RJKWT"
+      ],
+      "xcloud_title_id": "MIRACULOUSRISEOFTHESPHINX",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "Magic Pockets",
+      "base_product_id": "9NFN299RJKWT",
+      "xbox_title_id": 1790559387,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.53252.13591785127650672.5c2f2acb-cc2b-4922-b4a9-43e269f3543e.03861973-0e82-463a-a4e8-7502b5dfb769",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -50294,6 +51737,43 @@
       "removed_at": null
     },
     {
+      "id": "MOTHEREDAROLEPLAYINGHORRORGAME",
+      "title": "Mothered - A Role-Playing Horror Game",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MVK022J13BX"
+      ],
+      "xcloud_title_id": "MOTHEREDAROLEPLAYINGHORRORGAME",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "",
+      "base_product_id": "9MVK022J13BX",
+      "xbox_title_id": 2044034598,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.54951.13862100111765227.35e75219-9967-4453-a330-3b4fe39cb363.c50676a5-cb0b-40e3-904b-0817237f1c68",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "MOTOGP24",
       "title": "MotoGP™24",
       "streamable": true,
@@ -51885,6 +53365,43 @@
       "removed_at": null
     },
     {
+      "id": "NASCARARCADERUSH",
+      "title": "NASCAR Arcade Rush",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N1L3W88X7W4"
+      ],
+      "xcloud_title_id": "NASCARARCADERUSH",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "Team6 Game Studios",
+      "base_product_id": "9N1L3W88X7W4",
+      "xbox_title_id": 1685327515,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61.13899283375416525.2f5d86cb-959e-4946-8eec-749829266b44.a3fd6dc6-bd5c-45ff-a17f-a8bfa693dcd4",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "NBA2K26FORXBOXONE",
       "title": "NBA 2K26 for Xbox One",
       "streamable": true,
@@ -52796,6 +54313,117 @@
       "removed_at": null
     },
     {
+      "id": "NICKELODEONKARTRACERS",
+      "title": "Nickelodeon Kart Racers",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C2KJR9VG1L97"
+      ],
+      "xcloud_title_id": "NICKELODEONKARTRACERS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "Bamtang Games",
+      "base_product_id": "C2KJR9VG1L97",
+      "xbox_title_id": 303799945,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.4285.65491095291022674.ec0009cd-d85c-4156-b785-7ba33e8e5766.8c0f75e2-e624-4424-8388-4e3251f6df9e",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "NICKELODEONKARTRACERS2GRANDPRIX",
+      "title": "Nickelodeon Kart Racers 2: Grand Prix",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N9P148DWN6N"
+      ],
+      "xcloud_title_id": "NICKELODEONKARTRACERS2GRANDPRIX",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "BamTang Games",
+      "base_product_id": "9N9P148DWN6N",
+      "xbox_title_id": 2021405472,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.47449.13529081475014503.9aa01db0-4d6b-4ab7-bfb6-6c336e1b3a55.c139485b-b14a-4753-a65a-710816cb7f61",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "NICKELODEONKARTRACERS3SLIMESPEEDWAY",
+      "title": "Nickelodeon Kart Racers 3: Slime Speedway",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NXBQ742JXDT"
+      ],
+      "xcloud_title_id": "NICKELODEONKARTRACERS3SLIMESPEEDWAY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "BamTang Games",
+      "base_product_id": "9NXBQ742JXDT",
+      "xbox_title_id": 1846760960,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37644.14432997544887990.fa4da15c-23b4-4d5b-82cc-a569bd1b0807.c1a01e40-4119-493d-99bc-2155c12f8b50",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "NICKJRPARTYADVENTURE",
       "title": "Nick Jr. Party Adventure",
       "streamable": true,
@@ -52941,6 +54569,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "NIGHTCALL",
+      "title": "Night Call",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NZKR4V4QGD4"
+      ],
+      "xcloud_title_id": "NIGHTCALL",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Monkey Moon and BlackMuffin Studio",
+      "base_product_id": "9NZKR4V4QGD4",
+      "xbox_title_id": 2049412372,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.17850.14474363206747411.f442d349-94f4-468f-b90f-b52503762d1d.a536330c-e60f-4f45-833b-774e5a596dc2",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -55892,6 +57557,43 @@
       "removed_at": null
     },
     {
+      "id": "PAPERCUTMANSION",
+      "title": "Paper Cut Mansion",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N46HW26QGTK"
+      ],
+      "xcloud_title_id": "PAPERCUTMANSION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful Publishing AB",
+      "developer": "Space Lizard Studio",
+      "base_product_id": "9N46HW26QGTK",
+      "xbox_title_id": 2038137251,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29343.13993049709580416.be75621f-cf28-472e-bb45-ebd9df8cb8dd.49e8cde6-e9cd-41b4-a9e8-df6b1a225cfe",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "PAPERIO2",
       "title": "Paper io 2",
       "streamable": true,
@@ -57586,6 +59288,43 @@
       "removed_at": null
     },
     {
+      "id": "PICKLEBALLSMASH",
+      "title": "Pickleball Smash",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N4DL8WL5DV2"
+      ],
+      "xcloud_title_id": "PICKLEBALLSMASH",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "1PXL Games",
+      "base_product_id": "9N4DL8WL5DV2",
+      "xbox_title_id": 2114369983,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.47949.13989336534949937.1c540aed-a39e-41a0-8187-82443dc6da80.f860db40-b3f9-40bc-8e6e-a8a3c1b01b1b",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "PICOPARK2",
       "title": "PICO PARK 2",
       "streamable": true,
@@ -57953,6 +59692,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "PIZZAPOSSUM",
+      "title": "Pizza Possum",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P2W72XG20S5"
+      ],
+      "xcloud_title_id": "PIZZAPOSSUM",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Cosy Computer",
+      "base_product_id": "9P2W72XG20S5",
+      "xbox_title_id": 1776549840,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.16876.14550048188415554.405cfe63-7933-42f0-a295-16f42bdbf26b.22489511-07ff-4d92-ab0e-cfcbf20da3a7",
+      "is_free": false,
+      "price_value": 6.99,
+      "price_formatted": "$6.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -58840,6 +60616,43 @@
       "removed_at": null
     },
     {
+      "id": "POOLNATIONFX",
+      "title": "Pool Nation FX",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BPQM748J3LLT"
+      ],
+      "xcloud_title_id": "POOLNATIONFX",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Cherry Pop Games",
+      "developer": "Cherry Pop Games",
+      "base_product_id": "BPQM748J3LLT",
+      "xbox_title_id": 1375792807,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.18300.68644992474467074.e250e3b4-262e-45a9-9a9d-528ec132f828.0af99c01-07a9-494a-a226-79c8da71462e",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "POOLSLIDESTORY",
       "title": "Pool Slide Story",
       "streamable": true,
@@ -59022,6 +60835,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "PORTALKNIGHTS",
+      "title": "Portal Knights",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BNWM9F3C08B6"
+      ],
+      "xcloud_title_id": "PORTALKNIGHTS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "505 Games",
+      "developer": "Keen Games",
+      "base_product_id": "BNWM9F3C08B6",
+      "xbox_title_id": 671807457,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.42888.67593303145070085.9e7f5b75-7e4b-46cd-88bb-4407d8b12b10.e2ca3308-da90-446f-bc45-850ec5d5f864",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -59321,6 +61171,43 @@
       "removed_at": null
     },
     {
+      "id": "PREDECESSOR",
+      "title": "Predecessor",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NKVBTRRWH6V"
+      ],
+      "xcloud_title_id": "PREDECESSOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Omeda Studios Limited",
+      "developer": "Omeda Studios Limited",
+      "base_product_id": "9NKVBTRRWH6V",
+      "xbox_title_id": 1994868821,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61925.13653755876663909.d2d31287-ac26-41c1-812a-864cd979b131.b447426a-63b0-4ad8-9a76-f61e8db05543",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "PRESERVE",
       "title": "Preserve",
       "streamable": true,
@@ -59503,6 +61390,117 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "PROJECT13",
+      "title": "PROJECT 13",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PCGX3RWLNS7"
+      ],
+      "xcloud_title_id": "PROJECT13",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "",
+      "base_product_id": "9PCGX3RWLNS7",
+      "xbox_title_id": 1642088148,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60714.14174330982755904.e1f2b737-47be-4341-9c5d-f6dca390dca3.9cad30d5-75f1-4821-8e8c-3f1d37a855f6",
+      "is_free": false,
+      "price_value": 5.99,
+      "price_formatted": "$5.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "PROJECT13NIGHTWATCH",
+      "title": "Project 13: Nightwatch",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MTV3VQQNLTT"
+      ],
+      "xcloud_title_id": "PROJECT13NIGHTWATCH",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "Dolores Entertainment",
+      "base_product_id": "9MTV3VQQNLTT",
+      "xbox_title_id": 1788451652,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.15013.13801130907278888.7eb010bf-4d4a-4370-b3fe-0042bbadbfa6.49af0c38-c29c-4631-b674-50ec23f2e77a",
+      "is_free": false,
+      "price_value": 5.99,
+      "price_formatted": "$5.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "PROJECT13TAXIDERMY",
+      "title": "Project 13: Taxidermy",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NT039HV2CX6"
+      ],
+      "xcloud_title_id": "PROJECT13TAXIDERMY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "Dolores Entertainment",
+      "base_product_id": "9NT039HV2CX6",
+      "xbox_title_id": 2093251542,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48757.14358181962097677.ad322ad6-8b27-4f77-8169-aedc3e6dd763.cbc64849-0e95-40cc-ac0d-26f582f5b555",
+      "is_free": false,
+      "price_value": 5.99,
+      "price_formatted": "$5.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -60095,6 +62093,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "PUZZLEQUEST3",
+      "title": "Puzzle Quest 3",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NRL0NM003WW"
+      ],
+      "xcloud_title_id": "PUZZLEQUEST3",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "505 Games Srl",
+      "developer": "Infinity Plus Two",
+      "base_product_id": "9NRL0NM003WW",
+      "xbox_title_id": 2002584553,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.54070.14385553960038166.350a0720-fb12-4b36-91bf-cfdf228649cf.1113116c-6725-4281-b345-452166fe4e02",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -61166,6 +63201,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "RAPALAFISHINGPROSERIES",
+      "title": "Rapala Fishing: Pro Series",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C1WMQR16L9GC"
+      ],
+      "xcloud_title_id": "RAPALAFISHINGPROSERIES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "Concrete Software",
+      "base_product_id": "C1WMQR16L9GC",
+      "xbox_title_id": 957250252,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58924.65667294976924836.50ed7a27-5a7f-4142-86ae-9edcb7c1bf51.673a40b2-e0ab-4c69-b29d-cc6025743db4",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -62834,6 +64906,43 @@
       "removed_at": null
     },
     {
+      "id": "RISEOFTHESLIME",
+      "title": "Rise of the Slime",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N65873LRS41"
+      ],
+      "xcloud_title_id": "RISEOFTHESLIME",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Playstack",
+      "developer": "Bunkovsky Games",
+      "base_product_id": "9N65873LRS41",
+      "xbox_title_id": 1917162302,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.22225.14024842770032966.fb55bcfa-df66-4ca1-be0c-1e66a40edead.78a577ea-0f0d-489b-96e4-9d796e8f352d",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "RISEOFTHETOMBRAIDER",
       "title": "Rise of the Tomb Raider: 20 Year Celebration",
       "streamable": true,
@@ -63497,6 +65606,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "ROGUECOMPANY",
+      "title": "Rogue Company",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BPHSZ44NGDB2"
+      ],
+      "xcloud_title_id": "ROGUECOMPANY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Hi-Rez Studios",
+      "developer": "First Watch Games",
+      "base_product_id": "BPHSZ44NGDB2",
+      "xbox_title_id": 531437752,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57154.68572682910762057.5f670f31-b833-44ab-b5af-270f720c6a8f.dc152f29-315c-4728-9ec7-88d5b2f35171",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -64200,6 +66346,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "RUNBOW",
+      "title": "Runbow",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BTFTN6N7GN18"
+      ],
+      "xcloud_title_id": "RUNBOW",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "13AM Games",
+      "developer": "13AM Games",
+      "base_product_id": "BTFTN6N7GN18",
+      "xbox_title_id": 764522213,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29979.70889566887107089.c9ed2dc8-a39d-4cf1-b86c-0b8ff320f0b4.b380acae-a7bb-470b-85df-17710afd51c9",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -65535,6 +67718,80 @@
       "removed_at": null
     },
     {
+      "id": "SCRIBBLENAUTSMEGAPACK",
+      "title": "Scribblenauts Mega Pack",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BXJ5GK6MCMVJ"
+      ],
+      "xcloud_title_id": "SCRIBBLENAUTSMEGAPACK",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Warner Bros. Games",
+      "developer": "Shiver Entertainment",
+      "base_product_id": "BXJ5GK6MCMVJ",
+      "xbox_title_id": 365310947,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.34185.63090639700626855.556e172c-c003-494a-b0cd-cce2cca367cf.891f1f16-4b0d-407d-8ac4-33e022c41234",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "SCRIBBLENAUTSSHOWDOWN",
+      "title": "Scribblenauts Showdown",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BZRB09RQK88P"
+      ],
+      "xcloud_title_id": "SCRIBBLENAUTSSHOWDOWN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Warner Bros. Games",
+      "developer": "Shiver Entertainment",
+      "base_product_id": "BZRB09RQK88P",
+      "xbox_title_id": 52620879,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.46148.63841542570664378.9ea70363-66be-4d55-a706-119b27917d1e.d5fc7501-5afb-4038-8f89-dc4b91e89697",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "SEAFANTASY",
       "title": "Sea Fantasy",
       "streamable": true,
@@ -66087,6 +68344,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SHADOWOFTHEORIENT",
+      "title": "Shadow of the orient",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NVZT2MP05P0"
+      ],
+      "xcloud_title_id": "SHADOWOFTHEORIENT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "Dolores Entertainment",
+      "base_product_id": "9NVZT2MP05P0",
+      "xbox_title_id": 1867499227,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58154.14459491673185437.3daa8a67-72a9-4dc2-b157-02606257b43b.a48195c7-13ea-4c43-8674-bbf5115c2cb7",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -67640,6 +69934,43 @@
       "removed_at": null
     },
     {
+      "id": "SKULLISLANDRISEOFKONG",
+      "title": "Skull Island: Rise of Kong",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N8NDGT7W3M5"
+      ],
+      "xcloud_title_id": "SKULLISLANDRISEOFKONG",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "IguanaBee",
+      "base_product_id": "9N8NDGT7W3M5",
+      "xbox_title_id": 2073240970,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.39341.14046254477399076.4e7daf43-5b04-4dd0-b275-e33ff395307c.5c39f7ef-5b2b-4e0e-bf48-6623e07eb67f",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "SKULTHEHEROSLAYER",
       "title": "Skul: The Hero Slayer",
       "streamable": true,
@@ -68269,6 +70600,43 @@
       "removed_at": null
     },
     {
+      "id": "SMITE",
+      "title": "SMITE",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C2MHS238PDNS"
+      ],
+      "xcloud_title_id": "SMITE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Hi-Rez Studios",
+      "developer": "Titan Forge Games",
+      "base_product_id": "C2MHS238PDNS",
+      "xbox_title_id": 1134837784,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13479.65518272230759039.e4753e95-d4fe-4193-a3cf-cca491d087f7.f376a072-2653-413a-a2e0-dcf44fde956d",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "SMITE2",
       "title": "SMITE 2 (Game Preview)",
       "streamable": true,
@@ -68710,6 +71078,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T16:11:29Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SNOWSQUALL",
+      "title": "Snow Squall",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NBNZLWZXKD4"
+      ],
+      "xcloud_title_id": "SNOWSQUALL",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "Dolores Entertainment",
+      "base_product_id": "9NBNZLWZXKD4",
+      "xbox_title_id": 1836043414,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8633.13513553485820327.76535ebc-f12b-4629-af25-4212e0b10e73.00f5d197-7cf4-4a36-b2a0-0f1758565854",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -69638,6 +72043,43 @@
       "removed_at": null
     },
     {
+      "id": "SPACEJAMANEWLEGACYTHEGAME",
+      "title": "Space Jam: A New Legacy - The Game",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N9HW342BZ2X"
+      ],
+      "xcloud_title_id": "SPACEJAMANEWLEGACYTHEGAME",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Digital Eclipse",
+      "developer": "Digital Eclipse",
+      "base_product_id": "9N9HW342BZ2X",
+      "xbox_title_id": 1646985614,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.7091.13536847094532539.90d093c1-336b-4445-84a6-e9c57b9ecdb3.9f9e54a7-78ec-456a-b99d-e3d5053a07d1",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "SPACELINESFROMTHEFAROUT",
       "title": "Spacelines from the Far Out",
       "streamable": true,
@@ -69749,6 +72191,43 @@
       "removed_at": null
     },
     {
+      "id": "SPECTROLITESPEEDLIFE",
+      "title": "Spectrolite - Speed Life",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NBFLGG4B86X"
+      ],
+      "xcloud_title_id": "SPECTROLITESPEEDLIFE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "",
+      "base_product_id": "9NBFLGG4B86X",
+      "xbox_title_id": 2066547275,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.15054.13518769064641735.5acb7e05-2e3c-4cbe-ae76-c6fa9f224ef0.cc2ea12d-1433-4eda-a1de-10adb8cda73c",
+      "is_free": false,
+      "price_value": 13.99,
+      "price_formatted": "$13.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "SPEEDBALL",
       "title": "Speedball",
       "streamable": true,
@@ -69820,6 +72299,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SPEEDORDEATH",
+      "title": "Speed or Death",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NZFJMNF0077"
+      ],
+      "xcloud_title_id": "SPEEDORDEATH",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "",
+      "base_product_id": "9NZFJMNF0077",
+      "xbox_title_id": 1899135748,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29997.14481494532159374.7c2b6431-9fd4-4a3f-861d-32bb81511381.c0bb33f2-f3fa-4163-afca-fd17194ff9d8",
+      "is_free": false,
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -71488,6 +74004,43 @@
       "removed_at": null
     },
     {
+      "id": "STARRENEGADES",
+      "title": "Star Renegades",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PHH0RQ51S5V"
+      ],
+      "xcloud_title_id": "STARRENEGADES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Massive Damange Inc.",
+      "base_product_id": "9PHH0RQ51S5V",
+      "xbox_title_id": 2042119715,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.1498.14235934612999103.4c386374-63ac-4851-a81c-84761f0be92e.a1ce1671-9b8c-4417-9d3a-64505370d0ca",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "STARSANDISLAND",
       "title": "Starsand Island",
       "streamable": true,
@@ -72590,6 +75143,43 @@
       "removed_at": null
     },
     {
+      "id": "STREETOUTLAWS2WINNERTAKESALL",
+      "title": "Street Outlaws 2: Winner Takes All",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NBPZ48WH7F3"
+      ],
+      "xcloud_title_id": "STREETOUTLAWS2WINNERTAKESALL",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GameMill Entertainment",
+      "developer": "Team6 Game Studios",
+      "base_product_id": "9NBPZ48WH7F3",
+      "xbox_title_id": 1896598798,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.35579.13513251807696186.ec4cbaf1-5d50-4985-ad03-f2b973b231db.837667dc-5623-45ea-8b49-9abc320c51ad",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "STREETRACERCOLLECTIONQUBYTECLASSICS",
       "title": "Street Racer Collection (QUByte Classics)",
       "streamable": true,
@@ -73515,6 +76105,43 @@
       "removed_at": null
     },
     {
+      "id": "SUPERANIMALROYALE",
+      "title": "Super Animal Royale",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N872VFSPPQL"
+      ],
+      "xcloud_title_id": "SUPERANIMALROYALE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Pixile Studios",
+      "developer": "Pixile Studios",
+      "base_product_id": "9N872VFSPPQL",
+      "xbox_title_id": 1694250070,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.32538.14054958690749653.16f329cc-5828-48ec-a92d-a60bd71bc8f7.3c815fcd-2745-481d-a419-d1ea6568150d",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "SUPERBUCKYBALLTOURNAMENT",
       "title": "Superball",
       "streamable": true,
@@ -73549,6 +76176,80 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SUPERDODGEBALLBEATS",
+      "title": "Super Dodgeball Beats",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NMVWMMMRVGN"
+      ],
+      "xcloud_title_id": "SUPERDODGEBALLBEATS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PlayStack",
+      "developer": "Finalboss Games",
+      "base_product_id": "9NMVWMMMRVGN",
+      "xbox_title_id": 2000371555,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60485.13755069161295775.a48c1d69-9764-4066-8bb6-eb7998256f7a.66354c00-6ced-4794-adb1-4d4d753e9935",
+      "is_free": false,
+      "price_value": 12.99,
+      "price_formatted": "$12.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "SUPERDUNGEONBROS",
+      "title": "Super Dungeon Bros",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BR36ZLXRTK08"
+      ],
+      "xcloud_title_id": "SUPERDUNGEONBROS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Wired Productions",
+      "developer": "React Games",
+      "base_product_id": "BR36ZLXRTK08",
+      "xbox_title_id": 1375034638,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.36473.68901902807955731.b706a66e-e2f1-4794-b5f9-f24105f2ff85.e6e805ff-954c-4df1-8b1a-e47712a00b97",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -73989,6 +76690,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SUPERTIMEFORCE",
+      "title": "Super Time Force",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BS33QFX5JWN6"
+      ],
+      "xcloud_title_id": "SUPERTIMEFORCE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Capy",
+      "developer": "Capy",
+      "base_product_id": "BS33QFX5JWN6",
+      "xbox_title_id": 255219908,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40039.69513894373098429.1122d76e-a258-4379-8450-aa6e3befebc6.a0cb1e52-590a-478b-b526-e5ca2c3e50c6",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -74433,6 +77171,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SWORDSHIP",
+      "title": "Swordship",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NKDJFN3GPX4"
+      ],
+      "xcloud_title_id": "SWORDSHIP",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful Publishing",
+      "developer": "Digital Kingdom",
+      "base_product_id": "9NKDJFN3GPX4",
+      "xbox_title_id": 2078558781,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.38897.13662854197777863.b73f119c-89c3-40f7-b952-00caaf1e9978.5e4d50d8-353e-474c-89e5-c0c4adf4318b",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -76432,6 +79207,43 @@
       "removed_at": null
     },
     {
+      "id": "THEBLACKWITHIN",
+      "title": "The Black Within",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N9252PLT6K3"
+      ],
+      "xcloud_title_id": "THEBLACKWITHIN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "Dolores Entertainment",
+      "base_product_id": "9N9252PLT6K3",
+      "xbox_title_id": 1905188421,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5320.13545857967652662.3d508037-6fc8-476f-8bd3-dd5092119f50.47277e74-daba-4aa3-a60c-5c3fc52459de",
+      "is_free": false,
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "THEBOOKWALKERTHIEFOFTALES",
       "title": "The Bookwalker: Thief of Tales",
       "streamable": true,
@@ -77206,6 +80018,80 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "THEENIGMAMACHINE",
+      "title": "The Enigma Machine",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PKP9F0NZ5PP"
+      ],
+      "xcloud_title_id": "THEENIGMAMACHINE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "",
+      "base_product_id": "9PKP9F0NZ5PP",
+      "xbox_title_id": 2012734912,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.63617.14258689593229520.d367be9a-a130-47e6-890e-1bf6b18afd71.617d338f-fba7-4495-86be-800e0603c263",
+      "is_free": false,
+      "price_value": 8.99,
+      "price_formatted": "$8.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "THEENTROPYCENTRE",
+      "title": "The Entropy Centre",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NLTMM4KTQRM"
+      ],
+      "xcloud_title_id": "THEENTROPYCENTRE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Playstack",
+      "developer": "Stubby Games",
+      "base_product_id": "9NLTMM4KTQRM",
+      "xbox_title_id": 1649386760,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48121.13700473296268482.32996048-3b80-4e25-ba39-fe7dbfbf9348.dd74d972-dbdb-4d53-8618-7847fe67b79a",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -79059,6 +81945,43 @@
       "removed_at": null
     },
     {
+      "id": "THELASTFAITH",
+      "title": "The Last Faith",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P53X94S6T5S"
+      ],
+      "xcloud_title_id": "THELASTFAITH",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Playstack",
+      "developer": "Kumi Souls Games",
+      "base_product_id": "9P53X94S6T5S",
+      "xbox_title_id": 1892179113,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.63736.14576651427491525.80a770a5-b569-4b38-b74e-c8a7994ea7d6.6920dcbf-a9f5-4c61-bd96-5bc9273e3705",
+      "is_free": false,
+      "price_value": 27.99,
+      "price_formatted": "$27.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "THELASTHEROOFNOSTALGAIA",
       "title": "The Last Hero of Nostalgaia",
       "streamable": true,
@@ -79130,6 +82053,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "THELASTWORKER",
+      "title": "The Last Worker",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N6CQK7Z2CM1"
+      ],
+      "xcloud_title_id": "THELASTWORKER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Wired Productions",
+      "developer": "Wolf & Wood, Oiffy",
+      "base_product_id": "9N6CQK7Z2CM1",
+      "xbox_title_id": 1665528964,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.11142.14020866406527584.29b96152-f942-47d0-a34e-8b7dbcbf44bd.c486ef3c-5c4d-46a5-9ef5-088e1b92c9d2",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -79281,6 +82241,43 @@
       "removed_at": null
     },
     {
+      "id": "THELEGONINJAGOMOVIEVIDEOGAME",
+      "title": "The LEGO® NINJAGO® Movie Video Game",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BQKKNPKX1C4P"
+      ],
+      "xcloud_title_id": "THELEGONINJAGOMOVIEVIDEOGAME",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Warner Bros. Games",
+      "developer": "TT Games",
+      "base_product_id": "BQKKNPKX1C4P",
+      "xbox_title_id": 654883159,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.43970.69139473148334582.b7290ab6-508c-479e-8827-a21822bbed42.af0bdf3f-98e6-407c-91a1-910ee0c18a93",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "THELONGDARK",
       "title": "The Long Dark",
       "streamable": true,
@@ -79315,6 +82312,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "THELONGESTROADONEARTH",
+      "title": "The Longest Road on Earth",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PKVL0BR9KMC"
+      ],
+      "xcloud_title_id": "THELONGESTROADONEARTH",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Brainwash Gang and TLR Games",
+      "base_product_id": "9PKVL0BR9KMC",
+      "xbox_title_id": 1710727769,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.18369.14254981136462614.b75ab27d-b1a3-4b5e-95c5-7e50e8454468.678fbc70-8785-4b9d-b19c-0af02e79b226",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -79651,6 +82685,43 @@
       "removed_at": null
     },
     {
+      "id": "THEMOSAIC",
+      "title": "The Mosaic",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N89NQHWRF34"
+      ],
+      "xcloud_title_id": "THEMOSAIC",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Krillbite Studio",
+      "base_product_id": "9N89NQHWRF34",
+      "xbox_title_id": 1756584367,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8632.14048548290227021.156eae26-5358-4797-9206-6f850031d72c.fb0e0c66-e5a9-43ba-8b95-8116509508da",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "THEMOUNDOMENOFCTHULHU",
       "title": "The Mound: Omen of Cthulhu",
       "streamable": true,
@@ -79833,6 +82904,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "THEOUROBOROSKING",
+      "title": "The Ouroboros King",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PHL0PGKTF94"
+      ],
+      "xcloud_title_id": "THEOUROBOROSKING",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "Dolores Entertainment",
+      "base_product_id": "9PHL0PGKTF94",
+      "xbox_title_id": 1866860268,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.42169.14229639700956521.b12eab2b-4a91-46fe-9440-f7cc255a6442.327f9fc2-0e25-4ef5-a549-264405d4cb25",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -81278,6 +84386,80 @@
       "removed_at": null
     },
     {
+      "id": "THETOWNOFLIGHT",
+      "title": "The Town of Light",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BSCP6SP3QXZ7"
+      ],
+      "xcloud_title_id": "THETOWNOFLIGHT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Wired Productions",
+      "developer": "LKA.it",
+      "base_product_id": "BSCP6SP3QXZ7",
+      "xbox_title_id": 94098725,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.35946.70255667364826842.e16d9b90-930e-4299-a1f7-d8d2f294252e.75110a02-47be-48b5-a981-db66b3ade1e8",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "THETURINGTEST",
+      "title": "The Turing Test",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BS2MMFVLKXRK"
+      ],
+      "xcloud_title_id": "THETURINGTEST",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Bulkhead Interactive",
+      "developer": "Bulkhead Interactive",
+      "base_product_id": "BS2MMFVLKXRK",
+      "xbox_title_id": 307442698,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.44398.69523489975139756.2bc423ff-73f1-402d-b7b9-7c75b62dd719.9186324b-17db-4f1f-8b97-19878fc278f9",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "THEWALKINGDEAD1THECOMPLETEFIRSTSEASON",
       "title": "The Walking Dead: The Complete First Season",
       "streamable": true,
@@ -82055,6 +85237,43 @@
       "removed_at": null
     },
     {
+      "id": "TIMERIFT",
+      "title": "Time Rift",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NW3LHXF3MLN"
+      ],
+      "xcloud_title_id": "TIMERIFT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment SL",
+      "developer": "Dolores Entertainment SL",
+      "base_product_id": "9NW3LHXF3MLN",
+      "xbox_title_id": 1881236045,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60891.14452647021457171.702592de-bd67-4feb-8044-4d7ca62fa413.5f2f85b6-a149-4bfc-87ab-38ced86b86ba",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "TIMETRAPHIDDENOBJECTSREMASTERED",
       "title": "Time Trap: Hidden Objects Remastered",
       "streamable": true,
@@ -82275,6 +85494,43 @@
       "removed_at": "2026-07-30T19:58:32Z"
     },
     {
+      "id": "TINYTROOPERSJOINTOPS",
+      "title": "Tiny Troopers Joint Ops",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BS30VMKD7RVX"
+      ],
+      "xcloud_title_id": "TINYTROOPERSJOINTOPS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Wired Productions",
+      "developer": "Epiphany Games",
+      "base_product_id": "BS30VMKD7RVX",
+      "xbox_title_id": 483862571,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.47927.69511614476217803.5bcb4219-49c6-4949-8be4-ea4be65087da.53b52995-1cca-4876-97a5-e7c3e2a3c71a",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "TITANQUEST",
       "title": "Titan Quest",
       "streamable": true,
@@ -82460,6 +85716,80 @@
       "removed_at": null
     },
     {
+      "id": "TOGGES",
+      "title": "Togges",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NGN3TPMW9CP"
+      ],
+      "xcloud_title_id": "TOGGES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful Publishing",
+      "developer": "Regular Studio",
+      "base_product_id": "9NGN3TPMW9CP",
+      "xbox_title_id": 2042798246,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58568.13646836177530012.0cd29849-39b3-43f2-9635-34a5a330cca9.7ed4b18d-098e-47eb-a85e-00433bafa6b9",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "TOMBRAIDERANNIV",
+      "title": "Tomb Raider: Anniv.",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BZJ13K1JKGLP"
+      ],
+      "xcloud_title_id": "TOMBRAIDERANNIV",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
+      "base_product_id": "BZJ13K1JKGLP",
+      "xbox_title_id": 441716108,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.33010.63703957641232998.177fdfdc-28b2-4e28-b9e3-f1f92be54d20.08f278c1-60f3-4b5d-92d5-c8483ff4669a",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "TOMBRAIDERDEFINITIVEEDITION",
       "title": "Tomb Raider: Definitive Edition",
       "streamable": true,
@@ -82531,6 +85861,80 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "TOMBRAIDERLEGEND",
+      "title": "Tomb Raider:Legend",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C0GG86060VF8"
+      ],
+      "xcloud_title_id": "TOMBRAIDERLEGEND",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
+      "base_product_id": "C0GG86060VF8",
+      "xbox_title_id": 654807089,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.18774.64265361305508273.98e0a12c-63db-4e48-94c8-7a1cfe9cf737.46979012-cb60-49f4-adcf-b4143be89f5f",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "TOMBRAIDERUNDERWORLD",
+      "title": "Tomb Raider Underworld",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BVMFBCFLL6QP"
+      ],
+      "xcloud_title_id": "TOMBRAIDERUNDERWORLD",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Crystal Dynamics",
+      "developer": "Crystal Dynamics",
+      "base_product_id": "BVMFBCFLL6QP",
+      "xbox_title_id": 315310415,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5763.71033148530857238.4596a0a8-00fe-4f5d-9a67-11b37c7d6940.4abdbf13-587c-4123-967a-a89ace0bb089",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -85344,6 +88748,43 @@
       "removed_at": null
     },
     {
+      "id": "UNBEATABLE",
+      "title": "UNBEATABLE",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PGHT174FZLQ"
+      ],
+      "xcloud_title_id": "UNBEATABLE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Playstack",
+      "developer": "D-CELL GAMES",
+      "base_product_id": "9PGHT174FZLQ",
+      "xbox_title_id": 1758041918,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.25704.14180630752632377.bf89eee5-25a6-4098-b000-dafff6cac8ed.690986fc-185e-4cbd-b288-923c31d69a43",
+      "is_free": false,
+      "price_value": 27.99,
+      "price_formatted": "$27.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "UNDEADHORDE",
       "title": "Undead Horde",
       "streamable": true,
@@ -87340,6 +90781,43 @@
       "removed_at": null
     },
     {
+      "id": "WARHAMMERAGEOFSIGMARREALMSOFRUIN",
+      "title": "Warhammer Age of Sigmar: Realms of Ruin",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P0VN9WWF7TZ"
+      ],
+      "xcloud_title_id": "WARHAMMERAGEOFSIGMARREALMSOFRUIN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Frontier Developments",
+      "developer": "Frontier Developments",
+      "base_product_id": "9P0VN9WWF7TZ",
+      "xbox_title_id": 2113105582,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.12439.14519515039451176.1850ec54-9d13-483d-b04f-7963d7c27422.d495dc14-0962-4ac0-ba15-f82d8ee55047",
+      "is_free": false,
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "WARHAMMERAGEOFSIGMARSTORMGROUND",
       "title": "Warhammer Age of Sigmar: Storm Ground",
       "streamable": true,
@@ -87596,6 +91074,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "WARROBOTSFRONTIERS",
+      "title": "War Robots: Frontiers - Pilot's Heart",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NHLV358CD75"
+      ],
+      "xcloud_title_id": "WARROBOTSFRONTIERS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "MY.GAMES",
+      "developer": "MY.GAMES",
+      "base_product_id": "9NHLV358CD75",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.41461.14510768375773579.388dc663-3759-407b-baf0-ae26b69fe739.a4fa7953-57be-49d3-8530-3776d3769d6e",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -87969,6 +91484,43 @@
       "removed_at": null
     },
     {
+      "id": "WAVETALE",
+      "title": "Wavetale",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N5CWNHPNQJ6"
+      ],
+      "xcloud_title_id": "WAVETALE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Thunderful",
+      "developer": "Thunderful Development",
+      "base_product_id": "9N5CWNHPNQJ6",
+      "xbox_title_id": 2065674058,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.45775.14036040679162857.1a5e4315-1427-462f-9947-7c19ce347648.367d97eb-93fb-453f-b982-273bce7bf5c8",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "WAYOFTHEHUNTER",
       "title": "Way of the Hunter",
       "streamable": true,
@@ -88188,6 +91740,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "WESTOFDEAD",
+      "title": "West of Dead",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NTZCWK6P6GL"
+      ],
+      "xcloud_title_id": "WESTOFDEAD",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Upstream Arcade",
+      "base_product_id": "9NTZCWK6P6GL",
+      "xbox_title_id": 2144997626,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.24999.14404765850801985.e18dd79a-b4d8-4403-a8d3-ee01732babbd.fec4ea4f-3857-4898-b489-49e958a11c22",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -88781,6 +92370,43 @@
       "removed_at": null
     },
     {
+      "id": "WILDRUMBLE",
+      "title": "Wild Rumble",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NWNK56S71NB"
+      ],
+      "xcloud_title_id": "WILDRUMBLE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dolores Entertainment",
+      "developer": "Dolores Entertainment",
+      "base_product_id": "9NWNK56S71NB",
+      "xbox_title_id": 1657039010,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48137.14446161671919305.1c6e55ea-47ff-4b3f-bae3-bf066c41657a.b4f94049-ce63-43b6-a2ac-5f41300eb171",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
       "id": "WILDSHADEUNICORNCHAMPIONS",
       "title": "Wildshade: Unicorn Champions",
       "streamable": true,
@@ -89111,6 +92737,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "WITHOUTADAWN",
+      "title": "Without a Dawn",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MT3N1XRWZRB"
+      ],
+      "xcloud_title_id": "WITHOUTADAWN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Clickteam LLC USA",
+      "developer": "Jesse Makkonen",
+      "base_product_id": "9MT3N1XRWZRB",
+      "xbox_title_id": 1737560181,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.19689.13816072542175471.89a18023-8cb2-41b3-badb-710fa4469be6.c92c51cb-8547-40c7-a526-3d576e979263",
+      "is_free": false,
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-08-31T05:44:20Z",
+      "added_at": "2026-08-31T05:44:20Z",
       "removed_at": null
     },
     {
@@ -90997,5 +94660,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-08-30T21:13:32Z"
+  "generated_at": "2026-08-31T05:44:20Z"
 }
