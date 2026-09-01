@@ -1,5 +1,5 @@
 {
-  "count": 2564,
+  "count": 2565,
   "market": "US",
   "games": [
     {
@@ -68865,6 +68865,43 @@
       "removed_at": null
     },
     {
+      "id": "SHELLDIVER",
+      "title": "Shelldiver",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N51NR4GX891"
+      ],
+      "xcloud_title_id": "SHELLDIVER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Gagonfe",
+      "developer": "Gagonfe",
+      "base_product_id": "9N51NR4GX891",
+      "xbox_title_id": 2129637901,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23519.13976576036437000.15d2217e-0f3f-430d-bd96-a7159bbf5985.c292be72-ea5f-4139-a0c5-dd19ad26e8bd",
+      "is_free": false,
+      "price_value": 4.99,
+      "price_formatted": "$4.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-01T16:50:16Z",
+      "last_changed_at": "2026-09-01T16:50:16Z",
+      "added_at": "2026-09-01T16:50:16Z",
+      "removed_at": null
+    },
+    {
       "id": "SHESEESREDINTERACTIVEMOVIE",
       "title": "She Sees Red Interactive Movie",
       "streamable": true,
@@ -94660,5 +94697,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-01T11:49:05Z"
+  "generated_at": "2026-09-01T16:50:16Z"
 }
