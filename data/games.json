@@ -35421,7 +35421,7 @@
     {
       "id": "HATSUNEMIKULOGICPAINTS",
       "title": "Hatsune Miku Logic Paint S+",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NQN5ZSBM2S8"
@@ -35451,9 +35451,9 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-01T11:49:05Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-09-01T11:49:05Z"
     },
     {
       "id": "HATSUNEMIKULOGICPAINTSBASE",
@@ -84795,7 +84795,7 @@
     {
       "id": "THEWITCHER3WILDHUNT",
       "title": "The Witcher 3: Wild Hunt",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "BR765873CQJD"
@@ -84825,9 +84825,9 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-08-26T02:04:32Z",
+      "last_changed_at": "2026-09-01T11:49:05Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-09-01T11:49:05Z"
     },
     {
       "id": "THIEF",
@@ -94660,5 +94660,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-01T05:15:20Z"
+  "generated_at": "2026-09-01T11:49:05Z"
 }

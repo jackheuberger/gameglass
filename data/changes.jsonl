@@ -4827,3 +4827,5 @@
 {"kind":"game_added","new_value":null,"detail":"Pool Nation FX","xcloud_title_id":"POOLNATIONFX","run_id":164,"old_value":null,"tier_key":null,"game_id":"POOLNATIONFX","occurred_at":"2026-08-31T05:44:20Z"}
 {"kind":"game_added","new_value":null,"detail":"Runbow","xcloud_title_id":"RUNBOW","run_id":164,"old_value":null,"tier_key":null,"game_id":"RUNBOW","occurred_at":"2026-08-31T05:44:20Z"}
 {"kind":"game_added","new_value":null,"detail":"Space Jam: A New Legacy - The Game","xcloud_title_id":"SPACEJAMANEWLEGACYTHEGAME","run_id":164,"old_value":null,"tier_key":null,"game_id":"SPACEJAMANEWLEGACYTHEGAME","occurred_at":"2026-08-31T05:44:20Z"}
+{"kind":"game_removed","new_value":null,"detail":"Hatsune Miku Logic Paint S+","xcloud_title_id":"HATSUNEMIKULOGICPAINTS","run_id":168,"old_value":null,"tier_key":null,"game_id":"HATSUNEMIKULOGICPAINTS","occurred_at":"2026-09-01T11:49:05Z"}
+{"kind":"game_removed","new_value":null,"detail":"The Witcher 3: Wild Hunt","xcloud_title_id":"THEWITCHER3WILDHUNT","run_id":168,"old_value":null,"tier_key":null,"game_id":"THEWITCHER3WILDHUNT","occurred_at":"2026-09-01T11:49:05Z"}
