@@ -1,5 +1,5 @@
 {
-  "count": 2565,
+  "count": 2566,
   "market": "US",
   "games": [
     {
@@ -12023,7 +12023,7 @@
     },
     {
       "id": "CALLOFDUTYBLACKOPS6",
-      "title": "Call of Duty®: Black Ops 6",
+      "title": "Call of Duty®: Black Ops 6 - Launcher",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -66523,7 +66523,7 @@
       "developer": "Double Eleven Ltd. / Facepunch Studios Limited.",
       "base_product_id": "9PJVJ4WF031H",
       "xbox_title_id": 893395429,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.42731.14279102623462478.03bcdbab-91a6-4084-9cc9-4a65f382744f.c2277fed-c5e8-49a6-a39b-3d5a9ad2d16a",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.18136.14279102623462478.de565ad5-7555-490e-b0be-6c68dcb7de87.be89606e-1240-4c9c-9194-0e5926fb64f0",
       "is_free": false,
       "price_value": 49.99,
       "price_formatted": "$49.99",
@@ -76764,6 +76764,43 @@
       "first_seen_at": "2026-08-31T05:44:20Z",
       "last_changed_at": "2026-08-31T05:44:20Z",
       "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "SUPERWODENRALLYEDGE",
+      "title": "Super Woden Rally Edge",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P64L0SSV1HF"
+      ],
+      "xcloud_title_id": "SUPERWODENRALLYEDGE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Eastasiasoft Limited",
+      "developer": "Eastasiasoft Limited, Vijuda",
+      "base_product_id": "9P64L0SSV1HF",
+      "xbox_title_id": 1648312485,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.18966.14631407009914980.3be850d8-b904-4fc0-aac4-67635fc6efe7.149e6a52-5fbe-469c-8d28-c7c0ddf83cd3",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-02T04:40:58Z",
+      "last_changed_at": "2026-09-02T04:40:58Z",
+      "added_at": "2026-09-02T04:40:58Z",
       "removed_at": null
     },
     {
@@ -94697,5 +94734,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-01T21:09:35Z"
+  "generated_at": "2026-09-02T04:40:58Z"
 }
