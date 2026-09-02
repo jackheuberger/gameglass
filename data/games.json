@@ -35421,7 +35421,7 @@
     {
       "id": "HATSUNEMIKULOGICPAINTS",
       "title": "Hatsune Miku Logic Paint S+",
-      "streamable": false,
+      "streamable": true,
       "market": "US",
       "product_ids": [
         "9NQN5ZSBM2S8"
@@ -35451,9 +35451,9 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-09-01T11:49:05Z",
-      "added_at": null,
-      "removed_at": "2026-09-01T11:49:05Z"
+      "last_changed_at": "2026-09-02T11:26:23Z",
+      "added_at": "2026-09-02T11:26:23Z",
+      "removed_at": null
     },
     {
       "id": "HATSUNEMIKULOGICPAINTSBASE",
@@ -93358,7 +93358,7 @@
       "developer": "Wargaming.net",
       "base_product_id": "9N11JM7F5CXK",
       "xbox_title_id": 1649064189,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28686.13914660851585642.f8c5ba4d-158e-487c-852f-a22c6ed534bc.4f17fedf-201d-40cf-974d-8e652a55b076",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.4791.13914660851585642.fe38acd5-d659-41ed-9bbf-feab6fa3d9c7.58e7658f-4a3e-44af-bdc7-14f65e060293",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -94734,5 +94734,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-02T04:40:58Z"
+  "generated_at": "2026-09-02T11:26:23Z"
 }
