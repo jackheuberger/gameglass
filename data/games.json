@@ -1,5 +1,5 @@
 {
-  "count": 2566,
+  "count": 2567,
   "market": "US",
   "games": [
     {
@@ -1740,7 +1740,7 @@
       "developer": "Eremite Games",
       "base_product_id": "9NRLRJPV4HWL",
       "xbox_title_id": 2083780130,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.42434.14385363172001343.ef67463b-a065-4ebb-ae31-992199a7c91f.10e29e9e-39f2-40fe-853d-4cba1737f00d",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57790.14385363172001343.de50fa85-fbed-480e-b8d9-d2d612e2c9a7.ba907790-2651-47db-8c4f-ff768e895d64",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -51367,6 +51367,43 @@
       "removed_at": null
     },
     {
+      "id": "MOONLIGHTER2",
+      "title": "Moonlighter 2: The Endless Vault",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NDJX252Q5BW"
+      ],
+      "xcloud_title_id": "MOONLIGHTER2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "11 bit studios",
+      "developer": " Digital Sun",
+      "base_product_id": "9NDJX252Q5BW",
+      "xbox_title_id": 1792557898,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.4321.13613495733795404.958a29ae-aca4-4c3f-a15c-62c6c57d4d68.5f2dbb73-88d8-4b7b-8ea2-f27163e450bf",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-02T16:44:32Z",
+      "last_changed_at": "2026-09-02T16:44:32Z",
+      "added_at": "2026-09-02T16:44:32Z",
+      "removed_at": null
+    },
+    {
       "id": "MOONMYSTERY",
       "title": "Moon Mystery",
       "streamable": true,
@@ -94734,5 +94771,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-02T11:26:23Z"
+  "generated_at": "2026-09-02T16:44:32Z"
 }
