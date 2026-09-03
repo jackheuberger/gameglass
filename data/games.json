@@ -819,7 +819,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "9PC5KKHSMCT5",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.58462.14175760236526720.5c6a4092-f08f-4248-9c5d-779f02894410.8511b2a2-8eab-441f-b9a3-c4adcc3ae0d2",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58772.14175760236526720.44cedcee-551b-48fc-96b5-9975c4bbaa27.4c016dc0-025d-4b84-bee4-7f7119121b01",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -94808,5 +94808,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-03T04:41:27Z"
+  "generated_at": "2026-09-03T11:24:50Z"
 }
