@@ -1,5 +1,5 @@
 {
-  "count": 2568,
+  "count": 2569,
   "market": "US",
   "games": [
     {
@@ -72487,6 +72487,43 @@
       "removed_at": null
     },
     {
+      "id": "SPEEDRUNNERS2KINGOFSPEED",
+      "title": "SpeedRunners 2: King of Speed",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PPKR9N31BW6"
+      ],
+      "xcloud_title_id": "SPEEDRUNNERS2KINGOFSPEED",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "tinyBuild",
+      "developer": "tinyBuild Games",
+      "base_product_id": "9PPKR9N31BW6",
+      "xbox_title_id": 1803410566,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58974.14327242010981927.a5495c37-2e09-4b3f-82a1-e015a8eb734a.8c25e957-1f8c-439d-8dd9-71cffbb588bc",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-03T21:09:08Z",
+      "last_changed_at": "2026-09-03T21:09:08Z",
+      "added_at": "2026-09-03T21:09:08Z",
+      "removed_at": null
+    },
+    {
       "id": "SPEEDTRUCKRACING",
       "title": "Speed Truck Racing",
       "streamable": true,
@@ -94808,5 +94845,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-03T16:35:07Z"
+  "generated_at": "2026-09-03T21:09:08Z"
 }
