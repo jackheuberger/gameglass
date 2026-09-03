@@ -1,5 +1,5 @@
 {
-  "count": 2567,
+  "count": 2568,
   "market": "US",
   "games": [
     {
@@ -6337,6 +6337,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "AVATARLEGENDSTHEFIGHTINGGAME",
+      "title": "Avatar Legends: The Fighting Game - Preorder Bundle",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P3L9N49544R"
+      ],
+      "xcloud_title_id": "AVATARLEGENDSTHEFIGHTINGGAME",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PM-Studios, Inc.",
+      "developer": "",
+      "base_product_id": "9P3L9N49544R",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29861.14244483274419542.a554609e-e51e-4efb-a70f-9902182e2854.af8f380a-5450-43f8-b963-43792dba92c5",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-03T04:41:27Z",
+      "last_changed_at": "2026-09-03T04:41:27Z",
+      "added_at": "2026-09-03T04:41:27Z",
       "removed_at": null
     },
     {
@@ -94771,5 +94808,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-02T21:09:44Z"
+  "generated_at": "2026-09-03T04:41:27Z"
 }
