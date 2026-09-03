@@ -41877,13 +41877,13 @@
       "developer": "Double Fine Productions",
       "base_product_id": "9NCJWHHMVHR0",
       "xbox_title_id": 2122788273,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.51871.13566978592979529.8c034f7f-7f73-4897-9410-31e1512536ea.c774a417-a08c-4291-b468-0f7ef9cfd6b5",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23540.13566978592979529.a309a78d-6446-4646-b4cf-5f86cff39735.96aa6660-fe83-42f0-8903-4a95eb89e93f",
       "is_free": false,
-      "price_value": 29.99,
-      "price_formatted": "$29.99",
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-03T16:35:07Z",
       "added_at": null,
       "removed_at": null
     },
@@ -94808,5 +94808,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-03T11:24:50Z"
+  "generated_at": "2026-09-03T16:35:07Z"
 }
