@@ -1,5 +1,5 @@
 {
-  "count": 2569,
+  "count": 2570,
   "market": "US",
   "games": [
     {
@@ -20480,6 +20480,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DICEAMILLION",
+      "title": "Dice A Million",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N3NTDPJCD9Z"
+      ],
+      "xcloud_title_id": "DICEAMILLION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "2 Left Thumbs",
+      "developer": "countlessnights",
+      "base_product_id": "9N3NTDPJCD9Z",
+      "xbox_title_id": 1769729445,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64392.13999251209706756.a4f74491-71e6-44d1-ae46-e7ac7b8a0832.65ccf96a-536c-42cd-a458-4edf9b157738",
+      "is_free": false,
+      "price_value": 12.99,
+      "price_formatted": "$12.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-04T04:39:58Z",
+      "last_changed_at": "2026-09-04T04:39:58Z",
+      "added_at": "2026-09-04T04:39:58Z",
       "removed_at": null
     },
     {
@@ -94845,5 +94882,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-03T21:09:08Z"
+  "generated_at": "2026-09-04T04:39:58Z"
 }
