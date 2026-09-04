@@ -1,5 +1,5 @@
 {
-  "count": 2570,
+  "count": 2574,
   "market": "US",
   "games": [
     {
@@ -6341,11 +6341,12 @@
     },
     {
       "id": "AVATARLEGENDSTHEFIGHTINGGAME",
-      "title": "Avatar Legends: The Fighting Game - Preorder Bundle",
+      "title": "Avatar Legends: The Fighting Game",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9P3L9N49544R"
+        "9P3L9N49544R",
+        "9PH2332VRWSF"
       ],
       "xcloud_title_id": "AVATARLEGENDSTHEFIGHTINGGAME",
       "programs": [
@@ -6364,8 +6365,8 @@
       },
       "publisher": "PM-Studios, Inc.",
       "developer": "",
-      "base_product_id": "9P3L9N49544R",
-      "xbox_title_id": null,
+      "base_product_id": "9PH2332VRWSF",
+      "xbox_title_id": 1734440333,
       "image_url": "https://store-images.s-microsoft.com/image/apps.29861.14244483274419542.a554609e-e51e-4efb-a70f-9902182e2854.af8f380a-5450-43f8-b963-43792dba92c5",
       "is_free": false,
       "price_value": 29.99,
@@ -51848,6 +51849,43 @@
       "removed_at": null
     },
     {
+      "id": "MORTALSHELLII",
+      "title": "Mortal Shell II",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NS9TJV1JL86"
+      ],
+      "xcloud_title_id": "MORTALSHELLII",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Playstack",
+      "developer": "Cold Symmetry",
+      "base_product_id": "9NS9TJV1JL86",
+      "xbox_title_id": 1645215415,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.2285.14371301647847529.ab8b79c4-f218-4ff0-8fc3-b84f73c62f94.8d34b9e6-250b-40a3-adf6-81eaf659a378",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-04T11:25:43Z",
+      "last_changed_at": "2026-09-04T11:25:43Z",
+      "added_at": "2026-09-04T11:25:43Z",
+      "removed_at": null
+    },
+    {
       "id": "MOTHEREDAROLEPLAYINGHORRORGAME",
       "title": "Mothered - A Role-Playing Horror Game",
       "streamable": true,
@@ -55337,6 +55375,43 @@
       "removed_at": null
     },
     {
+      "id": "NOMOREROOMINHELL2",
+      "title": "No More Room in Hell 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PF1Q2F7JM9G"
+      ],
+      "xcloud_title_id": "NOMOREROOMINHELL2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Green Man Gaming Publishing",
+      "developer": " Torn Banner Studios",
+      "base_product_id": "9PF1Q2F7JM9G",
+      "xbox_title_id": 1634088961,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5788.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.14a13c97-5d24-4e14-b25e-85b5f60b9599",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-04T11:25:43Z",
+      "last_changed_at": "2026-09-04T11:25:43Z",
+      "added_at": "2026-09-04T11:25:43Z",
+      "removed_at": null
+    },
+    {
       "id": "NONGUNZDOPPELGANGEREDITION",
       "title": "Nongunz: Doppelganger Edition",
       "streamable": true,
@@ -56518,6 +56593,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "ONIMUSHAWAYOFTHESWORD",
+      "title": "Onimusha: Way of the Sword",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NH6PQ3L7TTP"
+      ],
+      "xcloud_title_id": "ONIMUSHAWAYOFTHESWORD",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "CAPCOM CO., LTD.",
+      "developer": "CAPCOM CO., LTD.",
+      "base_product_id": "9NH6PQ3L7TTP",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.56434.13631205803488136.949bebf7-db71-42b3-ad22-004e43af0613.0a14249a-2ee5-4876-b62f-ad3b55edeb7e",
+      "is_free": false,
+      "price_value": 69.99,
+      "price_formatted": "$69.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-04T11:25:43Z",
+      "last_changed_at": "2026-09-04T11:25:43Z",
+      "added_at": "2026-09-04T11:25:43Z",
       "removed_at": null
     },
     {
@@ -62868,6 +62980,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "RAILBREAKDX",
+      "title": "Railbreak DX",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PDKD37Z8PXW"
+      ],
+      "xcloud_title_id": "RAILBREAKDX",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dead Drop Studios LLC",
+      "developer": "Dead Drop Studios LLC",
+      "base_product_id": "9PDKD37Z8PXW",
+      "xbox_title_id": 2004886907,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64516.14152755250607808.2bc99d7b-2217-4b6a-aca2-666fbdb9d894.297b4f83-e301-47e0-bf60-4410d5c55260",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-04T11:25:43Z",
+      "last_changed_at": "2026-09-04T11:25:43Z",
+      "added_at": "2026-09-04T11:25:43Z",
       "removed_at": null
     },
     {
@@ -94882,5 +95031,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-04T04:39:58Z"
+  "generated_at": "2026-09-04T11:25:43Z"
 }
