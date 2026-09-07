@@ -16168,7 +16168,7 @@
     },
     {
       "id": "CRAFTOPIA",
-      "title": "Craftopia",
+      "title": "Craftopia (Game Preview)",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -53553,7 +53553,7 @@
     {
       "id": "NBA2K26FORXBOXONE",
       "title": "NBA 2K26 for Xbox One",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9PP9PFSCJTWR"
@@ -53581,17 +53581,18 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-07T12:43:42Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-09-07T12:43:42Z"
     },
     {
       "id": "NBA2K26FORXBOXSERIESXS",
-      "title": "NBA 2K26 for Xbox Series X|S",
+      "title": "NBA 2K26 Superstar Edition",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9NFKCJNBR34N"
+        "9NFKCJNBR34N",
+        "9NTMWS185JZT"
       ],
       "xcloud_title_id": "NBA2K26FORXBOXSERIESXS",
       "programs": [
@@ -53602,21 +53603,21 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "included",
+        "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "included"
+        "ultimate": "purchase"
       },
       "publisher": "2K",
       "developer": "Visual Concepts",
-      "base_product_id": "9NFKCJNBR34N",
-      "xbox_title_id": 1870487792,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.50564.13597880418237927.1db3ecc3-d73b-4573-a4d1-d16bd9922438.652f42d1-6d0d-4c1d-a65f-e42e3cd2a7a9",
+      "base_product_id": "9NTMWS185JZT",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37397.14415582476700560.e0e542f8-4f4e-46c2-9723-04253897e979.a68f31b0-3e0d-4e12-9716-a841143f5cea",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 99.99,
+      "price_formatted": "$99.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-07T12:43:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -93729,7 +93730,7 @@
       "developer": "Wargaming Group Limited",
       "base_product_id": "C1ZT6N30L1WH",
       "xbox_title_id": 478449077,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.27545.65694988112101034.315588c9-f4fb-4605-b06d-bd525b01ce5f.946e4c8b-1013-49cc-9627-8ca6a515035e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.44774.65694988112101034.63b3705a-17e4-4e7b-b45a-a3aa58f7a4fc.631a7470-3bac-4ada-b00c-b9fcd9d1045b",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -95031,5 +95032,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-06T15:37:55Z"
+  "generated_at": "2026-09-07T12:43:42Z"
 }
