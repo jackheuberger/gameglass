@@ -89785,7 +89785,7 @@
     },
     {
       "id": "VALHEIMGAMEPREVIEW",
-      "title": "Valheim (Game Preview)",
+      "title": "Valheim",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -89810,7 +89810,7 @@
       "developer": "Iron Gate ",
       "base_product_id": "9NCBL78CG9N7",
       "xbox_title_id": 1745661457,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17630.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.5b30b27f-c31e-48f4-b097-26de1b97bd84",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.17131.13571084888216164.64efec07-99a1-43e6-9f9f-994d4517a3a8.0b4c7a6b-c2d4-4a24-85a2-46383e249b56",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -95180,5 +95180,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-09T11:30:36Z"
+  "generated_at": "2026-09-09T16:53:41Z"
 }
