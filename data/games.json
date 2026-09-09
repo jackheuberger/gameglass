@@ -1,5 +1,5 @@
 {
-  "count": 2574,
+  "count": 2578,
   "market": "US",
   "games": [
     {
@@ -11875,6 +11875,43 @@
       "removed_at": null
     },
     {
+      "id": "BUSSIMULATOR27",
+      "title": "Bus Simulator 27",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PNHKN79L7NF"
+      ],
+      "xcloud_title_id": "BUSSIMULATOR27",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment",
+      "developer": "SIMTERACT",
+      "base_product_id": "9PNHKN79L7NF",
+      "xbox_title_id": 1792094560,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.3780.14344202145078214.e8f20263-99f3-4096-a949-46738b2da0e5.b8581d24-81ba-4641-bc8b-ca6d5a2f2a2a",
+      "is_free": false,
+      "price_value": 34.99,
+      "price_formatted": "$34.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-09T04:49:40Z",
+      "last_changed_at": "2026-09-09T04:49:40Z",
+      "added_at": "2026-09-09T04:49:40Z",
+      "removed_at": null
+    },
+    {
       "id": "BUYTHEGAMEIHAVEAGUNSHEESHMAN",
       "title": "\"Buy The Game, I Have a Gun\" -Sheesh-Man",
       "streamable": true,
@@ -12094,6 +12131,80 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "CALLOFDUTYBLACKOPSCOLDWAR",
+      "title": "Call of Duty®: Black Ops Cold War",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N2DMQBN9RC4"
+      ],
+      "xcloud_title_id": "CALLOFDUTYBLACKOPSCOLDWAR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Activision Publishing Inc.",
+      "developer": "",
+      "base_product_id": "9N2DMQBN9RC4",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.31232.13958233436121605.1b468d8b-6591-4a41-bbbc-74f5a2da15ae.82988b39-7b81-4ef9-9eb3-51131952172c",
+      "is_free": false,
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-09T04:49:40Z",
+      "last_changed_at": "2026-09-09T04:49:40Z",
+      "added_at": "2026-09-09T04:49:40Z",
+      "removed_at": null
+    },
+    {
+      "id": "CALLOFDUTYBLACKOPSCOLDWARXBOXSERIESXS",
+      "title": "Call of Duty®: Black Ops Cold War - Xbox Series X|S",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NPLRJ9CC870"
+      ],
+      "xcloud_title_id": "CALLOFDUTYBLACKOPSCOLDWARXBOXSERIESXS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Activision Publishing Inc.",
+      "developer": "",
+      "base_product_id": "9NPLRJ9CC870",
+      "xbox_title_id": 1790482525,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.16401.13791444986287693.243003e9-8583-4df9-a0fc-2345d2f82ed4.e5e2cd4a-420a-41eb-bade-0eab002eab9c",
+      "is_free": false,
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
+      "first_seen_at": "2026-09-09T04:49:40Z",
+      "last_changed_at": "2026-09-09T04:49:40Z",
+      "added_at": "2026-09-09T04:49:40Z",
       "removed_at": null
     },
     {
@@ -37565,6 +37676,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "HONEYCOMBTHEWORLDBEYOND",
+      "title": "Honeycomb: The World Beyond",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P4L8V60K9T5"
+      ],
+      "xcloud_title_id": "HONEYCOMBTHEWORLDBEYOND",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Snail Games USA",
+      "developer": "Frozen Way S.A.",
+      "base_product_id": "9P4L8V60K9T5",
+      "xbox_title_id": 1735401164,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.17009.14591108861940264.c695af77-b049-402c-8e70-2cc19fc82774.20c8f187-ecaf-4631-8eb2-e3744424c0aa",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-09T04:49:40Z",
+      "last_changed_at": "2026-09-09T04:49:40Z",
+      "added_at": "2026-09-09T04:49:40Z",
       "removed_at": null
     },
     {
@@ -70961,7 +71109,7 @@
       "developer": "Titan Forge Games",
       "base_product_id": "9NV8W1KJSQLL",
       "xbox_title_id": 1993741445,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.54894.14402893629943553.362bf74c-1912-4b56-af34-2a4f02642352.823bd93f-bf11-4e1a-aa9f-a8bf96fef598",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.59570.14402893629943553.4ce4ac4a-6ead-40b7-84e1-cf013cdf1bd0.61c38eae-e055-4043-b23d-39500ac76282",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -94688,7 +94836,7 @@
       "developer": "Shanghai JiaoZhai Technology Co.,Ltd.",
       "base_product_id": "9N4X0WFZ2STM",
       "xbox_title_id": 1696147865,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.58752.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.91e6633b-1ba4-4bda-9a09-fdc53c5e6a7e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28577.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.5bbb6b0c-cc25-4abe-bf01-c00408e6e3fa",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -95032,5 +95180,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-08T04:47:51Z"
+  "generated_at": "2026-09-09T04:49:40Z"
 }
