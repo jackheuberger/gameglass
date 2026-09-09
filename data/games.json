@@ -1,5 +1,5 @@
 {
-  "count": 2578,
+  "count": 2580,
   "market": "US",
   "games": [
     {
@@ -662,6 +662,76 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T16:11:29Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "9N3D82TFF6C4",
+      "title": "NBA 2K27",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N3D82TFF6C4"
+      ],
+      "xcloud_title_id": null,
+      "programs": [
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "2K",
+      "developer": "Visual Concepts",
+      "base_product_id": "9N3D82TFF6C4",
+      "xbox_title_id": 1731722945,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.35266.13934234425416393.c16fba18-9d46-4e2f-9891-5efae739df3f.f93a322b-4eae-4641-b667-2eb393fd56d7",
+      "is_free": false,
+      "price_value": 69.99,
+      "price_formatted": "$69.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-09T21:03:55Z",
+      "last_changed_at": "2026-09-09T21:03:55Z",
+      "added_at": "2026-09-09T21:03:55Z",
+      "removed_at": null
+    },
+    {
+      "id": "9NFHVLFDSFVD",
+      "title": "NBA 2K27 Deluxe Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NFHVLFDSFVD"
+      ],
+      "xcloud_title_id": null,
+      "programs": [
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "2K",
+      "developer": "Visual Concepts",
+      "base_product_id": "9NFHVLFDSFVD",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30787.13594533984644299.ab342420-588b-409e-8e82-a6a01eadd878.73a23657-c4a8-4bc9-937f-379b2c9ca792",
+      "is_free": false,
+      "price_value": 99.99,
+      "price_formatted": "$99.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-09T21:03:55Z",
+      "last_changed_at": "2026-09-09T21:03:55Z",
+      "added_at": "2026-09-09T21:03:55Z",
       "removed_at": null
     },
     {
@@ -24568,7 +24638,7 @@
     },
     {
       "id": "EASPORTSFC26XBOXONE",
-      "title": "EA SPORTS FC™ 26 Xbox One",
+      "title": "EA SPORTS FC™ 26 XBOX One",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -24603,7 +24673,7 @@
     },
     {
       "id": "EASPORTSFC26XBOXSERIESXS",
-      "title": "EA SPORTS FC™ 26 Xbox Series X|S",
+      "title": "EA SPORTS FC™ 26 XBOX Series X|S",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -95180,5 +95250,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-09T16:53:41Z"
+  "generated_at": "2026-09-09T21:03:55Z"
 }
