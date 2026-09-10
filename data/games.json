@@ -1,5 +1,5 @@
 {
-  "count": 2580,
+  "count": 2584,
   "market": "US",
   "games": [
     {
@@ -19592,6 +19592,43 @@
       "removed_at": null
     },
     {
+      "id": "DECONSTRUCTIONSIMULATOR",
+      "title": "Deconstruction Simulator",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PD00MSD71M2"
+      ],
+      "xcloud_title_id": "DECONSTRUCTIONSIMULATOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GAMES INCUBATOR",
+      "developer": " Games Incubator, Hypnotic Ants, ConsoleWay S.A.",
+      "base_product_id": "9PD00MSD71M2",
+      "xbox_title_id": 1996309372,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58128.14164434209407983.b1c050d0-e1c1-4cf0-a020-7d220194601d.a4ca6589-40a4-4178-beb5-fbb839c3dd52",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-10T04:50:20Z",
+      "last_changed_at": "2026-09-10T04:50:20Z",
+      "added_at": "2026-09-10T04:50:20Z",
+      "removed_at": null
+    },
+    {
       "id": "DEEEERSIMULATORYOURAVERAGEEVERYDAYDEERGAME",
       "title": "DEEEER Simulator: Your Average Everyday Deer Game",
       "streamable": true,
@@ -38153,6 +38190,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "HOTWHEELSINFINITERUSH",
+      "title": "HOT WHEELS™ Infinite Rush - Deluxe Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N8PW8BJD748"
+      ],
+      "xcloud_title_id": "HOTWHEELSINFINITERUSH",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Milestone S.r.l.",
+      "developer": "Milestone S.r.l.",
+      "base_product_id": "9N8PW8BJD748",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.9714.14040499184812699.c9eacfaa-a7fd-47cc-95a2-7c0f298fccec.998ddc11-0800-4d14-98b4-f88fb419b764",
+      "is_free": false,
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
+      "first_seen_at": "2026-09-10T04:50:20Z",
+      "last_changed_at": "2026-09-10T04:50:20Z",
+      "added_at": "2026-09-10T04:50:20Z",
       "removed_at": null
     },
     {
@@ -84126,6 +84200,43 @@
       "removed_at": null
     },
     {
+      "id": "THEROYALWRIT",
+      "title": "The Royal Writ",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N034X5G08B7"
+      ],
+      "xcloud_title_id": "THEROYALWRIT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Yogscast Games",
+      "developer": "Save Sloth Studios",
+      "base_product_id": "9N034X5G08B7",
+      "xbox_title_id": 1712139951,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.34961.13929128993190644.5fdad478-5d9a-4e47-b2a4-acc499d07c78.1bc6ebd0-8d00-47c1-9bce-bc2e9c8549da",
+      "is_free": false,
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
+      "first_seen_at": "2026-09-10T04:50:20Z",
+      "last_changed_at": "2026-09-10T04:50:20Z",
+      "added_at": "2026-09-10T04:50:20Z",
+      "removed_at": null
+    },
+    {
       "id": "THESAFEPLACE",
       "title": "The Safe Place",
       "streamable": true,
@@ -90446,6 +90557,43 @@
       "removed_at": null
     },
     {
+      "id": "VIRTUAFIGHTER5REVOWORLDSTAGE",
+      "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NSM674QVLBS"
+      ],
+      "xcloud_title_id": "VIRTUAFIGHTER5REVOWORLDSTAGE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "SEGA",
+      "developer": "SEGA",
+      "base_product_id": "9NSM674QVLBS",
+      "xbox_title_id": 1959830280,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.22152.14360936962313275.d5800ab2-f5c2-4ca4-b20f-b66ceccc1330.89de29c2-55d6-4095-be26-b5d1eab6abf2",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-10T04:50:20Z",
+      "last_changed_at": "2026-09-10T04:50:20Z",
+      "added_at": "2026-09-10T04:50:20Z",
+      "removed_at": null
+    },
+    {
       "id": "VIRTUALFAMILIES3OURCOUNTRYHOME",
       "title": "Virtual Families 3: Our Country Home",
       "streamable": true,
@@ -95250,5 +95398,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-09T21:03:55Z"
+  "generated_at": "2026-09-10T04:50:20Z"
 }
