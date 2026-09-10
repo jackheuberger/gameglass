@@ -401,11 +401,11 @@
       "xbox_title_id": 1791422723,
       "image_url": "https://store-images.s-microsoft.com/image/apps.30710.14325248640262276.be7d2e43-5fed-40fd-b861-8823e46f9819.57c1bc98-a736-4aeb-b208-6ffd4bd4afa3",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-08-15T13:04:09Z",
-      "last_changed_at": "2026-09-10T11:27:42Z",
+      "last_changed_at": "2026-09-10T16:31:27Z",
       "added_at": "2026-08-15T13:04:09Z",
       "removed_at": null
     },
@@ -38194,11 +38194,12 @@
     },
     {
       "id": "HOTWHEELSINFINITERUSH",
-      "title": "HOT WHEELS™ Infinite Rush - Deluxe Edition",
+      "title": "HOT WHEELS™ Infinite Rush",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9N8PW8BJD748"
+        "9N8PW8BJD748",
+        "9NQKG3STPZF3"
       ],
       "xcloud_title_id": "HOTWHEELSINFINITERUSH",
       "programs": [
@@ -38217,15 +38218,15 @@
       },
       "publisher": "Milestone S.r.l.",
       "developer": "Milestone S.r.l.",
-      "base_product_id": "9N8PW8BJD748",
-      "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.9714.14040499184812699.c9eacfaa-a7fd-47cc-95a2-7c0f298fccec.998ddc11-0800-4d14-98b4-f88fb419b764",
+      "base_product_id": "9NQKG3STPZF3",
+      "xbox_title_id": 2115682077,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8532.13767917778154178.76efd12d-e134-4323-965b-da3c023d0840.c4a8cfca-0a4a-4358-ad61-323793002b42",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-09-10T04:50:20Z",
-      "last_changed_at": "2026-09-10T04:50:20Z",
+      "last_changed_at": "2026-09-10T16:31:27Z",
       "added_at": "2026-09-10T04:50:20Z",
       "removed_at": null
     },
@@ -95398,5 +95399,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-10T11:27:42Z"
+  "generated_at": "2026-09-10T16:31:27Z"
 }
