@@ -32671,7 +32671,7 @@
       "developer": "GOALS ",
       "base_product_id": "9PF2ZS4XB4JH",
       "xbox_title_id": 1631010499,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.10514.14212860962709000.df32da00-c18c-45f6-a4b4-4e82dfd43691.7080987b-1659-4fef-8b18-c30c5e6cdf14",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.56361.14212860962709000.7d0349ee-2f9e-4a67-90da-e62696fef7df.7eaa543d-2505-4f0d-afcf-c78c480e525e",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -84229,11 +84229,11 @@
       "xbox_title_id": 1712139951,
       "image_url": "https://store-images.s-microsoft.com/image/apps.34961.13929128993190644.5fdad478-5d9a-4e47-b2a4-acc499d07c78.1bc6ebd0-8d00-47c1-9bce-bc2e9c8549da",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-09-10T04:50:20Z",
-      "last_changed_at": "2026-09-10T04:50:20Z",
+      "last_changed_at": "2026-09-10T20:59:22Z",
       "added_at": "2026-09-10T04:50:20Z",
       "removed_at": null
     },
@@ -95399,5 +95399,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-10T16:31:27Z"
+  "generated_at": "2026-09-10T20:59:22Z"
 }

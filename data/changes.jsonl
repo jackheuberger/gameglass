@@ -4859,3 +4859,4 @@
 {"kind":"price_changed","new_value":null,"detail":"7Days Heroes","xcloud_title_id":"7DAYSHEROES","run_id":196,"old_value":"$9.99","tier_key":null,"game_id":"7DAYSHEROES","occurred_at":"2026-09-10T11:27:42Z"}
 {"kind":"price_changed","new_value":"$49.99","detail":"HOT WHEELS™ Infinite Rush - Deluxe Edition","xcloud_title_id":"HOTWHEELSINFINITERUSH","run_id":197,"old_value":null,"tier_key":null,"game_id":"HOTWHEELSINFINITERUSH","occurred_at":"2026-09-10T16:31:27Z"}
 {"kind":"price_changed","new_value":"$9.99","detail":"7Days Heroes","xcloud_title_id":"7DAYSHEROES","run_id":197,"old_value":null,"tier_key":null,"game_id":"7DAYSHEROES","occurred_at":"2026-09-10T16:31:27Z"}
+{"kind":"price_changed","new_value":"$14.99","detail":"The Royal Writ","xcloud_title_id":"THEROYALWRIT","run_id":198,"old_value":null,"tier_key":null,"game_id":"THEROYALWRIT","occurred_at":"2026-09-10T20:59:22Z"}
