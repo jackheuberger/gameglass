@@ -62562,10 +62562,10 @@
         "ultimate": "purchase"
       },
       "publisher": "QubicGames S.A.",
-      "developer": "© 2025 LUKAVERSE sp. z o.o.",
+      "developer": "LUKAVERSE",
       "base_product_id": "9N3MRPP8KKRS",
       "xbox_title_id": 2019100575,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.19652.13999668640054081.553a97fe-1254-4360-84f6-717d12d27dca.4f9d6a73-4344-43dd-9783-483d2a7402a6",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.26830.13999668640054081.9f1f9af2-9a3d-4df9-a6d4-23acb991faf5.d16cd331-4fcd-44c5-bbca-7d94fb22a58e",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -95399,5 +95399,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-11T04:45:52Z"
+  "generated_at": "2026-09-11T11:30:14Z"
 }
