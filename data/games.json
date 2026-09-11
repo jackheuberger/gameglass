@@ -37812,7 +37812,7 @@
       "developer": "Frozen Way S.A.",
       "base_product_id": "9P4L8V60K9T5",
       "xbox_title_id": 1735401164,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.17009.14591108861940264.c695af77-b049-402c-8e70-2cc19fc82774.20c8f187-ecaf-4631-8eb2-e3744424c0aa",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.50601.14591108861940264.9591ee82-886d-4269-8424-f1988c062d62.bd3925c9-6d37-4dec-9977-4aaac23f24f2",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -81665,9 +81665,9 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "included",
         "ultimate": "included"
       },
       "publisher": "Avalanche Studios",
@@ -81680,7 +81680,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-11T21:03:42Z",
       "added_at": null,
       "removed_at": null
     },
@@ -95399,5 +95399,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-11T16:34:11Z"
+  "generated_at": "2026-09-11T21:03:42Z"
 }
