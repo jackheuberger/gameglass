@@ -14000,7 +14000,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "Ubisoft Montreal",
@@ -14012,7 +14012,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T20:40:36Z",
       "added_at": null,
       "removed_at": null
     },
@@ -65554,7 +65554,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "Zoë Mode",
@@ -65566,7 +65566,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T20:40:36Z",
       "added_at": null,
       "removed_at": null
     },
@@ -90023,7 +90023,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "Ubisoft Montpellier",
@@ -90035,7 +90035,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T20:40:36Z",
       "added_at": null,
       "removed_at": null
     },
@@ -95399,5 +95399,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-12T15:39:23Z"
+  "generated_at": "2026-09-12T20:40:36Z"
 }
