@@ -5690,7 +5690,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "Ubisoft Montreal. HD enhancement by VIRTUOS.",
@@ -5702,7 +5702,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T15:39:23Z",
       "added_at": null,
       "removed_at": null
     },
@@ -27824,7 +27824,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "",
@@ -27836,7 +27836,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T15:39:23Z",
       "added_at": null,
       "removed_at": null
     },
@@ -56503,7 +56503,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "UBISOFT",
       "developer": "Game Swing, Ubisoft Mumbai.",
@@ -56515,7 +56515,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T15:39:23Z",
       "added_at": null,
       "removed_at": null
     },
@@ -72469,7 +72469,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "Obsidian Entertainment",
@@ -72481,7 +72481,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T15:39:23Z",
       "added_at": null,
       "removed_at": null
     },
@@ -80373,7 +80373,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "UBISOFT",
       "developer": "IVORY",
@@ -80385,7 +80385,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T15:39:23Z",
       "added_at": null,
       "removed_at": null
     },
@@ -84295,7 +84295,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "UBISOFT",
       "developer": "BLUE BYTE",
@@ -84307,7 +84307,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T15:39:23Z",
       "added_at": null,
       "removed_at": null
     },
@@ -95399,5 +95399,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-12T10:55:44Z"
+  "generated_at": "2026-09-12T15:39:23Z"
 }
