@@ -5394,7 +5394,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "Ubisoft",
@@ -5406,7 +5406,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -5653,7 +5653,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "",
@@ -5665,7 +5665,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -6393,7 +6393,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "",
@@ -6405,7 +6405,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -27639,7 +27639,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "",
@@ -27651,7 +27651,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -38658,7 +38658,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "Future Games of London – A Ubisoft Studio",
@@ -38670,7 +38670,7 @@
       "price_formatted": "$9.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -51052,7 +51052,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "",
@@ -51064,7 +51064,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -55612,9 +55612,9 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "included",
         "ultimate": "included"
       },
       "publisher": "Hello Games",
@@ -55627,7 +55627,7 @@
       "price_formatted": "$59.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -61819,7 +61819,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "UBISOFT",
       "developer": "UBISOFT MONTPELLIER",
@@ -61831,7 +61831,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -62964,7 +62964,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "UBISOFT",
       "developer": "UBISOFT CHENGDU",
@@ -62976,7 +62976,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -63556,7 +63556,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "UBISOFT",
       "developer": "UBISOFT MONTREAL",
@@ -63568,7 +63568,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -80299,7 +80299,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "UBISOFT",
       "developer": "IVORY",
@@ -80311,7 +80311,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -80336,7 +80336,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "UBISOFT",
       "developer": "IVORY",
@@ -80348,7 +80348,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -86660,7 +86660,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "",
@@ -86672,7 +86672,7 @@
       "price_formatted": "$59.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -86734,7 +86734,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "",
@@ -86746,7 +86746,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -87474,7 +87474,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "Nadeo",
@@ -87486,7 +87486,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -88103,7 +88103,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft Entertainment",
       "developer": "RedLynx",
@@ -88115,7 +88115,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -88214,7 +88214,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft",
       "developer": "Ubisoft RedLynx, Ubisoft Kiev",
@@ -88226,7 +88226,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -95399,5 +95399,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-11T21:03:42Z"
+  "generated_at": "2026-09-12T04:42:16Z"
 }
