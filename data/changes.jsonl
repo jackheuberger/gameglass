@@ -4911,3 +4911,4 @@
 {"kind":"tier_status_changed","new_value":"included","detail":"Transference™","xcloud_title_id":"TRANSFERENCE","run_id":209,"old_value":"purchase","tier_key":"ultimate","game_id":"TRANSFERENCE","occurred_at":"2026-09-13T16:25:42Z"}
 {"kind":"tier_status_changed","new_value":"included","detail":"Trials of the Blood Dragon","xcloud_title_id":"TRIALSOFTHEBLOODDRAGON","run_id":211,"old_value":"purchase","tier_key":"ultimate","game_id":"TRIALSOFTHEBLOODDRAGON","occurred_at":"2026-09-14T05:03:12Z"}
 {"kind":"game_added","new_value":null,"detail":"Mewgenics","xcloud_title_id":"MEWGENICS","run_id":211,"old_value":null,"tier_key":null,"game_id":"MEWGENICS","occurred_at":"2026-09-14T05:03:12Z"}
+{"kind":"price_changed","new_value":"$9.99","detail":"Kraken Academy!!","xcloud_title_id":"KRAKENACADEMY","run_id":212,"old_value":"$17.99","tier_key":null,"game_id":"KRAKENACADEMY","occurred_at":"2026-09-14T12:55:15Z"}
