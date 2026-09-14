@@ -1,5 +1,5 @@
 {
-  "count": 2584,
+  "count": 2585,
   "market": "US",
   "games": [
     {
@@ -49591,6 +49591,43 @@
       "removed_at": null
     },
     {
+      "id": "MEWGENICS",
+      "title": "Mewgenics",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NN5Z9BVRCH5"
+      ],
+      "xcloud_title_id": "MEWGENICS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Nicalis Inc.",
+      "developer": "Edmund McMillen Games Inc.",
+      "base_product_id": "9NN5Z9BVRCH5",
+      "xbox_title_id": 1748418988,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.65378.13744661233787452.d1fb23d9-c4fe-41f2-a82e-e98cd79a4fe9.3e8ba6b0-5e18-41d0-8de9-ecd2e3f46273",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-14T05:03:12Z",
+      "last_changed_at": "2026-09-14T05:03:12Z",
+      "added_at": "2026-09-14T05:03:12Z",
+      "removed_at": null
+    },
+    {
       "id": "MIAANDTHEDRAGONPRINCESS",
       "title": "Mia and the Dragon Princess",
       "streamable": true,
@@ -88177,7 +88214,7 @@
         "essential": "purchase",
         "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Ubisoft Entertainment",
       "developer": "RedLynx",
@@ -88189,7 +88226,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-14T05:03:12Z",
       "added_at": null,
       "removed_at": null
     },
@@ -95399,5 +95436,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-13T20:57:20Z"
+  "generated_at": "2026-09-14T05:03:12Z"
 }
