@@ -1,5 +1,5 @@
 {
-  "count": 2590,
+  "count": 2592,
   "market": "US",
   "games": [
     {
@@ -12222,9 +12222,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Activision Publishing Inc.",
       "developer": "",
@@ -12236,7 +12236,7 @@
       "price_formatted": "$0.00",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
       "added_at": null,
       "removed_at": null
     },
@@ -27497,7 +27497,7 @@
       "developer": "Bethesda Game Studios",
       "base_product_id": "BS6WJ2L56B10",
       "xbox_title_id": 332913499,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.61981.70143269474194625.c68f14d3-e520-43ff-a1bc-8de449b5cf7c.4da63e9e-3257-4843-afdf-e2a51170aa6f",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27308.70143269474194625.b0e8b744-cb24-48cd-9498-108cc064643f.3b3afca7-622d-44bd-b112-ff6d4e025fce",
       "is_free": false,
       "price_value": 39.99,
       "price_formatted": "$39.99",
@@ -42274,9 +42274,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Xbox Game Studios",
       "developer": "Double Fine Productions",
@@ -42288,7 +42288,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-09-03T16:35:07Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
       "added_at": null,
       "removed_at": null
     },
@@ -46391,7 +46391,7 @@
     },
     {
       "id": "LITTLEWITCHINTHEWOODSGAMEPREVIEW",
-      "title": "Little Witch in the Woods (Game Preview)",
+      "title": "Little Witch in the Woods",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -46416,7 +46416,7 @@
       "developer": "SUNNY SIDE UP",
       "base_product_id": "9PM9ZVWT18WR",
       "xbox_title_id": 1778148060,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.2960.14301619139286382.fe333953-9667-4a52-a6da-789301fea3ca.5aa04ac9-1d35-4f2b-bd14-b536034f06ea",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55101.14301619139286382.f67905d4-2f9c-4dea-a739-12ee0ceefe76.ff47cb4e-a55f-4aa6-bb37-31ecfc8c1bc1",
       "is_free": false,
       "price_value": 15.99,
       "price_formatted": "$15.99",
@@ -48174,9 +48174,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Dotemu",
       "developer": "Tribute Games",
@@ -48188,7 +48188,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
       "added_at": null,
       "removed_at": null
     },
@@ -50947,7 +50947,7 @@
       "developer": "San Diego Studio",
       "base_product_id": "9NRLSFM01XTP",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.4733.14385377751056556.b3131e46-efd4-40bc-894a-67e4577d555f.241b3cec-ee22-4efa-8f85-1035f8d6a4e0",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48765.14385377751056556.8ade2762-9e24-4afd-b1ad-455034c91f58.35578ce9-53f8-4203-bc53-54519a652337",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -55399,9 +55399,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Xbox Game Studios",
       "developer": "PlatinumGames Inc. / Team NINJA / KOEI TECMO GAMES CO., LTD.)",
@@ -55413,7 +55413,7 @@
       "price_formatted": "$69.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
       "added_at": null,
       "removed_at": null
     },
@@ -58396,7 +58396,7 @@
       "developer": "Recreate Games",
       "base_product_id": "9MZ08RDQ4DM1",
       "xbox_title_id": 2093153073,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.44008.13884485183103116.dfb0a42c-e40f-473b-8e97-75e890c53d0d.1e27183c-f061-461e-8b66-4aa633770a17",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55493.13884485183103116.0a0871f2-1ade-492d-9726-428ea1c1cd31.553b661a-7292-4b35-babc-a7532ad69fd1",
       "is_free": false,
       "price_value": 19.99,
       "price_formatted": "$19.99",
@@ -60637,9 +60637,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Thunderful Publishing AB",
       "developer": "Wishfully",
@@ -60651,7 +60651,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
       "added_at": null,
       "removed_at": null
     },
@@ -64626,7 +64626,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -64641,7 +64641,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
       "added_at": null,
       "removed_at": null
     },
@@ -66699,9 +66699,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Raw Fury",
       "developer": "Lunar Software",
@@ -66713,7 +66713,7 @@
       "price_formatted": "$24.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
       "added_at": null,
       "removed_at": null
     },
@@ -67159,6 +67159,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "RUNESCAPEDRAGONWILDS",
+      "title": "RuneScape: Dragonwilds",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P402RWR63H4"
+      ],
+      "xcloud_title_id": "RUNESCAPEDRAGONWILDS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Jagex: The RuneScape Company",
+      "developer": "Jagex: The RuneScape Company",
+      "base_product_id": "9P402RWR63H4",
+      "xbox_title_id": 2116052231,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5982.14598963835318421.d3340a04-fc78-4b06-9abb-2849494504b3.77f5bc2d-f8c7-4630-9567-dfd26fb43cb5",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-15T21:27:24Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
+      "added_at": "2026-09-15T21:27:24Z",
       "removed_at": null
     },
     {
@@ -78748,10 +78785,10 @@
         "ultimate": "purchase"
       },
       "publisher": "Coffee Stain Publishing AB",
-      "developer": "Tuxedo Labs, Saber Interactive",
+      "developer": "Tuxedo Labs, Fishlabs GmbH",
       "base_product_id": "9MVDW9JCKL8Z",
       "xbox_title_id": 1733257076,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.12763.13794689847468506.f0cb71a6-6b26-4960-9574-64cbbaa2e0c8.0f7aeded-ba9d-4776-80fc-9a05caba2741",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.41340.13794689847468506.97b3d98e-bd5d-4de8-978f-a50c0f109a27.6ec475b9-1f91-4cb2-b442-751a2ccd2347",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -87862,11 +87899,12 @@
     },
     {
       "id": "TRAINSIMWORLD6FREESTARTERPACK",
-      "title": "Train Sim World® 6: Thomas & Friends™ Edition",
+      "title": "Train Sim World® 6: Standard Edition",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9P6FV9K6DMH9"
+        "9P6FV9K6DMH9",
+        "9PJJ15JR1ZWK"
       ],
       "xcloud_title_id": "TRAINSIMWORLD6FREESTARTERPACK",
       "programs": [
@@ -87885,16 +87923,53 @@
       },
       "publisher": "Dovetail Games",
       "developer": "Dovetail Games",
-      "base_product_id": "9P6FV9K6DMH9",
+      "base_product_id": "9PJJ15JR1ZWK",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.16282.14620578056025552.27ce90c4-3450-46e3-88ab-9d3a1a21d687.0c23dcab-7536-428b-94de-32316659e29c",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37262.14281557677549488.87085b62-392f-47bd-a56b-ccabe487cce9.0ab8c375-fa77-4af9-8f0e-2d12afd719b1",
       "is_free": false,
-      "price_value": 39.99,
-      "price_formatted": "$39.99",
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "TRAINSIMWORLD7FREESTARTEREDITION",
+      "title": "Train Sim World® 7: Free Starter Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NLX1C7RRBRP"
+      ],
+      "xcloud_title_id": "TRAINSIMWORLD7FREESTARTEREDITION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Dovetail Games",
+      "developer": "Dovetail Games",
+      "base_product_id": "9NLX1C7RRBRP",
+      "xbox_title_id": 2130778777,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.9966.13703681517292000.26bc1f6a-2fcc-4021-8d4a-8e1d191c5679.72c015f9-a43b-4580-ab8d-761662f6098c",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-15T21:27:24Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
+      "added_at": "2026-09-15T21:27:24Z",
       "removed_at": null
     },
     {
@@ -89542,9 +89617,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Clever Endeavour Games",
       "developer": "Clever Endeavour Games",
@@ -89556,7 +89631,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-15T21:27:24Z",
       "added_at": null,
       "removed_at": null
     },
@@ -95621,5 +95696,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-15T04:59:50Z"
+  "generated_at": "2026-09-15T21:27:24Z"
 }
