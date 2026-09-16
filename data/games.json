@@ -46455,11 +46455,11 @@
       "xbox_title_id": 1778148060,
       "image_url": "https://store-images.s-microsoft.com/image/apps.55101.14301619139286382.f67905d4-2f9c-4dea-a739-12ee0ceefe76.ff47cb4e-a55f-4aa6-bb37-31ecfc8c1bc1",
       "is_free": false,
-      "price_value": 15.99,
-      "price_formatted": "$15.99",
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-16T17:03:37Z",
       "added_at": null,
       "removed_at": null
     },
@@ -92287,7 +92287,7 @@
       "developer": "Gaijin Distribution Kft",
       "base_product_id": "BX1DTCBD1HXJ",
       "xbox_title_id": 171869406,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28763.63381296256995371.c90350dc-f7ef-4c1a-a158-a8de2f5a7725.4e32662f-ea9b-46db-abdf-c5d3071ee3cc",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.22630.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.c42b9272-8726-4fb6-b601-bc0ca73363a4",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -95733,5 +95733,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-16T11:47:35Z"
+  "generated_at": "2026-09-16T17:03:37Z"
 }
