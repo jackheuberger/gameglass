@@ -28940,7 +28940,7 @@
       "developer": "SQUARE ENIX CO., LTD.",
       "base_product_id": "9NP9F7WWKRP1",
       "xbox_title_id": 2133578420,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.49503.13722499700478908.eac1e9c1-255b-4f29-94dc-03b6ed8ad558.86c136e9-e410-4540-ade9-46956caa8a82",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60186.13722499700478908.79be32cb-ccf7-491e-82c9-ae0451eb1de8.1effac52-74f6-4bcd-b404-d2e640256239",
       "is_free": false,
       "price_value": 49.99,
       "price_formatted": "$49.99",
@@ -28977,7 +28977,7 @@
       "developer": "SQUARE ENIX CO., LTD.",
       "base_product_id": "9NRQVQ7ZRM7Z",
       "xbox_title_id": 1768256893,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.25629.14378305291947412.bd502b16-8ce7-4985-8334-40c582006123.51b1fb88-b486-4b67-98e1-a88746d6efd7",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28826.14378305291947412.8d8cbc22-0457-455b-807c-34822c76e54f.9fcd146c-7470-4126-9018-d050dd7c6726",
       "is_free": false,
       "price_value": 39.99,
       "price_formatted": "$39.99",
@@ -95733,5 +95733,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-16T04:55:57Z"
+  "generated_at": "2026-09-16T11:47:35Z"
 }
