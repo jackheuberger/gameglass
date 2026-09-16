@@ -1,5 +1,5 @@
 {
-  "count": 2592,
+  "count": 2593,
   "market": "US",
   "games": [
     {
@@ -3595,6 +3595,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "ANIIMO",
+      "title": "Aniimo",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PK8PHLCQDF6"
+      ],
+      "xcloud_title_id": "ANIIMO",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "included",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Pawprint Studio",
+      "developer": "Pawprint Studio",
+      "base_product_id": "9PK8PHLCQDF6",
+      "xbox_title_id": 1799950478,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29200.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.9807370e-f74d-4e5a-b55e-d918d6e8d7d2",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-16T04:55:57Z",
+      "last_changed_at": "2026-09-16T04:55:57Z",
+      "added_at": "2026-09-16T04:55:57Z",
       "removed_at": null
     },
     {
@@ -95696,5 +95733,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-15T21:27:24Z"
+  "generated_at": "2026-09-16T04:55:57Z"
 }
