@@ -1,5 +1,5 @@
 {
-  "count": 2594,
+  "count": 2595,
   "market": "US",
   "games": [
     {
@@ -823,7 +823,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "9P6LNN3KZ75R",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.33698.14622094146520822.81fe033b-6e3b-41e2-8d48-bfc1464ec5c2.191a7514-3395-4911-80a9-c2b8f34f8406",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.11241.14622094146520822.87f4a335-62d0-481c-86cc-de8fcdf40803.2b2e0cc1-0bec-4a59-bea0-7feea1f176c1",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -11416,7 +11416,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "BT5P2X999VH2",
       "xbox_title_id": 267695549,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.62039.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.0b24b3ad-34d5-48da-9063-07b84ca7a0fa",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.43050.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.c3fabac6-6fa0-4bcf-8279-dca7002ac7e9",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -69604,6 +69604,43 @@
       "removed_at": null
     },
     {
+      "id": "SHAPEOFDREAMS",
+      "title": "Shape of Dreams",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PK0DZ68LGC0"
+      ],
+      "xcloud_title_id": "SHAPEOFDREAMS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "NEOWIZ",
+      "developer": "Lizard Smoothie",
+      "base_product_id": "9PK0DZ68LGC0",
+      "xbox_title_id": 1677483390,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57937.14272457971400341.9e426def-5803-4abc-8dd4-76b9f9ab9f3d.6300aa33-f63f-46db-82ef-5647a77e913b",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-17T11:49:58Z",
+      "last_changed_at": "2026-09-17T11:49:58Z",
+      "added_at": "2026-09-17T11:49:58Z",
+      "removed_at": null
+    },
+    {
       "id": "SHARKPINBALL",
       "title": "Shark Pinball",
       "streamable": true,
@@ -95770,5 +95807,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-17T04:59:50Z"
+  "generated_at": "2026-09-17T11:49:58Z"
 }
