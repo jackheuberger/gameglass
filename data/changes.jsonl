@@ -4941,3 +4941,4 @@
 {"kind":"price_changed","new_value":"$19.99","detail":"Little Witch in the Woods","xcloud_title_id":"LITTLEWITCHINTHEWOODSGAMEPREVIEW","run_id":218,"old_value":"$15.99","tier_key":null,"game_id":"LITTLEWITCHINTHEWOODSGAMEPREVIEW","occurred_at":"2026-09-16T17:03:37Z"}
 {"kind":"game_added","new_value":null,"detail":"Sniper Dan","xcloud_title_id":"SNIPERDAN","run_id":220,"old_value":null,"tier_key":null,"game_id":"SNIPERDAN","occurred_at":"2026-09-17T04:59:50Z"}
 {"kind":"game_added","new_value":null,"detail":"Shape of Dreams","xcloud_title_id":"SHAPEOFDREAMS","run_id":221,"old_value":null,"tier_key":null,"game_id":"SHAPEOFDREAMS","occurred_at":"2026-09-17T11:49:58Z"}
+{"kind":"game_added","new_value":null,"detail":"Kernel Hearts","xcloud_title_id":"KERNELHEARTS","run_id":223,"old_value":null,"tier_key":null,"game_id":"KERNELHEARTS","occurred_at":"2026-09-17T21:27:53Z"}

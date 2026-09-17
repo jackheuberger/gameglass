@@ -1,5 +1,5 @@
 {
-  "count": 2595,
+  "count": 2596,
   "market": "US",
   "games": [
     {
@@ -12378,7 +12378,7 @@
       "developer": "",
       "base_product_id": "9N201KQXS5BM",
       "xbox_title_id": 2001700854,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.23929.13966330883349940.f1113d72-8f40-4997-86b8-20e5ec06976a.d78abb14-11eb-4547-8ca2-d11f24749f19",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57296.13966330883349940.4a39fabf-a215-4498-b8be-1b8fd688a7e8.d504f6f1-11b7-4bf6-a059-06b64cbd6e4c",
       "is_free": false,
       "price_value": null,
       "price_formatted": null,
@@ -42512,6 +42512,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "KERNELHEARTS",
+      "title": "Kernel Hearts",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NXSNQR7CM1Q"
+      ],
+      "xcloud_title_id": "KERNELHEARTS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Whitethorn Games",
+      "developer": "Ephemera Games",
+      "base_product_id": "9NXSNQR7CM1Q",
+      "xbox_title_id": 1877397841,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.10087.14493835367297887.3d2ad750-4d36-4684-b869-351a4f2e7062.2767579f-d846-4f0a-b1d3-78c62b60df21",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-17T21:27:53Z",
+      "last_changed_at": "2026-09-17T21:27:53Z",
+      "added_at": "2026-09-17T21:27:53Z",
       "removed_at": null
     },
     {
@@ -95807,5 +95844,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-17T17:10:17Z"
+  "generated_at": "2026-09-17T21:27:53Z"
 }
