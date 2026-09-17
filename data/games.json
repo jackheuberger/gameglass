@@ -1,5 +1,5 @@
 {
-  "count": 2593,
+  "count": 2594,
   "market": "US",
   "games": [
     {
@@ -71672,6 +71672,43 @@
       "removed_at": null
     },
     {
+      "id": "SNIPERDAN",
+      "title": "Sniper Dan",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MSR1ZM3W4SD"
+      ],
+      "xcloud_title_id": "SNIPERDAN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PQube Ltd",
+      "developer": "Denki",
+      "base_product_id": "9MSR1ZM3W4SD",
+      "xbox_title_id": 1833325369,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.1259.13827393689970499.601766fd-e665-4e54-bb20-5f5203e3c09e.66f86118-0c92-4687-b420-ebe8b57edca3",
+      "is_free": false,
+      "price_value": 12.99,
+      "price_formatted": "$12.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-17T04:59:50Z",
+      "last_changed_at": "2026-09-17T04:59:50Z",
+      "added_at": "2026-09-17T04:59:50Z",
+      "removed_at": null
+    },
+    {
       "id": "SNIPERELITE5",
       "title": "Sniper Elite 5",
       "streamable": true,
@@ -95733,5 +95770,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-16T21:23:05Z"
+  "generated_at": "2026-09-17T04:59:50Z"
 }
