@@ -24749,7 +24749,7 @@
     },
     {
       "id": "EASPORTSFC26XBOXONE",
-      "title": "EA SPORTS FC™ 26 XBOX One",
+      "title": "EA SPORTS FC™ 26 Xbox One",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -24784,7 +24784,7 @@
     },
     {
       "id": "EASPORTSFC26XBOXSERIESXS",
-      "title": "EA SPORTS FC™ 26 XBOX Series X|S",
+      "title": "EA SPORTS FC™ 26 Xbox Series X|S",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -95844,5 +95844,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-18T04:49:29Z"
+  "generated_at": "2026-09-18T11:21:57Z"
 }
