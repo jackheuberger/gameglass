@@ -1,5 +1,5 @@
 {
-  "count": 2597,
+  "count": 2598,
   "market": "US",
   "games": [
     {
@@ -27357,6 +27357,43 @@
       "first_seen_at": "2026-07-20T02:57:00Z",
       "last_changed_at": "2026-07-20T02:57:00Z",
       "added_at": "2026-07-20T02:57:00Z",
+      "removed_at": null
+    },
+    {
+      "id": "FADINGECHO",
+      "title": "Fading Echo",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N0MHMP8Z20G"
+      ],
+      "xcloud_title_id": "FADINGECHO",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "New Tales ; Com2Us Holdings",
+      "developer": "Emeteria",
+      "base_product_id": "9N0MHMP8Z20G",
+      "xbox_title_id": 1860533914,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.17438.13922829360157865.ec0508fa-8c89-43a1-a287-7d30a50f1447.9edd99d5-d23d-4f33-b08b-af47da6932b1",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-22T11:46:51Z",
+      "last_changed_at": "2026-09-22T11:46:51Z",
+      "added_at": "2026-09-22T11:46:51Z",
       "removed_at": null
     },
     {
@@ -61973,7 +62010,7 @@
       "developer": "Omeda Studios Limited",
       "base_product_id": "9NKVBTRRWH6V",
       "xbox_title_id": 1994868821,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.61925.13653755876663909.d2d31287-ac26-41c1-812a-864cd979b131.b447426a-63b0-4ad8-9a76-f61e8db05543",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.31214.13653755876663909.ede617e9-43a0-4ebf-b9c3-1f4f2251bff3.64be61cb-77da-42a1-bc08-4310b719336a",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -95881,5 +95918,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-22T05:03:00Z"
+  "generated_at": "2026-09-22T11:46:51Z"
 }
