@@ -1,5 +1,5 @@
 {
-  "count": 2596,
+  "count": 2597,
   "market": "US",
   "games": [
     {
@@ -20107,6 +20107,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DEMEOXDUNGEONSDRAGONSBATTLEMARKED",
+      "title": "Demeo x Dungeons & Dragons: Battlemarked",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NNXK3W5JBJX"
+      ],
+      "xcloud_title_id": "DEMEOXDUNGEONSDRAGONSBATTLEMARKED",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Resolution Games",
+      "developer": "Resolution Games",
+      "base_product_id": "9NNXK3W5JBJX",
+      "xbox_title_id": 1967861303,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.54094.13734064815792819.55f7912f-d94a-404c-9250-27fce0c73800.035cb2f6-a809-4738-98ab-1695a934c04b",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-22T05:03:00Z",
+      "last_changed_at": "2026-09-22T05:03:00Z",
+      "added_at": "2026-09-22T05:03:00Z",
       "removed_at": null
     },
     {
@@ -95844,5 +95881,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-21T22:05:20Z"
+  "generated_at": "2026-09-22T05:03:00Z"
 }
