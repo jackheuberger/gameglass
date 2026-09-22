@@ -4946,3 +4946,5 @@
 {"kind":"game_added","new_value":null,"detail":"Fading Echo","xcloud_title_id":"FADINGECHO","run_id":239,"old_value":null,"tier_key":null,"game_id":"FADINGECHO","occurred_at":"2026-09-22T11:46:51Z"}
 {"kind":"game_added","new_value":null,"detail":"Well Dweller","xcloud_title_id":"WELLDWELLER","run_id":240,"old_value":null,"tier_key":null,"game_id":"WELLDWELLER","occurred_at":"2026-09-22T17:06:02Z"}
 {"kind":"game_added","new_value":null,"detail":"Dune: Awakening","xcloud_title_id":"DUNEAWAKENING","run_id":240,"old_value":null,"tier_key":null,"game_id":"DUNEAWAKENING","occurred_at":"2026-09-22T17:06:02Z"}
+{"kind":"game_added","new_value":null,"detail":"Rivage","xcloud_title_id":"RIVAGE","run_id":241,"old_value":null,"tier_key":null,"game_id":"RIVAGE","occurred_at":"2026-09-22T21:26:25Z"}
+{"kind":"game_added","new_value":null,"detail":"Graveyard Keeper 2","xcloud_title_id":"GRAVEYARDKEEPER2","run_id":241,"old_value":null,"tier_key":null,"game_id":"GRAVEYARDKEEPER2","occurred_at":"2026-09-22T21:26:25Z"}

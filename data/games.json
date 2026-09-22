@@ -1,5 +1,5 @@
 {
-  "count": 2600,
+  "count": 2602,
   "market": "US",
   "games": [
     {
@@ -33940,6 +33940,43 @@
       "removed_at": null
     },
     {
+      "id": "GRAVEYARDKEEPER2",
+      "title": "Graveyard Keeper 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PFZQ5GNM8TJ"
+      ],
+      "xcloud_title_id": "GRAVEYARDKEEPER2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "tinyBuild",
+      "developer": "Lazy Bear Games",
+      "base_product_id": "9PFZQ5GNM8TJ",
+      "xbox_title_id": 2123584275,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.3002.14195381690334881.9ee20be6-b06d-4c1f-a0aa-fac8d5ab44c6.ed71aec0-e5b7-4336-b8c3-000a0e669e28",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-22T21:26:25Z",
+      "last_changed_at": "2026-09-22T21:26:25Z",
+      "added_at": "2026-09-22T21:26:25Z",
+      "removed_at": null
+    },
+    {
       "id": "GREATGODGROVE",
       "title": "Great God Grove",
       "streamable": true,
@@ -65904,6 +65941,43 @@
       "removed_at": null
     },
     {
+      "id": "RIVAGE",
+      "title": "Rivage",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NZVRP8QQZ6N"
+      ],
+      "xcloud_title_id": "RIVAGE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury AB",
+      "developer": "9525-0106 Québec Inc.",
+      "base_product_id": "9NZVRP8QQZ6N",
+      "xbox_title_id": 1686655508,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.3018.14473120167105611.406956ff-ec1e-44b6-9ee1-8aafc4283e8f.4a9c735e-8b85-4bff-9820-81cd2681482d",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-22T21:26:25Z",
+      "last_changed_at": "2026-09-22T21:26:25Z",
+      "added_at": "2026-09-22T21:26:25Z",
+      "removed_at": null
+    },
+    {
       "id": "RIVALSOFAETHER",
       "title": "Rivals of Aether",
       "streamable": true,
@@ -95992,5 +96066,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-22T17:06:02Z"
+  "generated_at": "2026-09-22T21:26:25Z"
 }
