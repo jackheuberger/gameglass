@@ -1,5 +1,5 @@
 {
-  "count": 2598,
+  "count": 2600,
   "market": "US",
   "games": [
     {
@@ -24017,6 +24017,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DUNEAWAKENING",
+      "title": "Dune: Awakening",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PJ6FV3130QZ"
+      ],
+      "xcloud_title_id": "DUNEAWAKENING",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Funcom",
+      "developer": "Funcom",
+      "base_product_id": "9PJ6FV3130QZ",
+      "xbox_title_id": 1780788060,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.15231.14221973547534254.c9400a22-a0eb-4428-bc72-11e2270ad849.2d59a2c9-5ea7-4e0d-97d3-8ffc82818b7c",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-22T17:06:02Z",
+      "last_changed_at": "2026-09-22T17:06:02Z",
+      "added_at": "2026-09-22T17:06:02Z",
       "removed_at": null
     },
     {
@@ -71661,7 +71698,7 @@
       "developer": "Titan Forge Games",
       "base_product_id": "9NV8W1KJSQLL",
       "xbox_title_id": 1993741445,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.59570.14402893629943553.4ce4ac4a-6ead-40b7-84e1-cf013cdf1bd0.61c38eae-e055-4043-b23d-39500ac76282",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.7588.14402893629943553.7b95ed71-bdc1-4a75-bf6b-3e3bde680340.2bf8f3da-b376-4839-ba24-7fd34845329e",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -92964,6 +93001,43 @@
       "removed_at": null
     },
     {
+      "id": "WELLDWELLER",
+      "title": "Well Dweller",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PLH7R84GJWP"
+      ],
+      "xcloud_title_id": "WELLDWELLER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Top Hat Studios, Inc.",
+      "developer": "Kyle Thompson",
+      "base_product_id": "9PLH7R84GJWP",
+      "xbox_title_id": 1682153445,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64966.14313416011451880.0dc13654-082f-4832-844b-343ef39821bf.9bce34eb-6c94-4ced-bbee-c6a9f477d036",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-22T17:06:02Z",
+      "last_changed_at": "2026-09-22T17:06:02Z",
+      "added_at": "2026-09-22T17:06:02Z",
+      "removed_at": null
+    },
+    {
       "id": "WEREWOLFPINBALL",
       "title": "Werewolf Pinball",
       "streamable": true,
@@ -95918,5 +95992,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-22T11:46:51Z"
+  "generated_at": "2026-09-22T17:06:02Z"
 }
