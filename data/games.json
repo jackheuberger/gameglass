@@ -1,5 +1,5 @@
 {
-  "count": 2602,
+  "count": 2603,
   "market": "US",
   "games": [
     {
@@ -32227,7 +32227,7 @@
       "developer": "Shanghai miHoYo TianMing Technology Co., Ltd.",
       "base_product_id": "9N7TFFRRZCC9",
       "xbox_title_id": 2053080068,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.8398.14057893183113088.cf15d32c-95b6-4061-85e5-550f7dcec940.25de79d5-6c02-4a99-a676-1c15a14b4a49",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40706.14057893183113088.225c959c-4e96-4c0d-b572-af64d573ae06.eb1b05ab-846a-434d-8f78-d9c3d9f4bb76",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -47824,6 +47824,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "MADKINGREDEMPTION",
+      "title": "Mad King Redemption",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N944N1WP67T"
+      ],
+      "xcloud_title_id": "MADKINGREDEMPTION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Secret Mission Games",
+      "developer": "Secret Mission Games",
+      "base_product_id": "9N944N1WP67T",
+      "xbox_title_id": 1913537621,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.52962.13544556109351948.9c4c33b4-f6ce-4d2c-ac5f-3aa565d08d7d.367a2b17-e3d1-41e3-85d3-de507b095418",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-23T04:50:56Z",
+      "last_changed_at": "2026-09-23T04:50:56Z",
+      "added_at": "2026-09-23T04:50:56Z",
       "removed_at": null
     },
     {
@@ -96066,5 +96103,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-22T21:26:25Z"
+  "generated_at": "2026-09-23T04:50:56Z"
 }
