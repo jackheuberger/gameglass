@@ -1,5 +1,5 @@
 {
-  "count": 2607,
+  "count": 2608,
   "market": "US",
   "games": [
     {
@@ -15975,6 +15975,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "CONTROLRESONANT",
+      "title": "CONTROL Resonant",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P092299FSGW"
+      ],
+      "xcloud_title_id": "CONTROLRESONANT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Remedy Entertainment",
+      "developer": "Remedy Entertainment",
+      "base_product_id": "9P092299FSGW",
+      "xbox_title_id": 1653280174,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29767.13620263320704218.3e4e3672-2523-40bc-888a-b7dcef4d41e4.c5adb58f-c70c-4179-9fe3-ff232a9a67fb",
+      "is_free": false,
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-24T21:40:59Z",
+      "last_changed_at": "2026-09-24T21:40:59Z",
+      "added_at": "2026-09-24T21:40:59Z",
       "removed_at": null
     },
     {
@@ -65005,7 +65042,7 @@
       "developer": "Sloclap",
       "base_product_id": "9N5K7HWXL4Q6",
       "xbox_title_id": 1634930870,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.10507.14036668029170653.4554f7c2-4515-49d2-8ebb-f9d385d870e2.0252f76e-c2dd-4a4d-aa5d-51556a6baafd",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.6707.14036668029170653.6510dadb-d349-4a75-b762-95e6550fdd9b.d5b36e28-53c0-460b-b8bb-7b97e3335433",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -96251,5 +96288,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-24T17:25:51Z"
+  "generated_at": "2026-09-24T21:40:59Z"
 }
