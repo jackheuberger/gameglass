@@ -1,5 +1,5 @@
 {
-  "count": 2604,
+  "count": 2607,
   "market": "US",
   "games": [
     {
@@ -28063,6 +28063,43 @@
       "removed_at": null
     },
     {
+      "id": "FARMINGCAMP",
+      "title": "Farming Camp",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NZGTX06V7MD"
+      ],
+      "xcloud_title_id": "FARMINGCAMP",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "SOEDESCO",
+      "developer": "Innerfire Studios",
+      "base_product_id": "9NZGTX06V7MD",
+      "xbox_title_id": 2078158109,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.16530.14480704267768469.9b788dec-5224-42db-b7d8-70df47f12e04.d1d4437f-5ac6-4ee7-8aaa-21eb4e6d8555",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-24T11:53:55Z",
+      "last_changed_at": "2026-09-24T11:53:55Z",
+      "added_at": "2026-09-24T11:53:55Z",
+      "removed_at": null
+    },
+    {
       "id": "FARMINGSIMULATOR19",
       "title": "Farming Simulator 19",
       "streamable": true,
@@ -42253,6 +42290,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "KALANORO",
+      "title": "Kalanoro",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PH0FQN366M7"
+      ],
+      "xcloud_title_id": "KALANORO",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "New Tales",
+      "developer": "Red Raketa Studio",
+      "base_product_id": "9PH0FQN366M7",
+      "xbox_title_id": 1912543312,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60683.14241370444852158.e7ce4689-ffe6-4915-9729-753c421f8adc.a168d58b-65af-419c-a0f7-17ec5ad5ef33",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-24T11:53:55Z",
+      "last_changed_at": "2026-09-24T11:53:55Z",
+      "added_at": "2026-09-24T11:53:55Z",
       "removed_at": null
     },
     {
@@ -68935,6 +69009,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SEAFARERTHESHIPSIM",
+      "title": "Seafarer: The Ship Sim",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NM34NTCDZDN"
+      ],
+      "xcloud_title_id": "SEAFARERTHESHIPSIM",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment ",
+      "developer": "astragon Development",
+      "base_product_id": "9NM34NTCDZDN",
+      "xbox_title_id": 1720808392,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.65248.13695619934935495.14c0ce43-04e4-43d1-bbdc-fdfd246a2f5e.48de77dc-07b1-465d-ad0c-4706b138acda",
+      "is_free": false,
+      "price_value": 34.99,
+      "price_formatted": "$34.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-24T11:53:55Z",
+      "last_changed_at": "2026-09-24T11:53:55Z",
+      "added_at": "2026-09-24T11:53:55Z",
       "removed_at": null
     },
     {
@@ -96140,5 +96251,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-24T04:58:09Z"
+  "generated_at": "2026-09-24T11:53:55Z"
 }
