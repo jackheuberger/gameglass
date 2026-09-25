@@ -57450,7 +57450,8 @@
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9NH6PQ3L7TTP"
+        "9NH6PQ3L7TTP",
+        "9PJMHTRC9WKB"
       ],
       "xcloud_title_id": "ONIMUSHAWAYOFTHESWORD",
       "programs": [
@@ -57469,15 +57470,15 @@
       },
       "publisher": "CAPCOM CO., LTD.",
       "developer": "CAPCOM CO., LTD.",
-      "base_product_id": "9NH6PQ3L7TTP",
-      "xbox_title_id": null,
+      "base_product_id": "9PJMHTRC9WKB",
+      "xbox_title_id": 2131196662,
       "image_url": "https://store-images.s-microsoft.com/image/apps.56434.13631205803488136.949bebf7-db71-42b3-ad22-004e43af0613.0a14249a-2ee5-4876-b62f-ad3b55edeb7e",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 69.99,
+      "price_formatted": "$69.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-09-04T11:25:43Z",
-      "last_changed_at": "2026-09-25T05:05:00Z",
+      "last_changed_at": "2026-09-25T12:00:41Z",
       "added_at": "2026-09-04T11:25:43Z",
       "removed_at": null
     },
@@ -96288,5 +96289,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-25T05:05:00Z"
+  "generated_at": "2026-09-25T12:00:41Z"
 }

@@ -4955,3 +4955,4 @@
 {"kind":"game_added","new_value":null,"detail":"Kalanoro","xcloud_title_id":"KALANORO","run_id":247,"old_value":null,"tier_key":null,"game_id":"KALANORO","occurred_at":"2026-09-24T11:53:55Z"}
 {"kind":"game_added","new_value":null,"detail":"CONTROL Resonant","xcloud_title_id":"CONTROLRESONANT","run_id":249,"old_value":null,"tier_key":null,"game_id":"CONTROLRESONANT","occurred_at":"2026-09-24T21:40:59Z"}
 {"kind":"price_changed","new_value":null,"detail":"Onimusha: Way of the Sword","xcloud_title_id":"ONIMUSHAWAYOFTHESWORD","run_id":250,"old_value":"$69.99","tier_key":null,"game_id":"ONIMUSHAWAYOFTHESWORD","occurred_at":"2026-09-25T05:05:00Z"}
+{"kind":"price_changed","new_value":"$69.99","detail":"Onimusha: Way of the Sword","xcloud_title_id":"ONIMUSHAWAYOFTHESWORD","run_id":251,"old_value":null,"tier_key":null,"game_id":"ONIMUSHAWAYOFTHESWORD","occurred_at":"2026-09-25T12:00:41Z"}
