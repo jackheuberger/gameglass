@@ -93955,11 +93955,11 @@
       "xbox_title_id": 2008301104,
       "image_url": "https://store-images.s-microsoft.com/image/apps.53490.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.2c5e30f1-0052-48aa-a526-46c234418872",
       "is_free": false,
-      "price_value": 29.99,
-      "price_formatted": "$29.99",
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-09-25T21:43:35Z",
       "added_at": null,
       "removed_at": null
     },
@@ -96289,5 +96289,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-25T17:19:55Z"
+  "generated_at": "2026-09-25T21:43:35Z"
 }
