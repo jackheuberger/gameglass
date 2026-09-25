@@ -37664,7 +37664,7 @@
       "developer": "IO Interactive A/S",
       "base_product_id": "9NN82NH949D5",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.32819.13747708785346246.d429cba3-dfbc-40be-a26f-985cc70239e7.59251ec9-7b0f-4848-9b49-739c05ad3fbf",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29216.13747708785346246.7357480f-2280-4f22-b230-462953a1418d.4e66c8ab-f764-4676-b604-332a24fa17c6",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -96289,5 +96289,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-25T12:00:41Z"
+  "generated_at": "2026-09-25T17:19:55Z"
 }
