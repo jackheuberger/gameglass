@@ -37738,7 +37738,7 @@
       "developer": "Avalanche Software",
       "base_product_id": "9NK4NTBFWW81",
       "xbox_title_id": 1693340366,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.1336.13668282042107954.990e31ce-5b94-4058-beec-37b32e211c05.101dc615-290b-41e1-9fc6-1c2f0609e976",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37701.13668282042107954.874f4821-1931-4173-aee3-0eed5c78ce55.f063b094-4083-4471-8f81-3c1417d4fbf0",
       "is_free": false,
       "price_value": 59.99,
       "price_formatted": "$59.99",
@@ -37775,7 +37775,7 @@
       "developer": "Avalanche Software",
       "base_product_id": "9MT5NJ5W7B8Z",
       "xbox_title_id": 1693340366,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.1336.13814785456466922.0fef76f8-710d-4aca-b42f-c45e536f8d2b.96a5486a-56bf-41d9-84be-225d85509a34",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37701.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.14853765-b8e3-4443-8745-919fde18395f",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -96289,5 +96289,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-28T14:05:37Z"
+  "generated_at": "2026-09-28T23:22:46Z"
 }
