@@ -1,5 +1,5 @@
 {
-  "count": 2609,
+  "count": 2611,
   "market": "US",
   "games": [
     {
@@ -11650,7 +11650,7 @@
     },
     {
       "id": "BULWARKEVOLUTIONFALCONEERCHRONICLES",
-      "title": "Bulwark Evolution: Falconeer Chronicles",
+      "title": "Bulwark: Falconeer Chronicles",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -11675,7 +11675,7 @@
       "developer": "Tomas Sala",
       "base_product_id": "9PG8KQ5F1J65",
       "xbox_title_id": 1648491052,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.13959.14185108443793606.96fb6f46-e0b5-48a9-9fc5-aa073db22834.3415131c-c72d-4e4a-8de2-87fbff876cc1",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.2553.14185108443793606.4094915c-42a1-4185-abac-b1db8ce52c61.1cd796aa-3c7e-4e5e-b44a-b2914ebda1c8",
       "is_free": false,
       "price_value": 19.99,
       "price_formatted": "$19.99",
@@ -33792,6 +33792,43 @@
       "removed_at": null
     },
     {
+      "id": "GOTHICIICOMPLETECLASSIC",
+      "title": "Gothic II Complete Classic",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NDW7NW3K662"
+      ],
+      "xcloud_title_id": "GOTHICIICOMPLETECLASSIC",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "THQ Nordic",
+      "developer": "THQ Nordic GmbH",
+      "base_product_id": "9NDW7NW3K662",
+      "xbox_title_id": 2041780296,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8736.13610916268818289.66896ec2-5312-4b26-ad2b-b13e35ac0842.2f0c0e43-36d9-41d2-87ac-75a83caa5c2f",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-29T22:21:36Z",
+      "last_changed_at": "2026-09-29T22:21:36Z",
+      "added_at": "2026-09-29T22:21:36Z",
+      "removed_at": null
+    },
+    {
       "id": "GRACEOFLETOILE",
       "title": "Grace of Letoile",
       "streamable": true,
@@ -50632,7 +50669,8 @@
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9P5786PJB9RP"
+        "9P5786PJB9RP",
+        "9PM3J18QM4Q3"
       ],
       "xcloud_title_id": "MINECRAFTDUNGEONSII",
       "programs": [
@@ -50651,15 +50689,15 @@
       },
       "publisher": "Xbox Game Studios",
       "developer": "Mojang Studios / ‪Double Eleven Limited",
-      "base_product_id": "9P5786PJB9RP",
-      "xbox_title_id": 1805509784,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.55764.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.7428e9e9-7587-41f5-be10-6e0f7d0e2841",
+      "base_product_id": "9PM3J18QM4Q3",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55764.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.0979208f-b84a-4926-8960-0358abea7f3c",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-09-29T13:01:37Z",
-      "last_changed_at": "2026-09-29T13:01:37Z",
+      "last_changed_at": "2026-09-29T22:21:36Z",
       "added_at": "2026-09-29T13:01:37Z",
       "removed_at": null
     },
@@ -51391,7 +51429,7 @@
       "developer": "San Diego Studio",
       "base_product_id": "9NRLSFM01XTP",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.48765.14385377751056556.8ade2762-9e24-4afd-b1ad-455034c91f58.35578ce9-53f8-4203-bc53-54519a652337",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27741.14385377751056556.1fe3bcd1-7004-4cd7-8cad-04f074b8fd4d.6838e001-df75-4ee4-b4a9-a46e8b876c9b",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -93187,6 +93225,43 @@
       "removed_at": null
     },
     {
+      "id": "WAYOFTHEHUNTER2",
+      "title": "Way of the Hunter 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PLGB8Q7JZ91"
+      ],
+      "xcloud_title_id": "WAYOFTHEHUNTER2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "THQ Nordic",
+      "developer": "Nine Rocks Games",
+      "base_product_id": "9PLGB8Q7JZ91",
+      "xbox_title_id": 2110764382,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.49075.14318174513556052.f91b7dfe-9b55-4a54-8c4d-80fb4f2a7cfa.ec27bc7f-1cf4-4975-9270-c5bc7ec50dca",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-09-29T22:21:36Z",
+      "last_changed_at": "2026-09-29T22:21:36Z",
+      "added_at": "2026-09-29T22:21:36Z",
+      "removed_at": null
+    },
+    {
       "id": "WEDONTCRYZOMBIESURVIVAL",
       "title": "We Don't Cry: Zombie Survival",
       "streamable": true,
@@ -96326,5 +96401,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-29T13:01:37Z"
+  "generated_at": "2026-09-29T22:21:36Z"
 }
