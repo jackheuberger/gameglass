@@ -1,5 +1,5 @@
 {
-  "count": 2608,
+  "count": 2609,
   "market": "US",
   "games": [
     {
@@ -26281,7 +26281,7 @@
       "developer": "Darkflow Software",
       "base_product_id": "9NHKL695M9F2",
       "xbox_title_id": 1744726864,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28857.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.56594ac4-97bd-4bd5-8fac-c104d8a32431",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.43711.13628462776883363.b5671ab7-c80f-40e6-93ba-83e5efc0e1a5.ec42daf2-e2ea-4298-922b-b4d9c26e7b10",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -26318,7 +26318,7 @@
       "developer": "Darkflow Software",
       "base_product_id": "9PF432CVQBXT",
       "xbox_title_id": 1744726864,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28857.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.56594ac4-97bd-4bd5-8fac-c104d8a32431",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.43711.14212477956808574.da26f75d-69b4-4507-87ab-5c4d257304d3.e0c5a8c2-0327-4915-af2b-e70601559a5e",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -50624,6 +50624,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "MINECRAFTDUNGEONSII",
+      "title": "Minecraft Dungeons II",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P5786PJB9RP"
+      ],
+      "xcloud_title_id": "MINECRAFTDUNGEONSII",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Xbox Game Studios",
+      "developer": "Mojang Studios / ‪Double Eleven Limited",
+      "base_product_id": "9P5786PJB9RP",
+      "xbox_title_id": 1805509784,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55764.14578966298260124.ac5059d8-7ee1-409a-8326-c91ad228baaf.7428e9e9-7587-41f5-be10-6e0f7d0e2841",
+      "is_free": false,
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
+      "first_seen_at": "2026-09-29T13:01:37Z",
+      "last_changed_at": "2026-09-29T13:01:37Z",
+      "added_at": "2026-09-29T13:01:37Z",
       "removed_at": null
     },
     {
@@ -86274,7 +86311,7 @@
     },
     {
       "id": "THEWITCHER3COMPLETE",
-      "title": "The Witcher 3: Wild Hunt – Complete Edition",
+      "title": "The Witcher 3: Wild Hunt — Remastered",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -86295,11 +86332,11 @@
         "starter": "purchase",
         "ultimate": "included"
       },
-      "publisher": "CD PROJEKT S.A.",
+      "publisher": "CD PROJEKT RED",
       "developer": "CD PROJEKT RED",
       "base_product_id": "C261457LCNMJ",
       "xbox_title_id": 530462567,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.39575.65858607118306853.39ed2a08-df0d-4ae1-aee0-c66ffb783a34.4b0c1586-4376-4ebb-a653-53a3fccec06c",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.34615.65858607118306853.fbb50b59-ac60-4f64-9908-5f89de905ebd.6462cfd3-2fd9-47c1-8183-806ee4c9f426",
       "is_free": false,
       "price_value": 49.99,
       "price_formatted": "$49.99",
@@ -96289,5 +96326,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-29T05:49:12Z"
+  "generated_at": "2026-09-29T13:01:37Z"
 }
