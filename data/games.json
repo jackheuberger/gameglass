@@ -823,7 +823,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "9P6LNN3KZ75R",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.11241.14622094146520822.87f4a335-62d0-481c-86cc-de8fcdf40803.2b2e0cc1-0bec-4a59-bea0-7feea1f176c1",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.34485.14622094146520822.5cdb5618-56ef-4fbc-8a51-bc3327c56342.655468de-3495-4c77-ad41-7f1f851fea9f",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -836,7 +836,7 @@
     {
       "id": "9PB4WLWQS892",
       "title": "Rocket Racing",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9PB4WLWQS892"
@@ -862,9 +862,9 @@
       "price_formatted": "$0.00",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T16:11:29Z",
+      "last_changed_at": "2026-10-01T13:25:07Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-10-01T13:25:07Z"
     },
     {
       "id": "9PC5KKHSMCT5",
@@ -11564,7 +11564,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "BT5P2X999VH2",
       "xbox_title_id": 267695549,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.43050.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.c3fabac6-6fa0-4bcf-8279-dca7002ac7e9",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.20392.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.24e2eab9-1b75-4157-ba8b-006f4624d839",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -46914,7 +46914,7 @@
     {
       "id": "LITTLENIGHTMARESII",
       "title": "Little Nightmares II Enhanced Edition",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "C1H74N0TR8KT"
@@ -46940,9 +46940,9 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-01T13:25:07Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-10-01T13:25:07Z"
     },
     {
       "id": "LITTLENIGHTMARESIII",
@@ -54109,7 +54109,8 @@
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9NQHX9NWDZ33"
+        "9NQHX9NWDZ33",
+        "9PKN2410CL6M"
       ],
       "xcloud_title_id": "MXGP26THEOFFICIALGAME",
       "programs": [
@@ -54128,9 +54129,9 @@
       },
       "publisher": "Nacon",
       "developer": "Artefacts Studio",
-      "base_product_id": "9NQHX9NWDZ33",
-      "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.47434.13773523908652806.2aa32936-1139-4a99-88a9-d4b15c146124.d5af856d-27ac-409f-9608-0a12860eddfb",
+      "base_product_id": "9PKN2410CL6M",
+      "xbox_title_id": 1674229576,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.47434.14259504392885616.1c19e45c-ea3e-4bc1-9ab4-74c43d181c63.5bc4a59a-acf0-41c1-848f-9466a69d2c2d",
       "is_free": false,
       "price_value": 59.99,
       "price_formatted": "$59.99",
@@ -97659,5 +97660,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-01T06:01:48Z"
+  "generated_at": "2026-10-01T13:25:07Z"
 }
