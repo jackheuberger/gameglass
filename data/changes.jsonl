@@ -4999,3 +4999,4 @@
 {"kind":"tier_status_changed","new_value":"included","detail":"Minecraft Dungeons","xcloud_title_id":"MINECRAFTDUNGEONS","run_id":271,"old_value":"purchase","tier_key":"starter","game_id":"MINECRAFTDUNGEONS","occurred_at":"2026-10-01T06:01:48Z"}
 {"kind":"game_removed","new_value":null,"detail":"Rocket Racing","xcloud_title_id":"9PB4WLWQS892","run_id":272,"old_value":null,"tier_key":null,"game_id":"9PB4WLWQS892","occurred_at":"2026-10-01T13:25:07Z"}
 {"kind":"game_removed","new_value":null,"detail":"Little Nightmares II Enhanced Edition","xcloud_title_id":"LITTLENIGHTMARESII","run_id":272,"old_value":null,"tier_key":null,"game_id":"LITTLENIGHTMARESII","occurred_at":"2026-10-01T13:25:07Z"}
+{"kind":"game_added","new_value":null,"detail":"Gears of War: E-Day Pre-Order","xcloud_title_id":"GEARSOFWAREDAY","run_id":273,"old_value":null,"tier_key":null,"game_id":"GEARSOFWAREDAY","occurred_at":"2026-10-01T22:47:19Z"}

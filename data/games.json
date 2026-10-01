@@ -1,5 +1,5 @@
 {
-  "count": 2645,
+  "count": 2646,
   "market": "US",
   "games": [
     {
@@ -29,7 +29,7 @@
       "developer": "IO Interactive A/S",
       "base_product_id": "9NPF9F0DCVKS",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.41143.13724632036791617.a67154ef-cc22-4eee-949f-2c609594dddb.baf8b00f-ac41-43f6-abdc-5d1a0f49eaed",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.20065.13724632036791617.086e1bc5-355e-4b9b-91c7-b65e54fb7cbc.a2c264ea-6cdd-48db-a78c-f5d2d40db7e0",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -29791,7 +29791,7 @@
       "developer": "Fishing Planet LLC",
       "base_product_id": "BVM002M8HH0S",
       "xbox_title_id": 490838306,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.21937.70971773779833883.044502ea-9e5f-45b0-9e2a-50c9834a674b.1ca9aa85-21ec-47ca-8e03-00222cf432d9",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.18631.70971773779833883.b4ccb87a-3ba3-4a8b-8cb6-8f93204547c9.525661de-ba12-49c0-9544-698006332039",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -32309,6 +32309,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "GEARSOFWAREDAY",
+      "title": "Gears of War: E-Day Pre-Order",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PLTG5DJ32XQ"
+      ],
+      "xcloud_title_id": "GEARSOFWAREDAY",
+      "programs": [
+        "EARLYACCESS",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "FERDINAND",
+        "TRITON"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Xbox Game Studios",
+      "developer": "The Coalition",
+      "base_product_id": "9PLTG5DJ32XQ",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.26062.14310770435065065.c8a1a91e-2c5b-498b-82e6-b6b66068ab7f.6518a729-fd0e-485a-9a50-b80eaa676969",
+      "is_free": false,
+      "price_value": 69.99,
+      "price_formatted": "$69.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-01T22:47:19Z",
+      "last_changed_at": "2026-10-01T22:47:19Z",
+      "added_at": "2026-10-01T22:47:19Z",
       "removed_at": null
     },
     {
@@ -97660,5 +97697,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-01T13:25:07Z"
+  "generated_at": "2026-10-01T22:47:19Z"
 }
