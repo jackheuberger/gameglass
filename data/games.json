@@ -1,5 +1,5 @@
 {
-  "count": 2642,
+  "count": 2645,
   "market": "US",
   "games": [
     {
@@ -51162,9 +51162,9 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "included",
         "ultimate": "included"
       },
       "publisher": "Xbox Game Studios",
@@ -51177,7 +51177,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-01T06:01:48Z",
       "added_at": null,
       "removed_at": null
     },
@@ -54101,6 +54101,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "MXGP26THEOFFICIALGAME",
+      "title": "MXGP 26 - The Official Game",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NQHX9NWDZ33"
+      ],
+      "xcloud_title_id": "MXGP26THEOFFICIALGAME",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Nacon",
+      "developer": "Artefacts Studio",
+      "base_product_id": "9NQHX9NWDZ33",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.47434.13773523908652806.2aa32936-1139-4a99-88a9-d4b15c146124.d5af856d-27ac-409f-9608-0a12860eddfb",
+      "is_free": false,
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-01T06:01:48Z",
+      "last_changed_at": "2026-10-01T06:01:48Z",
+      "added_at": "2026-10-01T06:01:48Z",
       "removed_at": null
     },
     {
@@ -63537,6 +63574,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T16:11:29Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "PUCKOFFRELOADED",
+      "title": "PUCKOFF: RELOADED",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NP6XVW2LWH0"
+      ],
+      "xcloud_title_id": "PUCKOFFRELOADED",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Kuura Playhouse Oy",
+      "developer": "Kuura Playhouse Oy",
+      "base_product_id": "9NP6XVW2LWH0",
+      "xbox_title_id": 1795606915,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.46458.13728558589407033.3bda59ec-b8df-404b-a7e4-25efdb8e3e36.6bc00fc5-bc21-44a4-b096-49ed53c5d68d",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-01T06:01:48Z",
+      "last_changed_at": "2026-10-01T06:01:48Z",
+      "added_at": "2026-10-01T06:01:48Z",
       "removed_at": null
     },
     {
@@ -94261,6 +94335,43 @@
       "removed_at": null
     },
     {
+      "id": "WAXMUSEUMHIDDENOBJECTS",
+      "title": "Wax Museum: Hidden Objects",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NVVTCXNB0LZ"
+      ],
+      "xcloud_title_id": "WAXMUSEUMHIDDENOBJECTS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Crisp App Studio",
+      "developer": "Crisp App Studio ",
+      "base_product_id": "9NVVTCXNB0LZ",
+      "xbox_title_id": 1887427157,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.12788.14457399961268110.7def511f-d0f1-45a4-8c56-5cf30d37ad6c.6b6660b9-0d06-4c86-a210-3986cc32e3d1",
+      "is_free": false,
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-01T06:01:48Z",
+      "last_changed_at": "2026-10-01T06:01:48Z",
+      "added_at": "2026-10-01T06:01:48Z",
+      "removed_at": null
+    },
+    {
       "id": "WAYOFTHEHUNTER",
       "title": "Way of the Hunter",
       "streamable": true,
@@ -95802,7 +95913,7 @@
       "developer": "id Software",
       "base_product_id": "BSXDD75Q561F",
       "xbox_title_id": 947714459,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.37624.69996971058496124.2c12fbbb-b1fd-4ae1-b929-d0155904a243.fc19b891-8dc4-4c4a-897e-5b920463c8fe",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.35762.14103068553133050.2db8938c-844e-4b8f-bb62-aca2ce562342.96a79cc2-22cb-4478-9190-22ade0ee49bb",
       "is_free": false,
       "price_value": 4.99,
       "price_formatted": "$4.99",
@@ -97548,5 +97659,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-09-30T22:23:54Z"
+  "generated_at": "2026-10-01T06:01:48Z"
 }
