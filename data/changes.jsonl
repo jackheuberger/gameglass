@@ -5003,3 +5003,4 @@
 {"kind":"game_added","new_value":null,"detail":"Monster Nursery","xcloud_title_id":"MONSTERNURSERY","run_id":274,"old_value":null,"tier_key":null,"game_id":"MONSTERNURSERY","occurred_at":"2026-10-02T05:43:49Z"}
 {"kind":"game_added","new_value":null,"detail":"Aery - Calm Horizon 2","xcloud_title_id":"AERYCALMHORIZON2","run_id":274,"old_value":null,"tier_key":null,"game_id":"AERYCALMHORIZON2","occurred_at":"2026-10-02T05:43:49Z"}
 {"kind":"game_added","new_value":null,"detail":"KAWAII PUSH","xcloud_title_id":"KAWAIIPUSH","run_id":274,"old_value":null,"tier_key":null,"game_id":"KAWAIIPUSH","occurred_at":"2026-10-02T05:43:49Z"}
+{"kind":"price_changed","new_value":"$29.99","detail":"Lightyear Frontier (Game Preview)","xcloud_title_id":"LIGHTYEARFRONTIERGAMEPREVIEW","run_id":276,"old_value":"$24.99","tier_key":null,"game_id":"LIGHTYEARFRONTIERGAMEPREVIEW","occurred_at":"2026-10-02T22:21:26Z"}

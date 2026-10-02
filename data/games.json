@@ -46726,11 +46726,11 @@
       "xbox_title_id": 1771989345,
       "image_url": "https://store-images.s-microsoft.com/image/apps.57362.13610342535970070.fb34dfda-5ccd-4768-9a7b-0f0c468853e1.7b1adc26-e416-4946-ad25-ecb5667cb4f8",
       "is_free": false,
-      "price_value": 24.99,
-      "price_formatted": "$24.99",
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-02T22:21:26Z",
       "added_at": null,
       "removed_at": null
     },
@@ -52058,7 +52058,7 @@
       "developer": "San Diego Studio",
       "base_product_id": "9NRLSFM01XTP",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.27741.14385377751056556.1fe3bcd1-7004-4cd7-8cad-04f074b8fd4d.6838e001-df75-4ee4-b4a9-a46e8b876c9b",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60342.14385377751056556.08a1d23d-a7c7-4c43-8cd8-24266096de2b.c48d881e-40c7-40b4-80cb-a5c4c3b47e59",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -97808,5 +97808,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-02T12:43:43Z"
+  "generated_at": "2026-10-02T22:21:26Z"
 }
