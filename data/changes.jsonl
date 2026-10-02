@@ -5000,3 +5000,6 @@
 {"kind":"game_removed","new_value":null,"detail":"Rocket Racing","xcloud_title_id":"9PB4WLWQS892","run_id":272,"old_value":null,"tier_key":null,"game_id":"9PB4WLWQS892","occurred_at":"2026-10-01T13:25:07Z"}
 {"kind":"game_removed","new_value":null,"detail":"Little Nightmares II Enhanced Edition","xcloud_title_id":"LITTLENIGHTMARESII","run_id":272,"old_value":null,"tier_key":null,"game_id":"LITTLENIGHTMARESII","occurred_at":"2026-10-01T13:25:07Z"}
 {"kind":"game_added","new_value":null,"detail":"Gears of War: E-Day Pre-Order","xcloud_title_id":"GEARSOFWAREDAY","run_id":273,"old_value":null,"tier_key":null,"game_id":"GEARSOFWAREDAY","occurred_at":"2026-10-01T22:47:19Z"}
+{"kind":"game_added","new_value":null,"detail":"Monster Nursery","xcloud_title_id":"MONSTERNURSERY","run_id":274,"old_value":null,"tier_key":null,"game_id":"MONSTERNURSERY","occurred_at":"2026-10-02T05:43:49Z"}
+{"kind":"game_added","new_value":null,"detail":"Aery - Calm Horizon 2","xcloud_title_id":"AERYCALMHORIZON2","run_id":274,"old_value":null,"tier_key":null,"game_id":"AERYCALMHORIZON2","occurred_at":"2026-10-02T05:43:49Z"}
+{"kind":"game_added","new_value":null,"detail":"KAWAII PUSH","xcloud_title_id":"KAWAIIPUSH","run_id":274,"old_value":null,"tier_key":null,"game_id":"KAWAIIPUSH","occurred_at":"2026-10-02T05:43:49Z"}
