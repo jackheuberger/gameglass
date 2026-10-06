@@ -19112,7 +19112,7 @@
       "developer": "Behaviour Interactive Inc.",
       "base_product_id": "C0N22P73QZ60",
       "xbox_title_id": 102425831,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.11160.64366672042187759.89bd4c1b-4d8f-40ca-8c54-de07041e776c.e09186b4-26e9-4b26-8a56-ccf9bf41e0c7",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.51158.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.3af5a707-fc52-4dd8-924a-07d384e361b0",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -32350,15 +32350,15 @@
     },
     {
       "id": "GEARSOFWAREDAY",
-      "title": "Gears of War: E-Day Pre-Order",
+      "title": "Gears of War: E-Day",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9PLTG5DJ32XQ"
+        "9PLTG5DJ32XQ",
+        "9N4PT8HGCDHQ"
       ],
       "xcloud_title_id": "GEARSOFWAREDAY",
       "programs": [
-        "EARLYACCESS",
         "CALLISTO",
         "DIA",
         "EUROPA",
@@ -32373,9 +32373,9 @@
       },
       "publisher": "Xbox Game Studios",
       "developer": "The Coalition",
-      "base_product_id": "9PLTG5DJ32XQ",
-      "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.26062.14310770435065065.c8a1a91e-2c5b-498b-82e6-b6b66068ab7f.6518a729-fd0e-485a-9a50-b80eaa676969",
+      "base_product_id": "9N4PT8HGCDHQ",
+      "xbox_title_id": 1810111157,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.26062.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.ee5e2985-e76f-4e1c-b2ae-0867544ab5c1",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -96469,7 +96469,7 @@
       "developer": "Wargaming.net",
       "base_product_id": "C57L9GR0HHB7",
       "xbox_title_id": 840116976,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.35484.67082279703731056.70780ed5-0f1c-4406-ad81-b5de60c2500e.ef005dc3-fe1c-429e-83fb-78e3afd7a7a4",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.53039.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.061bb57d-d87a-4a28-84f4-843bf0f65d4c",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -97845,5 +97845,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-06T06:27:59Z"
+  "generated_at": "2026-10-06T18:31:14Z"
 }
