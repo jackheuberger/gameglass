@@ -1,5 +1,5 @@
 {
-  "count": 2649,
+  "count": 2650,
   "market": "US",
   "games": [
     {
@@ -43958,6 +43958,43 @@
       "removed_at": null
     },
     {
+      "id": "KINGDOMHEARTSMELODYOFMEMORYINTERNATIONAL",
+      "title": "KINGDOM HEARTS Melody of Memory (International)",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N3SDL8MWH6K"
+      ],
+      "xcloud_title_id": "KINGDOMHEARTSMELODYOFMEMORYINTERNATIONAL",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "SQUARE ENIX",
+      "developer": "SQUARE ENIX",
+      "base_product_id": "9N3SDL8MWH6K",
+      "xbox_title_id": 1712709524,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.45711.13996632189236414.6b579efe-3833-4c8e-846c-120bf230abc5.bc9b9981-31d7-4238-8f97-17416868f3ae",
+      "is_free": false,
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-06T06:27:59Z",
+      "last_changed_at": "2026-10-06T06:27:59Z",
+      "added_at": "2026-10-06T06:27:59Z",
+      "removed_at": null
+    },
+    {
       "id": "KINGDOMNEWLANDS",
       "title": "Kingdom: New Lands",
       "streamable": true,
@@ -80493,7 +80530,7 @@
       "developer": "OPNeon Games Sdn Bhd",
       "base_product_id": "9P9GX5D8H9DW",
       "xbox_title_id": 1689317374,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.25142.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.7a1d13b7-1f0f-49cf-bb4f-71c01913ab00",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.26838.13937399101571368.d7ea1ad6-8d5d-4b4d-a570-efed308de865.ed967097-f22c-4db0-8fb7-ba8acd4ccb40",
       "is_free": false,
       "price_value": 19.99,
       "price_formatted": "$19.99",
@@ -97808,5 +97845,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-06T00:10:56Z"
+  "generated_at": "2026-10-06T06:27:59Z"
 }
