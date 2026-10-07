@@ -65300,7 +65300,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "GameMill Entertainment",
+      "publisher": "Trailmark Games",
       "developer": "Concrete Software",
       "base_product_id": "C1WMQR16L9GC",
       "xbox_title_id": 957250252,
@@ -73181,7 +73181,7 @@
       "developer": "Titan Forge Games",
       "base_product_id": "9NV8W1KJSQLL",
       "xbox_title_id": 1993741445,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.7588.14402893629943553.7b95ed71-bdc1-4a75-bf6b-3e3bde680340.2bf8f3da-b376-4839-ba24-7fd34845329e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.53577.14402893629943553.54fbd0de-7e4f-448e-93c6-1ad78c0a967a.264f684c-58e6-4b9f-b471-91ebc459b46e",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -74256,11 +74256,11 @@
       "xbox_title_id": 1704490079,
       "image_url": "https://store-images.s-microsoft.com/image/apps.31946.13678609147241298.c742bfe1-6624-4d6a-800e-503c12872c58.bf5a297c-46e9-4f84-ace0-768fc3345071",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 34.99,
+      "price_formatted": "$34.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-07T06:07:23Z",
       "added_at": null,
       "removed_at": null
     },
@@ -97845,5 +97845,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-06T18:31:14Z"
+  "generated_at": "2026-10-07T06:07:23Z"
 }
