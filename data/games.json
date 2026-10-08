@@ -1,5 +1,5 @@
 {
-  "count": 2650,
+  "count": 2657,
   "market": "US",
   "games": [
     {
@@ -4660,7 +4660,7 @@
       "developer": "Embark Studios",
       "base_product_id": "9NDF1F263RZ4",
       "xbox_title_id": 2118292977,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28775.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.ecf290f8-07eb-4c48-8c03-98c08bad0d18",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.43205.13550041517005289.bb935050-3d01-49fa-917c-6d6068e1aa04.e40d6fc8-3b3a-4709-9dd3-0ab43b27fc29",
       "is_free": false,
       "price_value": 39.99,
       "price_formatted": "$39.99",
@@ -28455,8 +28455,8 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "GIANTS Software GmbH",
-      "developer": "GIANTS Software GmbH",
+      "publisher": "GIANTS Software",
+      "developer": "GIANTS Software",
       "base_product_id": "BQW91W950J67",
       "xbox_title_id": 136002788,
       "image_url": "https://store-images.s-microsoft.com/image/apps.10252.13575975826001354.197ea274-82bc-4426-b66d-594dcc3ec884.6cf51dbb-7fc5-4fc8-8d7f-33764253e0a4",
@@ -30649,6 +30649,43 @@
       "removed_at": null
     },
     {
+      "id": "FOREVERAGO",
+      "title": "Forever Ago",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NFB47H2SDRX"
+      ],
+      "xcloud_title_id": "FOREVERAGO",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Annapurna Interactive",
+      "developer": "Third Shift",
+      "base_product_id": "9NFB47H2SDRX",
+      "xbox_title_id": 1934596313,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.3895.13602461240998233.6f87298c-1315-45ca-95cb-f70de3689fc6.b3386a34-17b6-4c8c-b18b-688340e3daf9",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T13:38:10Z",
+      "last_changed_at": "2026-10-08T13:38:10Z",
+      "added_at": "2026-10-08T13:38:10Z",
+      "removed_at": null
+    },
+    {
       "id": "FORGOTTENFIELDS",
       "title": "Forgotten Fields",
       "streamable": true,
@@ -32161,6 +32198,43 @@
       "first_seen_at": "2026-07-20T02:57:00Z",
       "last_changed_at": "2026-07-20T02:57:00Z",
       "added_at": "2026-07-20T02:57:00Z",
+      "removed_at": null
+    },
+    {
+      "id": "GEARCLUBUNLIMITED3",
+      "title": "Gear.Club Unlimited 3",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P02TCQ420TB"
+      ],
+      "xcloud_title_id": "GEARCLUBUNLIMITED3",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Nacon",
+      "developer": "Eden Games",
+      "base_product_id": "9P02TCQ420TB",
+      "xbox_title_id": 2101716484,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.1238.14468836665837263.f2d94ef1-83f8-4058-9b22-0b7650373129.43a21cc8-642d-4cc5-8ed9-93de23402beb",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T13:38:10Z",
+      "last_changed_at": "2026-10-08T13:38:10Z",
+      "added_at": "2026-10-08T13:38:10Z",
       "removed_at": null
     },
     {
@@ -43884,6 +43958,43 @@
       "removed_at": null
     },
     {
+      "id": "KINGDOMHEARTSHD1525REMIXXBOXSERIESXS",
+      "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PHFH70F3ZRW"
+      ],
+      "xcloud_title_id": "KINGDOMHEARTSHD1525REMIXXBOXSERIESXS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "SQUARE ENIX CO., LTD.",
+      "developer": "",
+      "base_product_id": "9PHFH70F3ZRW",
+      "xbox_title_id": 1923024019,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64319.14232876488331870.7c4ecb02-0070-4268-959e-7797d2e20193.6f94c568-1f65-442f-8b0d-f38eeafe5ae2",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T13:38:10Z",
+      "last_changed_at": "2026-10-08T13:38:10Z",
+      "added_at": "2026-10-08T13:38:10Z",
+      "removed_at": null
+    },
+    {
       "id": "KINGDOMHEARTSHD28",
       "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
       "streamable": true,
@@ -43921,6 +44032,43 @@
       "removed_at": null
     },
     {
+      "id": "KINGDOMHEARTSHD28FINALCHAPTERPROLOGUE",
+      "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P9669SPD8SF"
+      ],
+      "xcloud_title_id": "KINGDOMHEARTSHD28FINALCHAPTERPROLOGUE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "SQUARE ENIX CO., LTD.",
+      "developer": "",
+      "base_product_id": "9P9669SPD8SF",
+      "xbox_title_id": 1738499264,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.47980.14074252781680458.a921bb43-455a-4845-993a-00934816d45e.afd6d031-3e4c-4995-8e83-fe3e0fd36379",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T13:38:10Z",
+      "last_changed_at": "2026-10-08T13:38:10Z",
+      "added_at": "2026-10-08T13:38:10Z",
+      "removed_at": null
+    },
+    {
       "id": "KINGDOMHEARTSIII",
       "title": "KINGDOM HEARTS Ⅲ",
       "streamable": true,
@@ -43955,6 +44103,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-10-08T06:11:06Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "KINGDOMHEARTSIIIREMINDDLC",
+      "title": "KINGDOM HEARTS III + Re Mind (DLC)",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MW28SRLC7XR"
+      ],
+      "xcloud_title_id": "KINGDOMHEARTSIIIREMINDDLC",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "SQUARE ENIX CO., LTD.",
+      "developer": "",
+      "base_product_id": "9MW28SRLC7XR",
+      "xbox_title_id": 1982842254,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.19431.13852341979768580.268187f4-015b-496e-bcba-135059b6c87a.74bdca6c-eb5f-4af7-8765-19d5b5600c42",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T13:38:10Z",
+      "last_changed_at": "2026-10-08T13:38:10Z",
+      "added_at": "2026-10-08T13:38:10Z",
       "removed_at": null
     },
     {
@@ -55538,6 +55723,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T16:11:29Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "NEONABYSS2",
+      "title": "Neon Abyss 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P5QV5XX8S9H"
+      ],
+      "xcloud_title_id": "NEONABYSS2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Kepler Interactive",
+      "developer": "Veewo Games",
+      "base_product_id": "9P5QV5XX8S9H",
+      "xbox_title_id": 2113109625,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.32767.14568732908027610.68635d5d-3a83-401c-989b-7640ee69ed9c.71de6612-3650-4102-b191-207b1c84e957",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T13:38:10Z",
+      "last_changed_at": "2026-10-08T13:38:10Z",
+      "added_at": "2026-10-08T13:38:10Z",
       "removed_at": null
     },
     {
@@ -72120,6 +72342,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SILVERPINES",
+      "title": "Silver Pines",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NPJ71QQC6Q3"
+      ],
+      "xcloud_title_id": "SILVERPINES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Team17",
+      "developer": "Wych Elm",
+      "base_product_id": "9NPJ71QQC6Q3",
+      "xbox_title_id": 1881387671,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.6430.13788652007950416.bc145557-0a45-48a8-93dc-367abf0e46bf.afb0208d-1759-4924-a6ad-e4316b89ef3a",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T13:38:10Z",
+      "last_changed_at": "2026-10-08T13:38:10Z",
+      "added_at": "2026-10-08T13:38:10Z",
       "removed_at": null
     },
     {
@@ -97845,5 +98104,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-08T06:11:06Z"
+  "generated_at": "2026-10-08T13:38:10Z"
 }
