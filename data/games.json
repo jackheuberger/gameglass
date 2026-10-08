@@ -43875,11 +43875,11 @@
       "xbox_title_id": 1962559957,
       "image_url": "https://store-images.s-microsoft.com/image/apps.38120.13632199716185998.13299b88-5419-46be-b574-e039f0e17d14.b0f874e0-8a21-4b7b-8212-4c49284d3346",
       "is_free": false,
-      "price_value": 49.99,
-      "price_formatted": "$49.99",
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-08T06:11:06Z",
       "added_at": null,
       "removed_at": null
     },
@@ -43912,11 +43912,11 @@
       "xbox_title_id": 1873492766,
       "image_url": "https://store-images.s-microsoft.com/image/apps.32959.13522090809526555.7ecdae69-8b63-406b-b33c-d10c74d550da.5df66911-4c12-4a06-b34c-389bf5da53eb",
       "is_free": false,
-      "price_value": 59.99,
-      "price_formatted": "$59.99",
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-08T06:11:06Z",
       "added_at": null,
       "removed_at": null
     },
@@ -43949,11 +43949,11 @@
       "xbox_title_id": 357858858,
       "image_url": "https://store-images.s-microsoft.com/image/apps.47592.64731639180234187.ef9f08c7-a053-4657-a057-02cbb6029516.c22b8c7a-cf1e-4d66-a4c6-f62ade1cb51d",
       "is_free": false,
-      "price_value": 59.99,
-      "price_formatted": "$59.99",
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-08T06:11:06Z",
       "added_at": null,
       "removed_at": null
     },
@@ -51355,15 +51355,15 @@
       },
       "publisher": "Xbox Game Studios",
       "developer": "Mojang Studios / ‪Double Eleven Limited",
-      "base_product_id": "9PM3J18QM4Q3",
-      "xbox_title_id": null,
+      "base_product_id": "9P5786PJB9RP",
+      "xbox_title_id": 1805509784,
       "image_url": "https://store-images.s-microsoft.com/image/apps.55764.14305479850136392.1d44bfb9-b43e-4fae-a421-d6f972529d66.0979208f-b84a-4926-8960-0358abea7f3c",
       "is_free": false,
-      "price_value": 29.99,
-      "price_formatted": "$29.99",
-      "price_currency": "USD",
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
       "first_seen_at": "2026-09-29T13:01:37Z",
-      "last_changed_at": "2026-09-29T22:21:36Z",
+      "last_changed_at": "2026-10-08T06:11:06Z",
       "added_at": "2026-09-29T13:01:37Z",
       "removed_at": null
     },
@@ -97845,5 +97845,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-07T23:11:15Z"
+  "generated_at": "2026-10-08T06:11:06Z"
 }
