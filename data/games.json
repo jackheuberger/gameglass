@@ -1,5 +1,5 @@
 {
-  "count": 2657,
+  "count": 2660,
   "market": "US",
   "games": [
     {
@@ -3920,7 +3920,7 @@
       "developer": "BLUE BYTE",
       "base_product_id": "9N1C10CLPF0N",
       "xbox_title_id": 2142076307,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.26929.13903974859798407.fe1b6a24-4577-41e3-92da-76a2503642b9.b742e727-35a7-4096-8542-69abbd3e5ebc",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.36257.13903974859798407.c81fcd71-bd82-4758-a75b-73557f6666b7.11c8e707-7a35-4cf0-b292-f16a0c3cdbca",
       "is_free": false,
       "price_value": null,
       "price_formatted": null,
@@ -15164,6 +15164,43 @@
       "removed_at": null
     },
     {
+      "id": "CLIVEBARKERSHELLRAISERREVIVAL",
+      "title": "Clive Barker's Hellraiser: Revival",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NSWRGZBQ2MC"
+      ],
+      "xcloud_title_id": "CLIVEBARKERSHELLRAISERREVIVAL",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Saber Interactive Inc.",
+      "developer": "Saber Interactive Inc.",
+      "base_product_id": "9NSWRGZBQ2MC",
+      "xbox_title_id": 2079449748,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.17201.14355413788272378.77a1b7c3-1920-4f2f-b924-e9e93958335a.146afd91-aee6-4b12-ba4c-f56f80ae8932",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T23:28:01Z",
+      "last_changed_at": "2026-10-08T23:28:01Z",
+      "added_at": "2026-10-08T23:28:01Z",
+      "removed_at": null
+    },
+    {
       "id": "CLONEDRONEINTHEDANGERZONE",
       "title": "Clone Drone in the Danger Zone",
       "streamable": true,
@@ -19038,7 +19075,7 @@
       "developer": "Daybreak Games",
       "base_product_id": "C59QBPB8P1XJ",
       "xbox_title_id": 821136798,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.9697.67106165561056339.6549359b-879c-4468-9125-2ec4f108b18d.ee6ecf03-cb44-481b-8148-2eeb8c476500",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.10596.67106165561056339.f0bfa527-aff9-4427-84a3-8a36bc08dfba.468c2287-e01c-4ae6-bf09-3be10181e668",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -25660,6 +25697,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "ECHOWEAVER",
+      "title": "Echo Weaver",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N72DFC6GL91"
+      ],
+      "xcloud_title_id": "ECHOWEAVER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Akupara Games",
+      "developer": "Moonlight Kids",
+      "base_product_id": "9N72DFC6GL91",
+      "xbox_title_id": 1902353069,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37591.14007070537305664.00bf98ed-c00e-4026-9697-fb45bcd66227.cb8c3742-bec2-48e9-8bec-8a46c7b8a53c",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T23:28:01Z",
+      "last_changed_at": "2026-10-08T23:28:01Z",
+      "added_at": "2026-10-08T23:28:01Z",
       "removed_at": null
     },
     {
@@ -46942,8 +47016,8 @@
         "starter": "purchase",
         "ultimate": "included"
       },
-      "publisher": "FRAME BREAK, Amplifier Studios",
-      "developer": "FRAME BREAK, Amplifier Studios",
+      "publisher": "FRAME BREAK, Coffee Stain Publishing",
+      "developer": "FRAME BREAK",
       "base_product_id": "9NDX2927SND9",
       "xbox_title_id": 1771989345,
       "image_url": "https://store-images.s-microsoft.com/image/apps.57362.13610342535970070.fb34dfda-5ccd-4768-9a7b-0f0c468853e1.7b1adc26-e416-4946-ad25-ecb5667cb4f8",
@@ -55027,6 +55101,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "MYPOPGOES",
+      "title": "myPOPGOES",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PH57C2TWZHP"
+      ],
+      "xcloud_title_id": "MYPOPGOES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Clickteam LLC USA",
+      "developer": "Kane Carter",
+      "base_product_id": "9PH57C2TWZHP",
+      "xbox_title_id": 1841668103,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.31729.14238298347191908.a33c0bbf-d6d2-48a5-a555-488456116a36.35d17925-ce92-4d38-b15e-48a01a042842",
+      "is_free": false,
+      "price_value": 4.99,
+      "price_formatted": "$4.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-08T23:28:01Z",
+      "last_changed_at": "2026-10-08T23:28:01Z",
+      "added_at": "2026-10-08T23:28:01Z",
       "removed_at": null
     },
     {
@@ -98104,5 +98215,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-08T13:38:10Z"
+  "generated_at": "2026-10-08T23:28:01Z"
 }
