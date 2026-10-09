@@ -1,5 +1,5 @@
 {
-  "count": 2660,
+  "count": 2664,
   "market": "US",
   "games": [
     {
@@ -23425,6 +23425,80 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DRAGONSDOGMA2",
+      "title": "Dragon's Dogma 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PJQMBMJ3154"
+      ],
+      "xcloud_title_id": "DRAGONSDOGMA2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "CAPCOM CO., LTD.",
+      "developer": "CAPCOM CO., LTD.",
+      "base_product_id": "9PJQMBMJ3154",
+      "xbox_title_id": 1621683201,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40082.14277259033847105.7852260c-8a58-4e28-9e97-dd6d1a7f62f9.0a56f2c5-757f-40ae-80bf-103834d02636",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-09T06:15:58Z",
+      "last_changed_at": "2026-10-09T06:15:58Z",
+      "added_at": "2026-10-09T06:15:58Z",
+      "removed_at": null
+    },
+    {
+      "id": "DRAGONSDOGMADARKARISEN",
+      "title": "Dragon's Dogma: Dark Arisen",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BNGT6SZBFM2T"
+      ],
+      "xcloud_title_id": "DRAGONSDOGMADARKARISEN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "CAPCOM CO., LTD.",
+      "developer": "CAPCOM CO., LTD.",
+      "base_product_id": "BNGT6SZBFM2T",
+      "xbox_title_id": 849613404,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13061.67911549011456094.d8474473-f221-48ba-9acd-d6da2d065dab.63e64f38-d18d-46e9-8363-f481355dd23d",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-09T06:15:58Z",
+      "last_changed_at": "2026-10-09T06:15:58Z",
+      "added_at": "2026-10-09T06:15:58Z",
       "removed_at": null
     },
     {
@@ -55463,7 +55537,7 @@
       "developer": "",
       "base_product_id": "9P8SQQJ5T94B",
       "xbox_title_id": 1837410971,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.56225.14085855469646025.41616b04-2f86-4370-acdd-c02f787b88cc.ad9bd75b-93cc-41ba-a900-b810c2a730a6",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.41994.14085855469646025.79385fad-0738-4130-a98b-b6f34ec818c6.cd5acc18-bb04-42c9-b97a-01e41d77ee49",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -59924,6 +59998,43 @@
       "first_seen_at": "2026-08-31T05:44:20Z",
       "last_changed_at": "2026-08-31T05:44:20Z",
       "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "PAPERHEAD",
+      "title": "PAPERHEAD",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NB677KMMDZK"
+      ],
+      "xcloud_title_id": "PAPERHEAD",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "HypeTrain Digital",
+      "developer": "Paperhead te4m",
+      "base_product_id": "9NB677KMMDZK",
+      "xbox_title_id": 2014430340,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29147.13523263741920184.4369fdf6-50f0-48e9-9f96-c40bc327a76d.137990ec-8d40-4d81-b648-9930b69cd1f5",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-09T06:15:58Z",
+      "last_changed_at": "2026-10-09T06:15:58Z",
+      "added_at": "2026-10-09T06:15:58Z",
       "removed_at": null
     },
     {
@@ -70936,6 +71047,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SESAMESTREETFRIENDSFUN",
+      "title": "Sesame Street: Friends & Fun",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NHSC624GV7X"
+      ],
+      "xcloud_title_id": "SESAMESTREETFRIENDSFUN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Outright Games Ltd.",
+      "developer": "INFINIGON Limited",
+      "base_product_id": "9NHSC624GV7X",
+      "xbox_title_id": 1710299211,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.1182.13624093173043073.1bb3db63-b961-4156-a47e-cc00ede192b8.e1bed5cc-e70c-450e-ab29-4f6b62289f56",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-09T06:15:58Z",
+      "last_changed_at": "2026-10-09T06:15:58Z",
+      "added_at": "2026-10-09T06:15:58Z",
       "removed_at": null
     },
     {
@@ -98215,5 +98363,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-08T23:28:01Z"
+  "generated_at": "2026-10-09T06:15:58Z"
 }
