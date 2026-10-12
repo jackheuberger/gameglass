@@ -5024,3 +5024,4 @@
 {"kind":"game_added","new_value":null,"detail":"Dragon's Dogma 2","xcloud_title_id":"DRAGONSDOGMA2","run_id":295,"old_value":null,"tier_key":null,"game_id":"DRAGONSDOGMA2","occurred_at":"2026-10-09T06:15:58Z"}
 {"kind":"game_added","new_value":null,"detail":"Dragon's Dogma: Dark Arisen","xcloud_title_id":"DRAGONSDOGMADARKARISEN","run_id":295,"old_value":null,"tier_key":null,"game_id":"DRAGONSDOGMADARKARISEN","occurred_at":"2026-10-09T06:15:58Z"}
 {"kind":"game_added","new_value":null,"detail":"PAPERHEAD","xcloud_title_id":"PAPERHEAD","run_id":295,"old_value":null,"tier_key":null,"game_id":"PAPERHEAD","occurred_at":"2026-10-09T06:15:58Z"}
+{"kind":"price_changed","new_value":"$19.99","detail":"SLEEP AWAKE","xcloud_title_id":"SLEEPAWAKE","run_id":305,"old_value":"$29.99","tier_key":null,"game_id":"SLEEPAWAKE","occurred_at":"2026-10-12T15:38:39Z"}
