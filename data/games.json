@@ -1,5 +1,5 @@
 {
-  "count": 2664,
+  "count": 2666,
   "market": "US",
   "games": [
     {
@@ -20070,6 +20070,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DEEPDISHDUNGEON",
+      "title": "Deep Dish Dungeon",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PPF72ZH6RP8"
+      ],
+      "xcloud_title_id": "DEEPDISHDUNGEON",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Raw Fury AB",
+      "developer": "Behold Studios",
+      "base_product_id": "9PPF72ZH6RP8",
+      "xbox_title_id": 1936835421,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.50685.14326063685133853.939b1741-3671-493b-b12d-2c262722c883.540d4a4e-1a4d-4373-8608-b32a06a0f1b7",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-13T14:20:17Z",
+      "last_changed_at": "2026-10-13T14:20:17Z",
+      "added_at": "2026-10-13T14:20:17Z",
       "removed_at": null
     },
     {
@@ -62435,6 +62472,43 @@
       "removed_at": null
     },
     {
+      "id": "PLANETZOO2",
+      "title": "Planet Zoo 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NB4JF6B6VSF"
+      ],
+      "xcloud_title_id": "PLANETZOO2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Frontier Developments",
+      "developer": "Frontier Developments",
+      "base_product_id": "9NB4JF6B6VSF",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.44897.14498232295889844.e376dfd7-8c83-4c3f-9c16-ac31ae6c483a.0baf8ead-cf3e-4454-8acc-b81a9f1e042a",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-13T14:20:17Z",
+      "last_changed_at": "2026-10-13T14:20:17Z",
+      "added_at": "2026-10-13T14:20:17Z",
+      "removed_at": null
+    },
+    {
       "id": "PLANETZOOCONSOLEEDITION",
       "title": "Planet Zoo: Console Edition",
       "streamable": true,
@@ -98363,5 +98437,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-13T00:45:55Z"
+  "generated_at": "2026-10-13T14:20:17Z"
 }
