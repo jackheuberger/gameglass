@@ -1,5 +1,5 @@
 {
-  "count": 2666,
+  "count": 2668,
   "market": "US",
   "games": [
     {
@@ -7999,6 +7999,41 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "BATTLEFIELD",
+      "title": "Battlefield™ 6",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P2FF14JZLL3"
+      ],
+      "xcloud_title_id": "BATTLEFIELD",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "IO",
+        "GANYMEDE"
+      ],
+      "tiers": {
+        "essential": "unavailable",
+        "premium": "unavailable",
+        "starter": "unavailable",
+        "ultimate": "included"
+      },
+      "publisher": "Electronic Arts",
+      "developer": "Battlefield Studios",
+      "base_product_id": "9P2FF14JZLL3",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8290.14559138935406168.e7f01a08-ebf9-41d8-88ba-39fb1a148711.d19697e7-b1c1-4200-9327-5f3640f65b75",
+      "is_free": false,
+      "price_value": 69.99,
+      "price_formatted": "$69.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-13T22:51:16Z",
+      "last_changed_at": "2026-10-13T22:51:16Z",
+      "added_at": "2026-10-13T22:51:16Z",
       "removed_at": null
     },
     {
@@ -62477,7 +62512,8 @@
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9NB4JF6B6VSF"
+        "9NB4JF6B6VSF",
+        "9P2578Z09ZH5"
       ],
       "xcloud_title_id": "PLANETZOO2",
       "programs": [
@@ -62496,8 +62532,8 @@
       },
       "publisher": "Frontier Developments",
       "developer": "Frontier Developments",
-      "base_product_id": "9NB4JF6B6VSF",
-      "xbox_title_id": null,
+      "base_product_id": "9P2578Z09ZH5",
+      "xbox_title_id": 1784999896,
       "image_url": "https://store-images.s-microsoft.com/image/apps.44897.14498232295889844.e376dfd7-8c83-4c3f-9c16-ac31ae6c483a.0baf8ead-cf3e-4454-8acc-b81a9f1e042a",
       "is_free": false,
       "price_value": 49.99,
@@ -79389,7 +79425,7 @@
       "developer": "Pixile Studios",
       "base_product_id": "9N872VFSPPQL",
       "xbox_title_id": 1694250070,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.32538.14054958690749653.16f329cc-5828-48ec-a92d-a60bd71bc8f7.3c815fcd-2745-481d-a419-d1ea6568150d",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61337.14054958690749653.ac5de624-083d-4d6d-844f-9098e60e8a50.421cb2fb-989e-41d4-96ab-ea9b788c1ede",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -92856,6 +92892,43 @@
       "removed_at": null
     },
     {
+      "id": "VALORMORTIS",
+      "title": "Valor Mortis",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P861V1542BL"
+      ],
+      "xcloud_title_id": "VALORMORTIS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Lyrical Games",
+      "developer": "One More Level",
+      "base_product_id": "9P861V1542BL",
+      "xbox_title_id": 1982861109,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.2548.14098465670758705.ee77a872-5740-4661-bec6-399c86db9b2c.6264f17b-0e35-4616-9106-5f9e72ad6af7",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-13T22:51:16Z",
+      "last_changed_at": "2026-10-13T22:51:16Z",
+      "added_at": "2026-10-13T22:51:16Z",
+      "removed_at": null
+    },
+    {
       "id": "VAMBRACECOLDSOUL",
       "title": "Vambrace: Cold Soul",
       "streamable": true,
@@ -98437,5 +98510,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-13T14:20:17Z"
+  "generated_at": "2026-10-13T22:51:16Z"
 }
