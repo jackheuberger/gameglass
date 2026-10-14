@@ -1,5 +1,5 @@
 {
-  "count": 2668,
+  "count": 2669,
   "market": "US",
   "games": [
     {
@@ -94261,6 +94261,43 @@
       "removed_at": null
     },
     {
+      "id": "WARHAMMER40000BOLTGUN2",
+      "title": "Warhammer 40,000: Boltgun 2",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NSTZ0D3BP0J"
+      ],
+      "xcloud_title_id": "WARHAMMER40000BOLTGUN2",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Devolver Digital, Big Fan Games",
+      "developer": "Auroch Digital",
+      "base_product_id": "9NSTZ0D3BP0J",
+      "xbox_title_id": 2072212025,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.36331.14356570991474851.effb0bd5-dff8-4069-956e-d3605908e968.3a7e8d8e-05e9-43e0-bbed-8838a19224d2",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-14T05:00:11Z",
+      "last_changed_at": "2026-10-14T05:00:11Z",
+      "added_at": "2026-10-14T05:00:11Z",
+      "removed_at": null
+    },
+    {
       "id": "WARHAMMER40000CHAOSGATEDAEMONHUNTERS",
       "title": "Warhammer 40,000: Chaos Gate - Daemonhunters",
       "streamable": true,
@@ -98510,5 +98547,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-13T22:51:16Z"
+  "generated_at": "2026-10-14T05:00:11Z"
 }

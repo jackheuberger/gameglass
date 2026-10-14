@@ -5029,3 +5029,4 @@
 {"kind":"game_added","new_value":null,"detail":"Deep Dish Dungeon","xcloud_title_id":"DEEPDISHDUNGEON","run_id":307,"old_value":null,"tier_key":null,"game_id":"DEEPDISHDUNGEON","occurred_at":"2026-10-13T14:20:17Z"}
 {"kind":"game_added","new_value":null,"detail":"Battlefield™ 6","xcloud_title_id":"BATTLEFIELD","run_id":308,"old_value":null,"tier_key":null,"game_id":"BATTLEFIELD","occurred_at":"2026-10-13T22:51:16Z"}
 {"kind":"game_added","new_value":null,"detail":"Valor Mortis","xcloud_title_id":"VALORMORTIS","run_id":308,"old_value":null,"tier_key":null,"game_id":"VALORMORTIS","occurred_at":"2026-10-13T22:51:16Z"}
+{"kind":"game_added","new_value":null,"detail":"Warhammer 40,000: Boltgun 2","xcloud_title_id":"WARHAMMER40000BOLTGUN2","run_id":309,"old_value":null,"tier_key":null,"game_id":"WARHAMMER40000BOLTGUN2","occurred_at":"2026-10-14T05:00:11Z"}
