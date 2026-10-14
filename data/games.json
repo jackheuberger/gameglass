@@ -94225,11 +94225,12 @@
     },
     {
       "id": "WARHAMMER40000BOLTGUN",
-      "title": "Warhammer 40,000: Boltgun",
+      "title": "Warhammer 40,000: Boltgun - Forges of Corruption Edition",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9NP77PLZ7B3R"
+        "9NP77PLZ7B3R",
+        "9NN3X03HZGT9"
       ],
       "xcloud_title_id": "WARHAMMER40000BOLTGUN",
       "programs": [
@@ -94242,21 +94243,21 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "included",
+        "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "included"
+        "ultimate": "purchase"
       },
       "publisher": "Focus Entertainment",
       "developer": "Auroch Digital",
-      "base_product_id": "9NP77PLZ7B3R",
-      "xbox_title_id": 2075589952,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.32152.13723933157550422.dd3f6d8d-3fe0-4721-8bd9-d3c3d678a239.c6addb40-8693-4e0c-b525-15767ee5c2db",
+      "base_product_id": "9NN3X03HZGT9",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.369.13746070813625136.300fd841-bcd6-433c-bb20-80f96c141211.a35a1227-b9c9-4d15-80b2-f88f5e3a3d49",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-10-14T12:01:24Z",
+      "last_changed_at": "2026-10-14T17:19:16Z",
       "added_at": null,
       "removed_at": null
     },
@@ -98547,5 +98548,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-14T12:01:24Z"
+  "generated_at": "2026-10-14T17:19:16Z"
 }
