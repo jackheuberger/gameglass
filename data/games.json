@@ -1,5 +1,5 @@
 {
-  "count": 2669,
+  "count": 2670,
   "market": "US",
   "games": [
     {
@@ -52500,7 +52500,7 @@
       "developer": "San Diego Studio",
       "base_product_id": "9NRLSFM01XTP",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.60342.14385377751056556.08a1d23d-a7c7-4c43-8cd8-24266096de2b.c48d881e-40c7-40b4-80cb-a5c4c3b47e59",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64138.14385377751056556.9992f6af-8073-418f-9ee6-826a2b34ebf0.0a6d5ce7-3a41-4f2a-b076-f7c0361394fa",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -88309,6 +88309,43 @@
       "removed_at": "2026-09-01T11:49:05Z"
     },
     {
+      "id": "THEWITCHSBAKERY",
+      "title": "The Witch's Bakery",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NPJ9XJSCL67"
+      ],
+      "xcloud_title_id": "THEWITCHSBAKERY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Silver Lining Interactive",
+      "developer": "Sunny Lab",
+      "base_product_id": "9NPJ9XJSCL67",
+      "xbox_title_id": 1857893812,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.2533.13788587776795980.a47e90c6-8563-4086-b1aa-53fc23bc1cad.8b1d817e-b986-4801-8974-2d4b7aa29064",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-14T21:46:48Z",
+      "last_changed_at": "2026-10-14T21:46:48Z",
+      "added_at": "2026-10-14T21:46:48Z",
+      "removed_at": null
+    },
+    {
       "id": "THIEF",
       "title": "Thief",
       "streamable": true,
@@ -98548,5 +98585,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-14T17:19:16Z"
+  "generated_at": "2026-10-14T21:46:48Z"
 }
