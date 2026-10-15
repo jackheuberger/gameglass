@@ -1,5 +1,5 @@
 {
-  "count": 2670,
+  "count": 2673,
   "market": "US",
   "games": [
     {
@@ -10357,6 +10357,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "BLUEYSHAPPYSNAPS",
+      "title": "Bluey's Happy Snaps",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NQVHHW88XW9"
+      ],
+      "xcloud_title_id": "BLUEYSHAPPYSNAPS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Gameloft",
+      "developer": "Gameloft",
+      "base_product_id": "9NQVHHW88XW9",
+      "xbox_title_id": 1943249498,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.29779.13762188493241252.c9eed3d4-2711-40bb-b507-e4c31d9fe3e1.fb757fae-7305-4706-80c6-5edde7f1bb77",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-15T11:37:42Z",
+      "last_changed_at": "2026-10-15T11:37:42Z",
+      "added_at": "2026-10-15T11:37:42Z",
       "removed_at": null
     },
     {
@@ -65947,6 +65984,43 @@
       "removed_at": null
     },
     {
+      "id": "RATATAN",
+      "title": "Ratatan",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N325V9CL7CV"
+      ],
+      "xcloud_title_id": "RATATAN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "GAME SOURCE ENTERTAINMENT",
+      "developer": "GAME SOURCE ENTERTAINMENT",
+      "base_product_id": "9N325V9CL7CV",
+      "xbox_title_id": 2118059691,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57274.13945242878162791.c42b3ab5-da0b-43cb-a00f-7f17ec5d4ab6.72aab023-9a06-4d85-976e-e813da980b30",
+      "is_free": false,
+      "price_value": 34.99,
+      "price_formatted": "$34.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-15T11:37:42Z",
+      "last_changed_at": "2026-10-15T11:37:42Z",
+      "added_at": "2026-10-15T11:37:42Z",
+      "removed_at": null
+    },
+    {
       "id": "RAVENLOK",
       "title": "Ravenlok",
       "streamable": true,
@@ -78734,6 +78808,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "STUMBLEGUYS",
+      "title": "Stumble Guys",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N9L211HC9LQ"
+      ],
+      "xcloud_title_id": "STUMBLEGUYS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Scopely, Inc.",
+      "developer": "Scopely, Inc.",
+      "base_product_id": "9N9L211HC9LQ",
+      "xbox_title_id": 1679027058,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.11430.13535531230137705.da10e97f-1db4-41fc-bf82-fc4fe5ddb484.acb25ae5-3fcf-4b54-8f05-f4e75430c05f",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-15T11:37:42Z",
+      "last_changed_at": "2026-10-15T11:37:42Z",
+      "added_at": "2026-10-15T11:37:42Z",
       "removed_at": null
     },
     {
@@ -98589,5 +98700,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-15T04:45:32Z"
+  "generated_at": "2026-10-15T11:37:42Z"
 }
