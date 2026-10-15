@@ -1,5 +1,5 @@
 {
-  "count": 2673,
+  "count": 2674,
   "market": "US",
   "games": [
     {
@@ -13605,6 +13605,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "CASTLEVANIABELMONTSCURSE",
+      "title": "Castlevania: Belmont's Curse",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NH6N2DNQ0H0"
+      ],
+      "xcloud_title_id": "CASTLEVANIABELMONTSCURSE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "KONAMI",
+      "developer": "Evil Empire",
+      "base_product_id": "9NH6N2DNQ0H0",
+      "xbox_title_id": 1733505304,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.35294.13631309631563061.2b8c97d1-bbcd-4dbc-b6c1-9bba5cceb80c.29364bb3-f445-4ce7-a75b-1f2f1fe4f829",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-15T17:09:26Z",
+      "last_changed_at": "2026-10-15T17:09:26Z",
+      "added_at": "2026-10-15T17:09:26Z",
       "removed_at": null
     },
     {
@@ -98700,5 +98737,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-15T11:37:42Z"
+  "generated_at": "2026-10-15T17:09:26Z"
 }
