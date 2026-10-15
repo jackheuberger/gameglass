@@ -47223,13 +47223,17 @@
       ],
       "xcloud_title_id": "LIKEADRAGONPIRATEYAKUZAINHAWAII9P1303FCXW6X",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
-        "DIA"
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
-        "essential": "unavailable",
+        "essential": "purchase",
         "premium": "included",
-        "starter": "unavailable",
+        "starter": "purchase",
         "ultimate": "included"
       },
       "publisher": "SEGA",
@@ -47242,7 +47246,7 @@
       "price_formatted": "$59.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-15T04:45:32Z",
       "added_at": null,
       "removed_at": null
     },
@@ -98585,5 +98589,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-14T21:46:48Z"
+  "generated_at": "2026-10-15T04:45:32Z"
 }
