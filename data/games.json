@@ -1,5 +1,5 @@
 {
-  "count": 2678,
+  "count": 2679,
   "market": "US",
   "games": [
     {
@@ -667,7 +667,7 @@
     {
       "id": "9N3D82TFF6C4",
       "title": "NBA 2K27 (XBOX Series X|S)",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9N3D82TFF6C4"
@@ -695,9 +695,9 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-09-09T21:03:55Z",
-      "last_changed_at": "2026-10-16T16:44:18Z",
+      "last_changed_at": "2026-10-17T04:31:59Z",
       "added_at": "2026-09-09T21:03:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T04:31:59Z"
     },
     {
       "id": "9NFHVLFDSFVD",
@@ -81950,6 +81950,43 @@
       "removed_at": null
     },
     {
+      "id": "TENEBRISSOMNIA",
+      "title": "Tenebris Somnia",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PK5KG7HPRHZ"
+      ],
+      "xcloud_title_id": "TENEBRISSOMNIA",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "New Blood Interactive",
+      "developer": "Saibot Studios and Andrés Borghi",
+      "base_product_id": "9PK5KG7HPRHZ",
+      "xbox_title_id": 2061000848,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13296.14269113344377028.d4866d09-61af-42a6-b0fd-d84b50e22019.5a0a89d1-c97f-4b6f-91f9-7d5014445951",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-17T04:31:59Z",
+      "last_changed_at": "2026-10-17T04:31:59Z",
+      "added_at": "2026-10-17T04:31:59Z",
+      "removed_at": null
+    },
+    {
       "id": "TENGAI",
       "title": "TENGAI",
       "streamable": true,
@@ -98885,5 +98922,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-16T21:15:11Z"
+  "generated_at": "2026-10-17T04:31:59Z"
 }
