@@ -1,5 +1,5 @@
 {
-  "count": 2679,
+  "count": 2680,
   "market": "US",
   "games": [
     {
@@ -12635,7 +12635,7 @@
       "developer": "",
       "base_product_id": "9N201KQXS5BM",
       "xbox_title_id": 2001700854,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.57296.13966330883349940.4a39fabf-a215-4498-b8be-1b8fd688a7e8.d504f6f1-11b7-4bf6-a059-06b64cbd6e4c",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.16691.13966330883349940.9de723b2-8834-4acf-92cc-c6ec73db1644.50de713a-16e0-4383-b422-7052a1cb99f0",
       "is_free": false,
       "price_value": null,
       "price_formatted": null,
@@ -72422,6 +72422,43 @@
       "removed_at": null
     },
     {
+      "id": "SHORESYLEGENDSOFTHENORTH",
+      "title": "Shoresy: Legends of the North",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N30NJWJ25GX"
+      ],
+      "xcloud_title_id": "SHORESYLEGENDSOFTHENORTH",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Treewood Games, New Metric Media",
+      "developer": "Treewood Games",
+      "base_product_id": "9N30NJWJ25GX",
+      "xbox_title_id": 1840010979,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60039.13942042185480323.354ed583-436f-4ce9-880d-d2db51a3c5ad.e8d8d3c0-efb3-4b6b-8269-4383608cd9df",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-19T22:25:32Z",
+      "last_changed_at": "2026-10-19T22:25:32Z",
+      "added_at": "2026-10-19T22:25:32Z",
+      "removed_at": null
+    },
+    {
       "id": "SHOVELKNIGHTTREASURETROVE",
       "title": "Shovel Knight: Treasure Trove",
       "streamable": true,
@@ -98922,5 +98959,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-19T04:48:36Z"
+  "generated_at": "2026-10-19T22:25:32Z"
 }
