@@ -29856,9 +29856,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "SQUARE ENIX",
       "developer": "SQUARE ENIX CO., LTD.",
@@ -29870,7 +29870,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-20T17:18:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -84272,7 +84272,7 @@
       "developer": "Embark Studios AB",
       "base_product_id": "9PGD71CMDS0Z",
       "xbox_title_id": 2099828114,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.15427.14187080498030026.0dd8c398-3cd8-46a2-a68f-9c4f3d2d879b.59ee74ee-1be0-4d6f-9f03-f75afa5d0eda",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27851.14187080498030026.59e4e911-b9e6-4100-966e-ab13c66cf874.8706c7f1-8fe5-4b12-82d4-afe098729420",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -98961,5 +98961,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-20T11:43:31Z"
+  "generated_at": "2026-10-20T17:18:13Z"
 }
