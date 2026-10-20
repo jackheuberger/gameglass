@@ -90980,7 +90980,7 @@
     {
       "id": "TRANSFORMERSEARTHSPARKEXPEDITION",
       "title": "TRANSFORMERS: EARTHSPARK - Expedition",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NB68B7X3342"
@@ -91010,9 +91010,9 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-10-20T04:56:41Z",
+      "last_changed_at": "2026-10-20T11:43:31Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-10-20T11:43:31Z"
     },
     {
       "id": "TRANSFORMERSGALACTICTRIALS",
@@ -98961,5 +98961,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-20T04:56:41Z"
+  "generated_at": "2026-10-20T11:43:31Z"
 }
