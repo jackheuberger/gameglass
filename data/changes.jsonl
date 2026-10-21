@@ -5060,3 +5060,4 @@
 {"kind":"game_removed","new_value":null,"detail":"NBA 2K27 Deluxe Edition","xcloud_title_id":"9NFHVLFDSFVD","run_id":335,"old_value":null,"tier_key":null,"game_id":"9NFHVLFDSFVD","occurred_at":"2026-10-21T04:54:14Z"}
 {"kind":"game_removed","new_value":null,"detail":"Warhammer 40,000: Boltgun - Forges of Corruption Edition","xcloud_title_id":"WARHAMMER40000BOLTGUN","run_id":335,"old_value":null,"tier_key":null,"game_id":"WARHAMMER40000BOLTGUN","occurred_at":"2026-10-21T04:54:14Z"}
 {"kind":"game_added","new_value":null,"detail":"Banchou Tactics: Lion Heart","xcloud_title_id":"BANCHOUTACTICSLIONHEART","run_id":336,"old_value":null,"tier_key":null,"game_id":"BANCHOUTACTICSLIONHEART","occurred_at":"2026-10-21T11:55:22Z"}
+{"kind":"game_added","new_value":null,"detail":"FINAL FANTASY RESONANCE","xcloud_title_id":"FINALFANTASYRESONANCE","run_id":338,"old_value":null,"tier_key":null,"game_id":"FINALFANTASYRESONANCE","occurred_at":"2026-10-21T21:46:12Z"}

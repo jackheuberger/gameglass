@@ -1,5 +1,5 @@
 {
-  "count": 2681,
+  "count": 2682,
   "market": "US",
   "games": [
     {
@@ -29724,6 +29724,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "FINALFANTASYRESONANCE",
+      "title": "FINAL FANTASY RESONANCE",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NNCPRH9VWG4"
+      ],
+      "xcloud_title_id": "FINALFANTASYRESONANCE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "SQUARE ENIX CO., LTD.",
+      "developer": "SQUARE ENIX CO., LTD.",
+      "base_product_id": "9NNCPRH9VWG4",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.25031.13740717481240787.f2d88b52-c691-4bda-91a5-2b5971995bd8.c3982fa5-996f-466d-a2f6-560c7c16e743",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-21T21:46:12Z",
+      "last_changed_at": "2026-10-21T21:46:12Z",
+      "added_at": "2026-10-21T21:46:12Z",
       "removed_at": null
     },
     {
@@ -98998,5 +99035,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-21T17:18:13Z"
+  "generated_at": "2026-10-21T21:46:12Z"
 }
