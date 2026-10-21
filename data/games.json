@@ -1,5 +1,5 @@
 {
-  "count": 2680,
+  "count": 2681,
   "market": "US",
   "games": [
     {
@@ -7297,6 +7297,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-08-04T14:44:42Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "BANCHOUTACTICSLIONHEART",
+      "title": "Banchou Tactics: Lion Heart",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NWKDBPMWJKL"
+      ],
+      "xcloud_title_id": "BANCHOUTACTICSLIONHEART",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Corecell Technology",
+      "developer": "Corecell Technology, ITSARAAMATA",
+      "base_product_id": "9NWKDBPMWJKL",
+      "xbox_title_id": 1748366398,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.51999.14443529143204719.1fecc4e7-94ce-4435-a841-629701665497.9f46d179-a253-4c19-84db-72b61bd38381",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-21T11:55:22Z",
+      "last_changed_at": "2026-10-21T11:55:22Z",
+      "added_at": "2026-10-21T11:55:22Z",
       "removed_at": null
     },
     {
@@ -54060,7 +54097,7 @@
       "developer": "Cold Symmetry",
       "base_product_id": "9NS9TJV1JL86",
       "xbox_title_id": 1645215415,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.2285.14371301647847529.ab8b79c4-f218-4ff0-8fc3-b84f73c62f94.8d34b9e6-250b-40a3-adf6-81eaf659a378",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28660.14371301647847529.436166e6-ce2e-4d99-8090-c513a317f818.481dd061-4cb0-4936-8d69-ce22ef4a59ed",
       "is_free": false,
       "price_value": 49.99,
       "price_formatted": "$49.99",
@@ -97548,7 +97585,7 @@
       "developer": "Wargaming.net",
       "base_product_id": "9N11JM7F5CXK",
       "xbox_title_id": 1649064189,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.63783.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.6f6c51ca-27ad-495d-892b-50adfb797702",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.51844.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.8dd0d24a-2002-449f-8a76-cd569f1ddac4",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -98961,5 +98998,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-21T04:54:14Z"
+  "generated_at": "2026-10-21T11:55:22Z"
 }
