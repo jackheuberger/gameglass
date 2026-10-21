@@ -702,7 +702,7 @@
     {
       "id": "9NFHVLFDSFVD",
       "title": "NBA 2K27 Deluxe Edition",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NFHVLFDSFVD"
@@ -730,9 +730,9 @@
       "price_formatted": "$99.99",
       "price_currency": "USD",
       "first_seen_at": "2026-09-09T21:03:55Z",
-      "last_changed_at": "2026-09-09T21:03:55Z",
+      "last_changed_at": "2026-10-21T04:54:14Z",
       "added_at": "2026-09-09T21:03:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T04:54:14Z"
     },
     {
       "id": "9NHFDZRD753R",
@@ -94639,7 +94639,7 @@
     {
       "id": "WARHAMMER40000BOLTGUN",
       "title": "Warhammer 40,000: Boltgun - Forges of Corruption Edition",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NP77PLZ7B3R",
@@ -94670,9 +94670,9 @@
       "price_formatted": "$24.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-10-14T17:19:16Z",
+      "last_changed_at": "2026-10-21T04:54:14Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-10-21T04:54:14Z"
     },
     {
       "id": "WARHAMMER40000BOLTGUN2",
@@ -98617,7 +98617,7 @@
       "developer": "Shanghai JiaoZhai Technology Co.,Ltd.",
       "base_product_id": "9N4X0WFZ2STM",
       "xbox_title_id": 1696147865,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28577.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.5bbb6b0c-cc25-4abe-bf01-c00408e6e3fa",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58815.13974579424110118.f25d72f8-8c3b-4aa5-9d1f-ec335023c9b3.a33bb192-d9d2-48fd-b7ab-9892f5ce53a9",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -98961,5 +98961,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-20T21:42:02Z"
+  "generated_at": "2026-10-21T04:54:14Z"
 }
