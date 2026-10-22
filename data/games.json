@@ -22466,7 +22466,7 @@
       "developer": "BornMonkie",
       "base_product_id": "9P7S9F02293J",
       "xbox_title_id": 1805270369,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.13916.14101741972261561.f51063ee-b9b9-4aed-b2ba-df511d794b2e.7003fdc6-d444-4ac3-8d0b-b361296abea9",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.63090.14101741972261561.9e10f950-0892-454b-9313-97bca79aa676.d00f1851-5133-44a4-bdbe-de8cb0eabc30",
       "is_free": false,
       "price_value": 11.99,
       "price_formatted": "$11.99",
@@ -29766,10 +29766,11 @@
     {
       "id": "FINALFANTASYRESONANCE",
       "title": "FINAL FANTASY RESONANCE",
-      "streamable": false,
+      "streamable": true,
       "market": "US",
       "product_ids": [
-        "9NNCPRH9VWG4"
+        "9NNCPRH9VWG4",
+        "9P44MG3WG8R2"
       ],
       "xcloud_title_id": "FINALFANTASYRESONANCE",
       "programs": [
@@ -29787,18 +29788,18 @@
         "ultimate": "purchase"
       },
       "publisher": "SQUARE ENIX CO., LTD.",
-      "developer": "SQUARE ENIX CO., LTD.",
-      "base_product_id": "9NNCPRH9VWG4",
+      "developer": "",
+      "base_product_id": "9P44MG3WG8R2",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.25031.13740717481240787.f2d88b52-c691-4bda-91a5-2b5971995bd8.c3982fa5-996f-466d-a2f6-560c7c16e743",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.25031.14600303949530579.491adf55-bcd2-4dea-9e40-f1aef1b2af1b.721282ca-4c17-4b1b-8765-9a84e5948a7c",
       "is_free": false,
       "price_value": 49.99,
       "price_formatted": "$49.99",
       "price_currency": "USD",
       "first_seen_at": "2026-10-21T21:46:12Z",
-      "last_changed_at": "2026-10-22T04:53:00Z",
-      "added_at": "2026-10-21T21:46:12Z",
-      "removed_at": "2026-10-22T04:53:00Z"
+      "last_changed_at": "2026-10-22T11:58:46Z",
+      "added_at": "2026-10-22T11:58:46Z",
+      "removed_at": null
     },
     {
       "id": "FINALFANTASYTACTICSTHEIVALICECHRONICLES",
@@ -30345,7 +30346,7 @@
       "developer": "Fishing Planet LLC",
       "base_product_id": "BVM002M8HH0S",
       "xbox_title_id": 490838306,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.18631.70971773779833883.b4ccb87a-3ba3-4a8b-8cb6-8f93204547c9.525661de-ba12-49c0-9544-698006332039",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.20924.70971773779833883.41d732af-69b5-4f70-bbde-49a8143c922e.2bb05777-f52a-42a7-abe4-29547dd37c64",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -84568,7 +84569,7 @@
       "developer": "",
       "base_product_id": "9PJP7FHHJGPZ",
       "xbox_title_id": 1649441503,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.16160.14282916029726844.21645f31-adc6-49b7-8d14-1a6cd20a5e00.669fb2c8-b43e-432d-b09c-665b35404681",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57499.14282916029726844.6b59f474-7c2d-4755-a65f-e03744b03831.4470460e-70ec-4518-a408-2b126236cee5",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -99072,5 +99073,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-22T04:53:00Z"
+  "generated_at": "2026-10-22T11:58:46Z"
 }
