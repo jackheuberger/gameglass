@@ -1,5 +1,5 @@
 {
-  "count": 2682,
+  "count": 2683,
   "market": "US",
   "games": [
     {
@@ -22440,6 +22440,43 @@
       "removed_at": null
     },
     {
+      "id": "DODODUCKIE",
+      "title": "Dodo Duckie",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P7S9F02293J"
+      ],
+      "xcloud_title_id": "DODODUCKIE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "BornMonkie",
+      "developer": "BornMonkie",
+      "base_product_id": "9P7S9F02293J",
+      "xbox_title_id": 1805270369,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13916.14101741972261561.f51063ee-b9b9-4aed-b2ba-df511d794b2e.7003fdc6-d444-4ac3-8d0b-b361296abea9",
+      "is_free": false,
+      "price_value": 11.99,
+      "price_formatted": "$11.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-22T04:53:00Z",
+      "last_changed_at": "2026-10-22T04:53:00Z",
+      "added_at": "2026-10-22T04:53:00Z",
+      "removed_at": null
+    },
+    {
       "id": "DOGURAI",
       "title": "Dogurai",
       "streamable": true,
@@ -29729,7 +29766,7 @@
     {
       "id": "FINALFANTASYRESONANCE",
       "title": "FINAL FANTASY RESONANCE",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NNCPRH9VWG4"
@@ -29759,9 +29796,9 @@
       "price_formatted": "$49.99",
       "price_currency": "USD",
       "first_seen_at": "2026-10-21T21:46:12Z",
-      "last_changed_at": "2026-10-21T21:46:12Z",
+      "last_changed_at": "2026-10-22T04:53:00Z",
       "added_at": "2026-10-21T21:46:12Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T04:53:00Z"
     },
     {
       "id": "FINALFANTASYTACTICSTHEIVALICECHRONICLES",
@@ -99035,5 +99072,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-21T21:46:12Z"
+  "generated_at": "2026-10-22T04:53:00Z"
 }
