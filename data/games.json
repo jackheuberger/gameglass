@@ -1,5 +1,5 @@
 {
-  "count": 2683,
+  "count": 2685,
   "market": "US",
   "games": [
     {
@@ -52803,7 +52803,7 @@
       "developer": "San Diego Studio",
       "base_product_id": "9NRLSFM01XTP",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.64138.14385377751056556.9992f6af-8073-418f-9ee6-826a2b34ebf0.0a6d5ce7-3a41-4f2a-b076-f7c0361394fa",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.36760.14385377751056556.b21271e4-6ff2-4c53-94f5-77489a0bd899.adedd3ca-244b-4459-acd2-ec745762f004",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -61227,6 +61227,43 @@
       "removed_at": null
     },
     {
+      "id": "PEAK",
+      "title": "PEAK",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NMKF7LPVX44"
+      ],
+      "xcloud_title_id": "PEAK",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Evil Landfall?",
+      "developer": "",
+      "base_product_id": "9NMKF7LPVX44",
+      "xbox_title_id": 1995603548,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.10088.13690576805036811.a692716b-bccb-4296-95be-ce651e257db8.8c9b6026-9398-4319-88f4-2c414ecf2347",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-23T21:29:43Z",
+      "last_changed_at": "2026-10-23T21:29:43Z",
+      "added_at": "2026-10-23T21:29:43Z",
+      "removed_at": null
+    },
+    {
       "id": "PEEPAWSFARM",
       "title": "Peepaw's Farm",
       "streamable": true,
@@ -66975,7 +67012,7 @@
       "developer": "Sloclap",
       "base_product_id": "9N5K7HWXL4Q6",
       "xbox_title_id": 1634930870,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.6707.14036668029170653.6510dadb-d349-4a75-b762-95e6550fdd9b.d5b36e28-53c0-460b-b8bb-7b97e3335433",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.32652.14036668029170653.97838000-87b6-4a56-9c79-e4eddcea3b6f.0e8acd37-4ade-4b98-b9a1-3ce6befe26d8",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -95305,6 +95342,43 @@
       "removed_at": null
     },
     {
+      "id": "WARRIORCATSCLANSOFTHEFOREST",
+      "title": "Warrior Cats: Clans of the Forest",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NBW1S6S897W"
+      ],
+      "xcloud_title_id": "WARRIORCATSCLANSOFTHEFOREST",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Trailmark Games",
+      "developer": "Bamtang Games",
+      "base_product_id": "9NBW1S6S897W",
+      "xbox_title_id": 1814897056,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48052.13580214141616374.4d19b156-b171-420b-8077-6b14a1365c71.8310f3f4-0ab4-41ac-b811-7dbc2fc29485",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-23T21:29:43Z",
+      "last_changed_at": "2026-10-23T21:29:43Z",
+      "added_at": "2026-10-23T21:29:43Z",
+      "removed_at": null
+    },
+    {
       "id": "WARROBOTSFRONTIERS",
       "title": "War Robots: Frontiers - Pilot's Heart",
       "streamable": true,
@@ -99073,5 +99147,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-23T11:43:19Z"
+  "generated_at": "2026-10-23T21:29:43Z"
 }
