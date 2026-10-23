@@ -1288,7 +1288,7 @@
         "starter": "purchase",
         "ultimate": "included"
       },
-      "publisher": "The Arcade Crew",
+      "publisher": "Dotemu",
       "developer": "DoubleMoose Games",
       "base_product_id": "9P8NKVVB0XQJ",
       "xbox_title_id": 1901146690,
@@ -99073,5 +99073,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-23T04:54:35Z"
+  "generated_at": "2026-10-23T11:43:19Z"
 }
