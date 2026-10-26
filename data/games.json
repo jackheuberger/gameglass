@@ -1,5 +1,5 @@
 {
-  "count": 2685,
+  "count": 2686,
   "market": "US",
   "games": [
     {
@@ -70908,6 +70908,43 @@
       "removed_at": null
     },
     {
+      "id": "SCRAMBLEKNIGHTSONLINEGAMEPREVIEW",
+      "title": "Scramble Knights Online (Game Preview)",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NK039GWVTVC"
+      ],
+      "xcloud_title_id": "SCRAMBLEKNIGHTSONLINEGAMEPREVIEW",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Funktronic Labs",
+      "developer": "Funktronic Labs",
+      "base_product_id": "9NK039GWVTVC",
+      "xbox_title_id": 1895210075,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.37486.13666925911831228.39a643d8-0904-4270-b0a3-7b063f9c1c1d.7df927e8-1a50-47b9-8421-e912d5c240ae",
+      "is_free": false,
+      "price_value": 12.99,
+      "price_formatted": "$12.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-26T22:44:58Z",
+      "last_changed_at": "2026-10-26T22:44:58Z",
+      "added_at": "2026-10-26T22:44:58Z",
+      "removed_at": null
+    },
+    {
       "id": "SCREAMER",
       "title": "Screamer",
       "streamable": true,
@@ -99147,5 +99184,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-26T13:08:49Z"
+  "generated_at": "2026-10-26T22:44:58Z"
 }
