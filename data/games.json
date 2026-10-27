@@ -1,5 +1,5 @@
 {
-  "count": 2686,
+  "count": 2687,
   "market": "US",
   "games": [
     {
@@ -7630,6 +7630,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "BAOBAOSCOZYCLEANINGSERVICES",
+      "title": "Bao Bao's Cozy Cleaning Services",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NSQXMLQ9925"
+      ],
+      "xcloud_title_id": "BAOBAOSCOZYCLEANINGSERVICES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Destroyer Doggo ",
+      "developer": "Destroyer Doggo ",
+      "base_product_id": "9NSQXMLQ9925",
+      "xbox_title_id": 2128729481,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.38051.14362703733979546.9cb1b161-df23-472f-8717-f8a07f4075d2.7d6e0c97-c08e-427f-a44d-4ec96de37f22",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-27T12:18:30Z",
+      "last_changed_at": "2026-10-27T12:18:30Z",
+      "added_at": "2026-10-27T12:18:30Z",
       "removed_at": null
     },
     {
@@ -58958,7 +58995,7 @@
       "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "base_product_id": "9N0QWXC09MPT",
       "xbox_title_id": 1989157631,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.18684.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.9c47915e-3e98-4ad5-8df7-1bdf2bbf4f9d",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60896.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.7ea3d42a-d6af-4971-9e27-8ce46e068504",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -99184,5 +99221,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-27T05:10:48Z"
+  "generated_at": "2026-10-27T12:18:30Z"
 }
