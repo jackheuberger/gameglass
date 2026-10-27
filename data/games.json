@@ -1,5 +1,5 @@
 {
-  "count": 2688,
+  "count": 2689,
   "market": "US",
   "games": [
     {
@@ -67134,6 +67134,43 @@
       "removed_at": null
     },
     {
+      "id": "REMOTHEREDREDNUNSLEGACY",
+      "title": "Remothered: Red Nun's Legacy",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P5DQT7BKR2K"
+      ],
+      "xcloud_title_id": "REMOTHEREDREDNUNSLEGACY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Stormind Games, Soft Source  ",
+      "developer": "Stormind Games ",
+      "base_product_id": "9P5DQT7BKR2K",
+      "xbox_title_id": 1860061762,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23465.14570866189354054.0b43947b-e67e-46f6-b7f1-e30bc3ab5199.7601dc98-abcb-4f7c-85aa-9882848ba46e",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-27T22:20:05Z",
+      "last_changed_at": "2026-10-27T22:20:05Z",
+      "added_at": "2026-10-27T22:20:05Z",
+      "removed_at": null
+    },
+    {
       "id": "RENNSPORT",
       "title": "RENNSPORT",
       "streamable": true,
@@ -99258,5 +99295,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-27T18:09:19Z"
+  "generated_at": "2026-10-27T22:20:05Z"
 }
