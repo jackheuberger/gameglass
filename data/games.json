@@ -1,5 +1,5 @@
 {
-  "count": 2687,
+  "count": 2688,
   "market": "US",
   "games": [
     {
@@ -19370,7 +19370,7 @@
       "developer": "Behaviour Interactive Inc.",
       "base_product_id": "C0N22P73QZ60",
       "xbox_title_id": 102425831,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.51158.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.3af5a707-fc52-4dd8-924a-07d384e361b0",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.51458.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.33981a4c-a34b-4492-b81f-8695c017496b",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -87651,6 +87651,43 @@
       "removed_at": null
     },
     {
+      "id": "THESEANCEOFBLAKEMANOR",
+      "title": "The Séance of Blake Manor",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PNRLJNDPP4G"
+      ],
+      "xcloud_title_id": "THESEANCEOFBLAKEMANOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Raw Fury",
+      "developer": "Spooky Doorway",
+      "base_product_id": "9PNRLJNDPP4G",
+      "xbox_title_id": 1717482501,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58589.14338899831126037.9571fdec-43b9-45e0-87e0-6beb38254966.921ef682-7a46-4ec0-889f-bf0df78f016d",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-27T18:09:19Z",
+      "last_changed_at": "2026-10-27T18:09:19Z",
+      "added_at": "2026-10-27T18:09:19Z",
+      "removed_at": null
+    },
+    {
       "id": "THESETTLERSNEWALLIES",
       "title": "The Settlers®: New Allies",
       "streamable": true,
@@ -99221,5 +99258,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-27T12:18:30Z"
+  "generated_at": "2026-10-27T18:09:19Z"
 }
