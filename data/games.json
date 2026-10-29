@@ -3661,7 +3661,7 @@
       "developer": "Pawprint Studio",
       "base_product_id": "9PK8PHLCQDF6",
       "xbox_title_id": 1799950478,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.29200.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.9807370e-f74d-4e5a-b55e-d918d6e8d7d2",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.48862.14271146495264987.389490b9-697a-4878-87fc-ab69dd3499a6.d383e873-d7b2-48d4-bfe2-427387d56740",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -13970,11 +13970,11 @@
       "xbox_title_id": 245236582,
       "image_url": "https://store-images.s-microsoft.com/image/apps.7117.71633162879241707.7cf18b3b-9fa5-486f-9a68-067f06d50bf1.3bb742ae-b2ed-4066-bf27-ea50d614ce8c",
       "is_free": false,
-      "price_value": 19.99,
-      "price_formatted": "$19.99",
-      "price_currency": "USD",
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T16:11:29Z",
+      "last_changed_at": "2026-10-29T05:55:00Z",
       "added_at": null,
       "removed_at": null
     },
@@ -99295,5 +99295,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-28T22:39:32Z"
+  "generated_at": "2026-10-29T05:55:00Z"
 }
