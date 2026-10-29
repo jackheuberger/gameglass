@@ -1,5 +1,5 @@
 {
-  "count": 2691,
+  "count": 2698,
   "market": "US",
   "games": [
     {
@@ -18382,6 +18382,43 @@
       "removed_at": null
     },
     {
+      "id": "CURSEOFRESTHAVEN",
+      "title": "Curse of Resthaven",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MT4ZXD1LJNN"
+      ],
+      "xcloud_title_id": "CURSEOFRESTHAVEN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Digital Bandidos",
+      "developer": "Hilltop Studios",
+      "base_product_id": "9MT4ZXD1LJNN",
+      "xbox_title_id": 2012897672,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40502.13814891282991947.a54cf4ad-b097-4de6-ac4a-e94f2048aafc.508715f0-c53e-40e5-8db5-c513d0c0f345",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-29T22:51:14Z",
+      "last_changed_at": "2026-10-29T22:51:14Z",
+      "added_at": "2026-10-29T22:51:14Z",
+      "removed_at": null
+    },
+    {
       "id": "CURSEOFTHEDEADGODS",
       "title": "Curse of the Dead Gods",
       "streamable": true,
@@ -24596,7 +24633,7 @@
         "starter": "purchase",
         "ultimate": "included"
       },
-      "publisher": "The Arcade Crew",
+      "publisher": "Dotemu",
       "developer": "Sleepy Mill Studio",
       "base_product_id": "9NXVPTB0FXSZ",
       "xbox_title_id": 1675325475,
@@ -38774,7 +38811,7 @@
       "developer": "IO Interactive A/S",
       "base_product_id": "9NN82NH949D5",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.29216.13747708785346246.7357480f-2280-4f22-b230-462953a1418d.4e66c8ab-f764-4676-b604-332a24fa17c6",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.11450.13747708785346246.7e401644-aaae-4d10-8559-1e6bfe324af4.1806885c-0588-4d39-8b5b-6339ca90bf19",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -40155,6 +40192,43 @@
       "removed_at": null
     },
     {
+      "id": "HUNTINGSIMULATOR3",
+      "title": "Hunting Simulator 3",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NCM50RP62PR"
+      ],
+      "xcloud_title_id": "HUNTINGSIMULATOR3",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Nacon",
+      "developer": "Nacon Studio Ghent",
+      "base_product_id": "9NCM50RP62PR",
+      "xbox_title_id": 2147313770,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.944.13561310267062322.64fb195b-0ac0-4fef-8738-168b6040f6a6.9391f5cc-831b-4a1c-b5f5-d7a051777b8e",
+      "is_free": false,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-29T22:51:14Z",
+      "last_changed_at": "2026-10-29T22:51:14Z",
+      "added_at": "2026-10-29T22:51:14Z",
+      "removed_at": null
+    },
+    {
       "id": "HUNTSHOWDOWN1896",
       "title": "Hunt: Showdown 1896",
       "streamable": true,
@@ -41392,7 +41466,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "The Arcade Crew",
+      "publisher": "Dotemu",
       "developer": "Berzerk Studio",
       "base_product_id": "9NK7HNCG0R8D",
       "xbox_title_id": 1779354193,
@@ -54442,6 +54516,43 @@
       "removed_at": null
     },
     {
+      "id": "MOUTHWASHING",
+      "title": "Mouthwashing",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MVNCSJ14754"
+      ],
+      "xcloud_title_id": "MOUTHWASHING",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": " CRITICAL REFLEX",
+      "developer": "Wrong Organ",
+      "base_product_id": "9MVNCSJ14754",
+      "xbox_title_id": 2102167997,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.24363.13855544626090177.00f10a03-a204-4b92-893c-87ea3db07631.818be90f-ee77-4b06-966f-566937724aac",
+      "is_free": false,
+      "price_value": 12.99,
+      "price_formatted": "$12.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-29T22:51:14Z",
+      "last_changed_at": "2026-10-29T22:51:14Z",
+      "added_at": "2026-10-29T22:51:14Z",
+      "removed_at": null
+    },
+    {
       "id": "MOVINGHOUSES",
       "title": "Moving Houses",
       "streamable": true,
@@ -63063,6 +63174,41 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "PLANTSVSZOMBIESREPLANTED",
+      "title": "Plants vs. Zombies™: Replanted",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PGSDFM3JD85"
+      ],
+      "xcloud_title_id": "PLANTSVSZOMBIESREPLANTED",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "IO",
+        "GANYMEDE"
+      ],
+      "tiers": {
+        "essential": "unavailable",
+        "premium": "unavailable",
+        "starter": "unavailable",
+        "ultimate": "included"
+      },
+      "publisher": "Electronic Arts",
+      "developer": "PopCap Games",
+      "base_product_id": "9PGSDFM3JD85",
+      "xbox_title_id": 1728022534,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55682.14249493036313298.22c0dae5-4fa6-41f8-a5bd-bfdfcb3e98a0.ebf432b1-68de-40d9-81b1-3ad79b49cc82",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-29T22:51:14Z",
+      "last_changed_at": "2026-10-29T22:51:14Z",
+      "added_at": "2026-10-29T22:51:14Z",
       "removed_at": null
     },
     {
@@ -78703,6 +78849,43 @@
       "removed_at": null
     },
     {
+      "id": "STEINSGATEREBOOT",
+      "title": "STEINS;GATE RE:BOOT",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N0JGJQMP8XB"
+      ],
+      "xcloud_title_id": "STEINSGATEREBOOT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Spike Chunsoft Co., Ltd.",
+      "developer": "MAGES. Inc.",
+      "base_product_id": "9N0JGJQMP8XB",
+      "xbox_title_id": 1772268105,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.17042.13920149841251549.21417d00-6198-4f1a-8ade-53b7079692e5.adb88c2a-0c4c-4114-8a82-e6ca790b46cf",
+      "is_free": false,
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-29T22:51:14Z",
+      "last_changed_at": "2026-10-29T22:51:14Z",
+      "added_at": "2026-10-29T22:51:14Z",
+      "removed_at": null
+    },
+    {
       "id": "STELLARISCONSOLEEDITIONXS",
       "title": "Stellaris: Console Edition (X|S)",
       "streamable": true,
@@ -80772,7 +80955,7 @@
     },
     {
       "id": "SURVIVALFOUTAINOFYOUTHCAPTAINSEDITION",
-      "title": "Survival: Foutain of Youth - Captain's Edition",
+      "title": "Survival: Fountain of Youth - Captain's Edition",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -82616,6 +82799,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "TERRIBLELIZARDS",
+      "title": "Terrible Lizards",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PKFL1XJT73S"
+      ],
+      "xcloud_title_id": "TERRIBLELIZARDS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Digital Pajamas",
+      "developer": "WDR Studios",
+      "base_product_id": "9PKFL1XJT73S",
+      "xbox_title_id": 1710440811,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8368.14263508046410977.85ca9e89-ec54-4c85-9c49-0ce9abe3f1fd.d965509b-8659-4d15-8f26-b612fc6106cd",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-29T22:51:14Z",
+      "last_changed_at": "2026-10-29T22:51:14Z",
+      "added_at": "2026-10-29T22:51:14Z",
       "removed_at": null
     },
     {
@@ -89090,6 +89310,43 @@
       "first_seen_at": "2026-10-29T13:09:23Z",
       "last_changed_at": "2026-10-29T13:09:23Z",
       "added_at": "2026-10-29T13:09:23Z",
+      "removed_at": null
+    },
+    {
+      "id": "THEWOLFAMONGUSREMASTERED",
+      "title": "The Wolf Among Us Remastered",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NDP40GVGC80"
+      ],
+      "xcloud_title_id": "THEWOLFAMONGUSREMASTERED",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Telltale",
+      "developer": "Telltale",
+      "base_product_id": "9NDP40GVGC80",
+      "xbox_title_id": 1969422076,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.6859.13615139346622059.9b39c95a-8743-4494-8c1f-b2a811aa1372.6541891b-bec5-404b-a7a3-303cdbfb11c9",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-29T22:51:14Z",
+      "last_changed_at": "2026-10-29T22:51:14Z",
+      "added_at": "2026-10-29T22:51:14Z",
       "removed_at": null
     },
     {
@@ -98836,7 +99093,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "The Arcade Crew",
+      "publisher": "Dotemu",
       "developer": "1P2P Studio",
       "base_product_id": "9PMM5T8C0CN6",
       "xbox_title_id": 2007070358,
@@ -99369,5 +99626,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-29T13:09:23Z"
+  "generated_at": "2026-10-29T22:51:14Z"
 }

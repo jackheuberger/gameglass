@@ -5074,3 +5074,10 @@
 {"kind":"game_added","new_value":null,"detail":"The Wolf Among Us","xcloud_title_id":"THEWOLFAMONGUS","run_id":365,"old_value":null,"tier_key":null,"game_id":"THEWOLFAMONGUS","occurred_at":"2026-10-29T13:09:23Z"}
 {"kind":"game_added","new_value":null,"detail":"Planted!","xcloud_title_id":"PLANTED","run_id":365,"old_value":null,"tier_key":null,"game_id":"PLANTED","occurred_at":"2026-10-29T13:09:23Z"}
 {"kind":"game_removed","new_value":null,"detail":"Celeste","xcloud_title_id":"CELESTE","run_id":365,"old_value":null,"tier_key":null,"game_id":"CELESTE","occurred_at":"2026-10-29T13:09:23Z"}
+{"kind":"game_added","new_value":null,"detail":"Curse of Resthaven","xcloud_title_id":"CURSEOFRESTHAVEN","run_id":366,"old_value":null,"tier_key":null,"game_id":"CURSEOFRESTHAVEN","occurred_at":"2026-10-29T22:51:14Z"}
+{"kind":"game_added","new_value":null,"detail":"STEINS;GATE RE:BOOT","xcloud_title_id":"STEINSGATEREBOOT","run_id":366,"old_value":null,"tier_key":null,"game_id":"STEINSGATEREBOOT","occurred_at":"2026-10-29T22:51:14Z"}
+{"kind":"game_added","new_value":null,"detail":"The Wolf Among Us Remastered","xcloud_title_id":"THEWOLFAMONGUSREMASTERED","run_id":366,"old_value":null,"tier_key":null,"game_id":"THEWOLFAMONGUSREMASTERED","occurred_at":"2026-10-29T22:51:14Z"}
+{"kind":"game_added","new_value":null,"detail":"Hunting Simulator 3","xcloud_title_id":"HUNTINGSIMULATOR3","run_id":366,"old_value":null,"tier_key":null,"game_id":"HUNTINGSIMULATOR3","occurred_at":"2026-10-29T22:51:14Z"}
+{"kind":"game_added","new_value":null,"detail":"Mouthwashing","xcloud_title_id":"MOUTHWASHING","run_id":366,"old_value":null,"tier_key":null,"game_id":"MOUTHWASHING","occurred_at":"2026-10-29T22:51:14Z"}
+{"kind":"game_added","new_value":null,"detail":"Terrible Lizards","xcloud_title_id":"TERRIBLELIZARDS","run_id":366,"old_value":null,"tier_key":null,"game_id":"TERRIBLELIZARDS","occurred_at":"2026-10-29T22:51:14Z"}
+{"kind":"game_added","new_value":null,"detail":"Plants vs. Zombies™: Replanted","xcloud_title_id":"PLANTSVSZOMBIESREPLANTED","run_id":366,"old_value":null,"tier_key":null,"game_id":"PLANTSVSZOMBIESREPLANTED","occurred_at":"2026-10-29T22:51:14Z"}
