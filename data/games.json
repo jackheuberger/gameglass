@@ -1,5 +1,5 @@
 {
-  "count": 2689,
+  "count": 2691,
   "market": "US",
   "games": [
     {
@@ -13944,7 +13944,7 @@
     {
       "id": "CELESTE",
       "title": "Celeste",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "BWMQL2RPWBHB"
@@ -13974,9 +13974,9 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-10-29T05:55:00Z",
+      "last_changed_at": "2026-10-29T13:09:23Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-10-29T13:09:23Z"
     },
     {
       "id": "CELLSCIENTISTSBEYOND",
@@ -62959,6 +62959,43 @@
       "removed_at": null
     },
     {
+      "id": "PLANTED",
+      "title": "Planted!",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NMS5DNJ3BR4"
+      ],
+      "xcloud_title_id": "PLANTED",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Curveball Games",
+      "developer": "Cloth Cat Games",
+      "base_product_id": "9NMS5DNJ3BR4",
+      "xbox_title_id": 2094805611,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61426.13756558466952737.accc3ff7-6642-4055-8732-a7143e615293.cc67ff89-cdeb-4406-8dea-855940fa6494",
+      "is_free": false,
+      "price_value": 17.99,
+      "price_formatted": "$17.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-29T13:09:23Z",
+      "last_changed_at": "2026-10-29T13:09:23Z",
+      "added_at": "2026-10-29T13:09:23Z",
+      "removed_at": null
+    },
+    {
       "id": "PLANTSVSZOMBIESGARDENWARFARE",
       "title": "Plants vs. Zombies Garden Warfare",
       "streamable": true,
@@ -89019,6 +89056,43 @@
       "removed_at": null
     },
     {
+      "id": "THEWOLFAMONGUS",
+      "title": "The Wolf Among Us",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C02SL8LBS5K2"
+      ],
+      "xcloud_title_id": "THEWOLFAMONGUS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Telltale",
+      "developer": "Telltale",
+      "base_product_id": "C02SL8LBS5K2",
+      "xbox_title_id": 62572131,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27671.64565521137234771.d4fa27af-3a00-44af-9927-ce57a7066702.18cb9cae-df7a-4c82-829f-75e83d28b4e4",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-29T13:09:23Z",
+      "last_changed_at": "2026-10-29T13:09:23Z",
+      "added_at": "2026-10-29T13:09:23Z",
+      "removed_at": null
+    },
+    {
       "id": "THIEF",
       "title": "Thief",
       "streamable": true,
@@ -99295,5 +99369,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-29T05:55:00Z"
+  "generated_at": "2026-10-29T13:09:23Z"
 }

@@ -5071,3 +5071,6 @@
 {"kind":"game_added","new_value":null,"detail":"The Séance of Blake Manor","xcloud_title_id":"THESEANCEOFBLAKEMANOR","run_id":359,"old_value":null,"tier_key":null,"game_id":"THESEANCEOFBLAKEMANOR","occurred_at":"2026-10-27T18:09:19Z"}
 {"kind":"game_added","new_value":null,"detail":"Remothered: Red Nun's Legacy","xcloud_title_id":"REMOTHEREDREDNUNSLEGACY","run_id":360,"old_value":null,"tier_key":null,"game_id":"REMOTHEREDREDNUNSLEGACY","occurred_at":"2026-10-27T22:20:05Z"}
 {"kind":"price_changed","new_value":null,"detail":"Celeste","xcloud_title_id":"CELESTE","run_id":364,"old_value":"$19.99","tier_key":null,"game_id":"CELESTE","occurred_at":"2026-10-29T05:55:00Z"}
+{"kind":"game_added","new_value":null,"detail":"The Wolf Among Us","xcloud_title_id":"THEWOLFAMONGUS","run_id":365,"old_value":null,"tier_key":null,"game_id":"THEWOLFAMONGUS","occurred_at":"2026-10-29T13:09:23Z"}
+{"kind":"game_added","new_value":null,"detail":"Planted!","xcloud_title_id":"PLANTED","run_id":365,"old_value":null,"tier_key":null,"game_id":"PLANTED","occurred_at":"2026-10-29T13:09:23Z"}
+{"kind":"game_removed","new_value":null,"detail":"Celeste","xcloud_title_id":"CELESTE","run_id":365,"old_value":null,"tier_key":null,"game_id":"CELESTE","occurred_at":"2026-10-29T13:09:23Z"}
