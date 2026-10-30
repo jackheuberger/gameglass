@@ -1,5 +1,5 @@
 {
-  "count": 2698,
+  "count": 2708,
   "market": "US",
   "games": [
     {
@@ -4660,7 +4660,7 @@
       "developer": "Embark Studios",
       "base_product_id": "9NDF1F263RZ4",
       "xbox_title_id": 2118292977,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.43205.13550041517005289.bb935050-3d01-49fa-917c-6d6068e1aa04.e40d6fc8-3b3a-4709-9dd3-0ab43b27fc29",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.43094.13550041517005289.94982f01-a340-49e3-9d4f-37cb23ee22c9.36620aef-592b-4503-8580-f45123cf8a0e",
       "is_free": false,
       "price_value": 39.99,
       "price_formatted": "$39.99",
@@ -6260,6 +6260,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "ASYLUM",
+      "title": "Asylum",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N11994G514B"
+      ],
+      "xcloud_title_id": "ASYLUM",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "SOEDESCO",
+      "developer": "Senscape",
+      "base_product_id": "9N11994G514B",
+      "xbox_title_id": 1661757687,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.42650.13915026531015961.22f4f66a-24dd-4f93-bd86-6756e2022410.1998333a-b186-477b-beb6-81797e6175ee",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
       "removed_at": null
     },
     {
@@ -27512,6 +27549,43 @@
       "removed_at": null
     },
     {
+      "id": "ESCAPEFROMEVERAFTER",
+      "title": "Escape from Ever After",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P08H8ZQKPFD"
+      ],
+      "xcloud_title_id": "ESCAPEFROMEVERAFTER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "HypeTrain Digital",
+      "developer": "Sleepy Castle Studio, Wing-It! Creative",
+      "base_product_id": "9P08H8ZQKPFD",
+      "xbox_title_id": 1917441524,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.53246.14461031920254969.f9cbaffd-6827-486e-9c0a-8f56f4dd6e29.484214ca-8f52-4e1a-8b61-01ccfd3bd78e",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
+      "removed_at": null
+    },
+    {
       "id": "ESCAPESIMULATOR",
       "title": "Escape Simulator",
       "streamable": true,
@@ -29502,6 +29576,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "FEARTHETIMELOOP",
+      "title": "Fear The Timeloop",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P1MPWT913V2"
+      ],
+      "xcloud_title_id": "FEARTHETIMELOOP",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PlayWay S.A.",
+      "developer": "TacoEaters / Console Labs S.A.",
+      "base_product_id": "9P1MPWT913V2",
+      "xbox_title_id": 1893842455,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5211.14508410969908901.d22d7d0e-5bb2-4d47-88bf-02cc671a7d3a.f8fdd63e-ac62-4a65-b262-0548c3b0051e",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
       "removed_at": null
     },
     {
@@ -39590,11 +39701,11 @@
       "xbox_title_id": 2021059088,
       "image_url": "https://store-images.s-microsoft.com/image/apps.51446.14632317104995915.830eb68d-3696-45c4-8696-608d95d1edfa.17943b8e-a4f7-400d-8c6e-fc3b479a9492",
       "is_free": false,
-      "price_value": 19.99,
-      "price_formatted": "$19.99",
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
       "added_at": null,
       "removed_at": null
     },
@@ -52298,6 +52409,43 @@
       "removed_at": null
     },
     {
+      "id": "MINIRACERCARSHOPSIMULATOR",
+      "title": "Mini Racer Car Shop Simulator",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NV7D2JQ1C2Z"
+      ],
+      "xcloud_title_id": "MINIRACERCARSHOPSIMULATOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PlayWay S.A.",
+      "developer": "Console Labs S.A / Bewolba Studios",
+      "base_product_id": "9NV7D2JQ1C2Z",
+      "xbox_title_id": 1681449229,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.54258.14399719421184058.edc8eab0-3d08-4a2f-9d3a-8d8e09ef16e7.a8689d6f-7ea6-46f4-a8c5-5a1e0aa62531",
+      "is_free": false,
+      "price_value": 12.99,
+      "price_formatted": "$12.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
+      "removed_at": null
+    },
+    {
       "id": "MINISHOOTADVENTURES",
       "title": "Minishoot' Adventures",
       "streamable": true,
@@ -53739,6 +53887,43 @@
       "removed_at": null
     },
     {
+      "id": "MONTABI",
+      "title": "Montabi",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PMP77PLHTX0"
+      ],
+      "xcloud_title_id": "MONTABI",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Akupara Games",
+      "developer": "Mankibo",
+      "base_product_id": "9PMP77PLHTX0",
+      "xbox_title_id": 1681278625,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.46074.14289738902544275.899eaaf1-2001-4e7b-9eeb-144ee6c775e6.f447027a-839d-4ee1-b1e0-4407a6d9958b",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
+      "removed_at": null
+    },
+    {
       "id": "MONTEZUMASREVENGETHE40THANNIVERSARYEDITION",
       "title": "Montezuma's Revenge - The 40th Anniversary Edition",
       "streamable": true,
@@ -54624,6 +54809,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "MOVINGSIMULATOR",
+      "title": "Moving Simulator",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MT63LSFZPDL"
+      ],
+      "xcloud_title_id": "MOVINGSIMULATOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PlayWay S.A.",
+      "developer": "Corpix Games / Console Labs S.A.",
+      "base_product_id": "9MT63LSFZPDL",
+      "xbox_title_id": 1983023791,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30754.13814532656914385.135f8e7e-ea3b-4883-bcdf-c9d90ec5b01f.094a9a03-277e-4112-a7de-375e64fd887a",
+      "is_free": false,
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
       "removed_at": null
     },
     {
@@ -68461,6 +68683,43 @@
       "first_seen_at": "2026-08-15T13:04:09Z",
       "last_changed_at": "2026-08-15T13:04:09Z",
       "added_at": "2026-08-15T13:04:09Z",
+      "removed_at": null
+    },
+    {
+      "id": "RIVEN",
+      "title": "Riven",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P62C7M1XHW7"
+      ],
+      "xcloud_title_id": "RIVEN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Cyan Worlds, Inc.",
+      "developer": "Cyan Worlds, Inc.",
+      "base_product_id": "9P62C7M1XHW7",
+      "xbox_title_id": 1935887689,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.25580.14628434922521498.b16a6119-3fec-425d-8387-d4ac4b7f607b.2649a920-7e1d-4a6b-aa5f-7a3466640ae2",
+      "is_free": false,
+      "price_value": 34.99,
+      "price_formatted": "$34.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
       "removed_at": null
     },
     {
@@ -94488,6 +94747,43 @@
       "removed_at": null
     },
     {
+      "id": "VIGOR",
+      "title": "Vigor",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BQL8L17RV09Z"
+      ],
+      "xcloud_title_id": "VIGOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Bohemia Interactive a.s.",
+      "developer": "Bohemia Interactive a.s.",
+      "base_product_id": "BQL8L17RV09Z",
+      "xbox_title_id": 872826607,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.63821.69196089202583628.8810ce7b-6d06-402d-b311-80270503242a.3d691d25-c8d5-4a05-aa83-88e5ae5ca323",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
+      "removed_at": null
+    },
+    {
       "id": "VIRTUAFIGHTER5REVOWORLDSTAGE",
       "title": "Virtua Fighter 5 R.E.V.O. World Stage",
       "streamable": true,
@@ -98446,6 +98742,43 @@
       "removed_at": null
     },
     {
+      "id": "WRAPHOUSESIMULATOR",
+      "title": "Wrap House Simulator",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NVKXP16H8TJ"
+      ],
+      "xcloud_title_id": "WRAPHOUSESIMULATOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PlayWay S.A.",
+      "developer": "Broken Lyre Entertainment / Console Labs S.A.",
+      "base_product_id": "9NVKXP16H8TJ",
+      "xbox_title_id": 1751765267,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.39189.14397158713284289.ec7d5a5d-939d-45c3-96c3-58691ff9b4e3.86e2c7d8-04e3-4fea-8ae8-477e30157ab5",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
+      "removed_at": null
+    },
+    {
       "id": "WRC9FIAWORLDRALLYCHAMPIONSHIP",
       "title": "WRC 9 FIA World Rally Championship",
       "streamable": true,
@@ -99515,6 +99848,43 @@
       "removed_at": null
     },
     {
+      "id": "ZOMBIEGRAVEYARDSIMULATOR",
+      "title": "Zombie Graveyard Simulator",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PNLPMMTV8CL"
+      ],
+      "xcloud_title_id": "ZOMBIEGRAVEYARDSIMULATOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PlayWay S.A.",
+      "developer": "threeW / Console Labs S.A.",
+      "base_product_id": "9PNLPMMTV8CL",
+      "xbox_title_id": 1781910183,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.18607.14346269915994235.838d6a57-fc14-4119-8726-0f7be77a98a6.4501793f-bf56-4827-982f-e66e98e82a27",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-10-30T13:03:45Z",
+      "last_changed_at": "2026-10-30T13:03:45Z",
+      "added_at": "2026-10-30T13:03:45Z",
+      "removed_at": null
+    },
+    {
       "id": "ZOMBIEHILLRACING",
       "title": "Zombie Hill Racing",
       "streamable": true,
@@ -99626,5 +99996,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-30T05:55:46Z"
+  "generated_at": "2026-10-30T13:03:45Z"
 }
