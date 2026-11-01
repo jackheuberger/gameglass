@@ -823,7 +823,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "9P6LNN3KZ75R",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.34485.14622094146520822.5cdb5618-56ef-4fbc-8a51-bc3327c56342.655468de-3495-4c77-ad41-7f1f851fea9f",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.9204.14622094146520822.3bac099b-ecd0-49e5-9463-74f68fefa07a.98d98a56-0d7e-4bb4-8c14-67f3fe0ccf0b",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -11785,7 +11785,7 @@
       "developer": "Epic Games Inc.",
       "base_product_id": "BT5P2X999VH2",
       "xbox_title_id": 267695549,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.20392.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.24e2eab9-1b75-4157-ba8b-006f4624d839",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.31130.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.641ad74a-edd4-40c9-8049-3bb73387d09a",
       "is_free": true,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -99996,5 +99996,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-10-31T21:41:13Z"
+  "generated_at": "2026-11-01T06:10:36Z"
 }
