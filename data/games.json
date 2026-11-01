@@ -46850,7 +46850,8 @@
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "BRMKDCZT0C4L"
+        "BRMKDCZT0C4L",
+        "9NJN1MC1X5FK"
       ],
       "xcloud_title_id": "LEGOSTARWARSTHESKYWALKERSAGA",
       "programs": [
@@ -46863,21 +46864,21 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "included",
+        "premium": "purchase",
         "starter": "purchase",
-        "ultimate": "included"
+        "ultimate": "purchase"
       },
       "publisher": "Warner Bros. Games",
       "developer": "TT Games",
-      "base_product_id": "BRMKDCZT0C4L",
-      "xbox_title_id": 308190374,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.7489.69776162813131649.5a0614cf-d90a-4580-90d2-d09e65459d75.24c8420c-5d5f-45f7-b495-59335a7ab2fb",
+      "base_product_id": "9NJN1MC1X5FK",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.63979.13677920620920924.f0d2262f-b971-4299-914b-194791cb9c5b.a77c90df-095b-4212-a7c6-f2c1a0753ffd",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-01T13:33:34Z",
       "added_at": null,
       "removed_at": null
     },
@@ -99996,5 +99997,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-01T06:10:36Z"
+  "generated_at": "2026-11-01T13:33:34Z"
 }
