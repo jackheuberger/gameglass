@@ -1,5 +1,5 @@
 {
-  "count": 2712,
+  "count": 2713,
   "market": "US",
   "games": [
     {
@@ -4134,9 +4134,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "DON'T NOD",
       "developer": "DON'T NOD",
@@ -4148,7 +4148,7 @@
       "price_formatted": "$34.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -7465,7 +7465,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -7480,7 +7480,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -7502,7 +7502,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -7517,7 +7517,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -7613,7 +7613,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -7628,7 +7628,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -28803,7 +28803,7 @@
     },
     {
       "id": "FARCRY3CLASSICEDITION",
-      "title": "Far Cry 3 Classic Edition",
+      "title": "FARCRY 3 Classic Edition",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -30338,9 +30338,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "astragon Entertainment GmbH",
       "developer": "weltenbauer. Software Entwicklung GmbH",
@@ -30352,7 +30352,7 @@
       "price_formatted": "$34.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-30T03:33:35Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -33217,7 +33217,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -33232,7 +33232,7 @@
       "price_formatted": "$11.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -33485,7 +33485,7 @@
       "developer": "Shanghai miHoYo TianMing Technology Co., Ltd.",
       "base_product_id": "9N7TFFRRZCC9",
       "xbox_title_id": 2053080068,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.40706.14057893183113088.225c959c-4e96-4c0d-b572-af64d573ae06.eb1b05ab-846a-434d-8f78-d9c3d9f4bb76",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40980.14057893183113088.6184a715-916f-4092-977e-599a3645f0a0.d0e061be-e3b1-4ff7-8695-1e06fe964301",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -36617,7 +36617,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -36632,7 +36632,7 @@
       "price_formatted": "$4.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -42792,9 +42792,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Focus Entertainment",
       "developer": "Saber Interactive",
@@ -42806,7 +42806,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -61983,7 +61983,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -61998,7 +61998,7 @@
       "price_formatted": "$9.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -63024,11 +63024,11 @@
       "xbox_title_id": 1914650134,
       "image_url": "https://store-images.s-microsoft.com/image/apps.27620.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.36fa2021-fe84-4d8b-82c1-b8870791b64c",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-11-03T14:24:07Z",
-      "last_changed_at": "2026-11-03T14:24:07Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": "2026-11-03T14:24:07Z",
       "removed_at": null
     },
@@ -73297,7 +73297,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "Treewood Games, New Metric Media",
+      "publisher": "New Metric Media",
       "developer": "Treewood Games",
       "base_product_id": "9N30NJWJ25GX",
       "xbox_title_id": 1840010979,
@@ -94433,9 +94433,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Poncle Limited",
       "developer": "Poncle Limited, Nosebleed Interactive",
@@ -94447,7 +94447,7 @@
       "price_formatted": "$9.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -95135,7 +95135,7 @@
         "TRITON"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -95150,7 +95150,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -95209,7 +95209,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -95224,7 +95224,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
       "added_at": null,
       "removed_at": null
     },
@@ -98658,7 +98658,7 @@
       "developer": "Wargaming.net",
       "base_product_id": "9N11JM7F5CXK",
       "xbox_title_id": 1649064189,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.51844.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.8dd0d24a-2002-449f-8a76-cd569f1ddac4",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.63783.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.6f6c51ca-27ad-495d-892b-50adfb797702",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -99886,6 +99886,43 @@
       "removed_at": null
     },
     {
+      "id": "ZEROPARADESDIRECTORSCUT",
+      "title": "ZERO PARADES: Director's Cut",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N2TDPGLP9JZ"
+      ],
+      "xcloud_title_id": "ZEROPARADESDIRECTORSCUT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "ZA/UM",
+      "developer": "",
+      "base_product_id": "9N2TDPGLP9JZ",
+      "xbox_title_id": 1772936163,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.35083.13949582959445374.ea0c1a8c-44e1-403b-9079-6ef2eaca23c4.5f358e0a-9377-4731-a8dc-797a327d324f",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-03T23:29:13Z",
+      "last_changed_at": "2026-11-03T23:29:13Z",
+      "added_at": "2026-11-03T23:29:13Z",
+      "removed_at": null
+    },
+    {
       "id": "ZEUSQUESTTHEREBIRTHOFEARTH",
       "title": "Zeus Quest - The Rebirth of Earth",
       "streamable": true,
@@ -100145,5 +100182,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-03T14:24:07Z"
+  "generated_at": "2026-11-03T23:29:13Z"
 }
