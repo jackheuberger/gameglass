@@ -1,5 +1,5 @@
 {
-  "count": 2709,
+  "count": 2712,
   "market": "US",
   "games": [
     {
@@ -12459,6 +12459,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "C2HDBXXNXT7R",
+      "title": "Killer Instinct 2 Classic",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "C2HDBXXNXT7R"
+      ],
+      "xcloud_title_id": null,
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Microsoft Studios",
+      "developer": "Code Mystics",
+      "base_product_id": "C2HDBXXNXT7R",
+      "xbox_title_id": 850034103,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.15892.65463263160410826.32af279f-0076-458e-ba46-c16a05825701.0c177c29-7d50-4614-9539-27a0d84e4939",
+      "is_free": false,
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
+      "first_seen_at": "2026-11-03T14:24:07Z",
+      "last_changed_at": "2026-11-03T14:24:07Z",
+      "added_at": "2026-11-03T14:24:07Z",
       "removed_at": null
     },
     {
@@ -30531,7 +30568,7 @@
       "developer": "Fishing Planet LLC",
       "base_product_id": "BVM002M8HH0S",
       "xbox_title_id": 490838306,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.20924.70971773779833883.41d732af-69b5-4f70-bbde-49a8143c922e.2bb05777-f52a-42a7-abe4-29547dd37c64",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.21937.70971773779833883.044502ea-9e5f-45b0-9e2a-50c9834a674b.1ca9aa85-21ec-47ca-8e03-00222cf432d9",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -54506,7 +54543,7 @@
       "developer": "Cold Symmetry",
       "base_product_id": "9NS9TJV1JL86",
       "xbox_title_id": 1645215415,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.28660.14371301647847529.436166e6-ce2e-4d99-8090-c513a317f818.481dd061-4cb0-4936-8d69-ce22ef4a59ed",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.2285.14371301647847529.ab8b79c4-f218-4ff0-8fc3-b84f73c62f94.8d34b9e6-250b-40a3-adf6-81eaf659a378",
       "is_free": false,
       "price_value": 49.99,
       "price_formatted": "$49.99",
@@ -62959,6 +62996,43 @@
       "removed_at": null
     },
     {
+      "id": "PITOFGOBLIN",
+      "title": "PIT OF GOBLIN",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MW4MFG0192L"
+      ],
+      "xcloud_title_id": "PITOFGOBLIN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Friendly Foe, Bright Gambit",
+      "developer": "Friendly Foe",
+      "base_product_id": "9MW4MFG0192L",
+      "xbox_title_id": 1914650134,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.27620.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.36fa2021-fe84-4d8b-82c1-b8870791b64c",
+      "is_free": false,
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
+      "first_seen_at": "2026-11-03T14:24:07Z",
+      "last_changed_at": "2026-11-03T14:24:07Z",
+      "added_at": "2026-11-03T14:24:07Z",
+      "removed_at": null
+    },
+    {
       "id": "PIZZAPOSSUM",
       "title": "Pizza Possum",
       "streamable": true,
@@ -64286,6 +64360,43 @@
       "removed_at": null
     },
     {
+      "id": "POSSESSIONS",
+      "title": "Possessions",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MZTQS3M4N5P"
+      ],
+      "xcloud_title_id": "POSSESSIONS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Lucid Labs",
+      "developer": "Lucid Labs",
+      "base_product_id": "9MZTQS3M4N5P",
+      "xbox_title_id": 1898013542,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13276.14105468178841673.b347c124-39b6-4909-a405-7f4b87a44078.e3cb76ff-d201-4a4c-a495-f993109d8114",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-03T14:24:07Z",
+      "last_changed_at": "2026-11-03T14:24:07Z",
+      "added_at": "2026-11-03T14:24:07Z",
+      "removed_at": null
+    },
+    {
       "id": "POSTTRAUMA",
       "title": "Post Trauma",
       "streamable": true,
@@ -64608,7 +64719,7 @@
       "developer": "Omeda Studios Limited",
       "base_product_id": "9NKVBTRRWH6V",
       "xbox_title_id": 1994868821,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.31214.13653755876663909.ede617e9-43a0-4ebf-b9c3-1f4f2251bff3.64be61cb-77da-42a1-bc08-4310b719336a",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13473.13653755876663909.fcb5717a-3372-4c4c-bbba-b5be295370d2.a18f0a8c-2f01-4fb3-ac14-75012a1836a2",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -74851,7 +74962,7 @@
       "developer": "Titan Forge Games",
       "base_product_id": "9NV8W1KJSQLL",
       "xbox_title_id": 1993741445,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.53577.14402893629943553.54fbd0de-7e4f-448e-93c6-1ad78c0a967a.264f684c-58e6-4b9f-b471-91ebc459b46e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61571.14402893629943553.6e6c7d04-2186-4859-a2b8-45f1f1799a2e.bbc0f7a0-8939-4be2-95f9-d3a038af4eed",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -100034,5 +100145,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-03T01:04:45Z"
+  "generated_at": "2026-11-03T14:24:07Z"
 }
