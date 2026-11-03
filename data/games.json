@@ -1,5 +1,5 @@
 {
-  "count": 2708,
+  "count": 2709,
   "market": "US",
   "games": [
     {
@@ -35235,6 +35235,43 @@
       "removed_at": null
     },
     {
+      "id": "GRAVHOUNDSGAMEPREVIEW",
+      "title": "GRAVHOUNDS (Game Preview)",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PBG4MTM3JJC"
+      ],
+      "xcloud_title_id": "GRAVHOUNDSGAMEPREVIEW",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Octopus Panic, Inc",
+      "developer": "Octopus Panic, Inc",
+      "base_product_id": "9PBG4MTM3JJC",
+      "xbox_title_id": 1726988419,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.32418.14119486704236036.abde8f1d-835f-498a-a443-5a7c4d6c7932.8d3deadc-c733-456f-970d-8b3f90a5e322",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-03T01:04:45Z",
+      "last_changed_at": "2026-11-03T01:04:45Z",
+      "added_at": "2026-11-03T01:04:45Z",
+      "removed_at": null
+    },
+    {
       "id": "GREATGODGROVE",
       "title": "Great God Grove",
       "streamable": true,
@@ -53063,7 +53100,7 @@
       "developer": "San Diego Studio",
       "base_product_id": "9NRLSFM01XTP",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.36760.14385377751056556.b21271e4-6ff2-4c53-94f5-77489a0bd899.adedd3ca-244b-4459-acd2-ec745762f004",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61132.14385377751056556.27ed2b56-7626-4e75-a0b6-81774b99f9ad.e99e21af-5471-4a02-9947-3a622405377b",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -64456,7 +64493,7 @@
         "starter": "included",
         "ultimate": "included"
       },
-      "publisher": "Square Enix Ltd.",
+      "publisher": "FuturLab Limited",
       "developer": "FuturLab Limited",
       "base_product_id": "9NHDJC0NW20M",
       "xbox_title_id": 1825113946,
@@ -99997,5 +100034,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-02T16:02:50Z"
+  "generated_at": "2026-11-03T01:04:45Z"
 }
