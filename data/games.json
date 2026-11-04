@@ -7160,18 +7160,11 @@
         "9PK087LNGJC5"
       ],
       "xcloud_title_id": "BALATRO",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Playstack Ltd",
@@ -7184,7 +7177,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -7308,18 +7301,11 @@
         "9MWXF3SRD7QN"
       ],
       "xcloud_title_id": "BALLXPIT",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Devolver Digital",
@@ -7332,7 +7318,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-08-04T14:44:42Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -10474,25 +10460,18 @@
     {
       "id": "BLUEYSHAPPYSNAPS",
       "title": "Bluey's Happy Snaps",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NQVHHW88XW9"
       ],
       "xcloud_title_id": "BLUEYSHAPPYSNAPS",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
-        "premium": "purchase",
-        "starter": "purchase",
-        "ultimate": "purchase"
+        "essential": "unavailable",
+        "premium": "unavailable",
+        "starter": "unavailable",
+        "ultimate": "unavailable"
       },
       "publisher": "Gameloft",
       "developer": "Gameloft",
@@ -10504,9 +10483,9 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-10-15T11:37:42Z",
-      "last_changed_at": "2026-10-15T11:37:42Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": "2026-10-15T11:37:42Z",
-      "removed_at": null
+      "removed_at": "2026-11-04T06:29:38Z"
     },
     {
       "id": "BLUEYSQUESTFORTHEGOLDPEN",
@@ -11438,18 +11417,11 @@
         "BRT1K9FV4LRR"
       ],
       "xcloud_title_id": "BROKENAGE",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "JULIET",
-        "TRITON"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Double Fine Productions",
@@ -11462,7 +11434,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -11623,18 +11595,11 @@
         "9P9VNSQK1W3K"
       ],
       "xcloud_title_id": "BROTATO",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "JULIET",
-        "TRITON"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Seaven Studio",
@@ -11647,7 +11612,7 @@
       "price_formatted": "$4.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -36314,14 +36279,7 @@
         "9P8DL6W0JBB8"
       ],
       "xcloud_title_id": "HADES",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
         "essential": "included",
         "premium": "included",
@@ -36608,18 +36566,11 @@
         "BV0K9LMLQ9W5"
       ],
       "xcloud_title_id": "HALOSPARTANASSAULT",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
         "essential": "included",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Microsoft Studios",
@@ -36632,7 +36583,7 @@
       "price_formatted": "$4.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-11-03T23:29:13Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -43671,18 +43622,11 @@
         "9NM4WQ7TTH3J"
       ],
       "xcloud_title_id": "KABUTOPARK",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Seaven Studio",
@@ -43695,7 +43639,7 @@
       "price_formatted": "$5.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -44004,18 +43948,11 @@
         "9NCJWHHMVHR0"
       ],
       "xcloud_title_id": "KEEPER",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "JULIET",
-        "TRITON"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Xbox Game Studios",
@@ -44028,7 +43965,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-09-15T21:27:24Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -50205,18 +50142,11 @@
         "9N79TQTZTQQ4"
       ],
       "xcloud_title_id": "MARVELCOSMICINVASION",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "JULIET",
-        "TRITON"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Dotemu",
@@ -50229,7 +50159,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-09-15T21:27:24Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -53304,18 +53234,11 @@
         "9P8H220G3S4P"
       ],
       "xcloud_title_id": "MONOPOLY2024",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
-        "premium": "purchase",
-        "starter": "purchase",
+        "essential": "unavailable",
+        "premium": "unavailable",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Ubisoft",
@@ -53328,7 +53251,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-09-12T10:55:44Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -60274,14 +60197,7 @@
         "BVJLKDG2TX8H"
       ],
       "xcloud_title_id": "OVERCOOKED2",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
         "essential": "included",
         "premium": "included",
@@ -61754,12 +61670,7 @@
         "BNCZHKWRZ7BR"
       ],
       "xcloud_title_id": "PEGGLE2",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "IO",
-        "GANYMEDE"
-      ],
+      "programs": [],
       "tiers": {
         "essential": "unavailable",
         "premium": "unavailable",
@@ -61826,18 +61737,11 @@
         "9NX6K9HN4F4K"
       ],
       "xcloud_title_id": "PENTIMENT",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Xbox Game Studios",
@@ -61850,7 +61754,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -63519,12 +63423,7 @@
         "9PGSDFM3JD85"
       ],
       "xcloud_title_id": "PLANTSVSZOMBIESREPLANTED",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "IO",
-        "GANYMEDE"
-      ],
+      "programs": [],
       "tiers": {
         "essential": "unavailable",
         "premium": "unavailable",
@@ -88287,18 +88186,11 @@
         "9N034X5G08B7"
       ],
       "xcloud_title_id": "THEROYALWRIT",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Yogscast Games",
@@ -88311,7 +88203,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-09-10T04:50:20Z",
-      "last_changed_at": "2026-09-10T20:59:22Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": "2026-09-10T04:50:20Z",
       "removed_at": null
     },
@@ -92355,18 +92247,11 @@
         "BVCRSR6XSDW5"
       ],
       "xcloud_title_id": "TRIALSFUSION",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
-        "premium": "purchase",
-        "starter": "purchase",
+        "essential": "unavailable",
+        "premium": "unavailable",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Ubisoft Entertainment",
@@ -92379,7 +92264,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-09-12T04:42:16Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -92429,18 +92314,11 @@
         "BPPR6D5C2GLF"
       ],
       "xcloud_title_id": "TRIALSOFTHEBLOODDRAGON",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
-        "premium": "purchase",
-        "starter": "purchase",
+        "essential": "unavailable",
+        "premium": "unavailable",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Ubisoft Entertainment",
@@ -92453,7 +92331,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-09-14T05:03:12Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -93981,18 +93859,11 @@
         "BNSDHDK45KBR"
       ],
       "xcloud_title_id": "UNO",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
-        "premium": "purchase",
-        "starter": "purchase",
+        "essential": "unavailable",
+        "premium": "unavailable",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Ubisoft Entertainment",
@@ -94005,7 +93876,7 @@
       "price_formatted": "$9.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-09-12T10:55:44Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -94423,18 +94294,11 @@
         "9NMPVJ7TCFD0"
       ],
       "xcloud_title_id": "VAMPIRECRAWLERSTHETURBOWILDCARDFROMVAMPIRESURVIVORS",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Poncle Limited",
@@ -94447,7 +94311,7 @@
       "price_formatted": "$9.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-11-03T23:29:13Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -94497,14 +94361,7 @@
         "9PD5BM2Z8C4L"
       ],
       "xcloud_title_id": "VAMPIRESURVIVORS",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
         "essential": "included",
         "premium": "included",
@@ -98085,18 +97942,11 @@
         "9ND3HTTQ0GKB"
       ],
       "xcloud_title_id": "WINTERBURROW",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
-        "essential": "purchase",
+        "essential": "unavailable",
         "premium": "included",
-        "starter": "purchase",
+        "starter": "unavailable",
         "ultimate": "included"
       },
       "publisher": "Noodlecake",
@@ -98109,7 +97959,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-04T06:29:38Z",
       "added_at": null,
       "removed_at": null
     },
@@ -99010,14 +98860,7 @@
         "BRJNRZ9N734V"
       ],
       "xcloud_title_id": "WRECKFEST",
-      "programs": [
-        "GPULTIMATE",
-        "CALLISTO",
-        "DIA",
-        "EUROPA",
-        "TRITON",
-        "FERDINAND"
-      ],
+      "programs": [],
       "tiers": {
         "essential": "included",
         "premium": "included",
@@ -100182,5 +100025,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-03T23:29:13Z"
+  "generated_at": "2026-11-04T06:29:38Z"
 }
