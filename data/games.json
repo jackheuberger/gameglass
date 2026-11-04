@@ -1,5 +1,5 @@
 {
-  "count": 2713,
+  "count": 2717,
   "market": "US",
   "games": [
     {
@@ -38476,6 +38476,43 @@
       "removed_at": null
     },
     {
+      "id": "HIDDENCATSINBEIJING",
+      "title": "Hidden Cats in Beijing",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MXS90V0RHTV"
+      ],
+      "xcloud_title_id": "HIDDENCATSINBEIJING",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Silesia Games Sp. z o.o.",
+      "developer": "Nukearts Studio",
+      "base_product_id": "9MXS90V0RHTV",
+      "xbox_title_id": 1715407501,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40491.13888657806990507.f0c734c7-b0dd-4d2c-92f9-8cb951493f60.89de2d84-f8ea-4b9e-8d9e-3bac21664c0d",
+      "is_free": false,
+      "price_value": 3.99,
+      "price_formatted": "$3.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-04T19:51:26Z",
+      "last_changed_at": "2026-11-04T19:51:26Z",
+      "added_at": "2026-11-04T19:51:26Z",
+      "removed_at": null
+    },
+    {
       "id": "HIDDENCATSINCHRISTMAS",
       "title": "Hidden Cats in Christmas",
       "streamable": true,
@@ -47674,7 +47711,7 @@
     },
     {
       "id": "LIGHTYEARFRONTIERGAMEPREVIEW",
-      "title": "Lightyear Frontier (Game Preview)",
+      "title": "Lightyear Frontier",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -47699,7 +47736,7 @@
       "developer": "FRAME BREAK",
       "base_product_id": "9NDX2927SND9",
       "xbox_title_id": 1771989345,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.57362.13610342535970070.fb34dfda-5ccd-4768-9a7b-0f0c468853e1.7b1adc26-e416-4946-ad25-ecb5667cb4f8",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.14757.13610342535970070.89680836-f408-41ec-a6bf-8994f5dc4f4a.72cba421-da3d-4ad9-abeb-3ccb5da20ad7",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -60038,6 +60075,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "OUTBREAKDEADCITY",
+      "title": "Outbreak: Dead City",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P31X50D793N"
+      ],
+      "xcloud_title_id": "OUTBREAKDEADCITY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Eastasiasoft Limited",
+      "developer": "Eastasiasoft Limited, ScrapGear Studio",
+      "base_product_id": "9P31X50D793N",
+      "xbox_title_id": 1944174900,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.15392.14551361956905021.c58c6ada-c413-4bae-ae30-761d39d6465c.c32aed83-4e43-42f5-8a56-581fd259286a",
+      "is_free": false,
+      "price_value": 6.99,
+      "price_formatted": "$6.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-04T19:51:26Z",
+      "last_changed_at": "2026-11-04T19:51:26Z",
+      "added_at": "2026-11-04T19:51:26Z",
       "removed_at": null
     },
     {
@@ -75686,6 +75760,43 @@
       "removed_at": null
     },
     {
+      "id": "SOLOLEVELINGARISEOVERDRIVE",
+      "title": "Solo Leveling: ARISE OVERDRIVE",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MVHCQ7CJX01"
+      ],
+      "xcloud_title_id": "SOLOLEVELINGARISEOVERDRIVE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Netmarble",
+      "developer": "Netmarble Neo",
+      "base_product_id": "9MVHCQ7CJX01",
+      "xbox_title_id": 1732062836,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.58106.13858861137035174.76da8517-7719-4de0-80ab-40e09a2e1aab.e676c490-5d1c-4ecf-83d2-f367b95b9496",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-04T19:51:26Z",
+      "last_changed_at": "2026-11-04T19:51:26Z",
+      "added_at": "2026-11-04T19:51:26Z",
+      "removed_at": null
+    },
+    {
       "id": "SOMA",
       "title": "SOMA",
       "streamable": true,
@@ -84660,6 +84771,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "THEENDOFTHESUN",
+      "title": "The End of the Sun",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P0Q2XX2D358"
+      ],
+      "xcloud_title_id": "THEENDOFTHESUN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "The End of the Sun Forge",
+      "developer": "The End of the Sun Forge",
+      "base_product_id": "9P0Q2XX2D358",
+      "xbox_title_id": 1912821726,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.65322.14526573739430925.76bc7a20-cd90-4ac9-b32b-94dabd89f870.b681a1ef-9f24-4293-a72c-7b40431019bf",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-04T19:51:26Z",
+      "last_changed_at": "2026-11-04T19:51:26Z",
+      "added_at": "2026-11-04T19:51:26Z",
       "removed_at": null
     },
     {
@@ -100025,5 +100173,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-04T06:29:38Z"
+  "generated_at": "2026-11-04T19:51:26Z"
 }
