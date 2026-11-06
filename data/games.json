@@ -1,5 +1,5 @@
 {
-  "count": 2728,
+  "count": 2732,
   "market": "US",
   "games": [
     {
@@ -29,7 +29,7 @@
       "developer": "IO Interactive A/S",
       "base_product_id": "9NPF9F0DCVKS",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.20065.13724632036791617.086e1bc5-355e-4b9b-91c7-b65e54fb7cbc.a2c264ea-6cdd-48db-a78c-f5d2d40db7e0",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.53505.13724632036791617.94470ebb-6db3-4705-a943-9a4f31086ab1.5cb2327c-5099-452e-bb11-f7deebe309a4",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -22921,6 +22921,43 @@
       "removed_at": null
     },
     {
+      "id": "DONTBEAFRAID2ESCAPETHENIGHTMARE",
+      "title": "Dont be Afraid 2: Escape the Nightmare",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NQGC6Q0D00H"
+      ],
+      "xcloud_title_id": "DONTBEAFRAID2ESCAPETHENIGHTMARE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Drageus Games S.A.",
+      "developer": "Eneida Games",
+      "base_product_id": "9NQGC6Q0D00H",
+      "xbox_title_id": 1808749508,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.31365.13774553765993864.600d3ed5-6c91-43f0-a3b4-34388d4bbeb8.d837ef21-eab5-44a4-9e49-f43302e5fe6a",
+      "is_free": false,
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-06T19:30:34Z",
+      "last_changed_at": "2026-11-06T19:30:34Z",
+      "added_at": "2026-11-06T19:30:34Z",
+      "removed_at": null
+    },
+    {
       "id": "DONTLETHIMIN",
       "title": "Don't let him in",
       "streamable": true,
@@ -30135,13 +30172,14 @@
     },
     {
       "id": "FINALFANTASYRESONANCE",
-      "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition",
+      "title": "FINAL FANTASY RESONANCE",
       "streamable": true,
       "market": "US",
       "product_ids": [
         "9NNCPRH9VWG4",
         "9P44MG3WG8R2",
-        "9NBZXKNX8XKZ"
+        "9NBZXKNX8XKZ",
+        "9N8JS091F5G0"
       ],
       "xcloud_title_id": "FINALFANTASYRESONANCE",
       "programs": [
@@ -30159,16 +30197,16 @@
         "ultimate": "purchase"
       },
       "publisher": "SQUARE ENIX CO., LTD.",
-      "developer": "",
-      "base_product_id": "9NBZXKNX8XKZ",
-      "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.55564.13574020019323820.bd5edb71-8d6f-47ab-bfd9-6a6c912bf5f6.f2219363-6a98-4ad8-b898-d91c114d4118",
+      "developer": "SQUARE ENIX CO., LTD.",
+      "base_product_id": "9N8JS091F5G0",
+      "xbox_title_id": 2052034875,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.25031.14043885406095911.cf9e719c-5135-42b3-bc81-16c7e3a9f396.7a953998-5927-4125-ba9c-3592b83ecdbf",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 49.99,
+      "price_formatted": "$49.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-10-21T21:46:12Z",
-      "last_changed_at": "2026-11-06T06:53:38Z",
+      "last_changed_at": "2026-11-06T19:30:34Z",
       "added_at": "2026-10-22T11:58:46Z",
       "removed_at": null
     },
@@ -37415,6 +37453,43 @@
       "removed_at": null
     },
     {
+      "id": "HASBROGAMESJUNIORCOLLECTION",
+      "title": "Hasbro Games™ Junior Collection",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P2HGWB65VCX"
+      ],
+      "xcloud_title_id": "HASBROGAMESJUNIORCOLLECTION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Outright Games Ltd.",
+      "developer": "Casual Brothers Limited.",
+      "base_product_id": "9P2HGWB65VCX",
+      "xbox_title_id": 1842215585,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28349.14557751435461473.ba47696a-d5af-4320-95ee-7bc0069002fb.ae1f171e-c0e6-41fe-99df-86461e7e5fee",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-06T19:30:34Z",
+      "last_changed_at": "2026-11-06T19:30:34Z",
+      "added_at": "2026-11-06T19:30:34Z",
+      "removed_at": null
+    },
+    {
       "id": "HATSUNEMIKUJIGSAWPUZZLE",
       "title": "Hatsune Miku Jigsaw Puzzle",
       "streamable": true,
@@ -41004,6 +41079,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "ICECREAMSIMULATOR",
+      "title": "Ice Cream Simulator",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N2QMT5KJ917"
+      ],
+      "xcloud_title_id": "ICECREAMSIMULATOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PlayWay S.A.",
+      "developer": "AM Playhouse / Console Labs S.A.",
+      "base_product_id": "9N2QMT5KJ917",
+      "xbox_title_id": 1893089731,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13822.13947066138278174.f92a0b6c-30ed-4733-ae00-634af916aac3.8926c62a-0900-41ca-9fb8-09bb5822fc16",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-06T19:30:34Z",
+      "last_changed_at": "2026-11-06T19:30:34Z",
+      "added_at": "2026-11-06T19:30:34Z",
       "removed_at": null
     },
     {
@@ -76339,6 +76451,43 @@
       "removed_at": null
     },
     {
+      "id": "SORAOASISTREASURES",
+      "title": "Sora - Oasis Treasures",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NFZQ95J7VGK"
+      ],
+      "xcloud_title_id": "SORAOASISTREASURES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "EpiXR Games",
+      "developer": "EpiXR Games",
+      "base_product_id": "9NFZQ95J7VGK",
+      "xbox_title_id": 1687952395,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64084.13589498469833058.f179e442-0157-4652-8c39-9f53ebb24e08.f13e3b01-d5bb-4052-8556-9f06c85c69e2",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-06T19:30:34Z",
+      "last_changed_at": "2026-11-06T19:30:34Z",
+      "added_at": "2026-11-06T19:30:34Z",
+      "removed_at": null
+    },
+    {
       "id": "SOULSTALKER",
       "title": "Soul Stalker",
       "streamable": true,
@@ -100734,5 +100883,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-06T06:53:38Z"
+  "generated_at": "2026-11-06T19:30:34Z"
 }
