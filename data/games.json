@@ -1,5 +1,5 @@
 {
-  "count": 2726,
+  "count": 2728,
   "market": "US",
   "games": [
     {
@@ -12784,7 +12784,7 @@
       "developer": "",
       "base_product_id": "9N201KQXS5BM",
       "xbox_title_id": 2001700854,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.11273.13966330883349940.086b5b1f-f39e-4568-98a0-f4528f85932f.2df3a6db-8767-4cac-af04-e845073a12c1",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.312.13966330883349940.ea4c8e39-62bf-45d5-8085-e5dbfc0e12df.fb7f5ffd-df2e-452c-9f6f-d14f9a6ec85a",
       "is_free": false,
       "price_value": null,
       "price_formatted": null,
@@ -13902,6 +13902,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "CATPRESIDENT2PURRLITICALREVOLUTION",
+      "title": "Cat President 2: Purrlitical Revolution",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P871PDRCGL8"
+      ],
+      "xcloud_title_id": "CATPRESIDENT2PURRLITICALREVOLUTION",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Penguin Pop Games LLC",
+      "developer": "Oh, a Rock! Studios",
+      "base_product_id": "9P871PDRCGL8",
+      "xbox_title_id": 1976709771,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.43878.14093071294032467.8cb62fa3-8512-437d-ab09-df7367bc9df4.c80964b9-3162-4501-9d64-973b5682649b",
+      "is_free": false,
+      "price_value": 8.99,
+      "price_formatted": "$8.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-06T06:53:38Z",
+      "last_changed_at": "2026-11-06T06:53:38Z",
+      "added_at": "2026-11-06T06:53:38Z",
       "removed_at": null
     },
     {
@@ -22255,7 +22292,7 @@
     },
     {
       "id": "DISNEYPIXARTOYSTORY3COMPLETEEDITION",
-      "title": "Disney/Pixar Toy Story 3 Complete Edition",
+      "title": "Disney•Pixar Toy Story 3 Complete Edition",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -22292,7 +22329,7 @@
     },
     {
       "id": "DISNEYPIXARTOYSTORYRETROROUNDUP",
-      "title": "Disney/Pixar Toy Story: Retro Roundup!",
+      "title": "Disney•Pixar Toy Story: Retro Roundup!",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -22844,6 +22881,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "DOMINUSGLADIATUS",
+      "title": "Dominus Gladiatus",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N2LXTNZC05C"
+      ],
+      "xcloud_title_id": "DOMINUSGLADIATUS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Brain Seal Ltd",
+      "developer": "Brain Seal Ltd",
+      "base_product_id": "9N2LXTNZC05C",
+      "xbox_title_id": 1996107937,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61538.13954130821121854.6cc4584e-1838-45d9-b6a2-7485d6e4751c.13c5a101-4465-42a7-993f-2fca1a00b16b",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-06T06:53:38Z",
+      "last_changed_at": "2026-11-06T06:53:38Z",
+      "added_at": "2026-11-06T06:53:38Z",
       "removed_at": null
     },
     {
@@ -30061,12 +30135,13 @@
     },
     {
       "id": "FINALFANTASYRESONANCE",
-      "title": "FINAL FANTASY RESONANCE",
+      "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition",
       "streamable": true,
       "market": "US",
       "product_ids": [
         "9NNCPRH9VWG4",
-        "9P44MG3WG8R2"
+        "9P44MG3WG8R2",
+        "9NBZXKNX8XKZ"
       ],
       "xcloud_title_id": "FINALFANTASYRESONANCE",
       "programs": [
@@ -30085,15 +30160,15 @@
       },
       "publisher": "SQUARE ENIX CO., LTD.",
       "developer": "",
-      "base_product_id": "9P44MG3WG8R2",
+      "base_product_id": "9NBZXKNX8XKZ",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.25031.14600303949530579.491adf55-bcd2-4dea-9e40-f1aef1b2af1b.721282ca-4c17-4b1b-8765-9a84e5948a7c",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55564.13574020019323820.bd5edb71-8d6f-47ab-bfd9-6a6c912bf5f6.f2219363-6a98-4ad8-b898-d91c114d4118",
       "is_free": false,
-      "price_value": 49.99,
-      "price_formatted": "$49.99",
-      "price_currency": "USD",
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
       "first_seen_at": "2026-10-21T21:46:12Z",
-      "last_changed_at": "2026-10-22T11:58:46Z",
+      "last_changed_at": "2026-11-06T06:53:38Z",
       "added_at": "2026-10-22T11:58:46Z",
       "removed_at": null
     },
@@ -100659,5 +100734,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-05T20:05:35Z"
+  "generated_at": "2026-11-06T06:53:38Z"
 }
