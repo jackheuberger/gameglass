@@ -1,5 +1,5 @@
 {
-  "count": 2732,
+  "count": 2735,
   "market": "US",
   "games": [
     {
@@ -22921,6 +22921,43 @@
       "removed_at": null
     },
     {
+      "id": "DONBRADMANCRICKETJR",
+      "title": "Don Bradman Cricket JR",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P98BGLBM4G6"
+      ],
+      "xcloud_title_id": "DONBRADMANCRICKETJR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Home Entertainment Suppliers Pty Ltd",
+      "developer": "Home Entertainment Suppliers P/L",
+      "base_product_id": "9P98BGLBM4G6",
+      "xbox_title_id": 2032439216,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.21315.14077316225317861.94affa95-df74-48c2-b340-73f74cc12bb8.c3bcb269-a8b7-4dac-b37a-76de65f08302",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-07T06:04:46Z",
+      "last_changed_at": "2026-11-07T06:04:46Z",
+      "added_at": "2026-11-07T06:04:46Z",
+      "removed_at": null
+    },
+    {
       "id": "DONTBEAFRAID2ESCAPETHENIGHTMARE",
       "title": "Dont be Afraid 2: Escape the Nightmare",
       "streamable": true,
@@ -34534,6 +34571,43 @@
       "removed_at": null
     },
     {
+      "id": "GODZILLADESTROYALLMONSTERSMELEEREMASTERED",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P8Q9HV5X96Q"
+      ],
+      "xcloud_title_id": "GODZILLADESTROYALLMONSTERSMELEEREMASTERED",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Atari",
+      "developer": "Pipeworks Studios",
+      "base_product_id": "9P8Q9HV5X96Q",
+      "xbox_title_id": 1792200354,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.8795.14083162912735929.cd39c163-9a9a-437c-8685-6b790b6e4b9a.ee8dec86-1fe2-489d-b4ae-4f95d3c0d08f",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-07T06:04:46Z",
+      "last_changed_at": "2026-11-07T06:04:46Z",
+      "added_at": "2026-11-07T06:04:46Z",
+      "removed_at": null
+    },
+    {
       "id": "GOETIA",
       "title": "Goetia",
       "streamable": true,
@@ -45327,6 +45401,43 @@
       "first_seen_at": "2026-08-31T05:44:20Z",
       "last_changed_at": "2026-08-31T05:44:20Z",
       "added_at": "2026-08-31T05:44:20Z",
+      "removed_at": null
+    },
+    {
+      "id": "KINGDOMOFNIGHT",
+      "title": "Kingdom of Night",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NBPJ9VF6WQ9"
+      ],
+      "xcloud_title_id": "KINGDOMOFNIGHT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "DANGEN Entertainment",
+      "developer": "Friends of Safety",
+      "base_product_id": "9NBPJ9VF6WQ9",
+      "xbox_title_id": 1893342349,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.50994.13513497502918222.a5e98a6a-5950-4aa6-b4c2-642ab9bef851.80ab301e-76fb-40fd-8ae2-1bb72a23a96a",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-07T06:04:46Z",
+      "last_changed_at": "2026-11-07T06:04:46Z",
+      "added_at": "2026-11-07T06:04:46Z",
       "removed_at": null
     },
     {
@@ -100883,5 +100994,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-06T19:30:34Z"
+  "generated_at": "2026-11-07T06:04:46Z"
 }
