@@ -5301,11 +5301,12 @@
     },
     {
       "id": "ASSASSINSCREEDBLACKFLAGRESYNCED",
-      "title": "Assassin's Creed Black Flag Resynced Deluxe Edition",
+      "title": "Assassin's Creed Black Flag Resynced",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9N57PMNM3F55"
+        "9N57PMNM3F55",
+        "9MXQ1PFK7NC0"
       ],
       "xcloud_title_id": "ASSASSINSCREEDBLACKFLAGRESYNCED",
       "programs": [
@@ -5324,15 +5325,15 @@
       },
       "publisher": "Ubisoft",
       "developer": "",
-      "base_product_id": "9N57PMNM3F55",
+      "base_product_id": "9MXQ1PFK7NC0",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.19884.13968428294873536.e5281c0f-8823-4c6a-bff5-d25bd8c68e21.5e2ee01d-1784-4c25-a81c-ebfaaf6edcdc",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.6940.13885697713732469.57172206-9624-44ae-9aab-e4d08a8b3212.e86934e8-847b-4baa-b0ad-3365776cc4e7",
       "is_free": false,
-      "price_value": 69.99,
-      "price_formatted": "$69.99",
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-09T22:26:48Z",
       "added_at": null,
       "removed_at": null
     },
@@ -31688,11 +31689,12 @@
     },
     {
       "id": "FORHONOR",
-      "title": "FOR HONOR",
+      "title": "FOR HONOR - Standard Edition",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "C3HQKX3B35PD"
+        "C3HQKX3B35PD",
+        "9N3DWR830CVN"
       ],
       "xcloud_title_id": "FORHONOR",
       "programs": [
@@ -31710,16 +31712,16 @@
         "ultimate": "included"
       },
       "publisher": "Ubisoft",
-      "developer": "Ubisoft Montreal",
-      "base_product_id": "C3HQKX3B35PD",
-      "xbox_title_id": 1198088771,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.13935.66061984908082265.523575e6-0782-4164-9c8b-5895fae0535a.efd9a21f-995e-4c8d-8d18-d90d1e793734",
+      "developer": "",
+      "base_product_id": "9N3DWR830CVN",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13935.13933975769179739.099ec08e-87f6-4b06-8d84-405337bde6c6.abbbdd32-4df6-45fe-8f60-f0fa3cef6540",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-09T22:26:48Z",
       "added_at": null,
       "removed_at": null
     },
@@ -67169,11 +67171,12 @@
     },
     {
       "id": "RAINBOWSIXSIEGE",
-      "title": "Tom Clancy's Rainbow Six Siege",
+      "title": "Tom Clancy's Rainbow Six Siege - Elite Edition",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "C12T09DSVP8J"
+        "C12T09DSVP8J",
+        "9PB3RHWXB9MR"
       ],
       "xcloud_title_id": "RAINBOWSIXSIEGE",
       "programs": [
@@ -67192,15 +67195,15 @@
       },
       "publisher": "Ubisoft",
       "developer": "",
-      "base_product_id": "C12T09DSVP8J",
-      "xbox_title_id": 926771636,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
+      "base_product_id": "9PB3RHWXB9MR",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.61253.14130689193256226.8d62f3e9-9ac5-4676-92a5-ea70272f517c.c2f90d31-bea5-43f1-a34c-8099cdfb2ae7",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-09T22:26:48Z",
       "added_at": null,
       "removed_at": null
     },
@@ -69060,7 +69063,8 @@
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9PGCV2NVXCHL"
+        "9PGCV2NVXCHL",
+        "9P1RPXHWZ1C7"
       ],
       "xcloud_title_id": "RIDERSREPUBLIC",
       "programs": [
@@ -69079,15 +69083,15 @@
       },
       "publisher": "UBISOFT",
       "developer": "UBISOFT ANNECY",
-      "base_product_id": "9PGCV2NVXCHL",
-      "xbox_title_id": 1779135141,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.33293.14187388825692711.17e36076-5c2f-42ad-8117-a45a0682ffa1.4e79634b-4959-4f72-a56b-43dfebf2529b",
+      "base_product_id": "9P1RPXHWZ1C7",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.33293.14501696194323418.a10bcd38-e545-4ad0-af0a-a77518bae589.f512d56c-e1e4-4ef6-a29c-1e2e33e7aa35",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-09T22:26:48Z",
       "added_at": null,
       "removed_at": null
     },
@@ -79447,7 +79451,8 @@
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9P87S3NP6SR2"
+        "9P87S3NP6SR2",
+        "9NLHVWSFB0FC"
       ],
       "xcloud_title_id": "STARWARSOUTLAWS",
       "programs": [
@@ -79466,15 +79471,15 @@
       },
       "publisher": "UBISOFT",
       "developer": "MASSIVE ENTERTAINMENT",
-      "base_product_id": "9P87S3NP6SR2",
-      "xbox_title_id": 2019012309,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.19000.14092857068341011.87382aa9-ecf1-4458-9992-3a4a33d440e4.325edc37-3621-45a9-a09e-33ec8b1088b1",
+      "base_product_id": "9NLHVWSFB0FC",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.19000.13711651873119158.1a058dbc-68af-4f81-9ab6-0a2eca979392.77fc140a-9ce6-4710-a4d4-a09acd63a760",
       "is_free": false,
-      "price_value": null,
-      "price_formatted": null,
-      "price_currency": null,
+      "price_value": 69.99,
+      "price_formatted": "$69.99",
+      "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-09-12T10:55:44Z",
+      "last_changed_at": "2026-11-09T22:26:48Z",
       "added_at": null,
       "removed_at": null
     },
@@ -90300,7 +90305,7 @@
       "developer": "CD PROJEKT RED",
       "base_product_id": "C261457LCNMJ",
       "xbox_title_id": 530462567,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.34615.65858607118306853.fbb50b59-ac60-4f64-9908-5f89de905ebd.6462cfd3-2fd9-47c1-8183-806ee4c9f426",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.56518.65858607118306853.9d88c0ab-61bd-406b-909b-8e70d50db8ad.6b42cbb3-4e96-419a-9329-33c99480aa8d",
       "is_free": false,
       "price_value": 49.99,
       "price_formatted": "$49.99",
@@ -100994,5 +100999,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-09T06:39:01Z"
+  "generated_at": "2026-11-09T22:26:48Z"
 }
