@@ -5227,3 +5227,7 @@
 {"kind":"price_changed","new_value":"$69.99","detail":"Star Wars Outlaws","xcloud_title_id":"STARWARSOUTLAWS","run_id":394,"old_value":null,"tier_key":null,"game_id":"STARWARSOUTLAWS","occurred_at":"2026-11-09T22:26:48Z"}
 {"kind":"price_changed","new_value":"$29.99","detail":"FOR HONOR","xcloud_title_id":"FORHONOR","run_id":394,"old_value":null,"tier_key":null,"game_id":"FORHONOR","occurred_at":"2026-11-09T22:26:48Z"}
 {"kind":"price_changed","new_value":"$0.00","detail":"007 First Light - Standard Edition","xcloud_title_id":"007FIRSTLIGHT","run_id":395,"old_value":"$69.99","tier_key":null,"game_id":"007FIRSTLIGHT","occurred_at":"2026-11-10T07:24:15Z"}
+{"kind":"game_added","new_value":null,"detail":"RACCOIN: Chaos Max Edition","xcloud_title_id":"RACCOIN","run_id":396,"old_value":null,"tier_key":null,"game_id":"RACCOIN","occurred_at":"2026-11-10T19:50:05Z"}
+{"kind":"game_added","new_value":null,"detail":"TANUKI: Pon's Summer","xcloud_title_id":"TANUKIPONSSUMMER","run_id":396,"old_value":null,"tier_key":null,"game_id":"TANUKIPONSSUMMER","occurred_at":"2026-11-10T19:50:05Z"}
+{"kind":"game_added","new_value":null,"detail":"Football Manager 27 Console","xcloud_title_id":"FOOTBALLMANAGER27CONSOLE","run_id":396,"old_value":null,"tier_key":null,"game_id":"FOOTBALLMANAGER27CONSOLE","occurred_at":"2026-11-10T19:50:05Z"}
+{"kind":"game_added","new_value":null,"detail":"Warhammer Survivors","xcloud_title_id":"WARHAMMERSURVIVORS","run_id":396,"old_value":null,"tier_key":null,"game_id":"WARHAMMERSURVIVORS","occurred_at":"2026-11-10T19:50:05Z"}

@@ -1,5 +1,5 @@
 {
-  "count": 2735,
+  "count": 2739,
   "market": "US",
   "games": [
     {
@@ -21871,7 +21871,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "Supermassive Games",
+      "publisher": "Avalanche Studios",
       "developer": "Supermassive Games",
       "base_product_id": "9PF9QDH98K8L",
       "xbox_title_id": 2131786732,
@@ -31427,6 +31427,41 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "FOOTBALLMANAGER27CONSOLE",
+      "title": "Football Manager 27 Console",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N5DDTDLTWCL"
+      ],
+      "xcloud_title_id": "FOOTBALLMANAGER27CONSOLE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "IO",
+        "GANYMEDE"
+      ],
+      "tiers": {
+        "essential": "unavailable",
+        "premium": "unavailable",
+        "starter": "unavailable",
+        "ultimate": "purchase"
+      },
+      "publisher": "SEGA",
+      "developer": "Sports Interactive",
+      "base_product_id": "9N5DDTDLTWCL",
+      "xbox_title_id": 2142328264,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.33744.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.a6635f9e-4fc6-4105-a669-f6e7ab458745",
+      "is_free": false,
+      "price_value": 59.99,
+      "price_formatted": "$59.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-10T19:50:05Z",
+      "last_changed_at": "2026-11-10T19:50:05Z",
+      "added_at": "2026-11-10T19:50:05Z",
       "removed_at": null
     },
     {
@@ -53253,7 +53288,7 @@
       "developer": "Bellring Games",
       "base_product_id": "9P8X6TVW9ZW8",
       "xbox_title_id": 1890326099,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.39397.14079456565345641.e3e3713f-53d2-4829-9bd5-395a291216ac.ebc9df1e-40f7-48ac-bc52-e91dfb954e0c",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.60616.14079456565345641.6e8f7d58-d469-40c4-827b-64e8dcbdeb18.649d065d-8d1e-4172-a63c-688e15440332",
       "is_free": false,
       "price_value": 24.99,
       "price_formatted": "$24.99",
@@ -66576,6 +66611,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-09-12T04:42:16Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "RACCOIN",
+      "title": "RACCOIN: Chaos Max Edition",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NJ30NMVK83T"
+      ],
+      "xcloud_title_id": "RACCOIN",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Playstack",
+      "developer": "Doraccoon",
+      "base_product_id": "9NJ30NMVK83T",
+      "xbox_title_id": 2079665144,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.15151.13684319055484844.8575e4ac-00c1-4b8a-9593-608024733b2b.4a643233-1049-4de7-93f7-35278ecbda55",
+      "is_free": false,
+      "price_value": 11.99,
+      "price_formatted": "$11.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-10T19:50:05Z",
+      "last_changed_at": "2026-11-10T19:50:05Z",
+      "added_at": "2026-11-10T19:50:05Z",
       "removed_at": null
     },
     {
@@ -82918,6 +82990,43 @@
       "removed_at": null
     },
     {
+      "id": "TANUKIPONSSUMMER",
+      "title": "TANUKI: Pon's Summer",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NRBW3FJSJWT"
+      ],
+      "xcloud_title_id": "TANUKIPONSSUMMER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "CRITICAL REFLEX",
+      "developer": "Denkiworks",
+      "base_product_id": "9NRBW3FJSJWT",
+      "xbox_title_id": 1851446439,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5597.14390224744653316.b8cfc87d-5763-4e3b-9506-f6dc3b4f7735.c62f7baf-6fb0-4691-914a-f85f838774bc",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-10T19:50:05Z",
+      "last_changed_at": "2026-11-10T19:50:05Z",
+      "added_at": "2026-11-10T19:50:05Z",
+      "removed_at": null
+    },
+    {
       "id": "TARDY",
       "title": "Tardy",
       "streamable": true,
@@ -96973,6 +97082,43 @@
       "removed_at": null
     },
     {
+      "id": "WARHAMMERSURVIVORS",
+      "title": "Warhammer Survivors",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9MZZWGTF7V65"
+      ],
+      "xcloud_title_id": "WARHAMMERSURVIVORS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Auroch Digital",
+      "developer": "Auroch Digital",
+      "base_product_id": "9MZZWGTF7V65",
+      "xbox_title_id": 1818012761,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.56080.13865289401901694.ec4fd4fe-95aa-4110-a6b3-96d9a78df1a3.b7bfa857-2471-4c28-b1ec-fc0e0dfc91c2",
+      "is_free": false,
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-10T19:50:05Z",
+      "last_changed_at": "2026-11-10T19:50:05Z",
+      "added_at": "2026-11-10T19:50:05Z",
+      "removed_at": null
+    },
+    {
       "id": "WARHAMMERVERMINTIDE2",
       "title": "Warhammer: Vermintide 2",
       "streamable": true,
@@ -101000,5 +101146,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-10T07:24:15Z"
+  "generated_at": "2026-11-10T19:50:05Z"
 }
