@@ -4,11 +4,12 @@
   "games": [
     {
       "id": "007FIRSTLIGHT",
-      "title": "007 First Light - Standard Edition",
+      "title": "007 First Light - Free Starter Pack",
       "streamable": true,
       "market": "US",
       "product_ids": [
-        "9NPF9F0DCVKS"
+        "9NPF9F0DCVKS",
+        "9PL3KW681MSD"
       ],
       "xcloud_title_id": "007FIRSTLIGHT",
       "programs": [
@@ -27,15 +28,15 @@
       },
       "publisher": "IO Interactive A/S",
       "developer": "IO Interactive A/S",
-      "base_product_id": "9NPF9F0DCVKS",
+      "base_product_id": "9PL3KW681MSD",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.53505.13724632036791617.94470ebb-6db3-4705-a943-9a4f31086ab1.5cb2327c-5099-452e-bb11-f7deebe309a4",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.127.14250665590583623.131f1441-95cb-4c2b-ab16-94fc87cfdb7a.3dfa3eee-8d77-490c-8008-62613bf7bcc2",
       "is_free": false,
-      "price_value": 69.99,
-      "price_formatted": "$69.99",
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-10T07:24:15Z",
       "added_at": null,
       "removed_at": null
     },
@@ -100999,5 +101000,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-09T22:26:48Z"
+  "generated_at": "2026-11-10T07:24:15Z"
 }

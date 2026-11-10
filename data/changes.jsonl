@@ -5226,3 +5226,4 @@
 {"kind":"price_changed","new_value":"$59.99","detail":"Assassin's Creed Black Flag Resynced Deluxe Edition","xcloud_title_id":"ASSASSINSCREEDBLACKFLAGRESYNCED","run_id":394,"old_value":"$69.99","tier_key":null,"game_id":"ASSASSINSCREEDBLACKFLAGRESYNCED","occurred_at":"2026-11-09T22:26:48Z"}
 {"kind":"price_changed","new_value":"$69.99","detail":"Star Wars Outlaws","xcloud_title_id":"STARWARSOUTLAWS","run_id":394,"old_value":null,"tier_key":null,"game_id":"STARWARSOUTLAWS","occurred_at":"2026-11-09T22:26:48Z"}
 {"kind":"price_changed","new_value":"$29.99","detail":"FOR HONOR","xcloud_title_id":"FORHONOR","run_id":394,"old_value":null,"tier_key":null,"game_id":"FORHONOR","occurred_at":"2026-11-09T22:26:48Z"}
+{"kind":"price_changed","new_value":"$0.00","detail":"007 First Light - Standard Edition","xcloud_title_id":"007FIRSTLIGHT","run_id":395,"old_value":"$69.99","tier_key":null,"game_id":"007FIRSTLIGHT","occurred_at":"2026-11-10T07:24:15Z"}
