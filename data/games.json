@@ -1,5 +1,5 @@
 {
-  "count": 2740,
+  "count": 2743,
   "market": "US",
   "games": [
     {
@@ -31399,7 +31399,7 @@
     {
       "id": "FOOTBALLMANAGER26CONSOLE",
       "title": "Football Manager 26 Console",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NMNZ4CK59DM"
@@ -31425,9 +31425,9 @@
       "price_formatted": "$59.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-11T19:41:43Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-11-11T19:41:43Z"
     },
     {
       "id": "FOOTBALLMANAGER27CONSOLE",
@@ -31907,6 +31907,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "FORTNITE",
+      "title": "Fortnite",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BT5P2X999VH2"
+      ],
+      "xcloud_title_id": "FORTNITE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Epic Games Inc.",
+      "developer": "Epic Games Inc.",
+      "base_product_id": "BT5P2X999VH2",
+      "xbox_title_id": 267695549,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.31130.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.641ad74a-edd4-40c9-8049-3bb73387d09a",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-11T19:41:43Z",
+      "last_changed_at": "2026-11-11T19:41:43Z",
+      "added_at": "2026-11-11T19:41:43Z",
       "removed_at": null
     },
     {
@@ -39858,6 +39895,43 @@
       "first_seen_at": "2026-09-09T04:49:40Z",
       "last_changed_at": "2026-09-09T04:49:40Z",
       "added_at": "2026-09-09T04:49:40Z",
+      "removed_at": null
+    },
+    {
+      "id": "HOPEINTHECITY",
+      "title": "Hope in the City",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P1S707BPW6W"
+      ],
+      "xcloud_title_id": "HOPEINTHECITY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Lofty Sky Games and NAGA Games",
+      "developer": "Lofty Sky Games",
+      "base_product_id": "9P1S707BPW6W",
+      "xbox_title_id": 2005840241,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40080.14501332661010356.1878bbae-b86e-4579-a4ee-b6e5b6f9498a.231af6ac-8729-4c13-b3a2-c71f94a11a58",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-11T19:41:43Z",
+      "last_changed_at": "2026-11-11T19:41:43Z",
+      "added_at": "2026-11-11T19:41:43Z",
       "removed_at": null
     },
     {
@@ -90833,6 +90907,43 @@
       "removed_at": null
     },
     {
+      "id": "THRONEFALL",
+      "title": "Thronefall",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NWWL1CBWFCG"
+      ],
+      "xcloud_title_id": "THRONEFALL",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Mythwright",
+      "developer": "Mythwright",
+      "base_product_id": "9NWWL1CBWFCG",
+      "xbox_title_id": 1892395082,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.38294.14441309410256211.99377474-23f3-49c1-b8b5-99ac2efbc206.0c41e148-6992-4908-8660-d55bd70f3879",
+      "is_free": false,
+      "price_value": 12.99,
+      "price_formatted": "$12.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-11T19:41:43Z",
+      "last_changed_at": "2026-11-11T19:41:43Z",
+      "added_at": "2026-11-11T19:41:43Z",
+      "removed_at": null
+    },
+    {
       "id": "THROUGHTHEDARKESTOFTIMES",
       "title": "Through the Darkest of Times",
       "streamable": true,
@@ -97441,7 +97552,7 @@
       "developer": "Gaijin Distribution Kft",
       "base_product_id": "BX1DTCBD1HXJ",
       "xbox_title_id": 171869406,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.22630.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.c42b9272-8726-4fb6-b601-bc0ca73363a4",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28781.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.aa326692-8613-4caa-a624-b1e99e495e63",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -101183,5 +101294,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-11T06:28:19Z"
+  "generated_at": "2026-11-11T19:41:43Z"
 }
