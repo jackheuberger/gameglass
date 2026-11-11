@@ -1,5 +1,5 @@
 {
-  "count": 2739,
+  "count": 2740,
   "market": "US",
   "games": [
     {
@@ -4525,7 +4525,7 @@
     },
     {
       "id": "ARCADIAFINDTHEDIFFERENCES3D",
-      "title": "Arcadia: Find The Differences 3D",
+      "title": "Arcadia: Cloudbound",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -10681,7 +10681,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "Humble Games",
+      "publisher": "Balor Games",
       "developer": "Squid Shock Studios",
       "base_product_id": "9PKQ2DM2CFK3",
       "xbox_title_id": 1745314944,
@@ -94937,6 +94937,43 @@
       "removed_at": null
     },
     {
+      "id": "UNPETRIFIEDECHOESOFNATURE",
+      "title": "Unpetrified: Echoes of Nature",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P9H67VRGQCT"
+      ],
+      "xcloud_title_id": "UNPETRIFIEDECHOESOFNATURE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Mindscape",
+      "developer": "Dreamhunt Studio",
+      "base_product_id": "9P9H67VRGQCT",
+      "xbox_title_id": 1770798658,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.55868.14142841055312988.a53acdc3-91fb-40a5-8753-7994f6f488d7.cc06e879-6052-4ee1-b616-19882a1e102f",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-11T06:28:19Z",
+      "last_changed_at": "2026-11-11T06:28:19Z",
+      "added_at": "2026-11-11T06:28:19Z",
+      "removed_at": null
+    },
+    {
       "id": "UNRAVELTWO",
       "title": "Unravel Two",
       "streamable": true,
@@ -101146,5 +101183,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-10T19:50:05Z"
+  "generated_at": "2026-11-11T06:28:19Z"
 }
