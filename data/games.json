@@ -1,5 +1,5 @@
 {
-  "count": 2747,
+  "count": 2750,
   "market": "US",
   "games": [
     {
@@ -7783,6 +7783,43 @@
       "removed_at": null
     },
     {
+      "id": "BARBIEREWIND",
+      "title": "Barbie™ Rewind",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P86C87R0BQF"
+      ],
+      "xcloud_title_id": "BARBIEREWIND",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Atari",
+      "developer": "Digital Eclipse",
+      "base_product_id": "9P86C87R0BQF",
+      "xbox_title_id": 1963342407,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.7163.14097986027127742.e56ad221-9af7-4db6-8470-217c85e9d12f.f5fe8159-4e1f-4ad8-a2dd-2ad89276fcf7",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-12T20:02:53Z",
+      "last_changed_at": "2026-11-12T20:02:53Z",
+      "added_at": "2026-11-12T20:02:53Z",
+      "removed_at": null
+    },
+    {
       "id": "BARDSTALEIV",
       "title": "The Bard's Tale IV: Director's Cut",
       "streamable": true,
@@ -10705,10 +10742,12 @@
       ],
       "xcloud_title_id": "BORDERLANDS3",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -10740,10 +10779,12 @@
       ],
       "xcloud_title_id": "BORDERLANDS4",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -26765,11 +26806,11 @@
       "xbox_title_id": 1986172246,
       "image_url": "https://store-images.s-microsoft.com/image/apps.39186.13878882609359016.969616c1-c467-4c61-98d5-8f0d8079c574.db9aa77d-92bf-42fd-bea0-8cdf6c1c2223",
       "is_free": false,
-      "price_value": 19.99,
-      "price_formatted": "$19.99",
+      "price_value": 14.99,
+      "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-12T20:02:53Z",
       "added_at": null,
       "removed_at": null
     },
@@ -37898,6 +37939,43 @@
       "removed_at": null
     },
     {
+      "id": "HAZARDLEVELS",
+      "title": "Hazard Levels",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PL81G0BWGDL"
+      ],
+      "xcloud_title_id": "HAZARDLEVELS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Wales Interactive",
+      "developer": "Wales Interactive",
+      "base_product_id": "9PL81G0BWGDL",
+      "xbox_title_id": 1962387251,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30431.14251935469670557.27dc1ecf-941c-4e6e-bfac-73935ff464dd.19375585-a69c-4aff-b867-da9372ee7451",
+      "is_free": false,
+      "price_value": 12.99,
+      "price_formatted": "$12.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-12T20:02:53Z",
+      "last_changed_at": "2026-11-12T20:02:53Z",
+      "added_at": "2026-11-12T20:02:53Z",
+      "removed_at": null
+    },
+    {
       "id": "HEADBANGERSRHYTHMROYALE",
       "title": "Headbangers: Rhythm Royale",
       "streamable": true,
@@ -45094,11 +45172,11 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "Xbox Game Studios",
+      "publisher": "Double Fine Productions",
       "developer": "Double Fine Productions",
       "base_product_id": "9MW53ZKZH168",
       "xbox_title_id": 1641465936,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.2406.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.beec8181-1284-48cd-ab19-5707462c15e4",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57392.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.ad130bf2-bb5c-4ab1-aa06-9a8ca642050f",
       "is_free": false,
       "price_value": 7.99,
       "price_formatted": "$7.99",
@@ -50285,10 +50363,12 @@
       ],
       "xcloud_title_id": "MAFIATHEOLDCOUNTRY",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -50875,10 +50955,12 @@
       ],
       "xcloud_title_id": "MARVELSMIDNIGHTSUNSFORXBOXONE",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -50910,10 +50992,12 @@
       ],
       "xcloud_title_id": "MARVELSMIDNIGHTSUNSFORXBOXSERIESXS",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -57115,10 +57199,12 @@
       ],
       "xcloud_title_id": "NBA2K26FORXBOXSERIESXS",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -57138,6 +57224,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-09-07T12:43:42Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "NBA2K27",
+      "title": "NBA 2K27 (XBOX Series X|S)",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N3D82TFF6C4"
+      ],
+      "xcloud_title_id": "NBA2K27",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "2K",
+      "developer": "Visual Concepts",
+      "base_product_id": "9N3D82TFF6C4",
+      "xbox_title_id": 1731722945,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.35266.13934234425416393.c16fba18-9d46-4e2f-9891-5efae739df3f.f93a322b-4eae-4641-b667-2eb393fd56d7",
+      "is_free": false,
+      "price_value": null,
+      "price_formatted": null,
+      "price_currency": null,
+      "first_seen_at": "2026-11-12T20:02:53Z",
+      "last_changed_at": "2026-11-12T20:02:53Z",
+      "added_at": "2026-11-12T20:02:53Z",
       "removed_at": null
     },
     {
@@ -63043,10 +63166,12 @@
       ],
       "xcloud_title_id": "PGATOUR2K25",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -100419,10 +100544,12 @@
       ],
       "xcloud_title_id": "WWE2K26STANDARDEDITION",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -100491,10 +100618,12 @@
       ],
       "xcloud_title_id": "XCOM2",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -101442,5 +101571,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-12T07:16:38Z"
+  "generated_at": "2026-11-12T20:02:53Z"
 }

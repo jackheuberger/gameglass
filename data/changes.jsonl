@@ -5240,3 +5240,7 @@
 {"kind":"game_added","new_value":null,"detail":"Path of Exile 2 Early Access Supporter Packs","xcloud_title_id":"PATHOFEXILE2GAMEPREVIEW","run_id":399,"old_value":null,"tier_key":null,"game_id":"PATHOFEXILE2GAMEPREVIEW","occurred_at":"2026-11-12T07:16:38Z"}
 {"kind":"game_added","new_value":null,"detail":"Path of Exile","xcloud_title_id":"PATHOFEXILE","run_id":399,"old_value":null,"tier_key":null,"game_id":"PATHOFEXILE","occurred_at":"2026-11-12T07:16:38Z"}
 {"kind":"game_added","new_value":null,"detail":"Hoop Shoot","xcloud_title_id":"HOOPSHOOT","run_id":399,"old_value":null,"tier_key":null,"game_id":"HOOPSHOOT","occurred_at":"2026-11-12T07:16:38Z"}
+{"kind":"game_added","new_value":null,"detail":"NBA 2K27 (XBOX Series X|S)","xcloud_title_id":"NBA2K27","run_id":400,"old_value":null,"tier_key":null,"game_id":"NBA2K27","occurred_at":"2026-11-12T20:02:53Z"}
+{"kind":"game_added","new_value":null,"detail":"Hazard Levels","xcloud_title_id":"HAZARDLEVELS","run_id":400,"old_value":null,"tier_key":null,"game_id":"HAZARDLEVELS","occurred_at":"2026-11-12T20:02:53Z"}
+{"kind":"price_changed","new_value":"$14.99","detail":"El Coco","xcloud_title_id":"ELCOCO","run_id":400,"old_value":"$19.99","tier_key":null,"game_id":"ELCOCO","occurred_at":"2026-11-12T20:02:53Z"}
+{"kind":"game_added","new_value":null,"detail":"Barbie™ Rewind","xcloud_title_id":"BARBIEREWIND","run_id":400,"old_value":null,"tier_key":null,"game_id":"BARBIEREWIND","occurred_at":"2026-11-12T20:02:53Z"}
