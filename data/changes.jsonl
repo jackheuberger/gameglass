@@ -5236,3 +5236,7 @@
 {"kind":"game_added","new_value":null,"detail":"Thronefall","xcloud_title_id":"THRONEFALL","run_id":398,"old_value":null,"tier_key":null,"game_id":"THRONEFALL","occurred_at":"2026-11-11T19:41:43Z"}
 {"kind":"game_added","new_value":null,"detail":"Hope in the City","xcloud_title_id":"HOPEINTHECITY","run_id":398,"old_value":null,"tier_key":null,"game_id":"HOPEINTHECITY","occurred_at":"2026-11-11T19:41:43Z"}
 {"kind":"game_removed","new_value":null,"detail":"Football Manager 26 Console","xcloud_title_id":"FOOTBALLMANAGER26CONSOLE","run_id":398,"old_value":null,"tier_key":null,"game_id":"FOOTBALLMANAGER26CONSOLE","occurred_at":"2026-11-11T19:41:43Z"}
+{"kind":"game_added","new_value":null,"detail":"SONIC PICO PARK","xcloud_title_id":"SONICPICOPARK","run_id":399,"old_value":null,"tier_key":null,"game_id":"SONICPICOPARK","occurred_at":"2026-11-12T07:16:38Z"}
+{"kind":"game_added","new_value":null,"detail":"Path of Exile 2 Early Access Supporter Packs","xcloud_title_id":"PATHOFEXILE2GAMEPREVIEW","run_id":399,"old_value":null,"tier_key":null,"game_id":"PATHOFEXILE2GAMEPREVIEW","occurred_at":"2026-11-12T07:16:38Z"}
+{"kind":"game_added","new_value":null,"detail":"Path of Exile","xcloud_title_id":"PATHOFEXILE","run_id":399,"old_value":null,"tier_key":null,"game_id":"PATHOFEXILE","occurred_at":"2026-11-12T07:16:38Z"}
+{"kind":"game_added","new_value":null,"detail":"Hoop Shoot","xcloud_title_id":"HOOPSHOOT","run_id":399,"old_value":null,"tier_key":null,"game_id":"HOOPSHOOT","occurred_at":"2026-11-12T07:16:38Z"}

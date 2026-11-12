@@ -1,5 +1,5 @@
 {
-  "count": 2743,
+  "count": 2747,
   "market": "US",
   "games": [
     {
@@ -4550,7 +4550,7 @@
       "developer": "Paper Plane Studio LLC",
       "base_product_id": "9PDHCLFHRJ47",
       "xbox_title_id": 1759731943,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.46433.14149646888338608.6dc87158-ce54-42c5-a410-660f7fa0776b.b6fa851e-05e9-45b9-8f3b-d5d9c7d3f704",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.44646.14149646888338608.0c5ae95b-e034-4f6a-a6a5-096101b1ab71.007ff0fc-41c6-44d4-9e6c-94980ec402bf",
       "is_free": false,
       "price_value": 9.09,
       "price_formatted": "$9.09",
@@ -39898,6 +39898,43 @@
       "removed_at": null
     },
     {
+      "id": "HOOPSHOOT",
+      "title": "Hoop Shoot",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PN148L6VSJD"
+      ],
+      "xcloud_title_id": "HOOPSHOOT",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Entity3 Limited",
+      "developer": "Entity3 Limited",
+      "base_product_id": "9PN148L6VSJD",
+      "xbox_title_id": 1998974501,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.3317.14287435824332539.ebf1baf5-54fa-45bc-ae3c-d6d8118ce861.545572cd-f3de-439a-98c3-8cfbb3b8c2be",
+      "is_free": false,
+      "price_value": 0.99,
+      "price_formatted": "$0.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-12T07:16:38Z",
+      "last_changed_at": "2026-11-12T07:16:38Z",
+      "added_at": "2026-11-12T07:16:38Z",
+      "removed_at": null
+    },
+    {
       "id": "HOPEINTHECITY",
       "title": "Hope in the City",
       "streamable": true,
@@ -61819,6 +61856,80 @@
       "removed_at": null
     },
     {
+      "id": "PATHOFEXILE",
+      "title": "Path of Exile",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BWC95BZPFBS7"
+      ],
+      "xcloud_title_id": "PATHOFEXILE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Grinding Gear Games",
+      "developer": "Grinding Gear Games",
+      "base_product_id": "BWC95BZPFBS7",
+      "xbox_title_id": 903593533,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5836.72010574177212064.f42187b5-65a9-4ea9-a8a2-9f1b3a259fcc.5979b40b-387c-41bc-a005-d6c6d10d59e6",
+      "is_free": false,
+      "price_value": 0.0,
+      "price_formatted": "$0.00",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-12T07:16:38Z",
+      "last_changed_at": "2026-11-12T07:16:38Z",
+      "added_at": "2026-11-12T07:16:38Z",
+      "removed_at": null
+    },
+    {
+      "id": "PATHOFEXILE2GAMEPREVIEW",
+      "title": "Path of Exile 2 Early Access Supporter Packs",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PMPCBVDW9FJ"
+      ],
+      "xcloud_title_id": "PATHOFEXILE2GAMEPREVIEW",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Grinding Gear Games",
+      "developer": "Grinding Gear Games",
+      "base_product_id": "9PMPCBVDW9FJ",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28599.14371221830292206.20e92365-8898-4f02-9991-d18a51492d7e.042b22b0-23c7-4cb9-ba81-dfe3202796db",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-12T07:16:38Z",
+      "last_changed_at": "2026-11-12T07:16:38Z",
+      "added_at": "2026-11-12T07:16:38Z",
+      "removed_at": null
+    },
+    {
       "id": "PATHOFGIANTS",
       "title": "Path of Giants",
       "streamable": true,
@@ -76673,6 +76784,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "SONICPICOPARK",
+      "title": "SONIC PICO PARK",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PP07ZLDLSM5"
+      ],
+      "xcloud_title_id": "SONICPICOPARK",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "PICO PARK Inc.",
+      "developer": "TECOPARK",
+      "base_product_id": "9PP07ZLDLSM5",
+      "xbox_title_id": 1781066822,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5595.14334606966377512.4ac87f8e-f82a-406d-9b85-66a9638729f9.1abbb689-20cf-4015-8b51-5f7dd36762e3",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-12T07:16:38Z",
+      "last_changed_at": "2026-11-12T07:16:38Z",
+      "added_at": "2026-11-12T07:16:38Z",
       "removed_at": null
     },
     {
@@ -100251,7 +100399,7 @@
       "developer": "KURO GAMES",
       "base_product_id": "9P41GS5W1C6L",
       "xbox_title_id": 2025121273,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.34938.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.ae0c88f1-fe5b-4e8e-89d3-f7f21b613fea",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.23932.14597666972638877.997ecdaf-86da-490b-9c6a-bb00a16ac10c.d7b6b4ad-ba8b-4a53-b904-5296b4c79b20",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -101294,5 +101442,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-11T19:41:43Z"
+  "generated_at": "2026-11-12T07:16:38Z"
 }
