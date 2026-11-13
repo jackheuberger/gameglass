@@ -1,5 +1,5 @@
 {
-  "count": 2750,
+  "count": 2751,
   "market": "US",
   "games": [
     {
@@ -35390,6 +35390,43 @@
       "removed_at": null
     },
     {
+      "id": "GRABBEDBYTHEGHOULIES",
+      "title": "Grabbed by the Ghoulies™",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "BTHC2G28X9H4"
+      ],
+      "xcloud_title_id": "GRABBEDBYTHEGHOULIES",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Microsoft",
+      "developer": "Rare®",
+      "base_product_id": "BTHC2G28X9H4",
+      "xbox_title_id": 171500535,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.5601.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.20e8bf52-785b-499a-8671-e6c628861c5b",
+      "is_free": false,
+      "price_value": 4.99,
+      "price_formatted": "$4.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-13T06:51:07Z",
+      "last_changed_at": "2026-11-13T06:51:07Z",
+      "added_at": "2026-11-13T06:51:07Z",
+      "removed_at": null
+    },
+    {
       "id": "GRACEOFLETOILE",
       "title": "Grace of Letoile",
       "streamable": true,
@@ -62005,7 +62042,7 @@
       "developer": "Grinding Gear Games",
       "base_product_id": "BWC95BZPFBS7",
       "xbox_title_id": 903593533,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.5836.72010574177212064.f42187b5-65a9-4ea9-a8a2-9f1b3a259fcc.5979b40b-387c-41bc-a005-d6c6d10d59e6",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.33452.72010574177212064.0714def4-4b4d-456d-9ab2-3bdc8a6f4fe2.f82ae4a2-e544-435b-b17d-788af64cbf5a",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -101571,5 +101608,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-12T20:02:53Z"
+  "generated_at": "2026-11-13T06:51:07Z"
 }

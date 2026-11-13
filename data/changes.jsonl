@@ -5244,3 +5244,4 @@
 {"kind":"game_added","new_value":null,"detail":"Hazard Levels","xcloud_title_id":"HAZARDLEVELS","run_id":400,"old_value":null,"tier_key":null,"game_id":"HAZARDLEVELS","occurred_at":"2026-11-12T20:02:53Z"}
 {"kind":"price_changed","new_value":"$14.99","detail":"El Coco","xcloud_title_id":"ELCOCO","run_id":400,"old_value":"$19.99","tier_key":null,"game_id":"ELCOCO","occurred_at":"2026-11-12T20:02:53Z"}
 {"kind":"game_added","new_value":null,"detail":"Barbie™ Rewind","xcloud_title_id":"BARBIEREWIND","run_id":400,"old_value":null,"tier_key":null,"game_id":"BARBIEREWIND","occurred_at":"2026-11-12T20:02:53Z"}
+{"kind":"game_added","new_value":null,"detail":"Grabbed by the Ghoulies™","xcloud_title_id":"GRABBEDBYTHEGHOULIES","run_id":401,"old_value":null,"tier_key":null,"game_id":"GRABBEDBYTHEGHOULIES","occurred_at":"2026-11-13T06:51:07Z"}
