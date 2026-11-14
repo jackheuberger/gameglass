@@ -5245,3 +5245,7 @@
 {"kind":"price_changed","new_value":"$14.99","detail":"El Coco","xcloud_title_id":"ELCOCO","run_id":400,"old_value":"$19.99","tier_key":null,"game_id":"ELCOCO","occurred_at":"2026-11-12T20:02:53Z"}
 {"kind":"game_added","new_value":null,"detail":"Barbie™ Rewind","xcloud_title_id":"BARBIEREWIND","run_id":400,"old_value":null,"tier_key":null,"game_id":"BARBIEREWIND","occurred_at":"2026-11-12T20:02:53Z"}
 {"kind":"game_added","new_value":null,"detail":"Grabbed by the Ghoulies™","xcloud_title_id":"GRABBEDBYTHEGHOULIES","run_id":401,"old_value":null,"tier_key":null,"game_id":"GRABBEDBYTHEGHOULIES","occurred_at":"2026-11-13T06:51:07Z"}
+{"kind":"game_added","new_value":null,"detail":"Menes: The Chainbreaker","xcloud_title_id":"MENESTHECHAINBREAKER","run_id":402,"old_value":null,"tier_key":null,"game_id":"MENESTHECHAINBREAKER","occurred_at":"2026-11-14T06:29:41Z"}
+{"kind":"price_changed","new_value":"$29.99","detail":"Invincible VS","xcloud_title_id":"INVINCIBLEVS","run_id":402,"old_value":"$49.99","tier_key":null,"game_id":"INVINCIBLEVS","occurred_at":"2026-11-14T06:29:41Z"}
+{"kind":"game_added","new_value":null,"detail":"Leaf Blower Co.","xcloud_title_id":"LEAFBLOWERCO","run_id":402,"old_value":null,"tier_key":null,"game_id":"LEAFBLOWERCO","occurred_at":"2026-11-14T06:29:41Z"}
+{"kind":"game_added","new_value":null,"detail":"DONGDA Gangster","xcloud_title_id":"DONGDAGANGSTER","run_id":402,"old_value":null,"tier_key":null,"game_id":"DONGDAGANGSTER","occurred_at":"2026-11-14T06:29:41Z"}

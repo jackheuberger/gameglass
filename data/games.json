@@ -1,5 +1,5 @@
 {
-  "count": 2751,
+  "count": 2754,
   "market": "US",
   "games": [
     {
@@ -23001,6 +23001,43 @@
       "removed_at": null
     },
     {
+      "id": "DONGDAGANGSTER",
+      "title": "DONGDA Gangster",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N3F6W0JDMWJ"
+      ],
+      "xcloud_title_id": "DONGDAGANGSTER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "NiuGamer",
+      "developer": "ERGOU",
+      "base_product_id": "9N3F6W0JDMWJ",
+      "xbox_title_id": 2086591464,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.32254.13933776235226625.830b24f2-4f01-408a-8957-0d99b60acd09.16d21666-0b6d-4b4b-a518-f01925bfdde0",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-14T06:29:41Z",
+      "last_changed_at": "2026-11-14T06:29:41Z",
+      "added_at": "2026-11-14T06:29:41Z",
+      "removed_at": null
+    },
+    {
       "id": "DONTBEAFRAID2ESCAPETHENIGHTMARE",
       "title": "Dont be Afraid 2: Escape the Nightmare",
       "streamable": true,
@@ -42885,11 +42922,11 @@
       "xbox_title_id": 2120617189,
       "image_url": "https://store-images.s-microsoft.com/image/apps.47569.13598862067956543.3e3ef7b8-0dd8-4a1d-9ae9-60a3fdcd4d7b.3e629efc-e549-41b5-9052-5546a72a0671",
       "is_free": false,
-      "price_value": 49.99,
-      "price_formatted": "$49.99",
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-14T06:29:41Z",
       "added_at": null,
       "removed_at": null
     },
@@ -46738,6 +46775,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "LEAFBLOWERCO",
+      "title": "Leaf Blower Co.",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PDM08ZGT9HD"
+      ],
+      "xcloud_title_id": "LEAFBLOWERCO",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Forklift Interactive",
+      "developer": "LifT Games",
+      "base_product_id": "9PDM08ZGT9HD",
+      "xbox_title_id": 1626204440,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.65305.14152011466377997.fde24d0b-928e-40ff-98b8-9fadd8a85766.50978878-63f2-4d4b-bc4f-911bdf5a335e",
+      "is_free": false,
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-14T06:29:41Z",
+      "last_changed_at": "2026-11-14T06:29:41Z",
+      "added_at": "2026-11-14T06:29:41Z",
       "removed_at": null
     },
     {
@@ -50935,7 +51009,7 @@
       "developer": "NetEase Games",
       "base_product_id": "9N8PMW7QMD3D",
       "xbox_title_id": 1794906646,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.62697.14045436403630681.721e7092-2338-4109-8673-03273a8939af.fdd13e3a-aa97-49ca-adf0-55f6e1091f50",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.20837.14045436403630681.cc137423-2355-4446-b7c3-22a6afc51480.4255308a-b1d3-4ee1-8130-c4796d638467",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -51827,6 +51901,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "MENESTHECHAINBREAKER",
+      "title": "Menes: The Chainbreaker",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NWDV2KTMWRN"
+      ],
+      "xcloud_title_id": "MENESTHECHAINBREAKER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Rage Game Studio",
+      "developer": "Adrian Podaru",
+      "base_product_id": "9NWDV2KTMWRN",
+      "xbox_title_id": 1796646081,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.13073.14451009292687853.ef9696e5-71ff-443e-a7c3-d7594b967440.3bd1c5bd-579a-4287-a694-32cd0a4f9e19",
+      "is_free": false,
+      "price_value": 15.49,
+      "price_formatted": "$15.49",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-14T06:29:41Z",
+      "last_changed_at": "2026-11-14T06:29:41Z",
+      "added_at": "2026-11-14T06:29:41Z",
       "removed_at": null
     },
     {
@@ -60228,7 +60339,7 @@
       "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "base_product_id": "9N0QWXC09MPT",
       "xbox_title_id": 1989157631,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.60896.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.7ea3d42a-d6af-4971-9e27-8ce46e068504",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.53079.13916126641198036.7e5a4785-388f-47fb-b99e-33d1a78b811a.c1c0d7b0-d3fe-4dfb-bf76-d64828cc295e",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -101608,5 +101719,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-13T06:51:07Z"
+  "generated_at": "2026-11-14T06:29:41Z"
 }
