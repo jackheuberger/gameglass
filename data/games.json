@@ -7541,7 +7541,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -7556,7 +7556,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-15T06:37:49Z",
       "added_at": null,
       "removed_at": null
     },
@@ -7578,7 +7578,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -7593,7 +7593,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-15T06:37:49Z",
       "added_at": null,
       "removed_at": null
     },
@@ -7652,7 +7652,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -7667,7 +7667,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-15T06:37:49Z",
       "added_at": null,
       "removed_at": null
     },
@@ -63067,7 +63067,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -63082,7 +63082,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-15T06:37:49Z",
       "added_at": null,
       "removed_at": null
     },
@@ -96631,7 +96631,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -96646,7 +96646,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-15T06:37:49Z",
       "added_at": null,
       "removed_at": null
     },
@@ -96705,7 +96705,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -96720,7 +96720,7 @@
       "price_formatted": null,
       "price_currency": null,
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-15T06:37:49Z",
       "added_at": null,
       "removed_at": null
     },
@@ -101719,5 +101719,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-14T22:31:08Z"
+  "generated_at": "2026-11-15T06:37:49Z"
 }
