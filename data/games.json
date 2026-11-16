@@ -23881,7 +23881,7 @@
     {
       "id": "DRAGONBALLXENOVERSE2",
       "title": "DRAGON BALL XENOVERSE 2",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "BX03760D0QGN"
@@ -23907,9 +23907,9 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-16T22:08:30Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-11-16T22:08:30Z"
     },
     {
       "id": "DRAGONBLAZE",
@@ -101713,5 +101713,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-16T06:34:47Z"
+  "generated_at": "2026-11-16T22:08:30Z"
 }

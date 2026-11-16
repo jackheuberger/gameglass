@@ -5261,3 +5261,4 @@
 {"kind":"tier_status_changed","new_value":"purchase","detail":"Hello Neighbor","xcloud_title_id":"HELLONEIGHBOR","run_id":407,"old_value":"unavailable","tier_key":"starter","game_id":"HELLONEIGHBOR","occurred_at":"2026-11-16T06:34:47Z"}
 {"kind":"tier_status_changed","new_value":"purchase","detail":"Disney Speedstorm","xcloud_title_id":"DISNEYSPEEDSTORM","run_id":407,"old_value":"unavailable","tier_key":"starter","game_id":"DISNEYSPEEDSTORM","occurred_at":"2026-11-16T06:34:47Z"}
 {"kind":"tier_status_changed","new_value":"purchase","detail":"HITMAN World of Assassination","xcloud_title_id":"HITMAN3","run_id":407,"old_value":"unavailable","tier_key":"starter","game_id":"HITMAN3","occurred_at":"2026-11-16T06:34:47Z"}
+{"kind":"game_removed","new_value":null,"detail":"DRAGON BALL XENOVERSE 2","xcloud_title_id":"DRAGONBALLXENOVERSE2","run_id":408,"old_value":null,"tier_key":null,"game_id":"DRAGONBALLXENOVERSE2","occurred_at":"2026-11-16T22:08:30Z"}
