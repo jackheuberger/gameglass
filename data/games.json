@@ -3348,18 +3348,17 @@
       ],
       "xcloud_title_id": "AMEMOIRBLUE",
       "programs": [
-        "BYOG",
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "IO",
-        "GANYMEDE"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
         "premium": "purchase",
-        "starter": "unavailable",
+        "starter": "purchase",
         "ultimate": "purchase"
       },
       "publisher": "Annapurna Interactive",
@@ -3372,7 +3371,7 @@
       "price_formatted": "$7.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-16T06:34:47Z",
       "added_at": null,
       "removed_at": null
     },
@@ -11486,8 +11485,8 @@
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "JULIET",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -11671,8 +11670,8 @@
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "JULIET",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -15474,12 +15473,12 @@
       ],
       "xcloud_title_id": "CLAIROBSCUREXPEDITION33",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -16880,12 +16879,12 @@
       ],
       "xcloud_title_id": "COREKEEPER",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -21090,8 +21089,8 @@
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "JULIET",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "included",
@@ -22417,18 +22416,17 @@
       ],
       "xcloud_title_id": "DISNEYSPEEDSTORM",
       "programs": [
-        "BYOG",
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "IO",
-        "GANYMEDE"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
         "premium": "purchase",
-        "starter": "unavailable",
+        "starter": "purchase",
         "ultimate": "purchase"
       },
       "publisher": "Gameloft SE",
@@ -22441,7 +22439,7 @@
       "price_formatted": "$0.00",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-16T06:34:47Z",
       "added_at": null,
       "removed_at": null
     },
@@ -23343,12 +23341,12 @@
       ],
       "xcloud_title_id": "DOOM64",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -33845,12 +33843,12 @@
       ],
       "xcloud_title_id": "GENSHINIMPACT",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "included",
@@ -36986,12 +36984,12 @@
       ],
       "xcloud_title_id": "HALOINFINITE",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -38577,18 +38575,17 @@
       ],
       "xcloud_title_id": "HELLONEIGHBOR",
       "programs": [
-        "BYOG",
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "IO",
-        "GANYMEDE"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
         "premium": "purchase",
-        "starter": "unavailable",
+        "starter": "purchase",
         "ultimate": "purchase"
       },
       "publisher": "tinyBuild",
@@ -38601,7 +38598,7 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-16T06:34:47Z",
       "added_at": null,
       "removed_at": null
     },
@@ -39540,18 +39537,17 @@
       ],
       "xcloud_title_id": "HITMAN3",
       "programs": [
-        "BYOG",
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "IO",
-        "GANYMEDE"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
         "premium": "purchase",
-        "starter": "unavailable",
+        "starter": "purchase",
         "ultimate": "purchase"
       },
       "publisher": "IO Interactive A/S",
@@ -39564,7 +39560,7 @@
       "price_formatted": "$69.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-16T06:34:47Z",
       "added_at": null,
       "removed_at": null
     },
@@ -39837,12 +39833,12 @@
       ],
       "xcloud_title_id": "HOLLOWKNIGHTSILKSONG",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -44682,8 +44678,8 @@
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "JULIET",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -44974,12 +44970,12 @@
       ],
       "xcloud_title_id": "KILLERINSTINCT",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -48194,18 +48190,17 @@
       ],
       "xcloud_title_id": "LIFEISSTRANGE",
       "programs": [
-        "BYOG",
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "IO",
-        "GANYMEDE"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
         "premium": "purchase",
-        "starter": "unavailable",
+        "starter": "purchase",
         "ultimate": "purchase"
       },
       "publisher": "Square Enix",
@@ -48218,7 +48213,7 @@
       "price_formatted": "$0.00",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-16T06:34:47Z",
       "added_at": null,
       "removed_at": null
     },
@@ -48232,18 +48227,17 @@
       ],
       "xcloud_title_id": "LIFEISSTRANGE2",
       "programs": [
-        "BYOG",
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "IO",
-        "GANYMEDE"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
         "premium": "purchase",
-        "starter": "unavailable",
+        "starter": "purchase",
         "ultimate": "purchase"
       },
       "publisher": "Square Enix",
@@ -48256,7 +48250,7 @@
       "price_formatted": "$0.00",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-16T06:34:47Z",
       "added_at": null,
       "removed_at": null
     },
@@ -50959,8 +50953,8 @@
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "JULIET",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -57200,12 +57194,12 @@
       ],
       "xcloud_title_id": "NARAKABLADEPOINT",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "included",
@@ -61968,7 +61962,7 @@
       "developer": "Recreate Games",
       "base_product_id": "9MZ08RDQ4DM1",
       "xbox_title_id": 2093153073,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.55493.13884485183103116.0a0871f2-1ade-492d-9726-428ea1c1cd31.553b661a-7292-4b35-babc-a7532ad69fd1",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.22908.13884485183103116.59d2d2b9-8ac6-4523-9071-c8b11aa3756a.63bf90a3-252d-44f6-b73e-c61405c8499e",
       "is_free": false,
       "price_value": 19.99,
       "price_formatted": "$19.99",
@@ -66269,12 +66263,12 @@
       ],
       "xcloud_title_id": "PSYCHONAUTS",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -66306,12 +66300,12 @@
       ],
       "xcloud_title_id": "PSYCHONAUTS2",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "included",
@@ -69228,12 +69222,12 @@
       ],
       "xcloud_title_id": "RETROCLASSICS",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "included",
@@ -77110,8 +77104,8 @@
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "JULIET",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -79404,8 +79398,8 @@
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "JULIET",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "included",
@@ -83831,8 +83825,8 @@
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "JULIET",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "included",
@@ -83975,12 +83969,12 @@
       ],
       "xcloud_title_id": "TELLMEWHY",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -96586,12 +96580,12 @@
       ],
       "xcloud_title_id": "VIVAPIÑATA",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "GPULTIMATE",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "included",
@@ -98700,8 +98694,8 @@
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "JULIET",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -101719,5 +101713,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-15T18:59:08Z"
+  "generated_at": "2026-11-16T06:34:47Z"
 }
