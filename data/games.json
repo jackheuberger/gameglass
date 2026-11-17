@@ -1,5 +1,5 @@
 {
-  "count": 2754,
+  "count": 2755,
   "market": "US",
   "games": [
     {
@@ -7327,7 +7327,7 @@
       "developer": "Kenny Sun",
       "base_product_id": "9MWXF3SRD7QN",
       "xbox_title_id": 1848927238,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.49009.13835016463632115.666396b5-f6e8-4a0a-ae87-81ee6b77084a.d422168a-035e-42c7-819e-d93987acea85",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.25906.13835016463632115.e71b68fd-01a3-4f56-bac2-9c7e69d8f4f9.a9f8253f-e148-47b2-acca-9481d782d01f",
       "is_free": false,
       "price_value": 14.99,
       "price_formatted": "$14.99",
@@ -21752,10 +21752,12 @@
       ],
       "xcloud_title_id": "DIGITALSTORYARTCOLLECTIONHALOCAMPAIGNEVOLVED",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -32069,10 +32071,12 @@
       ],
       "xcloud_title_id": "FORZAHORIZON6",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -33548,11 +33552,12 @@
       ],
       "xcloud_title_id": "GEARSOFWAREDAY",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "FERDINAND",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -36949,10 +36954,12 @@
       ],
       "xcloud_title_id": "HALOCAMPAIGNEVOLVED",
       "programs": [
+        "GPULTIMATE",
         "CALLISTO",
         "DIA",
         "EUROPA",
-        "TRITON"
+        "TRITON",
+        "FERDINAND"
       ],
       "tiers": {
         "essential": "purchase",
@@ -62306,6 +62313,43 @@
       "removed_at": null
     },
     {
+      "id": "PAWPATROLDINOWORLD",
+      "title": "PAW Patrol™: Dino World",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N3P3TRJGWV0"
+      ],
+      "xcloud_title_id": "PAWPATROLDINOWORLD",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "included",
+        "starter": "purchase",
+        "ultimate": "included"
+      },
+      "publisher": "Outright Games Ltd.",
+      "developer": "3DClouds",
+      "base_product_id": "9N3P3TRJGWV0",
+      "xbox_title_id": 1971028549,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.6586.14003155671712527.e2286374-c296-44cb-8b6c-1bb5b97b583a.541483cb-d84e-4407-a531-08c76a595a07",
+      "is_free": false,
+      "price_value": 39.99,
+      "price_formatted": "$39.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-17T08:00:36Z",
+      "last_changed_at": "2026-11-17T08:00:36Z",
+      "added_at": "2026-11-17T08:00:36Z",
+      "removed_at": null
+    },
+    {
       "id": "PAWPATROLGRANDPRIX",
       "title": "PAW Patrol: Grand Prix",
       "streamable": true,
@@ -86576,7 +86620,7 @@
       "developer": "NEXON Games Co., Ltd.",
       "base_product_id": "9P8FBXKMCLWC",
       "xbox_title_id": 2069980568,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.69.14088967971354578.6905da5e-eaf6-4f51-aabc-e221a5476323.b846aec6-4e7d-4847-b836-27fcdb7e97a6",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.56041.14088967971354578.21f9976e-3fb0-4fe0-89fd-e7a4a3274e5d.1db4da7e-d526-4ac2-9db6-2edfda66f560",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -101713,5 +101757,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-16T22:08:30Z"
+  "generated_at": "2026-11-17T08:00:36Z"
 }
