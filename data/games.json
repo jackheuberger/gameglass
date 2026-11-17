@@ -1,5 +1,5 @@
 {
-  "count": 2755,
+  "count": 2756,
   "market": "US",
   "games": [
     {
@@ -9418,9 +9418,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Skystone Games",
       "developer": "Mi'pu'mi Games GmbH",
@@ -9432,7 +9432,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-17T21:02:41Z",
       "added_at": null,
       "removed_at": null
     },
@@ -13040,9 +13040,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Kwalee",
       "developer": "Out of the Blue Games",
@@ -13054,7 +13054,7 @@
       "price_formatted": "$24.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-17T21:02:41Z",
       "added_at": null,
       "removed_at": null
     },
@@ -39368,9 +39368,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Squanch Games, Inc.",
       "developer": "Squanch Games, Inc.",
@@ -39382,7 +39382,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-08-28T22:25:40Z",
+      "last_changed_at": "2026-11-17T21:02:41Z",
       "added_at": null,
       "removed_at": null
     },
@@ -55474,9 +55474,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Top Hat Studios, Inc.",
       "developer": "Regular Studio",
@@ -55488,7 +55488,7 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-17T21:02:41Z",
       "added_at": null,
       "removed_at": null
     },
@@ -67925,6 +67925,43 @@
       "removed_at": null
     },
     {
+      "id": "RANGERSPATHNATIONALPARKSIMULATOR",
+      "title": "Ranger's Path: National Park Simulator",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NF2BSCRCPFT"
+      ],
+      "xcloud_title_id": "RANGERSPATHNATIONALPARKSIMULATOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment GmbH",
+      "developer": "To-Go Games",
+      "base_product_id": "9NF2BSCRCPFT",
+      "xbox_title_id": 1940422365,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.12863.13603409932112844.61338bb8-df99-4290-8f37-2b3f9d242d93.38ef2d4e-8200-4bc9-9a26-c4efbfe6bc64",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-17T21:02:41Z",
+      "last_changed_at": "2026-11-17T21:02:41Z",
+      "added_at": "2026-11-17T21:02:41Z",
+      "removed_at": null
+    },
+    {
       "id": "RAPALAFISHINGPROSERIES",
       "title": "Rapala Fishing: Pro Series",
       "streamable": true,
@@ -70238,9 +70275,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Oro Interactive",
       "developer": "Cybernetic Walrus",
@@ -70252,7 +70289,7 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-08-27T22:20:09Z",
+      "last_changed_at": "2026-11-17T21:02:41Z",
       "added_at": null,
       "removed_at": null
     },
@@ -76413,9 +76450,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "CI Games",
       "developer": "CI Games",
@@ -76427,7 +76464,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-17T21:02:41Z",
       "added_at": null,
       "removed_at": null
     },
@@ -89165,9 +89202,9 @@
       ],
       "tiers": {
         "essential": "purchase",
-        "premium": "purchase",
+        "premium": "included",
         "starter": "purchase",
-        "ultimate": "purchase"
+        "ultimate": "included"
       },
       "publisher": "Red Barrels - Montreal",
       "developer": "Red Barrels",
@@ -89179,7 +89216,7 @@
       "price_formatted": "$39.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-17T21:02:41Z",
       "added_at": null,
       "removed_at": null
     },
@@ -101757,5 +101794,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-17T08:00:36Z"
+  "generated_at": "2026-11-17T21:02:41Z"
 }
