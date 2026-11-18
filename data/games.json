@@ -35447,7 +35447,7 @@
         "FERDINAND"
       ],
       "tiers": {
-        "essential": "purchase",
+        "essential": "included",
         "premium": "included",
         "starter": "purchase",
         "ultimate": "included"
@@ -35462,7 +35462,7 @@
       "price_formatted": "$4.99",
       "price_currency": "USD",
       "first_seen_at": "2026-11-13T06:51:07Z",
-      "last_changed_at": "2026-11-13T06:51:07Z",
+      "last_changed_at": "2026-11-18T07:34:39Z",
       "added_at": "2026-11-13T06:51:07Z",
       "removed_at": null
     },
@@ -101794,5 +101794,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-17T21:02:41Z"
+  "generated_at": "2026-11-18T07:34:39Z"
 }
