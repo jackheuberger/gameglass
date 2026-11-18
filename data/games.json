@@ -28719,7 +28719,7 @@
         "starter": "purchase",
         "ultimate": "purchase"
       },
-      "publisher": "New Tales ; Com2Us Holdings",
+      "publisher": "New Tales",
       "developer": "Emeteria",
       "base_product_id": "9N0MHMP8Z20G",
       "xbox_title_id": 1860533914,
@@ -101794,5 +101794,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-18T07:34:39Z"
+  "generated_at": "2026-11-18T20:41:08Z"
 }
