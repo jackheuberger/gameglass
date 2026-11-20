@@ -1,5 +1,5 @@
 {
-  "count": 2794,
+  "count": 2795,
   "market": "US",
   "games": [
     {
@@ -29909,11 +29909,11 @@
       "xbox_title_id": 136002788,
       "image_url": "https://store-images.s-microsoft.com/image/apps.10252.13575975826001354.197ea274-82bc-4426-b66d-594dcc3ec884.6cf51dbb-7fc5-4fc8-8d7f-33764253e0a4",
       "is_free": false,
-      "price_value": 29.99,
-      "price_formatted": "$29.99",
+      "price_value": 19.99,
+      "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-20T20:30:08Z",
       "added_at": null,
       "removed_at": null
     },
@@ -29983,11 +29983,11 @@
       "xbox_title_id": 1977690926,
       "image_url": "https://store-images.s-microsoft.com/image/apps.46917.14299110548313627.7e916051-145b-467d-9222-536b54bd914d.6691a974-28f7-4062-bbcd-926b917457e1",
       "is_free": false,
-      "price_value": 39.99,
-      "price_formatted": "$39.99",
+      "price_value": 34.99,
+      "price_formatted": "$34.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-20T20:30:08Z",
       "added_at": null,
       "removed_at": null
     },
@@ -31353,7 +31353,7 @@
       "developer": "Fishing Planet LLC",
       "base_product_id": "BVM002M8HH0S",
       "xbox_title_id": 490838306,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.21937.70971773779833883.044502ea-9e5f-45b0-9e2a-50c9834a674b.1ca9aa85-21ec-47ca-8e03-00222cf432d9",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.6398.70971773779833883.ef92a1db-1101-41b0-b867-29c518a9a074.2713b79c-03c8-40ff-b803-a1569a6733af",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -53127,7 +53127,7 @@
     },
     {
       "id": "METROEXODUS",
-      "title": "Metro Exodus",
+      "title": "METRO Exodus",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -84781,6 +84781,43 @@
       "removed_at": null
     },
     {
+      "id": "TANKSSWEETTANKS",
+      "title": "Tanks Sweet Tanks",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P628SVXLC4W"
+      ],
+      "xcloud_title_id": "TANKSSWEETTANKS",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "EpiXR Games",
+      "developer": "EpiXR Games",
+      "base_product_id": "9P628SVXLC4W",
+      "xbox_title_id": 2075402781,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.15331.14628211979681096.ff6ce9a4-5fe1-44a8-ae5f-2547bab3129f.c70c9f8d-cbca-4200-a1d1-96e5c721b7df",
+      "is_free": false,
+      "price_value": 4.99,
+      "price_formatted": "$4.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-20T20:30:08Z",
+      "last_changed_at": "2026-11-20T20:30:08Z",
+      "added_at": "2026-11-20T20:30:08Z",
+      "removed_at": null
+    },
+    {
       "id": "TANUKIPONSSUMMER",
       "title": "TANUKI: Pon's Summer",
       "streamable": true,
@@ -103200,5 +103237,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-20T07:22:08Z"
+  "generated_at": "2026-11-20T20:30:08Z"
 }
