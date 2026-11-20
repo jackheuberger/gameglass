@@ -5318,3 +5318,6 @@
 {"kind":"game_added","new_value":null,"detail":"Trackmania®","xcloud_title_id":"TRACKMANIA","run_id":414,"old_value":null,"tier_key":null,"game_id":"TRACKMANIA","occurred_at":"2026-11-19T20:46:28Z"}
 {"kind":"game_added","new_value":null,"detail":"Bag Fight","xcloud_title_id":"BAGFIGHT","run_id":414,"old_value":null,"tier_key":null,"game_id":"BAGFIGHT","occurred_at":"2026-11-19T20:46:28Z"}
 {"kind":"game_added","new_value":null,"detail":"Wizard101","xcloud_title_id":"WIZARD101","run_id":414,"old_value":null,"tier_key":null,"game_id":"WIZARD101","occurred_at":"2026-11-19T20:46:28Z"}
+{"kind":"price_changed","new_value":"$19.99","detail":"Bassmaster® Fishing","xcloud_title_id":"BASSMASTERFISHING2022","run_id":415,"old_value":null,"tier_key":null,"game_id":"BASSMASTERFISHING2022","occurred_at":"2026-11-20T07:22:08Z"}
+{"kind":"game_removed","new_value":null,"detail":"Grand Theft Auto VI: Ultimate Edition","xcloud_title_id":"9NNZSNHLR63L","run_id":415,"old_value":null,"tier_key":null,"game_id":"9NNZSNHLR63L","occurred_at":"2026-11-20T07:22:08Z"}
+{"kind":"game_removed","new_value":null,"detail":"Grand Theft Auto VI","xcloud_title_id":"9P3H4968GRSM","run_id":415,"old_value":null,"tier_key":null,"game_id":"9P3H4968GRSM","occurred_at":"2026-11-20T07:22:08Z"}
