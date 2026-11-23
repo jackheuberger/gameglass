@@ -43896,7 +43896,7 @@
     {
       "id": "JADENINDUSTRIESCOZYAUTOMATIONPUZZLER",
       "title": "Jaden Industries: Cozy Automation Puzzler",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NW011WKS38K"
@@ -43926,9 +43926,9 @@
       "price_formatted": "$11.49",
       "price_currency": "USD",
       "first_seen_at": "2026-11-23T07:45:51Z",
-      "last_changed_at": "2026-11-23T07:45:51Z",
+      "last_changed_at": "2026-11-23T23:59:18Z",
       "added_at": "2026-11-23T07:45:51Z",
-      "removed_at": null
+      "removed_at": "2026-11-23T23:59:18Z"
     },
     {
       "id": "JAGGEDALLIANCE3",
@@ -91627,7 +91627,7 @@
     {
       "id": "THETALOSPRINCIPLE",
       "title": "The Talos Principle",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "C1TJ5KT8LT9J"
@@ -91657,9 +91657,9 @@
       "price_formatted": "$29.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-22T03:50:40Z",
-      "last_changed_at": "2026-07-22T03:50:40Z",
+      "last_changed_at": "2026-11-23T23:59:18Z",
       "added_at": "2026-07-22T03:50:40Z",
-      "removed_at": null
+      "removed_at": "2026-11-23T23:59:18Z"
     },
     {
       "id": "THETALOSPRINCIPLE2",
@@ -100760,7 +100760,7 @@
     {
       "id": "WILDRUMBLE",
       "title": "Wild Rumble",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9NWNK56S71NB"
@@ -100790,9 +100790,9 @@
       "price_formatted": "$14.99",
       "price_currency": "USD",
       "first_seen_at": "2026-08-31T05:44:20Z",
-      "last_changed_at": "2026-08-31T05:44:20Z",
+      "last_changed_at": "2026-11-23T23:59:18Z",
       "added_at": "2026-08-31T05:44:20Z",
-      "removed_at": null
+      "removed_at": "2026-11-23T23:59:18Z"
     },
     {
       "id": "WILDSHADEUNICORNCHAMPIONS",
@@ -103274,5 +103274,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-23T07:45:51Z"
+  "generated_at": "2026-11-23T23:59:18Z"
 }
