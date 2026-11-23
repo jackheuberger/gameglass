@@ -5324,3 +5324,4 @@
 {"kind":"price_changed","new_value":"$19.99","detail":"Farming Simulator 19","xcloud_title_id":"FARMINGSIMULATOR19","run_id":416,"old_value":"$29.99","tier_key":null,"game_id":"FARMINGSIMULATOR19","occurred_at":"2026-11-20T20:30:08Z"}
 {"kind":"price_changed","new_value":"$34.99","detail":"Farming Simulator 25","xcloud_title_id":"FARMINGSIMULATOR25","run_id":416,"old_value":"$39.99","tier_key":null,"game_id":"FARMINGSIMULATOR25","occurred_at":"2026-11-20T20:30:08Z"}
 {"kind":"game_added","new_value":null,"detail":"Tanks Sweet Tanks","xcloud_title_id":"TANKSSWEETTANKS","run_id":416,"old_value":null,"tier_key":null,"game_id":"TANKSSWEETTANKS","occurred_at":"2026-11-20T20:30:08Z"}
+{"kind":"game_added","new_value":null,"detail":"Jaden Industries: Cozy Automation Puzzler","xcloud_title_id":"JADENINDUSTRIESCOZYAUTOMATIONPUZZLER","run_id":420,"old_value":null,"tier_key":null,"game_id":"JADENINDUSTRIESCOZYAUTOMATIONPUZZLER","occurred_at":"2026-11-23T07:45:51Z"}

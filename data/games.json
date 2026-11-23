@@ -1,5 +1,5 @@
 {
-  "count": 2795,
+  "count": 2796,
   "market": "US",
   "games": [
     {
@@ -43891,6 +43891,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "JADENINDUSTRIESCOZYAUTOMATIONPUZZLER",
+      "title": "Jaden Industries: Cozy Automation Puzzler",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NW011WKS38K"
+      ],
+      "xcloud_title_id": "JADENINDUSTRIESCOZYAUTOMATIONPUZZLER",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Pushka Studios ",
+      "developer": "Pushka Studios ",
+      "base_product_id": "9NW011WKS38K",
+      "xbox_title_id": 1686148612,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.40288.14459635843956058.988466ac-b926-46d5-b655-b4d8a3290cd5.60905c14-57ec-4d60-a9d1-8e45c88bd871",
+      "is_free": false,
+      "price_value": 11.49,
+      "price_formatted": "$11.49",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-23T07:45:51Z",
+      "last_changed_at": "2026-11-23T07:45:51Z",
+      "added_at": "2026-11-23T07:45:51Z",
       "removed_at": null
     },
     {
@@ -103237,5 +103274,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-22T19:49:12Z"
+  "generated_at": "2026-11-23T07:45:51Z"
 }
