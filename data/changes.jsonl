@@ -5332,3 +5332,4 @@
 {"kind":"game_added","new_value":null,"detail":"The Talos Principle","xcloud_title_id":"THETALOSPRINCIPLE","run_id":422,"old_value":null,"tier_key":null,"game_id":"THETALOSPRINCIPLE","occurred_at":"2026-11-24T10:01:03Z"}
 {"kind":"game_added","new_value":null,"detail":"Jaden Industries: Cozy Automation Puzzler","xcloud_title_id":"JADENINDUSTRIESCOZYAUTOMATIONPUZZLER","run_id":422,"old_value":null,"tier_key":null,"game_id":"JADENINDUSTRIESCOZYAUTOMATIONPUZZLER","occurred_at":"2026-11-24T10:01:03Z"}
 {"kind":"game_added","new_value":null,"detail":"Wild Rumble","xcloud_title_id":"WILDRUMBLE","run_id":422,"old_value":null,"tier_key":null,"game_id":"WILDRUMBLE","occurred_at":"2026-11-24T10:01:03Z"}
+{"kind":"game_added","new_value":null,"detail":"Storage Hunter Simulator","xcloud_title_id":"STORAGEHUNTERSIMULATOR","run_id":423,"old_value":null,"tier_key":null,"game_id":"STORAGEHUNTERSIMULATOR","occurred_at":"2026-11-24T22:31:22Z"}

@@ -1,5 +1,5 @@
 {
-  "count": 2797,
+  "count": 2798,
   "market": "US",
   "games": [
     {
@@ -19856,7 +19856,7 @@
       "developer": "Behaviour Interactive Inc.",
       "base_product_id": "C0N22P73QZ60",
       "xbox_title_id": 102425831,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.51458.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.33981a4c-a34b-4492-b81f-8695c017496b",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.1460.64366672042187759.cbefda5a-be6e-404b-9026-557d1b27e814.b59d7856-d3bb-46e0-8349-cf54a521cad5",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -82012,6 +82012,43 @@
       "removed_at": null
     },
     {
+      "id": "STORAGEHUNTERSIMULATOR",
+      "title": "Storage Hunter Simulator",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NH3VS82L0TL"
+      ],
+      "xcloud_title_id": "STORAGEHUNTERSIMULATOR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "astragon Entertainment",
+      "developer": " Raccoons Studio",
+      "base_product_id": "9NH3VS82L0TL",
+      "xbox_title_id": 1796773093,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.10267.13637736224047095.07a6a560-f479-4c81-bdf8-5a334c1f3ff9.8658c480-f028-4279-a775-e427a35778ce",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-24T22:31:22Z",
+      "last_changed_at": "2026-11-24T22:31:22Z",
+      "added_at": "2026-11-24T22:31:22Z",
+      "removed_at": null
+    },
+    {
       "id": "STORIESUNTOLD",
       "title": "Stories Untold",
       "streamable": true,
@@ -103311,5 +103348,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-24T10:01:03Z"
+  "generated_at": "2026-11-24T22:31:22Z"
 }
