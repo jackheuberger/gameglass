@@ -1,5 +1,5 @@
 {
-  "count": 2798,
+  "count": 2799,
   "market": "US",
   "games": [
     {
@@ -35871,6 +35871,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "GOTHIC3CLASSIC",
+      "title": "Gothic 3 Classic",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NP6BK1VHFW5"
+      ],
+      "xcloud_title_id": "GOTHIC3CLASSIC",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "THQ Nordic",
+      "developer": "THQ Nordic GmbH",
+      "base_product_id": "9NP6BK1VHFW5",
+      "xbox_title_id": 2125366326,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.64440.13728856288839884.914b9bf1-d71e-4186-b17c-de27978bdc3d.cefa0882-c10c-414b-8bed-e1cb7afa625c",
+      "is_free": false,
+      "price_value": 29.99,
+      "price_formatted": "$29.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-25T08:41:12Z",
+      "last_changed_at": "2026-11-25T08:41:12Z",
+      "added_at": "2026-11-25T08:41:12Z",
       "removed_at": null
     },
     {
@@ -87817,7 +87854,7 @@
     {
       "id": "THEFALCONEER",
       "title": "The Falconeer",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9N8J0T5HCDB9"
@@ -87847,9 +87884,9 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-25T08:41:12Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-11-25T08:41:12Z"
     },
     {
       "id": "THEFINALS",
@@ -103348,5 +103385,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-24T22:31:22Z"
+  "generated_at": "2026-11-25T08:41:12Z"
 }
