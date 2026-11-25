@@ -1,5 +1,5 @@
 {
-  "count": 2799,
+  "count": 2801,
   "market": "US",
   "games": [
     {
@@ -4734,7 +4734,7 @@
       "developer": "Embark Studios",
       "base_product_id": "9NDF1F263RZ4",
       "xbox_title_id": 2118292977,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.43094.13550041517005289.94982f01-a340-49e3-9d4f-37cb23ee22c9.36620aef-592b-4503-8580-f45123cf8a0e",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.17586.13550041517005289.162a8df2-02cb-474f-8bc8-1eb52f8c5b26.d0e90c87-57c6-49cb-b808-447ff6e02c3b",
       "is_free": false,
       "price_value": 39.99,
       "price_formatted": "$39.99",
@@ -14092,6 +14092,80 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "CATMIRROR",
+      "title": "Cat Mirror",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9PC9487KHRH6"
+      ],
+      "xcloud_title_id": "CATMIRROR",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Tribus Games Indie",
+      "developer": "Tribus Games Indie",
+      "base_product_id": "9PC9487KHRH6",
+      "xbox_title_id": 1897297166,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57168.14178098733659323.05537b6a-d656-4a62-aad0-e1a930640387.8f90d964-71c1-4286-8fa1-0bb732c77875",
+      "is_free": false,
+      "price_value": 4.99,
+      "price_formatted": "$4.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-25T21:46:32Z",
+      "last_changed_at": "2026-11-25T21:46:32Z",
+      "added_at": "2026-11-25T21:46:32Z",
+      "removed_at": null
+    },
+    {
+      "id": "CATMIRRORXBOXONE",
+      "title": "Cat Mirror (Xbox One)",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9N2CGD0F73KH"
+      ],
+      "xcloud_title_id": "CATMIRRORXBOXONE",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Tribus Games Indie",
+      "developer": "Tribus Games Indie",
+      "base_product_id": "9N2CGD0F73KH",
+      "xbox_title_id": 1639619403,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.57168.13959109449532374.fcd65496-040a-490d-91e5-25f7da37befa.e53d8a45-d85a-4656-99d7-798e08261b29",
+      "is_free": false,
+      "price_value": 4.99,
+      "price_formatted": "$4.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-25T21:46:32Z",
+      "last_changed_at": "2026-11-25T21:46:32Z",
+      "added_at": "2026-11-25T21:46:32Z",
       "removed_at": null
     },
     {
@@ -62598,7 +62672,7 @@
       "developer": "Singularity 6",
       "base_product_id": "9MTLHG50W87K",
       "xbox_title_id": 1863849961,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.6904.13806022448264044.1937090c-5367-4034-a274-6f8b1c585475.b6ff440f-ea56-4021-b65e-a2c326cb1c5d",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.9221.13806022448264044.7c83d4c6-2639-4e52-a313-761ce1622441.549589f4-76a4-41d7-ab11-1cfb327a6993",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -75685,7 +75759,7 @@
       "developer": "FoamPunch",
       "base_product_id": "9N4PGNQQ7ZFK",
       "xbox_title_id": 1931911684,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.51014.13979077126806036.a2655d57-9f8b-422e-a646-07fca70ec826.49e87ef0-3cec-44e4-ac42-879cb1712b62",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.28732.13979077126806036.3351b2d6-bd43-4651-928e-398dc7688ad9.cf2bcf81-bdbc-4f38-82e4-ecd097d9943d",
       "is_free": false,
       "price_value": 29.99,
       "price_formatted": "$29.99",
@@ -103385,5 +103459,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-25T08:41:12Z"
+  "generated_at": "2026-11-25T21:46:32Z"
 }
