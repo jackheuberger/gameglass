@@ -1,5 +1,5 @@
 {
-  "count": 2801,
+  "count": 2802,
   "market": "US",
   "games": [
     {
@@ -51761,6 +51761,43 @@
       "removed_at": null
     },
     {
+      "id": "MARUPOYO",
+      "title": "Marupoyo",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9P1P636K85GT"
+      ],
+      "xcloud_title_id": "MARUPOYO",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Casual Brothers Ltd",
+      "developer": "Casual Brothers Ltd",
+      "base_product_id": "9P1P636K85GT",
+      "xbox_title_id": 2029468895,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.21970.14507719846144326.c35dde77-9b32-4120-bdbc-ba010cd08dd6.1c57ef69-0fae-4f6c-b854-ed0c6fbca601",
+      "is_free": false,
+      "price_value": 9.99,
+      "price_formatted": "$9.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-26T08:24:18Z",
+      "last_changed_at": "2026-11-26T08:24:18Z",
+      "added_at": "2026-11-26T08:24:18Z",
+      "removed_at": null
+    },
+    {
       "id": "MARVELCOSMICINVASION",
       "title": "MARVEL Cosmic Invasion",
       "streamable": true,
@@ -103459,5 +103496,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-25T21:46:32Z"
+  "generated_at": "2026-11-26T08:24:18Z"
 }

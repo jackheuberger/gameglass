@@ -5337,3 +5337,4 @@
 {"kind":"game_removed","new_value":null,"detail":"The Falconeer","xcloud_title_id":"THEFALCONEER","run_id":424,"old_value":null,"tier_key":null,"game_id":"THEFALCONEER","occurred_at":"2026-11-25T08:41:12Z"}
 {"kind":"game_added","new_value":null,"detail":"Cat Mirror","xcloud_title_id":"CATMIRROR","run_id":425,"old_value":null,"tier_key":null,"game_id":"CATMIRROR","occurred_at":"2026-11-25T21:46:32Z"}
 {"kind":"game_added","new_value":null,"detail":"Cat Mirror (Xbox One)","xcloud_title_id":"CATMIRRORXBOXONE","run_id":425,"old_value":null,"tier_key":null,"game_id":"CATMIRRORXBOXONE","occurred_at":"2026-11-25T21:46:32Z"}
+{"kind":"game_added","new_value":null,"detail":"Marupoyo","xcloud_title_id":"MARUPOYO","run_id":426,"old_value":null,"tier_key":null,"game_id":"MARUPOYO","occurred_at":"2026-11-26T08:24:18Z"}
