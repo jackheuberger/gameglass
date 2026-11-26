@@ -1,5 +1,5 @@
 {
-  "count": 2802,
+  "count": 2803,
   "market": "US",
   "games": [
     {
@@ -51027,6 +51027,43 @@
       "removed_at": null
     },
     {
+      "id": "MACHINEPARTY",
+      "title": "Machine Party",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NGJSB0WDWRP"
+      ],
+      "xcloud_title_id": "MACHINEPARTY",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Oro Interactive",
+      "developer": "Mike Klubnika & GDeavid",
+      "base_product_id": "9NGJSB0WDWRP",
+      "xbox_title_id": 1804460171,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.30348.13644649072238308.8c7e07f4-a37f-41dd-8ce9-3b4830ec2311.e6a8ae45-f16d-4550-9095-f974edfafcff",
+      "is_free": false,
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-26T21:37:40Z",
+      "last_changed_at": "2026-11-26T21:37:40Z",
+      "added_at": "2026-11-26T21:37:40Z",
+      "removed_at": null
+    },
+    {
       "id": "MADDENNFL25XBOXONE",
       "title": "Madden NFL 25 Xbox One",
       "streamable": true,
@@ -51861,7 +51898,7 @@
       "developer": "NetEase Games",
       "base_product_id": "9N8PMW7QMD3D",
       "xbox_title_id": 1794906646,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.24127.14045436403630681.1d058d2b-7554-4bec-b27c-dcaf6e775ea1.acb946e0-d2cf-4f2d-ba99-c0711f399b6a",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.22935.14045436403630681.060cf79a-b366-4c69-a6e3-2e23c6021b64.f9f6d671-17bf-4525-8166-3d2a8c6081ba",
       "is_free": false,
       "price_value": 0.0,
       "price_formatted": "$0.00",
@@ -55421,7 +55458,7 @@
     {
       "id": "MONSTERNURSERY",
       "title": "Monster Nursery",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9P5SR99RMFNJ"
@@ -55451,9 +55488,9 @@
       "price_formatted": "$10.49",
       "price_currency": "USD",
       "first_seen_at": "2026-10-02T05:43:49Z",
-      "last_changed_at": "2026-10-02T05:43:49Z",
+      "last_changed_at": "2026-11-26T21:37:40Z",
       "added_at": "2026-10-02T05:43:49Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T21:37:40Z"
     },
     {
       "id": "MONSTERSANCTUARY",
@@ -61389,7 +61426,7 @@
     {
       "id": "ONESTEPFROMEDEN",
       "title": "One Step From Eden",
-      "streamable": true,
+      "streamable": false,
       "market": "US",
       "product_ids": [
         "9N4K8K2ZGF1L"
@@ -61419,9 +61456,9 @@
       "price_formatted": "$19.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-26T21:37:40Z",
       "added_at": null,
-      "removed_at": null
+      "removed_at": "2026-11-26T21:37:40Z"
     },
     {
       "id": "ONIGOHUNTER",
@@ -72836,7 +72873,7 @@
       "developer": "Double Eleven Ltd. / Facepunch Studios Limited.",
       "base_product_id": "9PJVJ4WF031H",
       "xbox_title_id": 893395429,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.18136.14279102623462478.de565ad5-7555-490e-b0be-6c68dcb7de87.be89606e-1240-4c9c-9194-0e5926fb64f0",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.10302.14279102623462478.35a6729c-674b-49c9-a3f5-efcad7c8a46b.959e16cf-1459-4051-b27b-35ea3f7e108b",
       "is_free": false,
       "price_value": 49.99,
       "price_formatted": "$49.99",
@@ -74217,7 +74254,7 @@
     },
     {
       "id": "SEAFARERTHESHIPSIM",
-      "title": "Seafarer: The Ship Sim",
+      "title": "Seafarer: The Ship Simulator",
       "streamable": true,
       "market": "US",
       "product_ids": [
@@ -103496,5 +103533,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-26T08:24:18Z"
+  "generated_at": "2026-11-26T21:37:40Z"
 }
