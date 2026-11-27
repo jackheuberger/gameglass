@@ -1,5 +1,5 @@
 {
-  "count": 2803,
+  "count": 2804,
   "market": "US",
   "games": [
     {
@@ -4890,6 +4890,43 @@
       "first_seen_at": "2026-07-10T16:11:29Z",
       "last_changed_at": "2026-07-10T22:11:03Z",
       "added_at": null,
+      "removed_at": null
+    },
+    {
+      "id": "ARKHERON",
+      "title": "Arkheron (Game Preview)",
+      "streamable": true,
+      "market": "US",
+      "product_ids": [
+        "9NFZHXPSB473"
+      ],
+      "xcloud_title_id": "ARKHERON",
+      "programs": [
+        "GPULTIMATE",
+        "CALLISTO",
+        "DIA",
+        "EUROPA",
+        "TRITON",
+        "FERDINAND"
+      ],
+      "tiers": {
+        "essential": "purchase",
+        "premium": "purchase",
+        "starter": "purchase",
+        "ultimate": "purchase"
+      },
+      "publisher": "Bonfire Studios",
+      "developer": "Bonfire Studios",
+      "base_product_id": "9NFZHXPSB473",
+      "xbox_title_id": null,
+      "image_url": "https://store-images.s-microsoft.com/image/apps.46726.13589912066336146.960b6af0-616b-4327-891e-43879004fc77.f58c144e-e5d9-448d-a22b-ed6d8d2788b1",
+      "is_free": false,
+      "price_value": 24.99,
+      "price_formatted": "$24.99",
+      "price_currency": "USD",
+      "first_seen_at": "2026-11-27T21:23:25Z",
+      "last_changed_at": "2026-11-27T21:23:25Z",
+      "added_at": "2026-11-27T21:23:25Z",
       "removed_at": null
     },
     {
@@ -40264,7 +40301,7 @@
       "developer": "IO Interactive A/S",
       "base_product_id": "9NN82NH949D5",
       "xbox_title_id": null,
-      "image_url": "https://store-images.s-microsoft.com/image/apps.11450.13747708785346246.7e401644-aaae-4d10-8559-1e6bfe324af4.1806885c-0588-4d39-8b5b-6339ca90bf19",
+      "image_url": "https://store-images.s-microsoft.com/image/apps.9829.13747708785346246.6bc8ee0e-b88d-481b-8546-cb51e9b091ef.7053a95c-566e-4b5d-91ee-d020b721a518",
       "is_free": false,
       "price_value": 69.99,
       "price_formatted": "$69.99",
@@ -91690,11 +91727,11 @@
       "xbox_title_id": 2102420520,
       "image_url": "https://store-images.s-microsoft.com/image/apps.17501.13587353900076032.c425fae9-02f5-41b5-8d5a-ef711f9eb0e3.6c1d745b-bf5d-45dc-93a5-908b486052c8",
       "is_free": false,
-      "price_value": 6.99,
-      "price_formatted": "$6.99",
+      "price_value": 3.99,
+      "price_formatted": "$3.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-27T21:23:25Z",
       "added_at": null,
       "removed_at": null
     },
@@ -91727,11 +91764,11 @@
       "xbox_title_id": 1691924451,
       "image_url": "https://store-images.s-microsoft.com/image/apps.28270.13887470150962154.d3a5a4cb-cc61-44ac-9e64-c89bbf39df69.2ccdcf67-321a-4e8c-b56d-b6e6e91646ab",
       "is_free": false,
-      "price_value": 14.99,
-      "price_formatted": "$14.99",
+      "price_value": 7.99,
+      "price_formatted": "$7.99",
       "price_currency": "USD",
       "first_seen_at": "2026-07-10T16:11:29Z",
-      "last_changed_at": "2026-07-10T22:11:03Z",
+      "last_changed_at": "2026-11-27T21:23:25Z",
       "added_at": null,
       "removed_at": null
     },
@@ -103533,5 +103570,5 @@
       "removed_at": null
     }
   ],
-  "generated_at": "2026-11-27T08:40:24Z"
+  "generated_at": "2026-11-27T21:23:25Z"
 }
