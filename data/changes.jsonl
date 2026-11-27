@@ -5341,3 +5341,5 @@
 {"kind":"game_added","new_value":null,"detail":"Machine Party","xcloud_title_id":"MACHINEPARTY","run_id":427,"old_value":null,"tier_key":null,"game_id":"MACHINEPARTY","occurred_at":"2026-11-26T21:37:40Z"}
 {"kind":"game_removed","new_value":null,"detail":"Monster Nursery","xcloud_title_id":"MONSTERNURSERY","run_id":427,"old_value":null,"tier_key":null,"game_id":"MONSTERNURSERY","occurred_at":"2026-11-26T21:37:40Z"}
 {"kind":"game_removed","new_value":null,"detail":"One Step From Eden","xcloud_title_id":"ONESTEPFROMEDEN","run_id":427,"old_value":null,"tier_key":null,"game_id":"ONESTEPFROMEDEN","occurred_at":"2026-11-26T21:37:40Z"}
+{"kind":"game_added","new_value":null,"detail":"Monster Nursery","xcloud_title_id":"MONSTERNURSERY","run_id":428,"old_value":null,"tier_key":null,"game_id":"MONSTERNURSERY","occurred_at":"2026-11-27T08:40:24Z"}
+{"kind":"game_added","new_value":null,"detail":"One Step From Eden","xcloud_title_id":"ONESTEPFROMEDEN","run_id":428,"old_value":null,"tier_key":null,"game_id":"ONESTEPFROMEDEN","occurred_at":"2026-11-27T08:40:24Z"}
